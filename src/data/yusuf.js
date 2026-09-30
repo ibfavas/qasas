@@ -90,7 +90,7 @@ export const chapter = {
           "t": "vignette",
           "img": "../assets/yusuf-dream.webp",
           "alt": "Eleven bright stars with the sun and moon glowing in a night sky",
-          "caption": "Eleven stars, the sun and the moon &amp;mdash; bowing low in a boy&amp;rsquo;s dream."
+          "caption": "Eleven stars, the sun and the moon &mdash; bowing low in a boy&rsquo;s dream."
         }
       ]
     },
@@ -177,7 +177,7 @@ export const chapter = {
           "t": "vignette",
           "img": "../assets/yusuf-well-book.webp",
           "alt": "A deep ancient stone well with a rope disappearing into darkness",
-          "caption": "Lowered into the dark bottom of the well &amp;mdash; but never truly alone."
+          "caption": "Lowered into the dark bottom of the well &mdash; but never truly alone."
         }
       ]
     },
@@ -210,7 +210,7 @@ export const chapter = {
           "t": "vignette",
           "img": "../assets/yusuf-caravan.webp",
           "alt": "A camel caravan crossing desert dunes under a rising sun",
-          "caption": "A bucket was lowered for water &amp;mdash; and lifted back up carrying a boy."
+          "caption": "A bucket was lowered for water &mdash; and lifted back up carrying a boy."
         }
       ]
     },
@@ -284,7 +284,7 @@ export const chapter = {
           "t": "vignette",
           "img": "../assets/yusuf-shirt.webp",
           "alt": "A simple linen shirt torn at the back, laid upon stone",
-          "caption": "A shirt torn from behind &amp;mdash; the silent witness that Yusuf had been fleeing, not chasing."
+          "caption": "A shirt torn from behind &mdash; the silent witness that Yusuf had been fleeing, not chasing."
         }
       ]
     },
@@ -479,7 +479,7 @@ export const chapter = {
           "t": "vignette",
           "img": "../assets/yusuf-reunion.webp",
           "alt": "An elderly traveller embracing a robed figure, faces unseen, under a starry sky",
-          "caption": "The dream, fulfilled &amp;mdash; eleven stars, the sun and the moon, bowing at last."
+          "caption": "The dream, fulfilled &mdash; eleven stars, the sun and the moon, bowing at last."
         }
       ]
     },

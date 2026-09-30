@@ -40,7 +40,7 @@ export function Vignette({ v }) {
 
 /* Honest framing under every symbolic illustration. */
 export function IllustrationNote() {
-  return <p className="illustration-note">Symbolic illustration · Allah knows best.</p>;
+  return <p className="illustration-note">Fictional illustration · An imagined scene, not the actual event.</p>;
 }
 
 function Block({ b }) {

@@ -141,7 +141,7 @@ export const chapter = {
           "t": "vignette",
           "img": "../assets/adam-sajdah.webp",
           "alt": "Rows of faceless robed figures bowing low in prostration beneath a vast sky",
-          "caption": "The angels bowed as they were commanded &amp;mdash; all of them, except Iblis, who refused out of pride."
+          "caption": "The angels bowed as they were commanded &mdash; all of them, except Iblis, who refused out of pride."
         }
       ]
     },
@@ -201,7 +201,7 @@ export const chapter = {
           "t": "vignette",
           "img": "../assets/adam-tree.webp",
           "alt": "A single radiant tree standing apart in a lush green garden at sunrise",
-          "caption": "One tree stood apart in the Garden &amp;mdash; the only thing Adam and his wife were forbidden to approach."
+          "caption": "One tree stood apart in the Garden &mdash; the only thing Adam and his wife were forbidden to approach."
         }
       ]
     },
@@ -329,7 +329,7 @@ export const chapter = {
           "t": "vignette",
           "img": "../assets/adam-descent.webp",
           "alt": "Two small distant figures walking down a mountainside path at dawn",
-          "caption": "The descent to earth &amp;mdash; carrying with it a promise of guidance for all who follow it."
+          "caption": "The descent to earth &mdash; carrying with it a promise of guidance for all who follow it."
         }
       ]
     },
@@ -369,7 +369,7 @@ export const chapter = {
           "t": "vignette",
           "img": "../assets/adam-offerings.webp",
           "alt": "Two simple stone altars in a field, one touched by a beam of light",
-          "caption": "Two offerings were made &amp;mdash; one was accepted, and the other was not."
+          "caption": "Two offerings were made &mdash; one was accepted, and the other was not."
         }
       ]
     },
@@ -416,7 +416,7 @@ export const chapter = {
           "t": "vignette",
           "img": "../assets/adam-crow.webp",
           "alt": "A black crow scratching at desert earth beside a still, shrouded figure",
-          "caption": "A crow scratching the earth &amp;mdash; sent to teach the first murderer how to hide his brother."
+          "caption": "A crow scratching the earth &mdash; sent to teach the first murderer how to hide his brother."
         }
       ]
     },
@@ -459,7 +459,7 @@ export const chapter = {
     {
       "q": "What did Allah teach Adam?",
       "options": [
-        "The names &amp;mdash; all of them",
+        "The names &mdash; all of them",
         "How to build a house",
         "The language of the birds"
       ],
