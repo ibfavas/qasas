@@ -1,8 +1,4 @@
-/* Shared chrome: frame, navs, footer, manuscript ornaments. */
-
-export function PageFrame() {
-  return <div className="page-frame" aria-hidden="true"></div>;
-}
+/* Shared chrome: navs, footer, manuscript ornaments. */
 
 export function HomeNav() {
   return (

@@ -1,5 +1,5 @@
 /* Homepage v4 — original illuminated cover. All artwork generated for QASAS. */
-import { PageFrame, HomeNav, Footer, ColophonRule } from '../components/chrome.jsx';
+import { HomeNav, Footer, ColophonRule } from '../components/chrome.jsx';
 import { prophets } from '../data/prophets.js';
 import { useSiteEffects } from '../hooks/effects.js';
 
@@ -70,7 +70,6 @@ export function HomePage() {
   useSiteEffects();
   return (
     <>
-      <PageFrame />
       <HomeNav />
 
       <header className="hero-night">

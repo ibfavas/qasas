@@ -3,7 +3,7 @@
 import { createRoot } from 'react-dom/client';
 import { useEffect } from 'react';
 import { ChapterPage } from '../pages/Chapter.jsx';
-import { PageFrame, StoryNav, Footer, Headpiece, RuleStar } from '../components/chrome.jsx';
+import { StoryNav, Footer, Headpiece, RuleStar } from '../components/chrome.jsx';
 import { useSiteEffects } from '../hooks/effects.js';
 import { chapters, chapterOrder } from '../data/chapters.js';
 
@@ -23,7 +23,6 @@ function StoryIndex() {
   useSiteEffects();
   return (
     <>
-      <PageFrame />
       <StoryNav />
       <main className="story-index">
         <Headpiece />

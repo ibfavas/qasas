@@ -565,13 +565,6 @@ html.js body { opacity: 0; }
 html.js body.loaded { opacity: 1; transition: opacity 0.7s ease; }
 html.js body.leaving { opacity: 0; transition: opacity 0.28s ease; }
 
-/* Full-page double gold manuscript border */
-.page-frame {
-  position: fixed; inset: 10px; z-index: 70; pointer-events: none;
-  border: 1px solid var(--gold-light);
-  outline: 1px solid var(--rule); outline-offset: 5px;
-}
-
 /* Gold reading-progress bar */
 .progress {
   position: fixed; top: 0; left: 0; right: 0; height: 4px; z-index: 80;
@@ -813,7 +806,6 @@ p.dropcap::first-letter {
   .pn-card:last-child .pn-arrow { order: 2; }
 }
 @media (max-width: 760px) {
-  .page-frame { inset: 6px; }
   .quiz { padding: 28px 22px; }
   .scene h2 { font-size: 1.85rem; }
   .vignette { max-width: 300px; }

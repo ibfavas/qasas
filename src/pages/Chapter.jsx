@@ -1,5 +1,5 @@
 /* Chapter page — the locked Adam template, driven by chapter data. */
-import { PageFrame, StoryNav, Footer, Headpiece, RuleStar } from '../components/chrome.jsx';
+import { StoryNav, Footer, Headpiece, RuleStar } from '../components/chrome.jsx';
 import { Scenes, NoteCard, Lessons, Quiz, IllustrationNote } from '../components/manuscript.jsx';
 import { useSiteEffects } from '../hooks/effects.js';
 
@@ -55,7 +55,6 @@ export function ChapterPage({ chapter }) {
   useSiteEffects();
   return (
     <>
-      <PageFrame />
       <div className="progress" aria-hidden="true">
         <span id="progressFill"></span>
       </div>
