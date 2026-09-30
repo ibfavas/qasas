@@ -8,79 +8,118 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Amiri:wght@400;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/css/style.css?v=2">
+  <link rel="stylesheet" href="assets/css/style.css?v=3">
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M5 8.4c3.4-1.7 7-1.6 10.4.3 3.4-1.9 7-2 10.4-.3 0 5.3 0 10.6 0 15.9-3.4-1.7-7-1.6-10.4.3-3.4-1.9-7-2-10.4-.3z' fill='none' stroke='%23a8842f' stroke-width='2' stroke-linejoin='round'/%3E%3Cpath d='M15.4 8.7v15.9' stroke='%23a8842f' stroke-width='1.6'/%3E%3C/svg%3E">
 </head>
 <body>
 <div class="page-frame" aria-hidden="true"></div>
 
-<nav class="nav" aria-label="Main navigation">
+<nav class="nav nav-centered" aria-label="Main navigation">
   <div class="nav-inner">
     <a class="brand" href="index.html" aria-label="QASAS home">
       <svg viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.8" style="color:var(--gold-deep)" aria-hidden="true">
         <rect x="8" y="8" width="16" height="16"/>
         <rect x="8" y="8" width="16" height="16" transform="rotate(45 16 16)"/>
       </svg>
-      QASAS
     </a>
     <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
       <li><a href="#stories">Stories</a></li>
       <li><a href="#timeline">Timeline</a></li>
+      <li><a href="#resources">Resources</a></li>
       <li><a href="#about">About</a></li>
     </ul>
   </div>
 </nav>
 
-<header class="hero">
-  <div class="hero-frame reveal">
-    <div class="rule-star" aria-hidden="true">
-      <svg viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.8" style="color:var(--gold-deep)">
-        <rect x="8" y="8" width="16" height="16"/>
-        <rect x="8" y="8" width="16" height="16" transform="rotate(45 16 16)"/>
+<header class="hero hero-v3">
+  <div class="wrap reveal">
+    <h1 class="hero-title">QASAS</h1>
+    <p class="hero-sub">Stories of the Prophets</p>
+    <div class="flourish" aria-hidden="true">
+      <svg viewBox="0 0 320 24" fill="none" stroke="currentColor" stroke-width="1.4" style="color:var(--gold-deep)">
+        <line x1="8" y1="12" x2="118" y2="12"/>
+        <line x1="202" y1="12" x2="312" y2="12"/>
+        <rect x="155" y="7" width="10" height="10" transform="rotate(45 160 12)"/>
+        <path d="M132 12c4-5 10-5 14 0-4 5-10 5-14 0z"/>
+        <path d="M174 12c4-5 10-5 14 0-4 5-10 5-14 0z"/>
+        <circle cx="126" cy="12" r="1.6" fill="currentColor" stroke="none"/>
+        <circle cx="194" cy="12" r="1.6" fill="currentColor" stroke="none"/>
       </svg>
     </div>
-    <h1 class="antique-gold">QASAS</h1>
-    <p class="subtitle">Stories of the Prophets</p>
-    <div class="rule-star" aria-hidden="true">
-      <svg viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.8" style="color:var(--gold-deep)">
-        <rect x="8" y="8" width="16" height="16"/>
-        <rect x="8" y="8" width="16" height="16" transform="rotate(45 16 16)"/>
-      </svg>
-    </div>
-    <div class="hero-banner">
-      <img src="assets/hero-dunes.webp" alt="Golden desert dunes at dawn, a lone traveller seen from behind walking toward the light" fetchpriority="high">
-    </div>
+    <figure class="banner-frame">
+      <img src="assets/hero-dunes.webp" alt="Golden desert dunes at sunrise, a lone traveller walking toward the light" fetchpriority="high">
+    </figure>
     <a class="btn" href="#timeline">Begin the Journey</a>
   </div>
 </header>
 
 <main>
-  <section class="section" id="intro">
+  <section class="section pillars" aria-label="What QASAS offers">
     <div class="wrap">
-      <p class="kicker reveal">The Manuscript</p>
-      <h2 class="section-title reveal" data-delay="1">Twenty-five lives, one message</h2>
-      <p class="lede reveal" data-delay="2">From Adam, the first man, to Muhammad, the final messenger — the Quran tells their stories as guidance for us. QASAS gathers them in one illuminated manuscript, each chapter anchored in the verses themselves.</p>
-      <div class="intro-grid">
-        <div class="intro-card reveal" data-delay="1">
+      <div class="pillar-grid">
+        <div class="pillar-card reveal" data-delay="1">
           <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="color:var(--gold-deep)" aria-hidden="true">
-            <path d="M24 40V22"/><circle cx="24" cy="15" r="9"/><path d="M24 30l-6-5M24 30l6-5"/>
+            <path d="M24 12c-4-2.5-9-3-14-2v26c5-1 10-.5 14 2 4-2.5 9-3 14-2V10c-5-1-10-.5-14 2z"/>
+            <path d="M24 12v26"/>
           </svg>
-          <h3>Quran-first</h3>
-          <p>Every chapter is built on real verses — shown in Arabic with Saheeh International translation and exact citations. Nothing invented, nothing embellished.</p>
+          <h3>Authentic Narrations</h3>
+          <p>Carefully researched stories drawn from the Quran first, presented with reverence and clarity.</p>
         </div>
-        <div class="intro-card reveal" data-delay="2">
-          <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="color:var(--gold-deep)" aria-hidden="true">
-            <path d="M12 40V22a12 12 0 0 1 24 0v18"/><path d="M12 40h24"/>
+        <div class="pillar-card reveal" data-delay="2">
+          <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+            <circle cx="24" cy="24" r="14"/>
+            <path d="M24 10v28M10 24h28"/>
+            <rect x="20" y="20" width="8" height="8" transform="rotate(45 24 24)"/>
           </svg>
-          <h3>Reverent by design</h3>
-          <p>No faces of the prophets are ever shown. Each story is told through symbols and landscapes — a staff, an ark, a well — in the spirit of the tradition.</p>
+          <h3>Interactive Timeline</h3>
+          <p>Explore the chronological journey from Adam to Muhammad &#xFDFA;, chapter by chapter as they are written.</p>
         </div>
-        <div class="intro-card reveal" data-delay="3">
+        <div class="pillar-card reveal" data-delay="3">
           <svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="color:var(--gold-deep)" aria-hidden="true">
-            <rect x="8" y="8" width="16" height="16"/><rect x="8" y="8" width="16" height="16" transform="rotate(45 16 16)"/>
+            <path d="M18 8h12"/>
+            <path d="M20 8v6c0 3-2 4-2 8v10a6 6 0 0 0 12 0V22c0-4-2-5-2-8V8"/>
+            <path d="M18 36h12"/>
+            <circle cx="24" cy="25" r="1.6" fill="currentColor" stroke="none"/>
           </svg>
-          <h3>Free, always</h3>
-          <p>QASAS is a non-profit educational project. No paywalls, no ads, no monetised religious content — knowledge of the prophets belongs to everyone.</p>
+          <h3>Sourced with Care</h3>
+          <p>Every verse copied from the mushaf and checked; every hadith verified on Sunnah.com. Where the sources are silent, we stay silent.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section eras" aria-label="The journey of the prophets">
+    <div class="wrap">
+      <div class="era-strip reveal">
+        <div class="era-line" aria-hidden="true"></div>
+        <div class="era">
+          <span class="era-medal"><svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M24 8l3.5 10L38 21.5 27.5 25 24 35l-3.5-10L10 21.5l10.5-3.5z"/></svg></span>
+          <span class="era-name">Creation</span>
+        </div>
+        <div class="era">
+          <span class="era-medal"><svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M24 40V18"/><path d="M24 24c-6-2-9-7-9-13 5 1 8 4 9 8 1-4 4-7 9-8 0 6-3 11-9 13z"/></svg></span>
+          <span class="era-name">Call</span>
+        </div>
+        <div class="era">
+          <span class="era-medal"><svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 14h24v20H12z"/><path d="M12 18c4-2 8 2 12 0s8 2 12 0"/><path d="M12 26c4-2 8 2 12 0s8 2 12 0"/></svg></span>
+          <span class="era-name">Migration</span>
+        </div>
+        <div class="era">
+          <span class="era-medal"><svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M16 8h16M16 40h16M18 8c0 8 4 10 6 16-2 6-6 8-6 16M30 8c0 8-4 10-6 16 2 6 6 8 6 16"/></svg></span>
+          <span class="era-name">Revelation</span>
+        </div>
+        <div class="era">
+          <span class="era-medal"><svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M31 7a14 14 0 1 0 9 24A16 16 0 0 1 31 7z"/><path d="M37 9l1.2 3 3 1.2-3 1.2-1.2 3-1.2-3-3-1.2 3-1.2z"/></svg></span>
+          <span class="era-name">Trial</span>
+        </div>
+        <div class="era">
+          <span class="era-medal"><svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 36L18 14l8 8 8-12 12 26z"/><circle cx="34" cy="12" r="4"/></svg></span>
+          <span class="era-name">Triumph</span>
+        </div>
+        <div class="era">
+          <span class="era-medal"><svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 12h8v4h-8z"/><path d="M22 16v14M26 16v14M18 40c0-6 2-8 6-10 4 2 6 4 6 10"/><path d="M18 40h12"/></svg></span>
+          <span class="era-name">Legacy</span>
         </div>
       </div>
     </div>
@@ -311,6 +350,26 @@
     </div>
   </section>
 
+  <section class="section" id="resources">
+    <div class="wrap">
+      <p class="kicker reveal">Resources</p>
+      <h2 class="section-title reveal" data-delay="1">Where every word comes from</h2>
+      <p class="lede reveal" data-delay="2">QASAS adds nothing of its own to the sources. Read them yourself — every verse and hadith on this site links back to where it was verified.</p>
+      <div class="resource-grid">
+        <a class="resource-card reveal" data-delay="1" href="https://quran.com" target="_blank" rel="noopener">
+          <h3>Quran.com</h3>
+          <p>Arabic in Uthmani script, with the Saheeh International translation. The first and final authority for every chapter.</p>
+          <span class="read-link">Visit quran.com</span>
+        </a>
+        <a class="resource-card reveal" data-delay="2" href="https://sunnah.com" target="_blank" rel="noopener">
+          <h3>Sunnah.com</h3>
+          <p>The hadith collections, checked one narration at a time. Only authentic narrations are ever quoted.</p>
+          <span class="read-link">Visit sunnah.com</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
   <section class="section" id="colophon" aria-label="Colophon">
     <div class="colophon reveal">
       <p class="kicker">Colophon</p>
@@ -335,6 +394,6 @@
   <p>A free educational project &mdash; not for sale, not for profit.</p>
 </footer>
 
-<script src="assets/js/main.js?v=2"></script>
+<script src="assets/js/main.js?v=3"></script>
 </body>
 </html>

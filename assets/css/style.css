@@ -944,3 +944,121 @@ body::after {
 @media (prefers-reduced-motion: reduce) {
   .scene-divider svg, .scene .vignette { transform: none !important; }
 }
+
+/* ================= QASAS v3 — framed manuscript homepage ================= */
+
+/* Centered nav, letterspaced links with diamond-dot separators */
+.nav-centered .nav-inner { justify-content: center; position: relative; }
+.nav-centered .brand { position: absolute; left: 20px; top: 50%; transform: translateY(-50%); }
+.nav-centered .nav-links { display: flex; align-items: center; gap: 4px; margin: 0; padding: 0; list-style: none; }
+.nav-centered .nav-links li { display: flex; align-items: center; }
+.nav-centered .nav-links li + li::before {
+  content: "\00B7"; color: var(--gold-deep); font-size: 1.3rem; margin: 0 14px; line-height: 1;
+}
+.nav-centered .nav-links a {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.08rem; letter-spacing: 0.24em; text-indent: 0;
+  text-transform: uppercase; text-decoration: none; color: var(--ink);
+  border-bottom: 1px solid transparent; padding-bottom: 2px;
+}
+
+/* Hero v3 — gold title, flourish, wide framed banner */
+.hero-v3 { text-align: center; padding: 70px 20px 30px; }
+.hero-title {
+  font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 600;
+  font-size: clamp(4rem, 15vw, 8.5rem);
+  letter-spacing: 0.12em; text-indent: 0.12em; margin: 0; line-height: 1;
+  background: linear-gradient(178deg, #d9b968 0%, #a8842f 45%, #7c5f22 70%, #c19a44 100%);
+  -webkit-background-clip: text; background-clip: text;
+  color: transparent; -webkit-text-fill-color: transparent;
+}
+.hero-v3 .hero-sub {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: clamp(1.05rem, 3vw, 1.45rem);
+  letter-spacing: 0.38em; text-indent: 0.38em; text-transform: uppercase;
+  color: var(--ink); margin: 14px 0 0;
+}
+.flourish { max-width: 330px; margin: 20px auto 0; }
+.flourish svg { display: block; width: 100%; height: auto; }
+.banner-frame {
+  max-width: 1060px; margin: 34px auto 0;
+  border: 1px solid var(--gold);
+  outline: 1px solid var(--rule); outline-offset: 5px;
+  box-shadow: 0 22px 60px var(--shadow);
+  background: var(--card);
+  padding: 0; line-height: 0;
+}
+.banner-frame img { display: block; width: 100%; height: auto; aspect-ratio: 21 / 8; object-fit: cover; }
+.hero-v3 .btn { margin-top: 38px; }
+
+/* Three pillar cards */
+.pillars { padding: 26px 0 10px; }
+.pillar-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 28px; margin-top: 8px; }
+.pillar-card {
+  background: var(--card);
+  border: 1px solid var(--gold-light);
+  outline: 1px solid var(--rule); outline-offset: 4px;
+  box-shadow: 0 12px 32px var(--shadow);
+  padding: 36px 30px 38px; text-align: center;
+}
+.pillar-card svg { width: 46px; height: 46px; }
+.pillar-card h3 { font-size: 1.65rem; margin: 16px 0 10px; }
+.pillar-card p { margin: 0; color: var(--ink-soft); font-size: 1.06rem; }
+
+/* Era strip — seven medallions on a gold line */
+.eras { padding: 34px 0 6px; }
+.era-strip {
+  position: relative; display: flex; justify-content: space-between; align-items: flex-start;
+  max-width: 1020px; margin: 0 auto; padding: 6px 10px 0;
+}
+.era-line { position: absolute; top: 40px; left: 70px; right: 70px; height: 1px; background: var(--gold-deep); opacity: 0.65; }
+.era { position: relative; z-index: 1; flex: 1; display: flex; flex-direction: column; align-items: center; gap: 12px; }
+.era:not(:last-child)::after {
+  content: ""; position: absolute; top: 36px; right: -5px; width: 9px; height: 9px;
+  background: var(--gold); transform: rotate(45deg);
+}
+.era-medal {
+  width: 68px; height: 68px; border-radius: 50%;
+  border: 1px solid var(--gold-deep); background: var(--card);
+  display: flex; align-items: center; justify-content: center;
+  box-shadow: 0 8px 20px var(--shadow), inset 0 0 0 3px rgba(216, 200, 154, 0.35);
+}
+.era-medal svg { width: 32px; height: 32px; color: var(--gold-deep); }
+.era-name {
+  font-family: 'Cormorant Garamond', serif; font-size: 0.98rem; font-weight: 600;
+  letter-spacing: 0.22em; text-indent: 0.22em; text-transform: uppercase; color: var(--ink-soft);
+  text-align: center;
+}
+
+/* Resources */
+.resource-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; margin-top: 38px; }
+.resource-card {
+  display: block; text-decoration: none; color: inherit;
+  background: var(--card); border: 1px solid var(--gold-light);
+  outline: 1px solid var(--rule); outline-offset: 4px;
+  box-shadow: 0 12px 32px var(--shadow);
+  padding: 32px 32px 34px;
+  transition: transform 0.5s ease, box-shadow 0.5s ease;
+}
+.resource-card:hover { transform: translateY(-3px); box-shadow: 0 18px 44px var(--shadow); color: inherit; }
+.resource-card h3 { font-size: 1.8rem; margin: 0 0 8px; }
+.resource-card p { margin: 0 0 14px; color: var(--ink-soft); }
+
+/* v3 responsive */
+@media (max-width: 900px) {
+  .nav-centered .nav-inner { flex-direction: column; gap: 4px; padding-top: 12px; padding-bottom: 10px; }
+  .nav-centered .brand { position: static; transform: none; }
+  .nav-centered .nav-links { flex-wrap: wrap; justify-content: center; row-gap: 6px; }
+  .nav-centered .nav-links li + li::before { margin: 0 8px; }
+  .nav-centered .nav-links a { font-size: 0.95rem; letter-spacing: 0.18em; }
+  .pillar-grid { grid-template-columns: 1fr; max-width: 520px; margin-left: auto; margin-right: auto; }
+  .resource-grid { grid-template-columns: 1fr; }
+  .era-strip { overflow-x: auto; justify-content: flex-start; gap: 20px; padding: 6px 16px 14px; }
+  .era { flex: 0 0 auto; min-width: 88px; }
+  .era-line, .era:not(:last-child)::after { display: none; }
+  .banner-frame img { aspect-ratio: 16 / 9; }
+  .hero-v3 { padding-top: 52px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .resource-card, .resource-card:hover { transform: none; }
+}
