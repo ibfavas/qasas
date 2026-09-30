@@ -80,7 +80,7 @@ export function HomePage() {
         <div className="wrap hero-night-inner">
           <img
             className="hero-emblem reveal"
-            src="assets/home/emblem-logo.png"
+            src="assets/brand/logo.png"
             alt=""
             width="116"
             height="116"
