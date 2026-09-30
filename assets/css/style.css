@@ -988,8 +988,7 @@ body::after {
   background: var(--card);
   padding: 0; line-height: 0;
 }
-.banner-frame img { display: block; width: 100%; height: auto; aspect-ratio: 21 / 8; object-fit: cover; }
-.hero-v3 .btn { margin-top: 38px; }
+.banner-frame img { display: block; width: 100%; height: auto; aspect-ratio: 21 / 8; object-fit: cover; object-position: center 22%; }
 
 /* Three pillar cards */
 .pillars { padding: 26px 0 10px; }
@@ -999,7 +998,7 @@ body::after {
   border: 1px solid var(--gold-light);
   outline: 1px solid var(--rule); outline-offset: 4px;
   box-shadow: 0 12px 32px var(--shadow);
-  padding: 36px 30px 38px; text-align: center;
+  padding: 26px 26px 28px; text-align: center;
 }
 .pillar-card svg { width: 46px; height: 46px; }
 .pillar-card h3 { font-size: 1.65rem; margin: 16px 0 10px; }
