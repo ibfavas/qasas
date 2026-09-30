@@ -1,0 +1,29 @@
+{
+  "name": "qasas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 8902",
+    "deploy": "npm run build && cp dist/src/templates/index.html ./index.html && sed -i \"s|\\.\\./\\.\\./assets/|./assets/|g\" index.html && mkdir -p stories assets && cp dist/src/templates/stories/adam.html dist/src/templates/stories/yusuf.html stories/ && sed -i \"s|\\.\\./\\.\\./\\.\\./assets/|../assets/|g\" stories/adam.html stories/yusuf.html && rm -f assets/*.js && cp -r dist/assets/. assets/ && echo DEPLOYED"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibfavas/qasas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibfavas/qasas/issues"
+  },
+  "homepage": "https://github.com/ibfavas/qasas#readme",
+  "dependencies": {
+    "@vitejs/plugin-react": "^6.1.1",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "vite": "^8.3.1"
+  }
+}
