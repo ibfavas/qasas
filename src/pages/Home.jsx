@@ -75,7 +75,7 @@ export function HomePage() {
 
       <header className="hero-night">
         <div className="hero-night-bg" aria-hidden="true">
-          <img src="assets/home/hero-night-dunes.webp" alt="" fetchPriority="high" />
+          <img src="assets/home/hero-night-dunes.jpg" alt="" fetchPriority="high" />
         </div>
         <div className="wrap hero-night-inner">
           <img
