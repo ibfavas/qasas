@@ -558,3 +558,390 @@ footer p { margin: 6px 0; }
 }
 
 img { max-width: 100%; }
+
+/* ================= QASAS Phase 2 — storybook chapters ================= */
+
+/* Page fade (JS-gated: html.js added by script, so no-JS never hides content) */
+html.js body { opacity: 0; }
+html.js body.loaded { opacity: 1; transition: opacity 0.7s ease; }
+html.js body.leaving { opacity: 0; transition: opacity 0.28s ease; }
+
+/* Full-page double gold manuscript border */
+.page-frame {
+  position: fixed; inset: 10px; z-index: 70; pointer-events: none;
+  border: 1px solid var(--gold-light);
+  outline: 1px solid var(--rule); outline-offset: 5px;
+}
+
+/* Gold reading-progress bar */
+.progress {
+  position: fixed; top: 0; left: 0; right: 0; height: 4px; z-index: 80;
+  background: rgba(168, 132, 47, 0.14);
+}
+.progress span {
+  display: block; height: 100%; width: 0;
+  background: linear-gradient(90deg, var(--gold-deep), var(--gold-light), var(--gold-deep));
+}
+
+/* Espresso chapter plaque */
+.chapter-plaque {
+  display: inline-block;
+  background: linear-gradient(165deg, #33241a, #211710);
+  color: var(--gold-light);
+  font-family: 'Cormorant Garamond', serif;
+  letter-spacing: 0.32em; text-indent: 0.32em; text-transform: uppercase;
+  font-size: 1.02rem; font-weight: 600;
+  padding: 12px 34px;
+  border: 1px solid var(--gold);
+  box-shadow: 0 8px 22px var(--shadow), inset 0 0 0 1px rgba(217, 189, 118, 0.25);
+}
+.hero-sub {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.3rem; color: var(--ink-soft); font-style: italic;
+  max-width: 640px; margin: 14px auto 0;
+}
+
+/* Antique gold display title — flat, muted, letterpress (no gradient text) */
+.antique-gold { color: #93712c; text-shadow: 0 1px 0 rgba(255, 252, 240, 0.55), 0 -1px 1px rgba(74, 58, 32, 0.22); }
+.honorific { font-size: 0.62em; letter-spacing: 0.08em; }
+
+/* Story layout: sticky scene rail + body */
+.story-layout {
+  display: grid; grid-template-columns: 236px minmax(0, 1fr);
+  gap: 44px; max-width: 1140px; margin: 0 auto; padding: 0 22px;
+  align-items: start;
+}
+.story-body { min-width: 0; }
+.rail-title {
+  font-family: 'Cormorant Garamond', serif; letter-spacing: 0.3em;
+  text-transform: uppercase; color: var(--gold-deep); font-size: 0.92rem;
+  margin: 6px 0 12px 18px;
+}
+.scene-rail { position: sticky; top: 92px; max-height: calc(100vh - 120px); overflow-y: auto; padding-bottom: 20px; }
+.scene-rail ol { list-style: none; margin: 0; padding: 0 0 0 2px; border-left: 1px solid var(--rule); }
+.scene-rail li { margin: 0; }
+.scene-rail a {
+  display: flex; align-items: center; gap: 11px;
+  padding: 8px 6px 8px 16px; margin-left: -1px;
+  text-decoration: none; color: var(--ink-soft);
+  font-family: 'Cormorant Garamond', serif; font-size: 1.06rem; line-height: 1.3;
+  border-left: 2px solid transparent;
+  transition: color 0.4s ease, border-color 0.4s ease;
+}
+.scene-rail .dot {
+  width: 9px; height: 9px; border-radius: 50%; flex: none;
+  border: 1.5px solid var(--gold-deep); background: transparent;
+  transition: background 0.4s ease, box-shadow 0.4s ease;
+}
+.scene-rail a:hover { color: var(--ink); }
+.scene-rail a.active { color: var(--ink); border-left-color: var(--gold); font-weight: 600; }
+.scene-rail a.active .dot { background: var(--gold); box-shadow: 0 0 0 4px rgba(168, 132, 47, 0.18); }
+
+/* Mobile chip rail */
+.chip-rail { display: none; }
+@media (max-width: 940px) {
+  .story-layout { grid-template-columns: 1fr; }
+  .scene-rail { display: none; }
+  .chip-rail {
+    display: flex; gap: 10px; overflow-x: auto;
+    position: sticky; top: 65px; z-index: 40;
+    background: rgba(247, 241, 227, 0.96);
+    padding: 12px 4px; margin: 0 -4px 8px;
+    border-bottom: 1px solid var(--rule);
+    -webkit-overflow-scrolling: touch;
+  }
+  .chip-rail a {
+    flex: 0 0 auto; text-decoration: none; color: var(--ink-soft);
+    font-family: 'Cormorant Garamond', serif; font-size: 1rem;
+    border: 1px solid var(--rule); border-radius: 22px; padding: 8px 16px;
+    min-height: 44px; display: inline-flex; align-items: center;
+    transition: background 0.3s ease, color 0.3s ease;
+  }
+  .chip-rail a.active { background: var(--gold); border-color: var(--gold-deep); color: #fffdf6; }
+}
+
+/* Scenes */
+.scene { padding-top: 14px; }
+.scene-kicker {
+  font-family: 'Cormorant Garamond', serif; letter-spacing: 0.3em;
+  text-transform: uppercase; color: var(--gold-deep); font-size: 0.95rem;
+  margin: 40px 0 4px;
+}
+.scene h2 { font-size: 2.15rem; margin: 0 0 10px; }
+.scene > p { max-width: 700px; }
+p.dropcap::first-letter {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 4.4em; line-height: 0.82; float: left;
+  padding: 6px 12px 0 0; color: var(--gold-deep);
+}
+
+/* Verse panel — midnight ink, gold Arabic */
+.verse {
+  background: linear-gradient(170deg, #1c1926 0%, #262134 100%);
+  border: 1px solid var(--gold);
+  outline: 1px solid rgba(168, 132, 47, 0.4); outline-offset: 5px;
+  transition: box-shadow 0.8s ease;
+}
+.verse:hover { box-shadow: 0 16px 44px rgba(24, 19, 38, 0.4); }
+.verse .ref-chip {
+  display: inline-block;
+  border: 1px solid var(--gold-light); color: var(--gold-light);
+  font-family: 'Cormorant Garamond', serif;
+  letter-spacing: 0.24em; text-indent: 0.24em; text-transform: uppercase;
+  font-size: 0.9rem; padding: 5px 18px; border-radius: 2px;
+}
+.verse .verse-marker { margin-bottom: 16px; }
+.verse .arabic { color: #e9c964; }
+.verse .translation { color: #ece4cd; }
+.verse .citation { color: var(--gold-light); border-top: 1px solid rgba(217, 189, 118, 0.35); }
+
+/* Small storybook vignette illustration */
+.vignette { max-width: 340px; margin: 30px auto; text-align: center; }
+.vignette img {
+  display: block; width: 100%; height: auto;
+  border-radius: 10px;
+  border: 1px solid var(--gold-light);
+  outline: 1px solid var(--rule); outline-offset: 4px;
+  box-shadow: 0 12px 30px var(--shadow);
+}
+.cap-toggle {
+  margin-top: 14px; background: none; cursor: pointer;
+  border: 1px solid var(--rule); border-radius: 22px;
+  padding: 9px 20px; min-height: 44px;
+  font-family: 'Cormorant Garamond', serif; font-size: 1.02rem;
+  letter-spacing: 0.08em; color: var(--gold-deep);
+  transition: border-color 0.3s ease, background 0.3s ease;
+}
+.cap-toggle:hover, .cap-toggle:focus-visible { border-color: var(--gold); background: rgba(168, 132, 47, 0.08); }
+.cap-toggle .chev { display: inline-block; margin-left: 8px; transition: transform 0.4s ease; }
+.cap-toggle[aria-expanded="true"] .chev { transform: rotate(180deg); }
+.cap-card {
+  margin-top: 12px; background: var(--card);
+  border: 1px solid var(--rule); border-radius: 8px;
+  padding: 15px 18px; font-size: 1.02rem; line-height: 1.65;
+  color: var(--ink-soft); font-style: italic; text-align: left;
+}
+
+/* Source honesty note */
+.note-card {
+  max-width: 760px; margin: 60px auto 0;
+  background: rgba(168, 132, 47, 0.07);
+  border: 1px solid var(--rule); border-top: 3px solid var(--gold);
+  padding: 26px 30px; font-size: 1.08rem; color: var(--ink-soft);
+}
+.note-card .note-kicker {
+  font-family: 'Cormorant Garamond', serif; letter-spacing: 0.26em;
+  text-transform: uppercase; color: var(--gold-deep); font-size: 0.95rem;
+  margin: 0 0 10px;
+}
+.note-card p { margin: 0; }
+.note-card .tradition {
+  font-family: 'Cormorant Garamond', serif; font-weight: 700;
+  letter-spacing: 0.06em; color: var(--gold-deep);
+}
+
+/* Lessons */
+.lessons { max-width: 760px; margin: 60px auto 0; }
+.lessons h2 { font-size: 2rem; margin: 0 0 18px; text-align: center; }
+.lessons ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 14px; }
+.lessons li {
+  background: var(--card); border: 1px solid var(--rule);
+  border-left: 3px solid var(--gold);
+  padding: 17px 22px; font-size: 1.1rem; color: var(--ink-soft);
+}
+.lessons li strong { color: var(--ink); font-family: 'Cormorant Garamond', serif; font-size: 1.18rem; letter-spacing: 0.03em; }
+
+/* Quiz */
+.quiz {
+  max-width: 760px; margin: 60px auto 0;
+  background: var(--card);
+  border: 1px solid var(--gold-light);
+  outline: 1px solid var(--rule); outline-offset: 5px;
+  padding: 36px 38px; box-shadow: 0 10px 30px var(--shadow);
+}
+.quiz h2 { font-size: 2rem; margin: 0 0 6px; text-align: center; }
+.quiz-sub { text-align: center; color: var(--ink-soft); font-style: italic; margin: 0 0 26px; }
+.quiz-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 30px; }
+.quiz-q .qq { font-family: 'Cormorant Garamond', serif; font-size: 1.4rem; margin: 0 0 12px; }
+.quiz-q .qnum { color: var(--gold-deep); margin-right: 6px; }
+.quiz-q .opts { display: grid; gap: 10px; }
+.quiz-q .opt {
+  text-align: left; background: #fffdf6;
+  border: 1px solid var(--rule); border-radius: 6px;
+  padding: 13px 18px; min-height: 52px; cursor: pointer;
+  font-family: 'EB Garamond', Georgia, serif; font-size: 1.08rem; color: var(--ink);
+  transition: border-color 0.3s ease, background 0.3s ease;
+}
+.quiz-q .opt:hover:not(:disabled) { border-color: var(--gold); background: #fdf8ea; }
+.quiz-q .opt:disabled { cursor: default; }
+.quiz-q .opt.correct { border-color: #3f7a4e; background: rgba(63, 122, 78, 0.1); }
+.quiz-q .opt.wrong { border-color: #a33b3b; background: rgba(163, 59, 59, 0.07); }
+.quiz-q .qfb { margin: 12px 0 0; font-size: 1.05rem; color: var(--ink-soft); }
+.quiz-q .qfb strong.correct { color: #3f7a4e; }
+.quiz-q .qfb strong.wrong { color: #a33b3b; }
+.quiz-score {
+  font-family: 'Cormorant Garamond', serif; font-size: 1.4rem;
+  text-align: center; color: var(--gold-deep); margin: 30px 0 0;
+  border-top: 1px solid var(--rule); padding-top: 22px;
+}
+
+/* Prev / next chapter cards */
+.prev-next {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 24px;
+  max-width: 1140px; margin: 72px auto 0; padding: 0 22px;
+}
+.pn-card {
+  display: flex; align-items: center; gap: 18px;
+  background: var(--card); border: 1px solid var(--rule);
+  padding: 26px 28px; min-height: 110px;
+  text-decoration: none; color: var(--ink);
+  box-shadow: 0 8px 24px var(--shadow);
+  transition: transform 0.5s ease, box-shadow 0.5s ease, border-color 0.5s ease;
+}
+.pn-card:hover, .pn-card:focus-visible {
+  transform: translateY(-4px); border-color: var(--gold);
+  box-shadow: 0 14px 36px rgba(74, 58, 32, 0.2); color: var(--ink);
+}
+.pn-card:last-child { justify-content: flex-end; text-align: right; }
+.pn-card .pn-label {
+  display: block; font-family: 'Cormorant Garamond', serif;
+  letter-spacing: 0.24em; text-transform: uppercase;
+  font-size: 0.92rem; color: var(--gold-deep); margin-bottom: 4px;
+}
+.pn-card .pn-title { font-family: 'Cormorant Garamond', serif; font-size: 1.55rem; line-height: 1.25; }
+.pn-card .pn-arrow { font-size: 1.9rem; color: var(--gold-deep); flex: none; }
+
+/* Story hero spacing for rail layout */
+.story-hero { padding-bottom: 8px; }
+
+/* Refined homepage touches */
+.hero-frame {
+  border: 1px solid var(--gold-light);
+  outline: 1px solid var(--gold-deep); outline-offset: 7px;
+}
+.intro-card, .story-card { border-top: 3px solid var(--gold-light); }
+
+@media (max-width: 940px) {
+  .prev-next { grid-template-columns: 1fr; }
+  .pn-card:last-child { justify-content: flex-start; text-align: left; }
+  .pn-card:last-child .pn-arrow { order: 2; }
+}
+@media (max-width: 760px) {
+  .page-frame { inset: 6px; }
+  .quiz { padding: 28px 22px; }
+  .scene h2 { font-size: 1.85rem; }
+  .vignette { max-width: 300px; }
+}
+
+/* Reduced motion: everything calm and instant */
+@media (prefers-reduced-motion: reduce) {
+  html.js body, html.js body.loaded { opacity: 1; transition: none; }
+  .reveal { opacity: 1 !important; transform: none !important; transition: none !important; }
+  html { scroll-behavior: auto; }
+  .verse, .pn-card, .story-card, .btn, .opt, .cap-toggle { transition: none !important; }
+  .story-card:hover .thumb img { transform: none; }
+}
+
+/* ---------- Hadith panel — deep espresso/olive, distinct from verse panels ---------- */
+.hadith {
+  max-width: 760px; margin: 38px auto;
+  background: linear-gradient(168deg, #2c2314 0%, #3a2e1a 60%, #332818 100%);
+  border: 1px solid var(--gold);
+  outline: 1px solid rgba(168, 132, 47, 0.35); outline-offset: 5px;
+  padding: 30px 36px 24px;
+  box-shadow: 0 10px 30px var(--shadow);
+  transition: box-shadow 0.8s ease;
+}
+.hadith:hover { box-shadow: 0 14px 38px rgba(44, 35, 20, 0.35); }
+.hadith .h-label { text-align: center; margin: 0 0 16px; }
+.hadith .h-label span {
+  display: inline-block;
+  font-family: 'Cormorant Garamond', serif;
+  letter-spacing: 0.3em; text-indent: 0.3em; text-transform: uppercase;
+  font-size: 0.92rem; color: #0f0c07;
+  background: linear-gradient(160deg, var(--gold-light), var(--gold));
+  padding: 6px 22px; border-radius: 2px;
+}
+.hadith .h-text {
+  color: #f2ead4; font-size: 1.14rem; line-height: 1.8; margin: 0 0 14px;
+}
+.hadith .h-narrator {
+  color: var(--gold-light); font-style: italic; font-size: 1.02rem; margin: 0 0 14px;
+}
+.hadith .h-cite { margin: 0; border-top: 1px solid rgba(217, 189, 118, 0.3); padding-top: 14px; text-align: center; }
+.hadith .h-cite a {
+  display: inline-block;
+  font-family: 'Cormorant Garamond', serif; letter-spacing: 0.1em;
+  font-size: 1.02rem; color: var(--gold-light); text-decoration: none;
+  border: 1px solid rgba(217, 189, 118, 0.55); border-radius: 20px;
+  padding: 8px 20px; min-height: 44px; line-height: 1.4;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+.hadith .h-cite a:hover, .hadith .h-cite a:focus-visible {
+  background: rgba(217, 189, 118, 0.14); color: #f6e9c4;
+}
+@media (max-width: 760px) {
+  .hadith { padding: 26px 22px 20px; margin: 32px 6px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .hadith { transition: none !important; }
+}
+
+/* ============ Phase 2.1 — hand-crafted manuscript language ============ */
+
+/* Soft vignette over the page, like an aged folio */
+body::after {
+  content: ""; position: fixed; inset: 0; z-index: 65; pointer-events: none;
+  background: radial-gradient(ellipse at 50% 42%, transparent 52%, rgba(74, 58, 32, 0.11) 100%);
+}
+
+/* Aged paper is never uniform — slight tint variation per card */
+.intro-card:nth-child(2) { background: #faf4e4; }
+.intro-card:nth-child(3) { background: #f7efdb; }
+.story-card:nth-child(2) .card-body { background: #faf4e4; }
+.lessons li:nth-child(2n) { background: #faf5e7; }
+.lessons li:nth-child(3n) { background: #f8f1de; }
+
+/* Chapter headpiece — small hand-set fleuron row */
+.headpiece { display: flex; justify-content: center; margin: 6px 0 18px; }
+.headpiece svg { width: 210px; height: 24px; }
+.headpiece line { stroke: #a8842f; stroke-width: 1.1; }
+.headpiece .dia { fill: none; stroke: #8a6a24; stroke-width: 1.2; }
+.headpiece .dia-fill { fill: #a8842f; }
+.headpiece circle { fill: #a8842f; }
+
+/* Hand-drawn scene dividers — thin rules, central diamond, fractional rotation */
+.scene-divider { display: flex; justify-content: center; margin: 44px 0 6px; }
+.scene-divider svg { width: 250px; height: 20px; }
+.scene-divider line { stroke: #b39a55; stroke-width: 1; }
+.scene-divider .dia { fill: none; stroke: #8a6a24; stroke-width: 1.2; }
+.scene-divider circle { fill: #b39a55; }
+.story-body .scene-divider:nth-of-type(odd) svg { transform: rotate(-0.4deg); }
+.story-body .scene-divider:nth-of-type(even) svg { transform: rotate(0.35deg); }
+
+/* Illustrations sit slightly off-square, the way a hand places them */
+.scene:nth-of-type(odd) .vignette { transform: rotate(0.5deg); }
+.scene:nth-of-type(even) .vignette { transform: rotate(-0.45deg); }
+
+/* Serif-italic captions under the thin gold keylines */
+.story-figure figcaption, .vignette .cap-card {
+  font-family: 'EB Garamond', Georgia, serif; font-style: italic;
+}
+
+/* Colophon — the hand-set note at the end of the book */
+.colophon {
+  max-width: 680px; margin: 0 auto; text-align: center;
+  border-top: 3px double var(--gold); border-bottom: 1px solid var(--rule);
+  padding: 34px 26px 30px;
+}
+.colophon .kicker { margin-bottom: 12px; }
+.colophon p { color: var(--ink-soft); font-size: 1.06rem; margin: 0 0 12px; }
+.colophon p:last-child { margin-bottom: 0; }
+.colophon .colo-rule { display: flex; justify-content: center; margin: 18px 0 4px; }
+.colophon .colo-rule svg { width: 120px; height: 16px; }
+.colophon .colo-rule line { stroke: #b39a55; stroke-width: 1; }
+.colophon .colo-rule .dia { fill: #a8842f; }
+
+@media (prefers-reduced-motion: reduce) {
+  .scene-divider svg, .scene .vignette { transform: none !important; }
+}

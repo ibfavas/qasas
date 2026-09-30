@@ -9,8 +9,10 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Amiri:wght@400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M5 8.4c3.4-1.7 7-1.6 10.4.3 3.4-1.9 7-2 10.4-.3 0 5.3 0 10.6 0 15.9-3.4-1.7-7-1.6-10.4.3-3.4-1.9-7-2-10.4-.3z' fill='none' stroke='%23a8842f' stroke-width='2' stroke-linejoin='round'/%3E%3Cpath d='M15.4 8.7v15.9' stroke='%23a8842f' stroke-width='1.6'/%3E%3C/svg%3E">
 </head>
 <body>
+<div class="page-frame" aria-hidden="true"></div>
 
 <nav class="nav" aria-label="Main navigation">
   <div class="nav-inner">
@@ -37,7 +39,7 @@
         <rect x="8" y="8" width="16" height="16" transform="rotate(45 16 16)"/>
       </svg>
     </div>
-    <h1>QASAS</h1>
+    <h1 class="antique-gold">QASAS</h1>
     <p class="subtitle">Stories of the Prophets</p>
     <div class="rule-star" aria-hidden="true">
       <svg viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.8" style="color:var(--gold-deep)">
@@ -302,10 +304,26 @@
       <p class="kicker reveal">About</p>
       <h2 class="section-title reveal" data-delay="1">Why QASAS exists</h2>
       <div class="narrative">
-        <p class="reveal" data-delay="2">The Quran calls the stories of the messengers a reminder and a lesson for people of understanding. QASAS is an attempt to gather those stories in one place — told plainly, anchored in the verses themselves, and designed with the reverence they deserve.</p>
+        <p class="reveal dropcap" data-delay="2">The Quran calls the stories of the messengers a reminder and a lesson for people of understanding. QASAS is an attempt to gather those stories in one place — told plainly, anchored in the verses themselves, and designed with the reverence they deserve.</p>
         <p class="reveal" data-delay="3">Every chapter shows its sources: the Arabic text of each verse, the Saheeh International translation, and the exact surah and verse number. Where the Quran is silent, we stay silent — no invented dialogue, no embellished details.</p>
         <p class="reveal" data-delay="3">QASAS is a free educational project. It carries no ads and sells nothing; knowledge of the prophets should reach everyone.</p>
       </div>
+    </div>
+  </section>
+
+  <section class="section" id="colophon" aria-label="Colophon">
+    <div class="colophon reveal">
+      <p class="kicker">Colophon</p>
+      <p>QASAS is set by hand in Cormorant Garamond and EB Garamond, with Amiri for the Arabic of the Quran. Every verse was copied from the mushaf and checked word for word; every hadith was verified on Sunnah.com, and each one links back to its source.</p>
+      <p>This site is free, and it will stay free. There are no advertisements, no trackers, no accounts, and nothing for sale &mdash; the stories of the prophets belong to everyone.</p>
+      <div class="colo-rule" aria-hidden="true">
+        <svg viewBox="0 0 120 16" fill="none">
+          <line x1="4" y1="8.4" x2="50" y2="7.6"/>
+          <rect class="dia" x="56" y="4" width="8" height="8" transform="rotate(45 60 8)"/>
+          <line x1="70" y1="7.8" x2="116" y2="8.4"/>
+        </svg>
+      </div>
+      <p>Set down in 2026. If a verse or a citation is ever wrong here, it will be corrected.</p>
     </div>
   </section>
 </main>
