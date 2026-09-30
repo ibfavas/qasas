@@ -1,6 +1,6 @@
 /* Chapter page — the locked Adam template, driven by chapter data. */
 import { PageFrame, StoryNav, Footer, Headpiece, RuleStar } from '../components/chrome.jsx';
-import { Scenes, NoteCard, Lessons, Quiz } from '../components/manuscript.jsx';
+import { Scenes, NoteCard, Lessons, Quiz, IllustrationNote } from '../components/manuscript.jsx';
 import { useSiteEffects } from '../hooks/effects.js';
 
 function Hero({ hero }) {
@@ -20,6 +20,7 @@ function Hero({ hero }) {
       <figure className="story-figure reveal" data-delay="2">
         <img src={hero.img} alt={hero.imgAlt} fetchPriority="high" />
         <figcaption>{hero.caption}</figcaption>
+        <IllustrationNote />
       </figure>
     </header>
   );

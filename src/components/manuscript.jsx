@@ -33,8 +33,14 @@ export function Vignette({ v }) {
     <figure className="vignette reveal">
       <img src={v.img} alt={v.alt} loading="lazy" />
       <figcaption className="vignette-cap" dangerouslySetInnerHTML={html(v.caption)} />
+      <IllustrationNote />
     </figure>
   );
+}
+
+/* Honest framing under every symbolic illustration. */
+export function IllustrationNote() {
+  return <p className="illustration-note">Symbolic illustration · Allah knows best.</p>;
 }
 
 function Block({ b }) {
