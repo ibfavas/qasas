@@ -80,7 +80,7 @@ export function HomePage() {
         <div className="wrap hero-night-inner">
           <img
             className="hero-emblem reveal"
-            src="assets/home/emblem-star.png"
+            src="assets/home/emblem-logo.png"
             alt=""
             width="116"
             height="116"
@@ -173,7 +173,7 @@ export function HomePage() {
         <section className="section verse-callout-sec" aria-label="From the Quran">
           <div className="wrap">
             <figure className="verse-callout reveal">
-              <img className="vc-emblem" src="assets/home/emblem-star.png" alt="" width="54" height="54" />
+              <img className="vc-emblem" src="assets/brand/logo.png" alt="" width="54" height="54" />
               <blockquote>
                 <p className="vc-ar" dir="rtl" lang="ar">
                   {CALLOUT.ar}
