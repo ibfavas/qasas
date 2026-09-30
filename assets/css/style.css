@@ -703,22 +703,9 @@ p.dropcap::first-letter {
   outline: 1px solid var(--rule); outline-offset: 4px;
   box-shadow: 0 12px 30px var(--shadow);
 }
-.cap-toggle {
-  margin-top: 14px; background: none; cursor: pointer;
-  border: 1px solid var(--rule); border-radius: 22px;
-  padding: 9px 20px; min-height: 44px;
-  font-family: 'Cormorant Garamond', serif; font-size: 1.02rem;
-  letter-spacing: 0.08em; color: var(--gold-deep);
-  transition: border-color 0.3s ease, background 0.3s ease;
-}
-.cap-toggle:hover, .cap-toggle:focus-visible { border-color: var(--gold); background: rgba(168, 132, 47, 0.08); }
-.cap-toggle .chev { display: inline-block; margin-left: 8px; transition: transform 0.4s ease; }
-.cap-toggle[aria-expanded="true"] .chev { transform: rotate(180deg); }
-.cap-card {
-  margin-top: 12px; background: var(--card);
-  border: 1px solid var(--rule); border-radius: 8px;
-  padding: 15px 18px; font-size: 1.02rem; line-height: 1.65;
-  color: var(--ink-soft); font-style: italic; text-align: left;
+.vignette-cap {
+  margin-top: 12px; font-size: 1.02rem; line-height: 1.65;
+  color: var(--ink-soft); font-style: italic;
 }
 
 /* Source honesty note */
@@ -837,7 +824,7 @@ p.dropcap::first-letter {
   html.js body, html.js body.loaded { opacity: 1; transition: none; }
   .reveal { opacity: 1 !important; transform: none !important; transition: none !important; }
   html { scroll-behavior: auto; }
-  .verse, .pn-card, .story-card, .btn, .opt, .cap-toggle { transition: none !important; }
+  .verse, .pn-card, .story-card, .btn, .opt { transition: none !important; }
   .story-card:hover .thumb img { transform: none; }
 }
 
@@ -923,9 +910,22 @@ body::after {
 .scene:nth-of-type(even) .vignette { transform: rotate(-0.45deg); }
 
 /* Serif-italic captions under the thin gold keylines */
-.story-figure figcaption, .vignette .cap-card {
+.story-figure figcaption, .vignette-cap {
   font-family: 'EB Garamond', Georgia, serif; font-style: italic;
 }
+
+/* Story index — the single story page when no prophet is chosen */
+.story-index { max-width: 720px; margin: 0 auto; padding: 110px 22px 90px; text-align: center; }
+.story-index h1 { font-size: clamp(2.1rem, 5vw, 3.1rem); margin: 18px 0 6px; }
+.story-index-list { list-style: none; margin: 42px auto 0; padding: 0; max-width: 540px; text-align: left; }
+.story-index-list li { margin: 0 0 14px; }
+.story-index-list a {
+  display: block; padding: 18px 22px; border: 1px solid var(--rule); border-radius: 10px;
+  background: var(--card); text-decoration: none; transition: border-color 0.3s ease, transform 0.3s ease;
+}
+.story-index-list a:hover { border-color: var(--gold); transform: translateY(-2px); }
+.story-index-list .pn-label { display: block; margin-bottom: 4px; }
+.story-index-list .pn-title { font-size: 1.35rem; }
 
 /* Colophon — the hand-set note at the end of the book */
 .colophon {

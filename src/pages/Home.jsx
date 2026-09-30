@@ -99,7 +99,7 @@ export function HomePage() {
             nothing hidden.
           </p>
           <div className="hero-night-ctas reveal" data-delay="4">
-            <a className="btn" href="stories/adam.html">
+            <a className="btn" href="stories/?p=adam">
               Begin with Adam
             </a>
             <a className="btn btn-ghost" href="#timeline">
@@ -130,7 +130,7 @@ export function HomePage() {
               it is set down.
             </p>
             <div className="story-cards">
-              <a className="story-card reveal" data-delay="1" href="stories/adam.html">
+              <a className="story-card reveal" data-delay="1" href="stories/?p=adam">
                 <span className="thumb">
                   <img
                     src="assets/adam-garden.webp"
@@ -148,7 +148,7 @@ export function HomePage() {
                   <span className="read-link">Read the story</span>
                 </span>
               </a>
-              <a className="story-card reveal" data-delay="2" href="stories/yusuf.html">
+              <a className="story-card reveal" data-delay="2" href="stories/?p=yusuf">
                 <span className="thumb">
                   <img
                     src="assets/yusuf-well.webp"

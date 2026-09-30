@@ -552,7 +552,7 @@ export const chapter = {
   ],
   "prevNext": [
     {
-      "href": "adam.html",
+      "href": "?p=adam",
       "label": "Previous chapter — I",
       "title": "Adam (AS) — The First Man",
       "arrow": "back"

@@ -29,14 +29,10 @@ export function Hadith({ h }) {
 }
 
 export function Vignette({ v }) {
-  const [open, setOpen] = useState(false);
   return (
     <figure className="vignette reveal">
       <img src={v.img} alt={v.alt} loading="lazy" />
-      <button type="button" className="cap-toggle" aria-expanded={open} onClick={() => setOpen((o) => !o)}>
-        About this illustration<span className="chev" aria-hidden="true">▾</span>
-      </button>
-      <div className="cap-card" hidden={!open} dangerouslySetInnerHTML={html(v.caption)} />
+      <figcaption className="vignette-cap" dangerouslySetInnerHTML={html(v.caption)} />
     </figure>
   );
 }

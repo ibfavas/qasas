@@ -3,7 +3,7 @@ export const prophets = [
   {
     "tag": "a",
     "soon": false,
-    "href": "stories/adam.html",
+    "href": "stories/?p=adam",
     "aria": "Read the story of Adam",
     "svgAttrs": " fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"",
     "svgInner": "<path d=\"M24 40V24\"/><circle cx=\"24\" cy=\"16\" r=\"9\"/><path d=\"M24 31l-6-5M24 31l6-5\"/>",
@@ -103,7 +103,7 @@ export const prophets = [
   {
     "tag": "a",
     "soon": false,
-    "href": "stories/yusuf.html",
+    "href": "stories/?p=yusuf",
     "aria": "Read the story of Yusuf",
     "svgAttrs": " fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"",
     "svgInner": "<path d=\"M31 7a14 14 0 1 0 9 24A16 16 0 0 1 31 7z\"/><path d=\"M37 9l1.2 3 3 1.2-3 1.2-1.2 3-1.2-3-3-1.2 3-1.2z\"/>",

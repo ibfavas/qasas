@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview --port 8902",
-    "deploy": "npm run build && cp dist/src/templates/index.html ./index.html && sed -i \"s|\\.\\./\\.\\./assets/|./assets/|g\" index.html && mkdir -p stories assets && cp dist/src/templates/stories/adam.html dist/src/templates/stories/yusuf.html stories/ && sed -i \"s|\\.\\./\\.\\./\\.\\./assets/|../assets/|g\" stories/adam.html stories/yusuf.html && rm -f assets/*.js && cp -r dist/assets/. assets/ && echo DEPLOYED"
+    "deploy": "npm run build && cp dist/src/templates/index.html ./index.html && sed -i \"s|\\.\\./\\.\\./assets/|./assets/|g\" index.html && mkdir -p stories assets && cp dist/src/templates/stories/index.html stories/index.html && sed -i \"s|\\.\\./\\.\\./\\.\\./assets/|../assets/|g\" stories/index.html && rm -f assets/*.js && cp -r dist/assets/. assets/ && echo DEPLOYED"
   },
   "repository": {
     "type": "git",

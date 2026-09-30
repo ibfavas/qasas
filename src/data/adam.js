@@ -495,7 +495,7 @@ export const chapter = {
       "arrow": "back"
     },
     {
-      "href": "yusuf.html",
+      "href": "?p=yusuf",
       "label": "Next chapter — XI",
       "title": "Yusuf (AS) — The Dream Fulfilled",
       "arrow": "next"
