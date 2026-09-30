@@ -19,6 +19,17 @@ export function useSiteEffects() {
       loadTimer = setTimeout(markLoaded, 1200); // fallback if load is delayed
     }
 
+    /* bfcache: a page restored from history keeps its frozen DOM — including
+       the fade-out class added on link click. Strip it, or back-navigation
+       restores a fully blank (opacity 0) page. */
+    const onPageShow = (e) => {
+      if (e.persisted) {
+        document.body.classList.remove('leaving');
+        markLoaded();
+      }
+    };
+    window.addEventListener('pageshow', onPageShow);
+
     /* Fade-out on internal navigation */
     const onClick = (e) => {
       const a = e.target.closest ? e.target.closest('a[href]') : null;
@@ -139,6 +150,7 @@ export function useSiteEffects() {
     return () => {
       document.removeEventListener('click', onClick);
       window.removeEventListener('load', markLoaded);
+      window.removeEventListener('pageshow', onPageShow);
       if (loadTimer) clearTimeout(loadTimer);
       if (progressFill) {
         window.removeEventListener('scroll', onScroll);

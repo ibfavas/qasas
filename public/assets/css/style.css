@@ -1048,40 +1048,40 @@ body::after {
 .nav-centered .brand img { width: 40px; height: 40px; border-radius: 50%; }
 
 /* Night hero */
-.hero-night { position: relative; overflow: hidden; background: #14100b; color: #f7f1e3; text-align: center; }
+.hero-night { position: relative; overflow: hidden; background: #14100b; color: #f7f1e3; text-align: center; display: flex; min-height: calc(100vh - 64px); min-height: calc(100svh - 64px); }
 .hero-night-bg { position: absolute; inset: 0; }
 .hero-night-bg img { display: block; width: 100%; height: 100%; object-fit: cover; }
 .hero-night::after {
   content: ""; position: absolute; inset: 0; pointer-events: none;
   background: linear-gradient(to bottom, rgba(10, 8, 5, 0.55) 0%, rgba(10, 8, 5, 0.18) 34%, rgba(10, 8, 5, 0.22) 66%, rgba(10, 8, 5, 0.72) 100%);
 }
-.hero-night-inner { position: relative; z-index: 1; padding: 104px 20px 118px; }
-.hero-emblem { width: 116px; height: 116px; border-radius: 50%; box-shadow: 0 12px 44px rgba(0, 0, 0, 0.55); }
+.hero-night-inner { position: relative; z-index: 1; margin: auto; width: 100%; padding: 56px 20px 64px; }
+.hero-emblem { width: 88px; height: 88px; border-radius: 50%; box-shadow: 0 12px 44px rgba(0, 0, 0, 0.55); }
 .hero-night-kicker {
-  margin: 26px 0 0; font-family: 'Cormorant Garamond', serif;
-  font-size: clamp(0.95rem, 2.4vw, 1.15rem);
+  margin: 18px 0 0; font-family: 'Cormorant Garamond', serif;
+  font-size: clamp(0.9rem, 2vw, 1.05rem);
   letter-spacing: 0.34em; text-indent: 0.34em; text-transform: uppercase;
   color: var(--gold-light);
 }
-.hero-night .hero-title { margin-top: 10px; }
+.hero-night .hero-title { margin-top: 8px; font-size: clamp(3rem, 10.5vw, 6rem); }
 .hero-night-sub {
   font-family: 'Cormorant Garamond', serif;
-  font-size: clamp(1.05rem, 3vw, 1.45rem);
+  font-size: clamp(1rem, 2.4vw, 1.28rem);
   letter-spacing: 0.38em; text-indent: 0.38em; text-transform: uppercase;
-  color: #f2e9d2; margin: 14px 0 0;
+  color: #f2e9d2; margin: 12px 0 0;
 }
 .hero-night-lede {
-  max-width: 640px; margin: 20px auto 0;
-  font-size: 1.22rem; line-height: 1.75; color: #e7dcc0;
+  max-width: 640px; margin: 16px auto 0;
+  font-size: 1.12rem; line-height: 1.7; color: #e7dcc0;
 }
-.hero-night-ctas { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
-.hero-night-ctas .btn { margin-top: 30px; }
+.hero-night-ctas { display: flex; gap: 14px; justify-content: center; flex-wrap: wrap; }
+.hero-night-ctas .btn { margin-top: 24px; min-height: 48px; padding: 10px 32px; font-size: 1.12rem; }
 .btn-ghost {
   background: transparent; border: 1px solid var(--gold-light);
   color: var(--gold-light); box-shadow: none;
 }
 .btn-ghost:hover { background: rgba(217, 189, 118, 0.14); color: #fffdf6; box-shadow: none; }
-.hero-night-scroll { position: absolute; z-index: 1; left: 50%; bottom: 26px; transform: translateX(-50%); }
+.hero-night-scroll { position: absolute; z-index: 1; left: 50%; bottom: 18px; transform: translateX(-50%); }
 .hero-night-scroll i {
   display: block; width: 9px; height: 9px;
   border-right: 1px solid var(--gold-light); border-bottom: 1px solid var(--gold-light);
@@ -1137,8 +1137,8 @@ body::after {
 
 /* v4 responsive */
 @media (max-width: 900px) {
-  .hero-night-inner { padding: 84px 20px 96px; }
-  .hero-emblem { width: 92px; height: 92px; }
+  .hero-night-inner { padding: 48px 20px 60px; }
+  .hero-emblem { width: 76px; height: 76px; }
   .verse-callout { padding: 38px 26px 34px; }
   .vc-ar { font-size: 1.4rem; }
   .era-journey { overflow-x: auto; justify-content: flex-start; }
