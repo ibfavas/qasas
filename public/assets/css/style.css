@@ -80,7 +80,7 @@ a:hover { color: var(--ink); }
   color: var(--ink);
   min-height: 44px;
 }
-.brand svg { width: 26px; height: 26px; flex: none; }
+.brand img { width: 26px; height: 26px; flex: none; }
 .nav-links {
   display: flex;
   gap: 4px;

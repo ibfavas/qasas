@@ -9,7 +9,7 @@ export function HomeNav() {
     <nav className="nav nav-centered" aria-label="Main navigation">
       <div className="nav-inner">
         <a className="brand" href="index.html" aria-label="QASAS home">
-          <img src="assets/home/emblem-star.png" alt="" width="40" height="40" />
+          <img src="assets/brand/logo.png" alt="" width="40" height="40" />
         </a>
         <ul className="nav-links">
           <li><a href="index.html">Home</a></li>
@@ -28,10 +28,7 @@ export function StoryNav() {
     <nav className="nav" aria-label="Main navigation">
       <div className="nav-inner">
         <a className="brand" href="../index.html" aria-label="QASAS home">
-          <svg viewBox="0 0 32 32" fill="none" stroke="currentColor" strokeWidth="1.8" style={{ color: 'var(--gold-deep)' }} aria-hidden="true">
-            <rect x="8" y="8" width="16" height="16" />
-            <rect x="8" y="8" width="16" height="16" transform="rotate(45 16 16)" />
-          </svg>
+          <img src="../assets/brand/logo.png" alt="" width="26" height="26" />
           QASAS
         </a>
         <ul className="nav-links">
