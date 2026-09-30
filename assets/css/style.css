@@ -948,9 +948,10 @@ body::after {
 /* ================= QASAS v3 — framed manuscript homepage ================= */
 
 /* Centered nav, letterspaced links with diamond-dot separators */
-.nav-centered .nav-inner { justify-content: center; position: relative; }
-.nav-centered .brand { position: absolute; left: 20px; top: 50%; transform: translateY(-50%); }
-.nav-centered .nav-links { display: flex; align-items: center; gap: 4px; margin: 0; padding: 0; list-style: none; }
+.nav-centered .nav-inner { justify-content: flex-start; max-width: 1280px; }
+.nav-centered .brand { display: inline-flex; align-items: center; margin-right: 48px; }
+.nav-centered .brand img { display: block; }
+.nav-centered .nav-links { display: flex; align-items: center; flex: 1; justify-content: space-evenly; margin: 0; padding: 0; list-style: none; }
 .nav-centered .nav-links li { display: flex; align-items: center; }
 .nav-centered .nav-links li + li::before {
   content: "\00B7"; color: var(--gold-deep); font-size: 1.3rem; margin: 0 14px; line-height: 1;
@@ -978,17 +979,16 @@ body::after {
   letter-spacing: 0.38em; text-indent: 0.38em; text-transform: uppercase;
   color: var(--ink); margin: 14px 0 0;
 }
-.flourish { max-width: 330px; margin: 20px auto 0; }
-.flourish svg { display: block; width: 100%; height: auto; }
+.flourish { margin: 22px auto 0; text-align: center; }
+.flourish img { width: min(530px, 86%); height: auto; }
 .banner-frame {
-  max-width: 1060px; margin: 34px auto 0;
-  border: 1px solid var(--gold);
-  outline: 1px solid var(--rule); outline-offset: 5px;
-  box-shadow: 0 22px 60px var(--shadow);
+  max-width: 1240px; margin: 30px auto 0;
+  border: 1px solid var(--gold-deep);
+  box-shadow: 0 18px 50px var(--shadow);
   background: var(--card);
   padding: 0; line-height: 0;
 }
-.banner-frame img { display: block; width: 100%; height: auto; aspect-ratio: 21 / 8; object-fit: cover; object-position: center 22%; }
+.banner-frame img { display: block; width: 100%; height: auto; }
 
 /* Three pillar cards */
 .pillars { padding: 26px 0 10px; }
@@ -1000,34 +1000,14 @@ body::after {
   box-shadow: 0 12px 32px var(--shadow);
   padding: 26px 26px 28px; text-align: center;
 }
-.pillar-card svg { width: 46px; height: 46px; }
+.pillar-card .pillar-icon { height: 40px; width: auto; }
 .pillar-card h3 { font-size: 1.65rem; margin: 16px 0 10px; }
 .pillar-card p { margin: 0; color: var(--ink-soft); font-size: 1.06rem; }
 
-/* Era strip — seven medallions on a gold line */
-.eras { padding: 34px 0 6px; }
-.era-strip {
-  position: relative; display: flex; justify-content: space-between; align-items: flex-start;
-  max-width: 1020px; margin: 0 auto; padding: 6px 10px 0;
-}
-.era-line { position: absolute; top: 40px; left: 70px; right: 70px; height: 1px; background: var(--gold-deep); opacity: 0.65; }
-.era { position: relative; z-index: 1; flex: 1; display: flex; flex-direction: column; align-items: center; gap: 12px; }
-.era:not(:last-child)::after {
-  content: ""; position: absolute; top: 36px; right: -5px; width: 9px; height: 9px;
-  background: var(--gold); transform: rotate(45deg);
-}
-.era-medal {
-  width: 68px; height: 68px; border-radius: 50%;
-  border: 1px solid var(--gold-deep); background: var(--card);
-  display: flex; align-items: center; justify-content: center;
-  box-shadow: 0 8px 20px var(--shadow), inset 0 0 0 3px rgba(216, 200, 154, 0.35);
-}
-.era-medal svg { width: 32px; height: 32px; color: var(--gold-deep); }
-.era-name {
-  font-family: 'Cormorant Garamond', serif; font-size: 0.98rem; font-weight: 600;
-  letter-spacing: 0.22em; text-indent: 0.22em; text-transform: uppercase; color: var(--ink-soft);
-  text-align: center;
-}
+/* Era strip — exact asset from the reference design */
+.eras { padding: 30px 0 4px; }
+.era-strip-img { max-width: 1240px; margin: 0 auto; }
+.era-strip-img img { display: block; width: 100%; height: auto; }
 
 /* Resources */
 .resource-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; margin-top: 38px; }
@@ -1046,16 +1026,14 @@ body::after {
 /* v3 responsive */
 @media (max-width: 900px) {
   .nav-centered .nav-inner { flex-direction: column; gap: 4px; padding-top: 12px; padding-bottom: 10px; }
-  .nav-centered .brand { position: static; transform: none; }
+  .nav-centered .brand { margin-right: 0; }
   .nav-centered .nav-links { flex-wrap: wrap; justify-content: center; row-gap: 6px; }
   .nav-centered .nav-links li + li::before { margin: 0 8px; }
   .nav-centered .nav-links a { font-size: 0.95rem; letter-spacing: 0.18em; }
   .pillar-grid { grid-template-columns: 1fr; max-width: 520px; margin-left: auto; margin-right: auto; }
   .resource-grid { grid-template-columns: 1fr; }
-  .era-strip { overflow-x: auto; justify-content: flex-start; gap: 20px; padding: 6px 16px 14px; }
-  .era { flex: 0 0 auto; min-width: 88px; }
-  .era-line, .era:not(:last-child)::after { display: none; }
-  .banner-frame img { aspect-ratio: 16 / 9; }
+  .era-strip-img { overflow-x: auto; }
+  .era-strip-img img { min-width: 640px; }
   .hero-v3 { padding-top: 52px; }
 }
 @media (prefers-reduced-motion: reduce) {
