@@ -1039,3 +1039,112 @@ body::after {
 @media (prefers-reduced-motion: reduce) {
   .resource-card, .resource-card:hover { transform: none; }
 }
+
+/* ============================================================
+   Homepage v4 — original illuminated cover (all artwork original)
+   ============================================================ */
+
+/* Nav emblem */
+.nav-centered .brand img { width: 40px; height: 40px; border-radius: 50%; }
+
+/* Night hero */
+.hero-night { position: relative; overflow: hidden; background: #14100b; color: #f7f1e3; text-align: center; }
+.hero-night-bg { position: absolute; inset: 0; }
+.hero-night-bg img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.hero-night::after {
+  content: ""; position: absolute; inset: 0; pointer-events: none;
+  background: linear-gradient(to bottom, rgba(10, 8, 5, 0.55) 0%, rgba(10, 8, 5, 0.18) 34%, rgba(10, 8, 5, 0.22) 66%, rgba(10, 8, 5, 0.72) 100%);
+}
+.hero-night-inner { position: relative; z-index: 1; padding: 104px 20px 118px; }
+.hero-emblem { width: 116px; height: 116px; border-radius: 50%; box-shadow: 0 12px 44px rgba(0, 0, 0, 0.55); }
+.hero-night-kicker {
+  margin: 26px 0 0; font-family: 'Cormorant Garamond', serif;
+  font-size: clamp(0.95rem, 2.4vw, 1.15rem);
+  letter-spacing: 0.34em; text-indent: 0.34em; text-transform: uppercase;
+  color: var(--gold-light);
+}
+.hero-night .hero-title { margin-top: 10px; }
+.hero-night-sub {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: clamp(1.05rem, 3vw, 1.45rem);
+  letter-spacing: 0.38em; text-indent: 0.38em; text-transform: uppercase;
+  color: #f2e9d2; margin: 14px 0 0;
+}
+.hero-night-lede {
+  max-width: 640px; margin: 20px auto 0;
+  font-size: 1.22rem; line-height: 1.75; color: #e7dcc0;
+}
+.hero-night-ctas { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
+.hero-night-ctas .btn { margin-top: 30px; }
+.btn-ghost {
+  background: transparent; border: 1px solid var(--gold-light);
+  color: var(--gold-light); box-shadow: none;
+}
+.btn-ghost:hover { background: rgba(217, 189, 118, 0.14); color: #fffdf6; box-shadow: none; }
+.hero-night-scroll { position: absolute; z-index: 1; left: 50%; bottom: 26px; transform: translateX(-50%); }
+.hero-night-scroll i {
+  display: block; width: 9px; height: 9px;
+  border-right: 1px solid var(--gold-light); border-bottom: 1px solid var(--gold-light);
+  transform: rotate(45deg); opacity: 0.85;
+}
+
+/* Home flourish divider */
+.flourish-home { margin: 34px auto 6px; }
+.flourish-home img { width: min(640px, 90%); }
+
+/* Verse callout */
+.verse-callout-sec { padding: 14px 0 0; }
+.verse-callout {
+  max-width: 880px; margin: 0 auto; padding: 48px 44px 42px; text-align: center;
+  background: #1d1610; color: #f1e8d2;
+  border: 1px solid var(--gold-deep);
+  outline: 1px solid var(--rule); outline-offset: 5px;
+  box-shadow: 0 18px 50px var(--shadow);
+}
+.verse-callout blockquote { margin: 0; padding: 0; }
+.vc-emblem { width: 54px; height: 54px; border-radius: 50%; margin-bottom: 4px; }
+.vc-ar { font-family: 'Amiri', serif; font-size: 1.65rem; line-height: 2.15; margin: 12px 0 20px; }
+.vc-en {
+  font-family: 'Cormorant Garamond', serif; font-style: italic;
+  font-size: 1.32rem; line-height: 1.7; color: #e3d4b1; margin: 0;
+}
+.verse-callout figcaption {
+  margin-top: 22px; font-size: 0.95rem;
+  letter-spacing: 0.28em; text-indent: 0.28em; text-transform: uppercase;
+  color: var(--gold-light);
+}
+
+/* Era journey — seven stations */
+.era-journey {
+  position: relative; display: flex; justify-content: space-between;
+  max-width: 1080px; margin: 46px auto 0; padding: 0 12px;
+}
+.era-journey::before {
+  content: ""; position: absolute; top: 26px; left: 56px; right: 56px;
+  height: 1px; background: var(--gold-light); opacity: 0.65;
+}
+.era-station { position: relative; z-index: 1; flex: 1; text-align: center; }
+.era-dot {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 52px; height: 52px; border-radius: 50%;
+  background: var(--card); border: 1px solid var(--gold-deep);
+  color: var(--gold-deep); font-family: 'Cormorant Garamond', serif; font-size: 1.05rem;
+}
+.era-name {
+  display: block; margin-top: 12px; font-size: 1rem;
+  letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-soft);
+}
+
+/* v4 responsive */
+@media (max-width: 900px) {
+  .hero-night-inner { padding: 84px 20px 96px; }
+  .hero-emblem { width: 92px; height: 92px; }
+  .verse-callout { padding: 38px 26px 34px; }
+  .vc-ar { font-size: 1.4rem; }
+  .era-journey { overflow-x: auto; justify-content: flex-start; }
+  .era-journey::before { left: 30px; right: 30px; }
+  .era-station { min-width: 112px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .hero-night-scroll i { animation: none; }
+}

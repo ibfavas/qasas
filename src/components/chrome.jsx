@@ -9,7 +9,7 @@ export function HomeNav() {
     <nav className="nav nav-centered" aria-label="Main navigation">
       <div className="nav-inner">
         <a className="brand" href="index.html" aria-label="QASAS home">
-          <img src="assets/ref/emblem.png" alt="" width="38" height="47" />
+          <img src="assets/home/emblem-star.png" alt="" width="40" height="40" />
         </a>
         <ul className="nav-links">
           <li><a href="index.html">Home</a></li>

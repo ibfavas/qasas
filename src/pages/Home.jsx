@@ -1,4 +1,4 @@
-/* Homepage — pixel-faithful port of index.html. */
+/* Homepage v4 — original illuminated cover. All artwork generated for QASAS. */
 import { PageFrame, HomeNav, Footer, ColophonRule } from '../components/chrome.jsx';
 import { prophets } from '../data/prophets.js';
 import { useSiteEffects } from '../hooks/effects.js';
@@ -33,27 +33,38 @@ function ProphetItem({ p }) {
 
 const PILLARS = [
   {
-    icon: 'assets/ref/icon-book.png',
-    w: 40,
-    h: 32,
+    icon: 'assets/home/icon-scroll.png',
     title: 'Authentic Narrations',
     text: 'Carefully researched stories drawn from classical sources, presented with reverence and clarity.',
   },
   {
-    icon: 'assets/ref/icon-knot.png',
-    w: 64,
-    h: 34,
+    icon: 'assets/home/icon-star.png',
     title: 'Interactive Timeline',
     text: 'Explore the chronological journey through historical periods and pivotal moments.',
   },
   {
-    icon: 'assets/ref/icon-lantern.png',
-    w: 42,
-    h: 35,
+    icon: 'assets/home/icon-lantern.png',
     title: 'Scholarly Insights',
     text: 'Lessons and reflections from each story, drawn only from the verses and authentic narrations.',
   },
 ];
+
+const ERAS = [
+  { numeral: 'I', name: 'Creation' },
+  { numeral: 'II', name: 'Call' },
+  { numeral: 'III', name: 'Migration' },
+  { numeral: 'IV', name: 'Revelation' },
+  { numeral: 'V', name: 'Trial' },
+  { numeral: 'VI', name: 'Triumph' },
+  { numeral: 'VII', name: 'Legacy' },
+];
+
+/* 12:101 — copied verbatim from verses.json, the same strings the Yusuf chapter renders. */
+const CALLOUT = {
+  ar: 'رَبِّ قَدْ ءَاتَيْتَنِى مِنَ ٱلْمُلْكِ وَعَلَّمْتَنِى مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ فَاطِرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ أَنتَ وَلِىِّۦ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ ۖ تَوَفَّنِى مُسْلِمًا وَأَلْحِقْنِى بِٱلصَّـٰلِحِينَ',
+  en: 'My Lord, You have given me [something] of sovereignty and taught me of the interpretation of dreams. Creator of the heavens and earth, You are my protector in this world and the Hereafter. Cause me to die a Muslim and join me with the righteous."',
+  cite: 'Surah Yusuf · 12:101',
+};
 
 export function HomePage() {
   useSiteEffects();
@@ -62,72 +73,52 @@ export function HomePage() {
       <PageFrame />
       <HomeNav />
 
-      <header className="hero hero-v3">
-        <div className="wrap reveal">
-          <h1 className="hero-title">QASAS</h1>
-          <p className="hero-sub">Stories of the Prophets</p>
-          <div className="flourish" aria-hidden="true">
-            <img src="assets/ref/flourish.png" alt="" width="530" height="30" />
-          </div>
-          <figure className="banner-frame">
-            <img
-              src="assets/ref/banner-dunes.webp"
-              alt="Golden desert dunes at sunrise, a lone traveller walking toward the light"
-              fetchPriority="high"
-              width="1137"
-              height="162"
-            />
-          </figure>
+      <header className="hero-night">
+        <div className="hero-night-bg" aria-hidden="true">
+          <img src="assets/home/hero-night-dunes.webp" alt="" fetchPriority="high" />
         </div>
+        <div className="wrap hero-night-inner">
+          <img
+            className="hero-emblem reveal"
+            src="assets/home/emblem-star.png"
+            alt=""
+            width="116"
+            height="116"
+          />
+          <p className="hero-night-kicker reveal" data-delay="1">
+            A free illuminated manuscript
+          </p>
+          <h1 className="hero-title reveal" data-delay="1">
+            QASAS
+          </h1>
+          <p className="hero-night-sub reveal" data-delay="2">
+            Stories of the Prophets
+          </p>
+          <p className="hero-night-lede reveal" data-delay="3">
+            Twenty-five lives, one thread of guidance — told from the verses themselves, with nothing added and
+            nothing hidden.
+          </p>
+          <div className="hero-night-ctas reveal" data-delay="4">
+            <a className="btn" href="stories/adam.html">
+              Begin with Adam
+            </a>
+            <a className="btn btn-ghost" href="#timeline">
+              Explore the timeline
+            </a>
+          </div>
+        </div>
+        <span className="hero-night-scroll" aria-hidden="true">
+          <i></i>
+        </span>
       </header>
 
+      <div className="wrap">
+        <div className="flourish flourish-home reveal" aria-hidden="true">
+          <img src="assets/home/flourish-divider.png" alt="" loading="lazy" />
+        </div>
+      </div>
+
       <main>
-        <section className="section pillars" aria-label="What QASAS offers">
-          <div className="wrap">
-            <div className="pillar-grid">
-              {PILLARS.map((p, i) => (
-                <div className="pillar-card reveal" data-delay={i + 1} key={p.title}>
-                  <img className="pillar-icon" src={p.icon} alt="" width={p.w} height={p.h} />
-                  <h3>{p.title}</h3>
-                  <p>{p.text}</p>
-                </div>
-              ))}
-            </div>
-          </div>
-        </section>
-
-        <section className="section eras" aria-label="The journey of the prophets">
-          <div className="wrap">
-            <div className="era-strip-img reveal">
-              <img
-                src="assets/ref/era-strip.png"
-                alt="The journey: Creation, Call, Migration, Revelation, Trial, Triumph, Legacy"
-                width="1280"
-                height="70"
-              />
-            </div>
-          </div>
-        </section>
-
-        <section className="section timeline" id="timeline">
-          <div className="wrap">
-            <p className="kicker reveal">The Timeline</p>
-            <h2 className="section-title reveal" data-delay="1">
-              The prophets in order
-            </h2>
-            <p className="lede reveal" data-delay="2">
-              Twenty-five messengers, from the first to the last. Chapters open as they are written — Adam and Yusuf
-              are ready to read.
-            </p>
-            <div className="timeline-rail reveal" data-delay="2" role="list" aria-label="Prophets in chronological order">
-              {prophets.map((p, i) => (
-                <ProphetItem p={p} key={i} />
-              ))}
-            </div>
-            <p className="timeline-hint">Scroll sideways to travel through all twenty-five</p>
-          </div>
-        </section>
-
         <section className="section" id="stories">
           <div className="wrap">
             <p className="kicker reveal">Featured Stories</p>
@@ -175,6 +166,73 @@ export function HomePage() {
                   <span className="read-link">Read the story</span>
                 </span>
               </a>
+            </div>
+          </div>
+        </section>
+
+        <section className="section verse-callout-sec" aria-label="From the Quran">
+          <div className="wrap">
+            <figure className="verse-callout reveal">
+              <img className="vc-emblem" src="assets/home/emblem-star.png" alt="" width="54" height="54" />
+              <blockquote>
+                <p className="vc-ar" dir="rtl" lang="ar">
+                  {CALLOUT.ar}
+                </p>
+                <p className="vc-en">{CALLOUT.en}</p>
+              </blockquote>
+              <figcaption>{CALLOUT.cite}</figcaption>
+            </figure>
+          </div>
+        </section>
+
+        <section className="section pillars" aria-label="What QASAS offers">
+          <div className="wrap">
+            <div className="pillar-grid">
+              {PILLARS.map((p, i) => (
+                <div className="pillar-card reveal" data-delay={i + 1} key={p.title}>
+                  <img className="pillar-icon" src={p.icon} alt="" loading="lazy" />
+                  <h3>{p.title}</h3>
+                  <p>{p.text}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+
+        <section className="section timeline" id="timeline">
+          <div className="wrap">
+            <p className="kicker reveal">The Timeline</p>
+            <h2 className="section-title reveal" data-delay="1">
+              The prophets in order
+            </h2>
+            <p className="lede reveal" data-delay="2">
+              Twenty-five messengers, from the first to the last. Chapters open as they are written — Adam and Yusuf
+              are ready to read.
+            </p>
+            <div className="timeline-rail reveal" data-delay="2" role="list" aria-label="Prophets in chronological order">
+              {prophets.map((p, i) => (
+                <ProphetItem p={p} key={i} />
+              ))}
+            </div>
+            <p className="timeline-hint">Scroll sideways to travel through all twenty-five</p>
+          </div>
+        </section>
+
+        <section className="section eras" aria-label="The journey of the prophets">
+          <div className="wrap">
+            <p className="kicker reveal">The Journey</p>
+            <h2 className="section-title reveal" data-delay="1">
+              Seven ages, one story
+            </h2>
+            <div className="era-journey reveal" data-delay="2">
+              {ERAS.map((e) => (
+                <div className="era-station" key={e.name}>
+                  <span className="era-dot" aria-hidden="true">
+                    {e.numeral}
+                  </span>
+                  <span className="era-name">{e.name}</span>
+                </div>
+              ))}
             </div>
           </div>
         </section>
