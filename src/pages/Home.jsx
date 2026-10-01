@@ -132,8 +132,8 @@ export function HomePage() {
               <a className="story-card reveal" data-delay="1" href="stories/?p=adam">
                 <span className="thumb">
                   <img
-                    src="assets/adam-garden.webp"
-                    alt="An ancient olive tree in a misty green garden at sunrise"
+                    src="assets/adam-descent.webp"
+                    alt="The descent to earth — the beginning of mankind's life in this world"
                     loading="lazy"
                   />
                 </span>
