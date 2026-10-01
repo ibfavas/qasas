@@ -111,7 +111,7 @@ export const foundations = {
         ]
       }
     ],
-    "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this guide is from the Quran — chiefly Surah Al-Ikhlas (112), Surah Al-Baqarah (2:4, 2:136, 2:177, 2:285) and Surah Al-Qamar (54:49) — with the six articles named in Sahih Muslim 8a, the hadith of Jibreel. Where revelation is silent, we stay silent.</p>\n      ",
+    "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this guide is from the Quran — chiefly Surah Al-Ikhlas (112), Surah Al-Baqarah (2:4, 2:136, 2:177, 2:285) and Surah Al-Qamar (54:49) — with the six articles named in Sahih Muslim 8a, the hadith of Jibreel.</p>\n      ",
     "prevNext": [{"label": "Next guide", "title": "The Five Pillars of Islam", "href": "?p=pillars", "arrow": "next"}]
   },
   pillars:   {
@@ -121,7 +121,7 @@ export const foundations = {
       "sub": "What a Muslim does — the five practices upon which Islam is built, named by the Prophet ﷺ in a single hadith.",
       "img": "../assets/foundations-pillars.webp",
       "imgAlt": "Five ancient stone pillars standing in a desert valley at dawn",
-      "caption": "Five pillars in the desert at dawn &mdash; the five practices that hold up the life of a Muslim."
+      "caption": "A symbolic image &mdash; five stone pillars at dawn, recalling the Prophet&rsquo;s ﷺ words: &ldquo;Islam is built upon five.&rdquo;"
     },
     "introHtml": "Iman is what the heart holds; Islam is what the limbs carry out. When the Prophet ﷺ was asked what Islam is built upon, he named five things — a testimony, a prayer, a charity, a fast, and a pilgrimage. Five pillars, and the whole religion stands on them.",
     "railLabels": ["The Testimony", "The Prayer", "The Charity", "The Fast", "The Pilgrimage"],
@@ -139,6 +139,7 @@ export const foundations = {
               {"t": "kicker", "html": "Pillar 1 of 5"},
               {"t": "h2", "html": "The Testimony — Shahada"},
               {"t": "p", "cls": "dropcap", "html": "“None has the right to be worshipped but Allah, and Muhammad is the Messenger of Allah.” The shahada is the door into Islam and its constant renewal — spoken with the tongue, believed in the heart, lived by the limbs. Allah Himself testifies to it, and so do the angels and those of knowledge."},
+              {"t": "p", "cls": "arabic", "html": "أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللَّهِ"},
               {"t": "verse",
                 "ref": "Quran 3:18",
                 "arabic": "شَهِدَ ٱللَّهُ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّا هُوَ وَٱلْمَلَـٰٓئِكَةُ وَأُو۟لُوا۟ ٱلْعِلْمِ قَآئِمًۢا بِٱلْقِسْطِ ۚ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
@@ -207,7 +208,7 @@ export const foundations = {
         ]
       }
     ],
-    "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this guide is from the Quran — Surah Al-Baqarah (2:43, 2:183), Surah Ali ‘Imran (3:18, 3:97) and Surah At-Tawbah (9:103) — with the five pillars named in Sahih al-Bukhari 8. Where revelation is silent, we stay silent.</p>\n      ",
+    "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this guide is from the Quran — Surah Al-Baqarah (2:43, 2:183), Surah Ali ‘Imran (3:18, 3:97) and Surah At-Tawbah (9:103) — with the five pillars named in Sahih al-Bukhari 8.</p>\n      ",
     "prevNext": [{"label": "Previous guide", "title": "The Six Articles of Faith", "href": "?p=iman", "arrow": "back"}, {"label": "Next guide", "title": "The Standardization of the Quran", "href": "?p=quran", "arrow": "next"}]
   },
   quran: {
@@ -371,7 +372,7 @@ export const foundations = {
         ]
       }
     ],
-    "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this guide is from the Quran &mdash; Surah Al-Hijr (15:9) &mdash; and from Sahih al-Bukhari: 4986 (the gathering under Abu Bakr, narrated by Zayd ibn Thabit), 4987 (the standardization under Uthman, narrated by Anas ibn Malik), 4992 (the seven ahruf) and 4998 (Jibreel\u2019s final review). The reasons given for the burning of personal copies follow the explanation of the classical scholars. Where the sources are silent, we stay silent.</p>\n      ",
+    "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this guide is from the Quran &mdash; Surah Al-Hijr (15:9) &mdash; and from Sahih al-Bukhari: 4986 (the gathering under Abu Bakr, narrated by Zayd ibn Thabit), 4987 (the standardization under Uthman, narrated by Anas ibn Malik), 4992 (the seven ahruf) and 4998 (Jibreel\u2019s final review). The reasons given for the burning of personal copies follow the explanation of the classical scholars.</p>\n      ",
     "prevNext": [{"label": "Previous guide", "title": "The Five Pillars of Islam", "href": "?p=pillars", "arrow": "back"}]
   },
 };

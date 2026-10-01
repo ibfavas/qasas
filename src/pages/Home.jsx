@@ -244,8 +244,7 @@ export function HomePage() {
               </p>
               <p className="reveal" data-delay="3">
                 Every chapter shows its sources: the Arabic text of each verse, the Saheeh International translation,
-                and the exact surah and verse number. Where the Quran is silent, we stay silent — no invented
-                dialogue, no embellished details.
+                and the exact surah and verse number — no invented dialogue, no embellished details.
               </p>
               <p className="reveal" data-delay="3">
                 Qasas ul-Huda is a free educational project. It carries no ads and sells nothing; knowledge of the prophets
