@@ -7,7 +7,10 @@ export const chapter = {
   "hero": {
     "plaque": "Chapter III",
     "title": "Nuh (AS) — The Ark and the Flood",
-    "sub": "Nine hundred and fifty years of calling, one ship built under Allah’s observation, and the flood that answered."
+    "sub": "Nine hundred and fifty years of calling, one ship built under Allah’s observation, and the flood that answered.",
+    "img": "../assets/nuh-ark.webp",
+    "imgAlt": "A great wooden ark floating on endless floodwaters beneath a stormy dawn sky",
+    "caption": "The ark — “We carried him on planks and nails, sailing under Our observation.” (Quran 54:13-14)"
   },
   "railLabels": [
     "A Warner Sent",
