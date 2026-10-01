@@ -17,11 +17,13 @@ function Hero({ hero }) {
         {hero.sub}
       </p>
       <RuleStar />
-      <figure className="story-figure reveal" data-delay="2">
-        <img src={hero.img} alt={hero.imgAlt} fetchPriority="high" />
-        <figcaption>{hero.caption}</figcaption>
-        <IllustrationNote />
-      </figure>
+      {hero.img ? (
+        <figure className="story-figure reveal" data-delay="2">
+          <img src={hero.img} alt={hero.imgAlt} fetchPriority="high" />
+          <figcaption>{hero.caption}</figcaption>
+          <IllustrationNote />
+        </figure>
+      ) : null}
     </header>
   );
 }

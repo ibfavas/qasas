@@ -3,10 +3,7 @@ export const chapter = {
   "hero": {
     "plaque": "Chapter I",
     "title": "Adam (AS) — The First Man",
-    "sub": "From the first announcement to the first murder — the whole story as the Quran tells it.",
-    "img": "../assets/adam-garden.webp",
-    "imgAlt": "The Garden — where the first test of mankind began.",
-    "caption": "The Garden — where the first test of mankind began."
+    "sub": "From the first announcement to the first murder — the whole story as the Quran tells it."
   },
   "railLabels": [
     "The Announcement",
