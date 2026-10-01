@@ -2,7 +2,7 @@
 import { useState, Fragment } from 'react';
 import { SceneDivider } from './chrome.jsx';
 
-const html = (s) => ({ __html: s });
+export const html = (s) => ({ __html: s });
 
 export function Verse({ v }) {
   return (
