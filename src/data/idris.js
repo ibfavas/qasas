@@ -157,7 +157,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "On the Night Journey, the Prophet &#xFDFD; ascended through the seven heavens, meeting a prophet in each. In the fourth heaven, he met Idris &mdash; and the two prophets of Allah greeted one another as brothers."
+          "html": "On the Night Journey, the Prophet &#xFDFA; ascended through the seven heavens, meeting a prophet in each. In the fourth heaven, he met Idris &mdash; and the two prophets of Allah greeted one another as brothers."
         },
         {
           "t": "hadith",
@@ -170,7 +170,7 @@ export const chapter = {
           "t": "vignette",
           "img": "../assets/idris-heaven.webp",
           "alt": "Concentric celestial spheres glowing with stars",
-          "caption": "The fourth heaven &mdash; where the Prophet &#xFDFD; met Idris on the Night Journey."
+          "caption": "The fourth heaven &mdash; where the Prophet &#xFDFA; met Idris on the Night Journey."
         }
       ]
     }
@@ -180,7 +180,7 @@ export const chapter = {
     "<strong>Truthfulness is the prophets&rsquo; mark.</strong> Before anything else is said of Idris, Allah calls him a man of truth &mdash; and then a prophet. (Quran 19:56)",
     "<strong>Allah raises the righteous.</strong> High station is not taken; it is given &mdash; &ldquo;We raised him to a high station.&rdquo; (Quran 19:57)",
     "<strong>Patience ends in mercy.</strong> Idris is named among the patient &mdash; and the patient are admitted into Allah&rsquo;s mercy. (Quran 21:85-86)",
-    "<strong>The prophets honour one another.</strong> In the fourth heaven, Idris greeted the Prophet &#xFDFD;: &ldquo;You are welcomed, O brother and Prophet.&rdquo; (Sahih al-Bukhari 3207)"
+    "<strong>The prophets honour one another.</strong> In the fourth heaven, Idris greeted the Prophet &#xFDFA;: &ldquo;You are welcomed, O brother and Prophet.&rdquo; (Sahih al-Bukhari 3207)"
   ],
   "quiz": [
     {
@@ -194,7 +194,7 @@ export const chapter = {
       "ref": "Quran 19:56"
     },
     {
-      "q": "In which heaven did the Prophet &#xFDFD; meet Idris on the Night Journey?",
+      "q": "In which heaven did the Prophet &#xFDFA; meet Idris on the Night Journey?",
       "options": [
         "The second",
         "The fourth",
