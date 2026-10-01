@@ -5,9 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview --port 8902",
-    "deploy": "npm run build && cp dist/src/templates/index.html ./index.html && sed -i \"s|\\.\\./\\.\\./assets/|./assets/|g\" index.html && mkdir -p stories assets && cp dist/src/templates/stories/index.html stories/index.html && sed -i \"s|\\.\\./\\.\\./\\.\\./assets/|../assets/|g\" stories/index.html && rm -f assets/*.js && cp -r dist/assets/. assets/ && echo DEPLOYED"
+    "build": "vite build && node scripts/finalize-dist.mjs",
+    "preview": "vite preview --port 8902"
   },
   "repository": {
     "type": "git",

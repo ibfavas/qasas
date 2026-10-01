@@ -6,8 +6,8 @@ import { fileURLToPath } from 'url';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 // Multi-page app: home + one dynamic story page (content switches by ?p=).
-// Build goes to dist/, then `npm run deploy` syncs the built files to the
-// repo root, because GitHub Pages serves this repo from the branch root.
+// `npm run build` emits a directly servable site into dist/ (finalized by
+// scripts/finalize-dist.mjs), which Cloudflare Pages uses as its build output.
 export default defineConfig({
   plugins: [react()],
   base: './',
