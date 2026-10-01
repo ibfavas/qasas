@@ -4,7 +4,7 @@ export function HomeNav() {
   return (
     <nav className="nav nav-centered" aria-label="Main navigation">
       <div className="nav-inner">
-        <a className="brand" href="index.html" aria-label="QASAS home">
+        <a className="brand" href="index.html" aria-label="Qasas ul-Huda home">
           <img src="assets/brand/logo.png" alt="" width="40" height="40" />
         </a>
         <ul className="nav-links">
@@ -23,9 +23,9 @@ export function StoryNav() {
   return (
     <nav className="nav" aria-label="Main navigation">
       <div className="nav-inner">
-        <a className="brand" href="../index.html" aria-label="QASAS home">
+        <a className="brand" href="../index.html" aria-label="Qasas ul-Huda home">
           <img src="../assets/brand/logo.png" alt="" width="26" height="26" />
-          QASAS
+          Qasas ul-Huda
         </a>
         <ul className="nav-links">
           <li><a href="../index.html#stories">Stories</a></li>
@@ -40,8 +40,8 @@ export function StoryNav() {
 export function Footer() {
   return (
     <footer>
-      <div className="fbrand">QASAS</div>
-      <p>Stories of the Prophets</p>
+      <div className="fbrand">Qasas ul-Huda</div>
+      <p>Stories of Guidance</p>
       <p>Translations: Saheeh International via quran.com · Arabic: Uthmani script</p>
       <p>A free educational project — not for sale, not for profit.</p>
     </footer>

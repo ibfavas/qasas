@@ -1,5 +1,5 @@
 {
-  "name": "qasas",
+  "name": "qasas-ul-huda",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ibfavas/qasas.git"
+    "url": "git+https://github.com/ibfavas/qasas-ul-huda.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ibfavas/qasas/issues"
+    "url": "https://github.com/ibfavas/qasas-ul-huda/issues"
   },
-  "homepage": "https://github.com/ibfavas/qasas#readme",
+  "homepage": "https://github.com/ibfavas/qasas-ul-huda#readme",
   "dependencies": {
     "@vitejs/plugin-react": "^6.1.1",
     "react": "^19.3.0",

@@ -1,4 +1,4 @@
-/* QASAS — illuminated manuscript theme. Phase 1. */
+/* Qasas ul-Huda — illuminated manuscript theme. Phase 1. */
 
 :root {
   --parchment: #f7f1e3;
@@ -558,7 +558,7 @@ footer p { margin: 6px 0; }
 
 img { max-width: 100%; }
 
-/* ================= QASAS Phase 2 — storybook chapters ================= */
+/* ================= Qasas ul-Huda Phase 2 — storybook chapters ================= */
 
 /* Page fade (JS-gated: html.js added by script, so no-JS never hides content) */
 html.js body { opacity: 0; }
@@ -947,7 +947,7 @@ body::after {
   .scene-divider svg, .scene .vignette { transform: none !important; }
 }
 
-/* ================= QASAS v3 — framed manuscript homepage ================= */
+/* ================= Qasas ul-Huda v3 — framed manuscript homepage ================= */
 
 /* Centered nav, letterspaced links with diamond-dot separators */
 .nav-centered .nav-inner { justify-content: flex-start; max-width: 1280px; }

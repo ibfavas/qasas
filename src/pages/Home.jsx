@@ -1,4 +1,4 @@
-/* Homepage v4 — original illuminated cover. All artwork generated for QASAS. */
+/* Homepage v4 — original illuminated cover. All artwork generated for Qasas ul-Huda. */
 import { HomeNav, Footer, ColophonRule } from '../components/chrome.jsx';
 import { prophets } from '../data/prophets.js';
 import { useSiteEffects } from '../hooks/effects.js';
@@ -88,10 +88,10 @@ export function HomePage() {
             A free illuminated manuscript
           </p>
           <h1 className="hero-title reveal" data-delay="1">
-            QASAS
+            Qasas ul-Huda
           </h1>
           <p className="hero-night-sub reveal" data-delay="2">
-            Stories of the Prophets
+            Stories of Guidance
           </p>
           <p className="hero-night-lede reveal" data-delay="3">
             Twenty-five lives, one thread of guidance — told from the verses themselves, with nothing added and
@@ -184,7 +184,7 @@ export function HomePage() {
           </div>
         </section>
 
-        <section className="section pillars" aria-label="What QASAS offers">
+        <section className="section pillars" aria-label="What Qasas ul-Huda offers">
           <div className="wrap">
             <div className="pillar-grid">
               {PILLARS.map((p, i) => (
@@ -240,12 +240,12 @@ export function HomePage() {
           <div className="wrap">
             <p className="kicker reveal">About</p>
             <h2 className="section-title reveal" data-delay="1">
-              Why QASAS exists
+              Why Qasas ul-Huda exists
             </h2>
             <div className="narrative">
               <p className="reveal dropcap" data-delay="2">
                 The Quran calls the stories of the messengers a reminder and a lesson for people of understanding.
-                QASAS is an attempt to gather those stories in one place — told plainly, anchored in the verses
+                Qasas ul-Huda is an attempt to gather those stories in one place — told plainly, anchored in the verses
                 themselves, and designed with the reverence they deserve.
               </p>
               <p className="reveal" data-delay="3">
@@ -254,7 +254,7 @@ export function HomePage() {
                 dialogue, no embellished details.
               </p>
               <p className="reveal" data-delay="3">
-                QASAS is a free educational project. It carries no ads and sells nothing; knowledge of the prophets
+                Qasas ul-Huda is a free educational project. It carries no ads and sells nothing; knowledge of the prophets
                 should reach everyone.
               </p>
             </div>
@@ -268,7 +268,7 @@ export function HomePage() {
               Where every word comes from
             </h2>
             <p className="lede reveal" data-delay="2">
-              QASAS adds nothing of its own to the sources. Read them yourself — every verse and hadith on this site
+              Qasas ul-Huda adds nothing of its own to the sources. Read them yourself — every verse and hadith on this site
               links back to where it was verified.
             </p>
             <div className="resource-grid">
@@ -305,7 +305,7 @@ export function HomePage() {
           <div className="colophon reveal">
             <p className="kicker">Colophon</p>
             <p>
-              QASAS is set by hand in Cormorant Garamond and EB Garamond, with Amiri for the Arabic of the Quran.
+              Qasas ul-Huda is set by hand in Cormorant Garamond and EB Garamond, with Amiri for the Arabic of the Quran.
               Every verse was copied from the mushaf and checked word for word; every hadith was verified on
               Sunnah.com, and each one links back to its source.
             </p>

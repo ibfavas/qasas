@@ -1,5 +1,5 @@
 /* Single story page: one URL, content switches by the prophet chosen.
-   /qasas/stories/?p=adam  or  /qasas/stories/?p=yusuf  (hash #adam also works) */
+   /stories/?p=adam  or  /stories/?p=yusuf  (hash #adam also works) */
 import { createRoot } from 'react-dom/client';
 import { useEffect } from 'react';
 import { ChapterPage } from '../pages/Chapter.jsx';
@@ -27,10 +27,10 @@ function StoryIndex() {
       <main className="story-index">
         <Headpiece />
         <p className="reveal">
-          <span className="chapter-plaque">QASAS</span>
+          <span className="chapter-plaque">Qasas ul-Huda</span>
         </p>
         <h1 className="antique-gold reveal" data-delay="1">
-          Stories of the Prophets
+          Stories of Guidance
         </h1>
         <RuleStar />
         <ul className="story-index-list reveal" data-delay="2">
@@ -53,7 +53,7 @@ function StoryApp() {
   const slug = slugFromUrl();
   const chapter = slug ? chapters[slug] : null;
   useEffect(() => {
-    document.title = chapter ? chapter.hero.title + ' \u00b7 QASAS' : 'Stories of the Prophets \u00b7 QASAS';
+    document.title = chapter ? chapter.hero.title + ' \u00b7 Qasas ul-Huda' : 'Stories of Guidance \u00b7 Qasas ul-Huda';
     if (chapter) window.scrollTo(0, 0);
   }, [slug, chapter]);
   if (!chapter) return <StoryIndex />;
