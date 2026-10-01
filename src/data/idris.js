@@ -93,13 +93,7 @@ export const chapter = {
           "translation": "And We raised him to a high station.",
           "citation": "Surah 19 &middot; Verse 57 &mdash; Saheeh International"
         },
-        {
-          "t": "vignette",
-          "img": "../assets/idris-ascension.webp",
-          "alt": "A column of radiant light ascending through layered starry heavens",
-          "caption": "Raised to a high station &mdash; honour given by Allah, in the way He alone knows."
-        }
-      ]
+              ]
     },
     {
       "id": "scene-4",
@@ -133,13 +127,7 @@ export const chapter = {
           "translation": "And We admitted them into Our mercy. Indeed, they were of the righteous.",
           "citation": "Surah 21 &middot; Verse 86 &mdash; Saheeh International"
         },
-        {
-          "t": "vignette",
-          "img": "../assets/idris-patience.webp",
-          "alt": "A lone ancient tree standing firm against desert winds",
-          "caption": "Of the patient &mdash; and admitted into His mercy."
-        }
-      ]
+              ]
     },
     {
       "id": "scene-5",

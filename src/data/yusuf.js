@@ -86,13 +86,7 @@ export const chapter = {
           "href": "https://sunnah.com/bukhari:3390",
           "label": "Sahih al-Bukhari 3390 &middot; sunnah.com"
         },
-        {
-          "t": "vignette",
-          "img": "../assets/yusuf-dream.webp",
-          "alt": "Eleven bright stars with the sun and moon glowing in a night sky",
-          "caption": "Eleven stars, the sun and the moon &mdash; bowing low in a boy&rsquo;s dream."
-        }
-      ]
+              ]
     },
     {
       "id": "scene-3",
@@ -173,13 +167,7 @@ export const chapter = {
           "translation": "So when they took him [out] and agreed to put him into the bottom of the well... But We inspired to him, &quot;You will surely inform them [someday] about this affair of theirs while they do not perceive [your identity].&quot;",
           "citation": "Surah 12 &middot; Verse 15 &mdash; Saheeh International"
         },
-        {
-          "t": "vignette",
-          "img": "../assets/yusuf-well-book.webp",
-          "alt": "A deep ancient stone well with a rope disappearing into darkness",
-          "caption": "Lowered into the dark bottom of the well &mdash; but never truly alone."
-        }
-      ]
+              ]
     },
     {
       "id": "scene-6",
@@ -206,13 +194,7 @@ export const chapter = {
           "translation": "And there came a company of travelers; then they sent their water drawer, and he let down his bucket. He said, &quot;Good news! Here is a boy.&quot; And they concealed him, [taking him] as merchandise; and Allāh was knowing of what they did.",
           "citation": "Surah 12 &middot; Verse 19 &mdash; Saheeh International"
         },
-        {
-          "t": "vignette",
-          "img": "../assets/yusuf-caravan.webp",
-          "alt": "A camel caravan crossing desert dunes under a rising sun",
-          "caption": "A bucket was lowered for water &mdash; and lifted back up carrying a boy."
-        }
-      ]
+              ]
     },
     {
       "id": "scene-7",
@@ -280,13 +262,7 @@ export const chapter = {
           "translation": "So when he [i.e., her husband] saw his shirt torn from the back, he said, &quot;Indeed, it is of your [i.e., women&#x27;s] plan. Indeed, your plan is great [i.e., vehement].",
           "citation": "Surah 12 &middot; Verse 28 &mdash; Saheeh International"
         },
-        {
-          "t": "vignette",
-          "img": "../assets/yusuf-shirt.webp",
-          "alt": "A simple linen shirt torn at the back, laid upon stone",
-          "caption": "A shirt torn from behind &mdash; the silent witness that Yusuf had been fleeing, not chasing."
-        }
-      ]
+              ]
     },
     {
       "id": "scene-9",
@@ -475,13 +451,7 @@ export const chapter = {
           "translation": "And he raised his parents upon the throne, and they bowed to him in prostration. And he said, &quot;O my father, this is the explanation of my vision of before. My Lord has made it reality. And He was certainly good to me when He took me out of prison and brought you [here] from bedouin life after Satan had induced [estrangement] between me and my brothers. Indeed, my Lord is Subtle in what He wills. Indeed, it is He who is the Knowing, the Wise.",
           "citation": "Surah 12 &middot; Verse 100 &mdash; Saheeh International"
         },
-        {
-          "t": "vignette",
-          "img": "../assets/yusuf-reunion.webp",
-          "alt": "An elderly traveller embracing a robed figure, faces unseen, under a starry sky",
-          "caption": "The dream, fulfilled &mdash; eleven stars, the sun and the moon, bowing at last."
-        }
-      ]
+              ]
     },
     {
       "id": "scene-16",

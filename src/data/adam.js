@@ -3,7 +3,10 @@ export const chapter = {
   "hero": {
     "plaque": "Chapter I",
     "title": "Adam (AS) — The First Man",
-    "sub": "From the first announcement to the first murder — the whole story as the Quran tells it."
+    "sub": "From the first announcement to the first murder — the whole story as the Quran tells it.",
+    "img": "../assets/adam-descent.webp",
+    "imgAlt": "Two small distant figures walking down a mountainside path at dawn",
+    "caption": "The descent to earth &mdash; carrying with it a promise of guidance for all who follow it."
   },
   "railLabels": [
     "The Announcement",
@@ -134,13 +137,7 @@ export const chapter = {
           "translation": "And [mention] when We said to the angels, &quot;Prostrate before Adam&quot;; so they prostrated, except for Iblees. He refused and was arrogant and became of the disbelievers.",
           "citation": "Surah 2 &middot; Verse 34 &mdash; Saheeh International"
         },
-        {
-          "t": "vignette",
-          "img": "../assets/adam-sajdah.webp",
-          "alt": "Rows of faceless robed figures bowing low in prostration beneath a vast sky",
-          "caption": "The angels bowed as they were commanded &mdash; all of them, except Iblis, who refused out of pride."
-        }
-      ]
+              ]
     },
     {
       "id": "scene-5",
@@ -194,13 +191,7 @@ export const chapter = {
           "translation": "And &quot;O Adam, dwell, you and your wife, in Paradise and eat from wherever you will but do not approach this tree, lest you be among the wrongdoers.&quot;",
           "citation": "Surah 7 &middot; Verse 19 &mdash; Saheeh International"
         },
-        {
-          "t": "vignette",
-          "img": "../assets/adam-tree.webp",
-          "alt": "A single radiant tree standing apart in a lush green garden at sunrise",
-          "caption": "One tree stood apart in the Garden &mdash; the only thing Adam and his wife were forbidden to approach."
-        }
-      ]
+              ]
     },
     {
       "id": "scene-7",
@@ -322,13 +313,7 @@ export const chapter = {
           "href": "https://sunnah.com/muslim:854",
           "label": "Sahih Muslim 854a &middot; sunnah.com"
         },
-        {
-          "t": "vignette",
-          "img": "../assets/adam-descent.webp",
-          "alt": "Two small distant figures walking down a mountainside path at dawn",
-          "caption": "The descent to earth &mdash; carrying with it a promise of guidance for all who follow it."
-        }
-      ]
+              ]
     },
     {
       "id": "scene-11",
@@ -362,13 +347,7 @@ export const chapter = {
           "translation": "If you should raise your hand toward me to kill me - I shall not raise my hand toward you to kill you. Indeed, I fear Allāh, Lord of the worlds.",
           "citation": "Surah 5 &middot; Verse 28 &mdash; Saheeh International"
         },
-        {
-          "t": "vignette",
-          "img": "../assets/adam-offerings.webp",
-          "alt": "Two simple stone altars in a field, one touched by a beam of light",
-          "caption": "Two offerings were made &mdash; one was accepted, and the other was not."
-        }
-      ]
+              ]
     },
     {
       "id": "scene-12",
@@ -409,13 +388,7 @@ export const chapter = {
           "href": "https://sunnah.com/bukhari:3335",
           "label": "Sahih al-Bukhari 3335 &middot; sunnah.com"
         },
-        {
-          "t": "vignette",
-          "img": "../assets/adam-crow.webp",
-          "alt": "A black crow scratching at desert earth beside a still, shrouded figure",
-          "caption": "A crow scratching the earth &mdash; sent to teach the first murderer how to hide his brother."
-        }
-      ]
+              ]
     },
     {
       "id": "scene-13",
