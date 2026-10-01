@@ -568,9 +568,9 @@ export const chapter = {
       "arrow": "back"
     },
     {
-      "href": "?p=yusuf",
-      "label": "Next chapter — XI",
-      "title": "Yusuf (AS) — The Dream Fulfilled",
+      "href": "?p=hud",
+      "label": "Next chapter — IV",
+      "title": "Hud (AS) — The Barren Wind",
       "arrow": "next"
     }
   ]

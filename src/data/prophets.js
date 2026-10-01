@@ -31,20 +31,20 @@ export const prophets = [
     "pname": "Nuh (AS)"
   },
   {
-    "tag": "span",
-    "soon": true,
-    "href": null,
-    "aria": null,
+    "tag": "a",
+    "soon": false,
+    "href": "stories/?p=hud",
+    "aria": "Read the story of Hud",
     "svgAttrs": " fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"",
     "svgInner": "<path d=\"M6 16h18a6 6 0 1 0-6-6\"/><path d=\"M6 24h30a6 6 0 1 1-6 6\"/><path d=\"M6 32h14\"/>",
     "pnum": "IV",
     "pname": "Hud (AS)"
   },
   {
-    "tag": "span",
-    "soon": true,
-    "href": null,
-    "aria": null,
+    "tag": "a",
+    "soon": false,
+    "href": "stories/?p=salih",
+    "aria": "Read the story of Salih",
     "svgAttrs": " fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"",
     "svgInner": "<path d=\"M10 38L18 14l8 8 8-12 6 28z\"/><path d=\"M27 22l-3 8 4 4\"/>",
     "pnum": "V",

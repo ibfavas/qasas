@@ -522,9 +522,9 @@ export const chapter = {
   ],
   "prevNext": [
     {
-      "href": "?p=nuh",
-      "label": "Previous chapter — III",
-      "title": "Nuh (AS) — The Ark and the Flood",
+      "href": "?p=salih",
+      "label": "Previous chapter — V",
+      "title": "Salih (AS) — The She-Camel of Allah",
       "arrow": "back"
     },
     {

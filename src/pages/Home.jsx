@@ -125,7 +125,7 @@ export function HomePage() {
               Open chapters
             </h2>
             <p className="lede reveal" data-delay="2">
-              Four stories are ready to read. The rest of the manuscript is being written — each verse verified before
+              Six stories are ready to read. The rest of the manuscript is being written — each verse verified before
               it is set down.
             </p>
             <div className="story-cards">
@@ -205,8 +205,8 @@ export function HomePage() {
               The prophets in order
             </h2>
             <p className="lede reveal" data-delay="2">
-              Twenty-five messengers, from the first to the last. Chapters open as they are written — Adam and Yusuf
-              are ready to read.
+              Twenty-five messengers, from the first to the last. Chapters open as they are written — Adam, Idris,
+              Nuh, Hud, Salih and Yusuf are ready to read.
             </p>
             <div className="timeline-rail reveal" data-delay="2" role="list" aria-label="Prophets in chronological order">
               {prophets.map((p, i) => (
