@@ -133,9 +133,9 @@ function parseChapter(file) {
 }
 
 function emit(name, data) {
-  const out = `/* ${name} chapter data — extracted verbatim from stories/${name}.html. Do not hand-edit; re-run scripts/extract-chapters.js. */\nexport const chapter = ${JSON.stringify(data, null, 2)};\n`;
+  const out = `/* ${name} chapter data: extracted verbatim from stories/${name}.html. Do not hand-edit; re-run scripts/extract-chapters.js. */\nexport const chapter = ${JSON.stringify(data, null, 2)};\n`;
   fs.writeFileSync(path.join(__dirname, '..', 'src', 'data', `${name}.js`), out);
-  console.log(`wrote src/data/${name}.js — ${data.scenes.length} scenes, ${data.quiz.length} quiz Qs`);
+  console.log(`wrote src/data/${name}.js: ${data.scenes.length} scenes, ${data.quiz.length} quiz Qs`);
 }
 
 fs.mkdirSync(path.join(__dirname, '..', 'src', 'data'), { recursive: true });

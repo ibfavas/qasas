@@ -1,4 +1,4 @@
-/* Qasas ul-Huda — illuminated manuscript theme. Phase 1. */
+/* Qasas ul-Huda: illuminated manuscript theme. Phase 1. */
 
 :root {
   --parchment: #f7f1e3;
@@ -558,7 +558,7 @@ footer p { margin: 6px 0; }
 
 img { max-width: 100%; }
 
-/* ================= Qasas ul-Huda Phase 2 — storybook chapters ================= */
+/* ================= Qasas ul-Huda Phase 2: storybook chapters ================= */
 
 /* Page fade (JS-gated: html.js added by script, so no-JS never hides content) */
 html.js body { opacity: 0; }
@@ -593,7 +593,7 @@ html.js body.leaving { opacity: 0; transition: opacity 0.28s ease; }
   max-width: 640px; margin: 14px auto 0;
 }
 
-/* Antique gold display title — flat, muted, letterpress (no gradient text) */
+/* Antique gold display title: flat, muted, letterpress (no gradient text) */
 .antique-gold { color: #93712c; text-shadow: 0 1px 0 rgba(255, 252, 240, 0.55), 0 -1px 1px rgba(74, 58, 32, 0.22); }
 .honorific { font-size: 0.62em; letter-spacing: 0.08em; }
 
@@ -667,7 +667,7 @@ p.dropcap::first-letter {
   padding: 6px 12px 0 0; color: var(--gold-deep);
 }
 
-/* Verse panel — midnight ink, gold Arabic */
+/* Verse panel: midnight ink, gold Arabic */
 .verse {
   background: linear-gradient(170deg, #1c1926 0%, #262134 100%);
   border: 1px solid var(--gold);
@@ -820,7 +820,7 @@ p.dropcap::first-letter {
   .story-card:hover .thumb img { transform: none; }
 }
 
-/* ---------- Hadith panel — deep espresso/olive, distinct from verse panels ---------- */
+/* ---------- Hadith panel: deep espresso/olive, distinct from verse panels ---------- */
 .hadith {
   max-width: 760px; margin: 38px auto;
   background: linear-gradient(168deg, #2c2314 0%, #3a2e1a 60%, #332818 100%);
@@ -865,7 +865,7 @@ p.dropcap::first-letter {
   .hadith { transition: none !important; }
 }
 
-/* ============ Phase 2.1 — hand-crafted manuscript language ============ */
+/* ============ Phase 2.1: hand-crafted manuscript language ============ */
 
 /* Soft vignette over the page, like an aged folio */
 body::after {
@@ -873,14 +873,14 @@ body::after {
   background: radial-gradient(ellipse at 50% 42%, transparent 52%, rgba(74, 58, 32, 0.11) 100%);
 }
 
-/* Aged paper is never uniform — slight tint variation per card */
+/* Aged paper is never uniform: slight tint variation per card */
 .intro-card:nth-child(2) { background: #faf4e4; }
 .intro-card:nth-child(3) { background: #f7efdb; }
 .story-card:nth-child(2) .card-body { background: #faf4e4; }
 .lessons li:nth-child(2n) { background: #faf5e7; }
 .lessons li:nth-child(3n) { background: #f8f1de; }
 
-/* Chapter headpiece — small hand-set fleuron row */
+/* Chapter headpiece: small hand-set fleuron row */
 .headpiece { display: flex; justify-content: center; margin: 6px 0 18px; }
 .headpiece svg { width: 210px; height: 24px; }
 .headpiece line { stroke: #a8842f; stroke-width: 1.1; }
@@ -888,7 +888,7 @@ body::after {
 .headpiece .dia-fill { fill: #a8842f; }
 .headpiece circle { fill: #a8842f; }
 
-/* Hand-drawn scene dividers — thin rules, central diamond, fractional rotation */
+/* Hand-drawn scene dividers: thin rules, central diamond, fractional rotation */
 .scene-divider { display: flex; justify-content: center; margin: 44px 0 6px; }
 .scene-divider svg { width: 250px; height: 20px; }
 .scene-divider line { stroke: #b39a55; stroke-width: 1; }
@@ -916,7 +916,7 @@ body::after {
   font-family: 'EB Garamond', Georgia, serif; font-style: italic;
 }
 
-/* Story index — the single story page when no prophet is chosen */
+/* Story index: the single story page when no prophet is chosen */
 .story-index { max-width: 720px; margin: 0 auto; padding: 110px 22px 90px; text-align: center; }
 .story-index h1 { font-size: clamp(2.1rem, 5vw, 3.1rem); margin: 18px 0 6px; }
 .story-index-list { list-style: none; margin: 42px auto 0; padding: 0; max-width: 540px; text-align: left; }
@@ -929,7 +929,7 @@ body::after {
 .story-index-list .pn-label { display: block; margin-bottom: 4px; }
 .story-index-list .pn-title { font-size: 1.35rem; }
 
-/* Colophon — the hand-set note at the end of the book */
+/* Colophon: the hand-set note at the end of the book */
 .colophon {
   max-width: 680px; margin: 0 auto; text-align: center;
   border-top: 3px double var(--gold); border-bottom: 1px solid var(--rule);
@@ -947,7 +947,7 @@ body::after {
   .scene-divider svg, .scene .vignette { transform: none !important; }
 }
 
-/* ================= Qasas ul-Huda v3 — framed manuscript homepage ================= */
+/* ================= Qasas ul-Huda v3: framed manuscript homepage ================= */
 
 /* Centered nav, letterspaced links with diamond-dot separators */
 .nav-centered .nav-inner { justify-content: flex-start; max-width: 1280px; }
@@ -965,7 +965,7 @@ body::after {
   border-bottom: 1px solid transparent; padding-bottom: 2px;
 }
 
-/* Hero v3 — gold title, flourish, wide framed banner */
+/* Hero v3: gold title, flourish, wide framed banner */
 .hero-v3 { text-align: center; padding: 70px 20px 30px; }
 .hero-title {
   font-family: 'Cormorant Garamond', Georgia, serif; font-weight: 600;
@@ -1006,7 +1006,7 @@ body::after {
 .pillar-card h3 { font-size: 1.65rem; margin: 16px 0 10px; }
 .pillar-card p { margin: 0; color: var(--ink-soft); font-size: 1.06rem; }
 
-/* Era strip — exact asset from the reference design */
+/* Era strip: exact asset from the reference design */
 .eras { padding: 30px 0 4px; }
 .era-strip-img { max-width: 1240px; margin: 0 auto; }
 .era-strip-img img { display: block; width: 100%; height: auto; }
@@ -1043,7 +1043,7 @@ body::after {
 }
 
 /* ============================================================
-   Homepage v4 — original illuminated cover (all artwork original)
+   Homepage v4: original illuminated cover (all artwork original)
    ============================================================ */
 
 /* Nav emblem */
@@ -1116,7 +1116,7 @@ body::after {
   color: var(--gold-light);
 }
 
-/* Era journey — seven stations */
+/* Era journey: seven stations */
 .era-journey {
   position: relative; display: flex; justify-content: space-between;
   max-width: 1080px; margin: 46px auto 0; padding: 0 12px;

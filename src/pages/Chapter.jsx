@@ -1,4 +1,4 @@
-/* Chapter page — the locked Adam template, driven by chapter data. */
+/* Chapter page: the locked Adam template, driven by chapter data. */
 import { StoryNav, Footer, Headpiece, RuleStar } from '../components/chrome.jsx';
 import { Scenes, NoteCard, Lessons, Quiz, IllustrationNote, html } from '../components/manuscript.jsx';
 import { useSiteEffects } from '../hooks/effects.js';

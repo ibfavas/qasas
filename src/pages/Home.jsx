@@ -1,4 +1,4 @@
-/* Homepage v4 — original illuminated cover. All artwork generated for Qasas ul-Huda. */
+/* Homepage v4: original illuminated cover. All artwork generated for Qasas ul-Huda. */
 import { HomeNav, Footer, ColophonRule } from '../components/chrome.jsx';
 import { prophets } from '../data/prophets.js';
 import { useSiteEffects } from '../hooks/effects.js';
@@ -59,7 +59,7 @@ const ERAS = [
   { numeral: 'VII', name: 'Legacy' },
 ];
 
-/* 12:101 — copied verbatim from verses.json, the same strings the Yusuf chapter renders. */
+/* 12:101: copied verbatim from verses.json, the same strings the Yusuf chapter renders. */
 const CALLOUT = {
   ar: 'رَبِّ قَدْ ءَاتَيْتَنِى مِنَ ٱلْمُلْكِ وَعَلَّمْتَنِى مِن تَأْوِيلِ ٱلْأَحَادِيثِ ۚ فَاطِرَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ أَنتَ وَلِىِّۦ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ ۖ تَوَفَّنِى مُسْلِمًا وَأَلْحِقْنِى بِٱلصَّـٰلِحِينَ',
   en: 'My Lord, You have given me [something] of sovereignty and taught me of the interpretation of dreams. Creator of the heavens and earth, You are my protector in this world and the Hereafter. Cause me to die a Muslim and join me with the righteous."',
@@ -94,7 +94,7 @@ export function HomePage() {
             Stories of Guidance
           </p>
           <p className="hero-night-lede reveal" data-delay="3">
-            Twenty-five lives, one thread of guidance — told from the verses themselves, with nothing added and
+            Twenty-five lives, one thread of guidance, told from the verses themselves, with nothing added and
             nothing hidden.
           </p>
           <div className="hero-night-ctas reveal" data-delay="4">
@@ -154,7 +154,7 @@ export function HomePage() {
               The prophets in order
             </h2>
             <p className="lede reveal" data-delay="2">
-              Twenty-five messengers, from the first to the last. Chapters open as they are written — Adam, Idris,
+              Twenty-five messengers, from the first to the last. Chapters open as they are written: Adam, Idris,
               Nuh, Hud, Salih and Yusuf are ready to read.
             </p>
             <div className="timeline-rail reveal" data-delay="2" role="list" aria-label="Prophets in chronological order">
@@ -173,7 +173,7 @@ export function HomePage() {
               Beyond the stories
             </h2>
             <p className="lede reveal" data-delay="2">
-              Short articles on the essentials every story stands on — each one verified from the Quran and authentic
+              Short articles on the essentials every story stands on, each one verified from the Quran and authentic
               hadith before it is set down.
             </p>
             <div className="story-cards">
@@ -239,12 +239,12 @@ export function HomePage() {
             <div className="narrative">
               <p className="reveal dropcap" data-delay="2">
                 The Quran calls the stories of the messengers a reminder and a lesson for people of understanding.
-                Qasas ul-Huda is an attempt to gather those stories in one place — told plainly, anchored in the verses
+                Qasas ul-Huda is an attempt to gather those stories in one place, told plainly, anchored in the verses
                 themselves, and designed with the reverence they deserve.
               </p>
               <p className="reveal" data-delay="3">
                 Every chapter shows its sources: the Arabic text of each verse, the Saheeh International translation,
-                and the exact surah and verse number — no invented dialogue, no embellished details.
+                and the exact surah and verse number: no invented dialogue, no embellished details.
               </p>
               <p className="reveal" data-delay="3">
                 Qasas ul-Huda is a free educational project. It carries no ads and sells nothing; knowledge of the prophets
@@ -261,7 +261,7 @@ export function HomePage() {
               Where every word comes from
             </h2>
             <p className="lede reveal" data-delay="2">
-              Qasas ul-Huda adds nothing of its own to the sources. Read them yourself — every verse and hadith on this site
+              Qasas ul-Huda adds nothing of its own to the sources. Read them yourself: every verse and hadith on this site
               links back to where it was verified.
             </p>
             <div className="resource-grid">
@@ -304,7 +304,7 @@ export function HomePage() {
             </p>
             <p>
               This site is free, and it will stay free. There are no advertisements, no trackers, no accounts, and
-              nothing for sale — the stories of the prophets belong to everyone.
+              nothing for sale: the stories of the prophets belong to everyone.
             </p>
             <ColophonRule />
             <p>Set down in 2026. If a verse or a citation is ever wrong here, it will be corrected.</p>

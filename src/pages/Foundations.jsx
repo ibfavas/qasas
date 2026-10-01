@@ -1,4 +1,4 @@
-/* Foundations article page — mirrors the locked chapter template, driven by
+/* Foundations article page: mirrors the locked chapter template, driven by
    article data: hero, intro, numbered sections (verse/hadith blocks), sources
    note, and prev/next between articles. */
 import { StoryNav, Footer, Headpiece, RuleStar } from '../components/chrome.jsx';

@@ -1,4 +1,4 @@
-/* idris chapter data — Idris (AS), Chapter II.
+/* idris chapter data: Idris (AS), Chapter II.
    Follows the locked Adam chapter template: scene-by-scene storybook,
    verse panels (Arabic + Saheeh International), labeled Hadith panels with
    Sunnah.com links, lessons, verse-grounded quiz, and a sources note.
@@ -7,7 +7,7 @@
 export const chapter = {
   "hero": {
     "plaque": "Chapter II",
-    "title": "Idris (AS) — Raised to a High Station",
+    "title": "Idris (AS): Raised to a High Station",
     "sub": "The prophet the Quran mentions in two passages: a man of truth, raised high, and met in the fourth heaven.",
     "img": "../assets/idris-ascension.webp",
     "imgAlt": "A column of radiant light ascending through layered starry heavens",
@@ -44,7 +44,7 @@ export const chapter = {
           "ref": "Quran 19:56",
           "arabic": "وَٱذْكُرْ فِى ٱلْكِتَـٰبِ إِدْرِيسَ ۚ إِنَّهُۥ كَانَ صِدِّيقًا نَّبِيًّا",
           "translation": "And mention in the Book, Idrees. Indeed, he was a man of truth and a prophet.",
-          "citation": "Surah 19 &middot; Verse 56 — Saheeh International"
+          "citation": "Surah 19 &middot; Verse 56 &middot; Saheeh International"
         }
       ]
     },
@@ -91,7 +91,7 @@ export const chapter = {
           "ref": "Quran 19:57",
           "arabic": "وَرَفَعْنَـٰهُ مَكَانًا عَلِيًّا",
           "translation": "And We raised him to a high station.",
-          "citation": "Surah 19 &middot; Verse 57 — Saheeh International"
+          "citation": "Surah 19 &middot; Verse 57 &middot; Saheeh International"
         },
               ]
     },
@@ -118,14 +118,14 @@ export const chapter = {
           "ref": "Quran 21:85",
           "arabic": "وَإِسْمَـٰعِيلَ وَإِدْرِيسَ وَذَا ٱلْكِفْلِ ۖ كُلٌّ مِّنَ ٱلصَّـٰبِرِينَ",
           "translation": "And [mention] Ishmael and Idrees and Dhul-Kifl; all were of the patient.",
-          "citation": "Surah 21 &middot; Verse 85 — Saheeh International"
+          "citation": "Surah 21 &middot; Verse 85 &middot; Saheeh International"
         },
         {
           "t": "verse",
           "ref": "Quran 21:86",
           "arabic": "وَأَدْخَلْنَـٰهُمْ فِى رَحْمَتِنَآ ۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِينَ",
           "translation": "And We admitted them into Our mercy. Indeed, they were of the righteous.",
-          "citation": "Surah 21 &middot; Verse 86 — Saheeh International"
+          "citation": "Surah 21 &middot; Verse 86 &middot; Saheeh International"
         },
               ]
     },
@@ -150,7 +150,7 @@ export const chapter = {
         {
           "t": "hadith",
           "text": "&ldquo;Then we ascended to the 4th heaven and again the same questions and answers were exchanged as in the previous heavens. There I met Idris and greeted him. He said, &lsquo;You are welcomed O brother and Prophet.&rsquo;&rdquo;",
-          "narrator": "&mdash; Narrated Malik bin Sasaa",
+          "narrator": "Narrated Malik bin Sasaa",
           "href": "https://sunnah.com/bukhari:3207",
           "label": "Sahih al-Bukhari 3207 &middot; sunnah.com"
         }
@@ -159,7 +159,7 @@ export const chapter = {
   ],
   "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>The Quran mentions Idris in only two passages: Surah Maryam 19:56-57 and Surah Al-Anbiya 21:85-86. It tells us nothing of his people, his call, or the details of his life. <span class=\"tradition\">Tradition note:</span> later books report many details about him, but they are not from the Quran or from authentic hadith, so this chapter ends where revelation ends, without adding what we do not know.</p>\n      ",
   "lessons": [
-    "<strong>Truthfulness is the prophets&rsquo; mark.</strong> Before anything else is said of Idris, Allah calls him a man of truth — and then a prophet. (Quran 19:56)",
+    "<strong>Truthfulness is the prophets&rsquo; mark.</strong> Before anything else is said of Idris, Allah calls him a man of truth, and then a prophet. (Quran 19:56)",
     "<strong>Allah raises the righteous.</strong> High station is not taken; it is given: &ldquo;We raised him to a high station.&rdquo; (Quran 19:57)",
     "<strong>Patience ends in mercy.</strong> Idris is named among the patient, and the patient are admitted into Allah&rsquo;s mercy. (Quran 21:85-86)",
     "<strong>The prophets honour one another.</strong> In the fourth heaven, Idris greeted the Prophet &#xFDFA;: &ldquo;You are welcomed, O brother and Prophet.&rdquo; (Sahih al-Bukhari 3207)"
@@ -199,14 +199,14 @@ export const chapter = {
   "prevNext": [
     {
       "href": "?p=adam",
-      "label": "Previous chapter — I",
-      "title": "Adam (AS) — The First Man",
+      "label": "Previous chapter: I",
+      "title": "Adam (AS): The First Man",
       "arrow": "back"
     },
     {
       "href": "?p=nuh",
-      "label": "Next chapter — III",
-      "title": "Nuh (AS) — The Ark and the Flood",
+      "label": "Next chapter: III",
+      "title": "Nuh (AS): The Ark and the Flood",
       "arrow": "next"
     }
   ]

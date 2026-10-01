@@ -19,7 +19,7 @@ export function useSiteEffects() {
       loadTimer = setTimeout(markLoaded, 1200); // fallback if load is delayed
     }
 
-    /* bfcache: a page restored from history keeps its frozen DOM — including
+    /* bfcache: a page restored from history keeps its frozen DOM, including
        the fade-out class added on link click. Strip it, or back-navigation
        restores a fully blank (opacity 0) page. */
     const onPageShow = (e) => {

@@ -1,4 +1,4 @@
-/* Prophet rail data — extracted verbatim from index.html. Re-run scripts/extract-prophets.js to refresh. */
+/* Prophet rail data: extracted verbatim from index.html. Re-run scripts/extract-prophets.js to refresh. */
 export const prophets = [
   {
     "tag": "a",

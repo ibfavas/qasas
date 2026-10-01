@@ -13,7 +13,7 @@ function slugFromUrl() {
     const q = new URLSearchParams(window.location.search).get('p');
     if (q && foundations[q] && !foundations[q].soon) return q;
   } catch {
-    /* URLSearchParams unavailable — fall through to hash */
+    /* URLSearchParams unavailable, fall through to hash */
   }
   const hsh = window.location.hash.replace(/^#\/?/, '');
   if (hsh && foundations[hsh] && !foundations[hsh].soon) return hsh;

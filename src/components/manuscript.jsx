@@ -147,11 +147,11 @@ export function Quiz({ questions }) {
                 {qdone &&
                   (picked === q.answer ? (
                     <>
-                      <strong className="correct">Correct.</strong> As the verse says — {q.ref}.
+                      <strong className="correct">Correct.</strong> As the verse says: {q.ref}.
                     </>
                   ) : (
                     <>
-                      <strong className="wrong">Not quite.</strong> The verse says otherwise — see {q.ref} above.
+                      <strong className="wrong">Not quite.</strong> The verse says otherwise, see {q.ref} above.
                     </>
                   ))}
               </p>
@@ -167,7 +167,7 @@ export function Quiz({ questions }) {
           <>
             You answered {correct} of {questions.length} correctly.{' '}
             {correct === questions.length
-              ? 'MashaAllah — the verses are with you.'
+              ? 'MashaAllah, the verses are with you.'
               : 'Read the scenes once more and try again.'}
           </>
         )}

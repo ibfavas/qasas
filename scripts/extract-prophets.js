@@ -40,7 +40,7 @@ const out = opens.map((o, i) => ({
 fs.mkdirSync('src/data', { recursive: true });
 fs.writeFileSync(
   'src/data/prophets.js',
-  '/* Prophet rail data — extracted verbatim from index.html. Re-run scripts/extract-prophets.js to refresh. */\nexport const prophets = ' +
+  '/* Prophet rail data: extracted verbatim from index.html. Re-run scripts/extract-prophets.js to refresh. */\nexport const prophets = ' +
     JSON.stringify(out, null, 2) +
     ';\n'
 );

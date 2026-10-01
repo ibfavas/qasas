@@ -1,4 +1,4 @@
-/* QASAS Phase 2 — calm interactivity for storybook chapters.
+/* QASAS Phase 2: calm interactivity for storybook chapters.
    Vanilla JS. Everything stays gentle; all motion disabled under
    prefers-reduced-motion. */
 (function () {
@@ -138,8 +138,8 @@
           answered += 1;
           if (ok) correct += 1;
           fb.innerHTML = ok
-            ? '<strong class="correct">Correct.</strong> As the verse says &mdash; ' + ref + '.'
-            : '<strong class="wrong">Not quite.</strong> The verse says otherwise &mdash; see ' + ref + ' above.';
+            ? '<strong class="correct">Correct.</strong> As the verse says: ' + ref + '.'
+            : '<strong class="wrong">Not quite.</strong> The verse says otherwise, see ' + ref + ' above.';
           fb.hidden = false;
           if (answered === questions.length && scoreEl) {
             scoreEl.textContent = 'You answered ' + correct + ' of ' + questions.length +

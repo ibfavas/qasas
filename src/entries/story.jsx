@@ -12,7 +12,7 @@ function slugFromUrl() {
     const q = new URLSearchParams(window.location.search).get('p');
     if (q && chapters[q]) return q;
   } catch {
-    /* URLSearchParams unavailable — fall through to hash */
+    /* URLSearchParams unavailable, fall through to hash */
   }
   const h = window.location.hash.replace(/^#\/?/, '');
   if (h && chapters[h]) return h;

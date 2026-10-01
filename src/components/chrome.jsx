@@ -40,7 +40,7 @@ export function Footer() {
       <div className="fbrand">Qasas ul-Huda</div>
       <p>Stories of Guidance</p>
       <p>Translations: Saheeh International via quran.com · Arabic: Uthmani script</p>
-      <p>A free educational project — not for sale, not for profit.</p>
+      <p>A free educational project, not for sale, not for profit.</p>
     </footer>
   );
 }

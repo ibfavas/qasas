@@ -19,7 +19,7 @@ const foundations = path.join(dist, 'src/templates/foundations/index.html');
 // Home page: dist/src/templates/index.html -> dist/index.html
 // Vite rewrote the entry script to ../../assets/... ; from dist/ root it is ./assets/...
 // The public-dir refs (assets/css/..., assets/brand/...) were authored relative
-// to the site root and are already correct — leave them untouched.
+// to the site root and are already correct, leave them untouched.
 let html = await fs.readFile(home, 'utf8');
 html = html.split('../../assets/').join('./assets/');
 await fs.writeFile(path.join(dist, 'index.html'), html);
@@ -27,7 +27,7 @@ await fs.writeFile(path.join(dist, 'index.html'), html);
 // Story page: dist/src/templates/stories/index.html -> dist/stories/index.html
 // Vite rewrote the entry script to ../../../assets/... ; from dist/stories/ it is ../assets/...
 // The public-dir refs (../assets/css/..., ../assets/brand/...) were authored
-// relative to the stories/ dir and are already correct — leave them untouched.
+// relative to the stories/ dir and are already correct, leave them untouched.
 html = await fs.readFile(story, 'utf8');
 html = html.split('../../../assets/').join('../assets/');
 await fs.mkdir(path.join(dist, 'stories'), { recursive: true });
