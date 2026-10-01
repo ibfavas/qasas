@@ -9,10 +9,8 @@ export function HomeNav() {
         </a>
         <ul className="nav-links">
           <li><a href="index.html">Home</a></li>
-          <li><a href="#stories">Stories</a></li>
           <li><a href="#timeline">Timeline</a></li>
-          <li><a href="#resources">Resources</a></li>
-          <li><a href="#about">About</a></li>
+          <li><a href="#foundations">Foundations</a></li>
         </ul>
       </div>
     </nav>
@@ -28,9 +26,8 @@ export function StoryNav() {
           Qasas ul-Huda
         </a>
         <ul className="nav-links">
-          <li><a href="../index.html#stories">Stories</a></li>
           <li><a href="../index.html#timeline">Timeline</a></li>
-          <li><a href="../index.html#about">About</a></li>
+          <li><a href="../index.html#foundations">Foundations</a></li>
         </ul>
       </div>
     </nav>

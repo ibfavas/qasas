@@ -118,57 +118,6 @@ export function HomePage() {
       </div>
 
       <main>
-        <section className="section" id="stories">
-          <div className="wrap">
-            <p className="kicker reveal">Featured Stories</p>
-            <h2 className="section-title reveal" data-delay="1">
-              Open chapters
-            </h2>
-            <p className="lede reveal" data-delay="2">
-              Six stories are ready to read. The rest of the manuscript is being written — each verse verified before
-              it is set down.
-            </p>
-            <div className="story-cards">
-              <a className="story-card reveal" data-delay="1" href="stories/?p=adam">
-                <span className="thumb">
-                  <img
-                    src="assets/adam-descent.webp"
-                    alt="The descent to earth — the beginning of mankind's life in this world"
-                    loading="lazy"
-                  />
-                </span>
-                <span className="card-body">
-                  <span className="chapter-label">Chapter I</span>
-                  <h3>Adam (AS) — The First Man</h3>
-                  <p>
-                    Created as Allah's khalifa on earth, tested in the Garden, and taught the words of repentance that
-                    echo through every generation after him.
-                  </p>
-                  <span className="read-link">Read the story</span>
-                </span>
-              </a>
-              <a className="story-card reveal" data-delay="2" href="stories/?p=yusuf">
-                <span className="thumb">
-                  <img
-                    src="assets/yusuf-well.webp"
-                    alt="An ancient stone well in the desert at dusk, a caravan of camels on the horizon"
-                    loading="lazy"
-                  />
-                </span>
-                <span className="card-body">
-                  <span className="chapter-label">Chapter XI</span>
-                  <h3>Yusuf (AS) — The Dream Fulfilled</h3>
-                  <p>
-                    A boy's dream of eleven stars, a well in the desert, years of patience — and a vision made real
-                    before his father's eyes.
-                  </p>
-                  <span className="read-link">Read the story</span>
-                </span>
-              </a>
-            </div>
-          </div>
-        </section>
-
         <section className="section verse-callout-sec" aria-label="From the Quran">
           <div className="wrap">
             <figure className="verse-callout reveal">
@@ -214,6 +163,42 @@ export function HomePage() {
               ))}
             </div>
             <p className="timeline-hint">Scroll sideways to travel through all twenty-five</p>
+          </div>
+        </section>
+
+        <section className="section" id="foundations">
+          <div className="wrap">
+            <p className="kicker reveal">Foundations</p>
+            <h2 className="section-title reveal" data-delay="1">
+              Beyond the stories
+            </h2>
+            <p className="lede reveal" data-delay="2">
+              Short guides to the essentials every story stands on — being written now, each verified before it is set
+              down.
+            </p>
+            <div className="story-cards">
+              <article className="story-card reveal" data-delay="1">
+                <span className="card-body">
+                  <span className="chapter-label">Guide</span>
+                  <h3>The Six Articles of Faith</h3>
+                  <span className="soon-tag">Being written</span>
+                </span>
+              </article>
+              <article className="story-card reveal" data-delay="2">
+                <span className="card-body">
+                  <span className="chapter-label">Guide</span>
+                  <h3>The Five Pillars of Islam</h3>
+                  <span className="soon-tag">Being written</span>
+                </span>
+              </article>
+              <article className="story-card reveal" data-delay="3">
+                <span className="card-body">
+                  <span className="chapter-label">Guide</span>
+                  <h3>The Standardization of the Quran</h3>
+                  <span className="soon-tag">Being written</span>
+                </span>
+              </article>
+            </div>
           </div>
         </section>
 
