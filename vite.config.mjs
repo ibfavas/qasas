@@ -5,7 +5,8 @@ import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
-// Multi-page app: home + one dynamic story page (content switches by ?p=).
+// Multi-page app: home + one dynamic story page + one dynamic foundations page
+// (each content-switches by ?p=).
 // `npm run build` emits a directly servable site into dist/ (finalized by
 // scripts/finalize-dist.mjs), which Cloudflare Pages uses as its build output.
 export default defineConfig({
@@ -18,6 +19,7 @@ export default defineConfig({
       input: {
         main: resolve(__dirname, 'src/templates/index.html'),
         story: resolve(__dirname, 'src/templates/stories/index.html'),
+        foundations: resolve(__dirname, 'src/templates/foundations/index.html'),
       },
     },
   },
