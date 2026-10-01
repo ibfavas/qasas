@@ -7,12 +7,12 @@ export const foundations = {
     "hero": {
       "plaque": "Foundations",
       "title": "The Six Articles of Faith",
-      "sub": "What a Muslim believes — the six convictions named by the Prophet ﷺ when Jibreel asked him, “Inform me about iman.”",
+      "sub": "What a Muslim believes — the six convictions named by the Prophet ﷺ when Jibreel (AS) asked him, “Inform me about iman.”",
       "img": "../assets/foundations-iman.webp",
       "imgAlt": "A desert of dunes under a star-filled night sky with a crescent moon",
       "caption": "The night sky over silent dunes &mdash; a reminder of the unseen that the six articles affirm."
     },
-    "introHtml": "One day, as the Prophet ﷺ sat with his companions, a man appeared in pure white — no sign of travel on him, yet no one knew him. He asked about Islam, then about iman, then about ihsan, and confirmed every answer: “You have told the truth.” When he left, the Prophet ﷺ said: “He was Jibreel. He came to you in order to instruct you in matters of religion.” His answer about iman named six articles — the six beliefs every Muslim holds, and the ground every story on this site stands on.",
+    "introHtml": "One day, as the Prophet ﷺ sat with his companions, a man appeared in pure white — no sign of travel on him, yet no one knew him. He asked about Islam, then about iman, then about ihsan, and confirmed every answer: “You have told the truth.” When he left, the Prophet ﷺ said: “He was Jibreel (AS). He came to you in order to instruct you in matters of religion.” His answer about iman named six articles — the six beliefs every Muslim holds, and the ground every story on this site stands on.",
     "railLabels": ["Belief in Allah", "Belief in His Angels", "Belief in His Books", "Belief in His Messengers", "Belief in the Last Day", "Belief in Divine Decree"],
     "sections": [
       {
@@ -42,7 +42,7 @@ export const foundations = {
         "blocks": [
               {"t": "kicker", "html": "Article 2 of 6"},
               {"t": "h2", "html": "Belief in His Angels"},
-              {"t": "p", "html": "The Quran names them in the believers’ creed alongside Allah Himself: His angels, His books, His messengers. Among the angels is Jibreel — the one who came in the form of a man to teach the companions their religion, and whose question gave us these six articles."},
+              {"t": "p", "html": "The Quran names them in the believers’ creed alongside Allah Himself: His angels, His books, His messengers. Among the angels is Jibreel (AS) — the one who came in the form of a man to teach the companions their religion, and whose question gave us these six articles."},
               {"t": "verse",
                 "ref": "Quran 2:285",
                 "arabic": "ءَامَنَ ٱلرَّسُولُ بِمَآ أُنزِلَ إِلَيْهِ مِن رَّبِّهِۦ وَٱلْمُؤْمِنُونَ ۚ كُلٌّ ءَامَنَ بِٱللَّهِ وَمَلَـٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِۦ ۚ وَقَالُوا۟ سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ ٱلْمَصِيرُ",
@@ -72,7 +72,7 @@ export const foundations = {
         "blocks": [
               {"t": "kicker", "html": "Article 4 of 6"},
               {"t": "h2", "html": "Belief in His Messengers"},
-              {"t": "p", "html": "Belief in the messengers means affirming all of them — Abraham, Ishmael, Isaac, Jacob, Moses, Jesus, and the prophets — making no distinction between any of them, and submitting to Allah as they taught."},
+              {"t": "p", "html": "Belief in the messengers means affirming all of them — Abraham (AS), Ishmael (AS), Isaac (AS), Jacob (AS), Moses (AS), Jesus (AS), and the prophets — making no distinction between any of them, and submitting to Allah as they taught."},
               {"t": "verse",
                 "ref": "Quran 2:136",
                 "arabic": "قُولُوٓا۟ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْنَا وَمَآ أُنزِلَ إِلَىٰٓ إِبْرَٰهِـۧمَ وَإِسْمَـٰعِيلَ وَإِسْحَـٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطِ وَمَآ أُوتِىَ مُوسَىٰ وَعِيسَىٰ وَمَآ أُوتِىَ ٱلنَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّنْهُمْ وَنَحْنُ لَهُۥ مُسْلِمُونَ",
@@ -111,7 +111,7 @@ export const foundations = {
         ]
       }
     ],
-    "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this article is from the Quran — chiefly Surah Al-Ikhlas (112), Surah Al-Baqarah (2:4, 2:136, 2:177, 2:285) and Surah Al-Qamar (54:49) — with the six articles named in Sahih Muslim 8a, the hadith of Jibreel.</p>\n      ",
+    "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this article is from the Quran — chiefly Surah Al-Ikhlas (112), Surah Al-Baqarah (2:4, 2:136, 2:177, 2:285) and Surah Al-Qamar (54:49) — with the six articles named in Sahih Muslim 8a, the hadith of Jibreel (AS).</p>\n      ",
     "prevNext": [{"label": "Next article", "title": "The Five Pillars of Islam", "href": "?p=pillars", "arrow": "next"}]
   },
   pillars:   {
@@ -199,7 +199,7 @@ export const foundations = {
         "blocks": [
               {"t": "kicker", "html": "Pillar 5 of 5"},
               {"t": "h2", "html": "The Pilgrimage — Hajj"},
-              {"t": "p", "html": "The pilgrimage to the Sacred House in Makkah is due to Allah from whoever is able to find a way — the journey to where Abraham once stood, and safety for whoever enters it."},
+              {"t": "p", "html": "The pilgrimage to the Sacred House in Makkah is due to Allah from whoever is able to find a way — the journey to where Abraham (AS) once stood, and safety for whoever enters it."},
               {"t": "verse",
                 "ref": "Quran 3:97",
                 "arabic": "فِيهِ ءَايَـٰتٌۢ بَيِّنَـٰتٌ مَّقَامُ إِبْرَٰهِيمَ ۖ وَمَن دَخَلَهُۥ كَانَ ءَامِنًا ۗ وَلِلَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًا ۚ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنِ ٱلْعَـٰلَمِينَ",
@@ -246,7 +246,7 @@ export const foundations = {
               {"t": "kicker", "html": "Before the gatherings"},
               {"t": "h2", "html": "Written in His Lifetime"},
               {"t": "p", "html": "The Quran was not first written after the Prophet\u2019s \uFDFa death &mdash; it was written during his life. He had scribes, and Zayd ibn Thabit (RA), who would later be entrusted with both gatherings, was one of them, writing the revelation as it came. The verses lived on palm stalks and thin white stones &mdash; and more securely, in the hearts of the companions who memorized them."},
-              {"t": "p", "html": "And the text was fixed by review. Every Ramadan, Jibreel would go over the whole Quran with the Prophet \uFDFa &mdash; and in his final year, they went over it twice."},
+              {"t": "p", "html": "And the text was fixed by review. Every Ramadan, Jibreel (AS) would go over the whole Quran with the Prophet \uFDFa &mdash; and in his final year, they went over it twice."},
 {"t": "hadith",
       "text": "&ldquo;Gabriel used to repeat the recitation of the Qur\u2019an with the Prophet (\uFDFa) once a year, but he repeated it twice with him in the year he died.&rdquo;",
       "narrator": "&mdash; Narrated Abu Huraira",
@@ -372,7 +372,7 @@ export const foundations = {
         ]
       }
     ],
-    "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this article is from the Quran &mdash; Surah Al-Hijr (15:9) &mdash; and from Sahih al-Bukhari: 4986 (the gathering under Abu Bakr (RA), narrated by Zayd ibn Thabit (RA)), 4987 (the standardization under Uthman (RA), narrated by Anas ibn Malik (RA)), 4992 (the seven ahruf) and 4998 (Jibreel\u2019s final review). The reasons given for the burning of personal copies follow the explanation of the classical scholars.</p>\n      ",
+    "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this article is from the Quran &mdash; Surah Al-Hijr (15:9) &mdash; and from Sahih al-Bukhari: 4986 (the gathering under Abu Bakr (RA), narrated by Zayd ibn Thabit (RA)), 4987 (the standardization under Uthman (RA), narrated by Anas ibn Malik (RA)), 4992 (the seven ahruf) and 4998 (the final review with Jibreel (AS)). The reasons given for the burning of personal copies follow the explanation of the classical scholars.</p>\n      ",
     "prevNext": [{"label": "Previous article", "title": "The Five Pillars of Islam", "href": "?p=pillars", "arrow": "back"}]
   },
 };
