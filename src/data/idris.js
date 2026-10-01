@@ -165,12 +165,6 @@ export const chapter = {
           "narrator": "&mdash; Narrated Malik bin Sasaa",
           "href": "https://sunnah.com/bukhari:3207",
           "label": "Sahih al-Bukhari 3207 &middot; sunnah.com"
-        },
-        {
-          "t": "vignette",
-          "img": "../assets/idris-heaven.webp",
-          "alt": "Concentric celestial spheres glowing with stars",
-          "caption": "The fourth heaven &mdash; where the Prophet &#xFDFA; met Idris on the Night Journey."
         }
       ]
     }
