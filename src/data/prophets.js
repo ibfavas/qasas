@@ -11,10 +11,10 @@ export const prophets = [
     "pname": "Adam (AS)"
   },
   {
-    "tag": "span",
-    "soon": true,
-    "href": null,
-    "aria": null,
+    "tag": "a",
+    "soon": false,
+    "href": "stories/?p=idris",
+    "aria": "Read the story of Idris",
     "svgAttrs": " fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"",
     "svgInner": "<path d=\"M32 6l10 10L26 34l-12-2 2-12z\"/><path d=\"M26 34l-4 6\"/><circle cx=\"33\" cy=\"15\" r=\"1.6\" fill=\"currentColor\" stroke=\"none\"/>",
     "pnum": "II",
