@@ -1,4 +1,4 @@
-/* Single foundations page: one URL, content switches by the guide chosen.
+/* Single foundations page: one URL, content switches by the article chosen.
    /foundations/?p=iman  or  /foundations/?p=pillars  or  /foundations/?p=quran
    (hash #iman also works) */
 import { createRoot } from 'react-dom/client';
@@ -39,7 +39,7 @@ function FoundationsIndex() {
             <li key={slug}>
               {foundations[slug].soon ? (
                 <span className="soon-guide">
-                  <span className="pn-label">Guide · being written</span>
+                  <span className="pn-label">Article · being written</span>
                   <span className="pn-title">{foundations[slug].hero.title}</span>
                 </span>
               ) : (

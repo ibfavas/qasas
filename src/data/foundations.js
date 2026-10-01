@@ -1,5 +1,5 @@
 /* Foundations registry for the single foundations page.
-   Guides: iman, pillars, quran.
+   Articles: iman, pillars, quran.
    Verse panels: Uthmani Arabic + Saheeh International, pulled from the
    Quran.com API. Hadith wordings verified verbatim on sunnah.com. */
 export const foundations = {
@@ -111,8 +111,8 @@ export const foundations = {
         ]
       }
     ],
-    "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this guide is from the Quran — chiefly Surah Al-Ikhlas (112), Surah Al-Baqarah (2:4, 2:136, 2:177, 2:285) and Surah Al-Qamar (54:49) — with the six articles named in Sahih Muslim 8a, the hadith of Jibreel.</p>\n      ",
-    "prevNext": [{"label": "Next guide", "title": "The Five Pillars of Islam", "href": "?p=pillars", "arrow": "next"}]
+    "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this article is from the Quran — chiefly Surah Al-Ikhlas (112), Surah Al-Baqarah (2:4, 2:136, 2:177, 2:285) and Surah Al-Qamar (54:49) — with the six articles named in Sahih Muslim 8a, the hadith of Jibreel.</p>\n      ",
+    "prevNext": [{"label": "Next article", "title": "The Five Pillars of Islam", "href": "?p=pillars", "arrow": "next"}]
   },
   pillars:   {
     "hero": {
@@ -208,8 +208,8 @@ export const foundations = {
         ]
       }
     ],
-    "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this guide is from the Quran — Surah Al-Baqarah (2:43, 2:183), Surah Ali ‘Imran (3:18, 3:97) and Surah At-Tawbah (9:103) — with the five pillars named in Sahih al-Bukhari 8.</p>\n      ",
-    "prevNext": [{"label": "Previous guide", "title": "The Six Articles of Faith", "href": "?p=iman", "arrow": "back"}, {"label": "Next guide", "title": "The Standardization of the Quran", "href": "?p=quran", "arrow": "next"}]
+    "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this article is from the Quran — Surah Al-Baqarah (2:43, 2:183), Surah Ali ‘Imran (3:18, 3:97) and Surah At-Tawbah (9:103) — with the five pillars named in Sahih al-Bukhari 8.</p>\n      ",
+    "prevNext": [{"label": "Previous article", "title": "The Six Articles of Faith", "href": "?p=iman", "arrow": "back"}, {"label": "Next article", "title": "The Standardization of the Quran", "href": "?p=quran", "arrow": "next"}]
   },
   quran: {
     "hero": {
@@ -220,7 +220,7 @@ export const foundations = {
       "imgAlt": "A scribe's desk with blank scrolls, reed pens and an inkwell in warm lamplight",
       "caption": "The scribe\u2019s desk &mdash; blank sheets awaiting the words that would be guarded for fourteen centuries."
     },
-    "introHtml": "Everything in this guide happened after the death of the Prophet \uFDFa &mdash; and that is the point. The revelation was complete, the Messenger \uFDFa was gone, and the young Muslim community faced a question no generation had faced before: how do you guard a Book when the man who received it is no longer among you? What follows is the history of how they answered &mdash; from the battlefield of Yamama to the master codex of Uthman (ra) &mdash; traced through the narrations the community itself preserved.",
+    "introHtml": "Everything in this article happened after the death of the Prophet \uFDFa &mdash; and that is the point. The revelation was complete, the Messenger \uFDFa was gone, and the young Muslim community faced a question no generation had faced before: how do you guard a Book when the man who received it is no longer among you? What follows is the history of how they answered &mdash; from the battlefield of Yamama to the master codex of Uthman (ra) &mdash; traced through the narrations the community itself preserved.",
     "railLabels": ["The Promise", "Written in His Lifetime", "Yamama", "Zayd\u2019s Task", "Custody of the Suhuf", "Hudhayfah\u2019s Warning", "The Committee", "Why Copies Were Burned", "One Text, Everywhere"],
     "sections": [
       {
@@ -372,8 +372,8 @@ export const foundations = {
         ]
       }
     ],
-    "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this guide is from the Quran &mdash; Surah Al-Hijr (15:9) &mdash; and from Sahih al-Bukhari: 4986 (the gathering under Abu Bakr (ra), narrated by Zayd ibn Thabit (ra)), 4987 (the standardization under Uthman (ra), narrated by Anas ibn Malik (ra)), 4992 (the seven ahruf) and 4998 (Jibreel\u2019s final review). The reasons given for the burning of personal copies follow the explanation of the classical scholars.</p>\n      ",
-    "prevNext": [{"label": "Previous guide", "title": "The Five Pillars of Islam", "href": "?p=pillars", "arrow": "back"}]
+    "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this article is from the Quran &mdash; Surah Al-Hijr (15:9) &mdash; and from Sahih al-Bukhari: 4986 (the gathering under Abu Bakr (ra), narrated by Zayd ibn Thabit (ra)), 4987 (the standardization under Uthman (ra), narrated by Anas ibn Malik (ra)), 4992 (the seven ahruf) and 4998 (Jibreel\u2019s final review). The reasons given for the burning of personal copies follow the explanation of the classical scholars.</p>\n      ",
+    "prevNext": [{"label": "Previous article", "title": "The Five Pillars of Islam", "href": "?p=pillars", "arrow": "back"}]
   },
 };
 

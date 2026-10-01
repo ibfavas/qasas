@@ -1,6 +1,6 @@
-/* Foundations guide page — mirrors the locked chapter template, driven by
-   guide data: hero, intro, numbered sections (verse/hadith blocks), sources
-   note, and prev/next between guides. */
+/* Foundations article page — mirrors the locked chapter template, driven by
+   article data: hero, intro, numbered sections (verse/hadith blocks), sources
+   note, and prev/next between articles. */
 import { StoryNav, Footer, Headpiece, RuleStar } from '../components/chrome.jsx';
 import { Scenes, NoteCard, IllustrationNote, html } from '../components/manuscript.jsx';
 import { useSiteEffects } from '../hooks/effects.js';
@@ -32,7 +32,7 @@ function Hero({ hero }) {
 
 function PrevNext({ items }) {
   return (
-    <nav className="prev-next" aria-label="More guides">
+    <nav className="prev-next" aria-label="More articles">
       {items.map((pn, i) => (
         <a className="pn-card" href={pn.href} key={i}>
           {pn.arrow === 'back' && (
@@ -66,7 +66,7 @@ export function FoundationsPage({ guide }) {
       <main>
         <Hero hero={guide.hero} />
         <div className="story-layout">
-          <aside className="scene-rail" aria-label="Guide sections">
+          <aside className="scene-rail" aria-label="Article sections">
             <p className="rail-title">Sections</p>
             <ol>
               {guide.sections.map((s, i) => (
@@ -80,7 +80,7 @@ export function FoundationsPage({ guide }) {
             </ol>
           </aside>
           <div className="story-body">
-            <nav className="chip-rail" aria-label="Guide sections">
+            <nav className="chip-rail" aria-label="Article sections">
               {guide.sections.map((s, i) => (
                 <a href={'#' + s.id} data-scene={i + 1} key={s.id}>
                   {guide.railLabels[i]}
