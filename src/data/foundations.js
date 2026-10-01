@@ -215,12 +215,12 @@ export const foundations = {
     "hero": {
       "plaque": "Foundations",
       "title": "The Standardization of the Quran",
-      "sub": "How the revelation was gathered into one book and guarded for every generation after — the history of the mushaf, from Yamama to Uthman\u2019s master codex.",
+      "sub": "How the revelation was gathered into one book and guarded for every generation after — the history of the mushaf, from Yamama to the master codex of Uthman (ra).",
       "img": "../assets/foundations-quran.webp",
       "imgAlt": "A scribe's desk with blank scrolls, reed pens and an inkwell in warm lamplight",
       "caption": "The scribe\u2019s desk &mdash; blank sheets awaiting the words that would be guarded for fourteen centuries."
     },
-    "introHtml": "Everything in this guide happened after the death of the Prophet \uFDFa &mdash; and that is the point. The revelation was complete, the Messenger \uFDFa was gone, and the young Muslim community faced a question no generation had faced before: how do you guard a Book when the man who received it is no longer among you? What follows is the history of how they answered &mdash; from the battlefield of Yamama to the master codex of Uthman &mdash; traced through the narrations the community itself preserved.",
+    "introHtml": "Everything in this guide happened after the death of the Prophet \uFDFa &mdash; and that is the point. The revelation was complete, the Messenger \uFDFa was gone, and the young Muslim community faced a question no generation had faced before: how do you guard a Book when the man who received it is no longer among you? What follows is the history of how they answered &mdash; from the battlefield of Yamama to the master codex of Uthman (ra) &mdash; traced through the narrations the community itself preserved.",
     "railLabels": ["The Promise", "Written in His Lifetime", "Yamama", "Zayd\u2019s Task", "Custody of the Suhuf", "Hudhayfah\u2019s Warning", "The Committee", "Why Copies Were Burned", "One Text, Everywhere"],
     "sections": [
       {
@@ -245,7 +245,7 @@ export const foundations = {
         "blocks": [
               {"t": "kicker", "html": "Before the gatherings"},
               {"t": "h2", "html": "Written in His Lifetime"},
-              {"t": "p", "html": "The Quran was not first written after the Prophet\u2019s \uFDFa death &mdash; it was written during his life. He had scribes, and Zayd ibn Thabit, who would later be entrusted with both gatherings, was one of them, writing the revelation as it came. The verses lived on palm stalks and thin white stones &mdash; and more securely, in the hearts of the companions who memorized them."},
+              {"t": "p", "html": "The Quran was not first written after the Prophet\u2019s \uFDFa death &mdash; it was written during his life. He had scribes, and Zayd ibn Thabit (ra), who would later be entrusted with both gatherings, was one of them, writing the revelation as it came. The verses lived on palm stalks and thin white stones &mdash; and more securely, in the hearts of the companions who memorized them."},
               {"t": "p", "html": "And the text was fixed by review. Every Ramadan, Jibreel would go over the whole Quran with the Prophet \uFDFa &mdash; and in his final year, they went over it twice."},
 {"t": "hadith",
       "text": "&ldquo;Gabriel used to repeat the recitation of the Qur\u2019an with the Prophet (\uFDFa) once a year, but he repeated it twice with him in the year he died.&rdquo;",
@@ -262,13 +262,13 @@ export const foundations = {
         "blocks": [
               {"t": "kicker", "html": "11 AH &middot; The Riddah Wars"},
               {"t": "h2", "html": "Yamama"},
-              {"t": "p", "cls": "dropcap", "html": "Then came Yamama. In the wars against Musaylima the liar, the Muslim army won &mdash; but at a cost that shook Umar ibn al-Khattab: heavy casualties among the Qurra\u2019, the companions who carried the whole Quran in memory. Umar saw what the next battlefield could take, and he went to Abu Bakr with a proposal no one had made before."},
+              {"t": "p", "cls": "dropcap", "html": "Then came Yamama. In the wars against Musaylima the liar, the Muslim army won &mdash; but at a cost that shook Umar ibn al-Khattab (ra): heavy casualties among the Qurra\u2019, the companions who carried the whole Quran in memory. Umar saw what the next battlefield could take, and he went to Abu Bakr (ra) with a proposal no one had made before."},
 {"t": "hadith",
       "text": "&ldquo;Casualties were heavy among the Qurra\u2019 of the Qur\u2019an (i.e. those who knew the Qur\u2019an by heart) on the day of the Battle of Yamama, and I am afraid that more heavy casualties may take place among the Qurra\u2019 on other battlefields, whereby a large part of the Qur\u2019an may be lost. Therefore I suggest, you (Abu Bakr) order that the Qur\u2019an be collected.&rdquo;",
       "narrator": "&mdash; Umar ibn al-Khattab, narrated by Zayd ibn Thabit",
       "href": "https://sunnah.com/bukhari:4986",
       "label": "Sahih al-Bukhari 4986 &middot; sunnah.com"},
-              {"t": "p", "html": "Abu Bakr hesitated &mdash; &ldquo;How can you do something which Allah\u2019s Apostle did not do?&rdquo; &mdash; but Umar kept urging him, calling it a good project, until Allah opened Abu Bakr\u2019s chest to the idea, as He had opened Umar\u2019s."}
+              {"t": "p", "html": "Abu Bakr (ra) hesitated &mdash; &ldquo;How can you do something which Allah\u2019s Apostle did not do?&rdquo; &mdash; but Umar (ra) kept urging him, calling it a good project, until Allah opened Abu Bakr\u2019s chest to the idea, as He had opened Umar\u2019s."}
         ]
       },
       {
@@ -278,13 +278,13 @@ export const foundations = {
         "blocks": [
               {"t": "kicker", "html": "The first gathering"},
               {"t": "h2", "html": "Zayd\u2019s Task"},
-              {"t": "p", "html": "Abu Bakr summoned Zayd ibn Thabit &mdash; young, trusted, a scribe of the revelation itself &mdash; and laid the weight on him: &ldquo;You are a wise young man and we do not have any suspicion about you, and you used to write the Divine Inspiration for Allah\u2019s Messenger (\uFDFa). So you should search for (the fragmentary scripts of) the Qur\u2019an and collect it in one book.&rdquo;"},
+              {"t": "p", "html": "Abu Bakr (ra) summoned Zayd ibn Thabit (ra) &mdash; young, trusted, a scribe of the revelation itself &mdash; and laid the weight on him: &ldquo;You are a wise young man and we do not have any suspicion about you, and you used to write the Divine Inspiration for Allah\u2019s Messenger (\uFDFa). So you should search for (the fragmentary scripts of) the Qur\u2019an and collect it in one book.&rdquo;"},
 {"t": "hadith",
       "text": "&ldquo;By Allah If they had ordered me to shift one of the mountains, it would not have been heavier for me than this ordering me to collect the Qur\u2019an.&rdquo;",
       "narrator": "&mdash; Zayd ibn Thabit",
       "href": "https://sunnah.com/bukhari:4986",
       "label": "Sahih al-Bukhari 4986 &middot; sunnah.com"},
-              {"t": "p", "html": "Zayd\u2019s method is given in the hadith\u2019s own words: he gathered the Quran from what was written on palm stalks and thin white stones, and from the men who knew it by heart &mdash; every fragment checked against living memory. He searched until he found the last verses of Surah at-Taubah with Abu Khuzaima al-Ansari, and with no one else."},
+              {"t": "p", "html": "Zayd\u2019s method is given in the hadith\u2019s own words: he gathered the Quran from what was written on palm stalks and thin white stones, and from the men who knew it by heart &mdash; every fragment checked against living memory. He searched until he found the last verses of Surah at-Taubah with Abu Khuzaima al-Ansari (ra), and with no one else."},
 {"t": "hadith",
       "text": "&ldquo;So I started looking for the Qur\u2019an and collecting it from (what was written on) palme stalks, thin white stones and also from the men who knew it by heart, till I found the last Verse of Surat at-Tauba (Repentance) with Abi Khuzaima Al-Ansari, and I did not find it with anybody other than him.&rdquo;",
       "narrator": "&mdash; Zayd ibn Thabit",
@@ -299,7 +299,7 @@ export const foundations = {
         "blocks": [
               {"t": "kicker", "html": "The bound sheets"},
               {"t": "h2", "html": "Custody of the Suhuf"},
-              {"t": "p", "html": "The gathered sheets &mdash; the Suhuf &mdash; were bound into one collection. The narration ends the first gathering with a chain of custody, each link named: the complete manuscript remained with Abu Bakr until his death, then with Umar for the rest of his life, then with Hafsa, Umar\u2019s daughter and a widow of the Prophet \uFDFa."},
+              {"t": "p", "html": "The gathered sheets &mdash; the Suhuf &mdash; were bound into one collection. The narration ends the first gathering with a chain of custody, each link named: the complete manuscript remained with Abu Bakr (ra) until his death, then with Umar (ra) for the rest of his life, then with Hafsa (ra), daughter of Umar (ra) and a widow of the Prophet \uFDFa."},
 {"t": "hadith",
       "text": "&ldquo;Then the complete manuscripts (copy) of the Qur\u2019an remained with Abu Bakr till he died, then with Umar till the end of his life, and then with Hafsa, the daughter of Umar.&rdquo;",
       "narrator": "&mdash; Zayd ibn Thabit",
@@ -320,7 +320,7 @@ export const foundations = {
       "narrator": "&mdash; Narrated Umar ibn al-Khattab",
       "href": "https://sunnah.com/bukhari:4992",
       "label": "Sahih al-Bukhari 4992 &middot; sunnah.com"},
-              {"t": "p", "html": "What was a mercy in Arabia became a dispute on distant frontiers. Campaigning with the armies of Sham and Iraq at Arminya and Adharbijan, Hudhayfah ibn al-Yaman heard soldiers declaring one another\u2019s recitation wrong &mdash; and he rode back to Medina in alarm."},
+              {"t": "p", "html": "What was a mercy in Arabia became a dispute on distant frontiers. Campaigning with the armies of Sham and Iraq at Arminya and Adharbijan, Hudhayfah ibn al-Yaman (ra) heard soldiers declaring one another\u2019s recitation wrong &mdash; and he rode back to Medina in alarm."},
 {"t": "hadith",
       "text": "&ldquo;O chief of the Believers! Save this nation before they differ about the Book (Qur\u2019an) as Jews and the Christians did before.&rdquo;",
       "narrator": "&mdash; Hudhayfah ibn al-Yaman, narrated by Anas ibn Malik",
@@ -335,7 +335,7 @@ export const foundations = {
         "blocks": [
               {"t": "kicker", "html": "The second gathering"},
               {"t": "h2", "html": "The Committee and the Master Codex"},
-              {"t": "p", "html": "Uthman acted at once. He sent to Hafsa for the Suhuf &mdash; &ldquo;so that we may compile the Qur\u2019anic materials in perfect copies and return the manuscripts to you&rdquo; &mdash; and appointed four men: Zayd ibn Thabit once more, with three Qurayshis &mdash; Abdullah ibn az-Zubayr, Sa\u2019id ibn al-As, and AbdurRahman ibn Harith ibn Hisham."},
+              {"t": "p", "html": "Uthman (ra) acted at once. He sent to Hafsa (ra) for the Suhuf &mdash; &ldquo;so that we may compile the Qur\u2019anic materials in perfect copies and return the manuscripts to you&rdquo; &mdash; and appointed four men: Zayd ibn Thabit (ra) once more, with three Qurayshis &mdash; Abdullah ibn az-Zubayr (ra), Sa\u2019id ibn al-As (ra), and AbdurRahman ibn Harith ibn Hisham (ra)."},
 {"t": "hadith",
       "text": "&ldquo;In case you disagree with Zaid bin Thabit on any point in the Qur\u2019an, then write it in the dialect of Quraish, the Qur\u2019an was revealed in their tongue.&rdquo;",
       "narrator": "&mdash; Uthman ibn Affan, narrated by Anas ibn Malik",
@@ -358,7 +358,7 @@ export const foundations = {
               {"t": "h2", "html": "Why the Other Copies Were Burned"},
               {"t": "p", "cls": "dropcap", "html": "The burning was not the destruction of the Quran &mdash; it was its protection. The classical scholars explain what those personal copies contained, and why leaving them in circulation would have endangered the text within a generation."},
               {"t": "p", "html": "Many companions kept private notebooks: verses copied for study, with their own explanations, supplications, and commentary written in the margins &mdash; the personal codices associated with men like Abdullah ibn Mas\u2019ud and Ubayy ibn Ka\u2019b. Copied by later hands that could no longer tell the divine words from a companion\u2019s notes, human words would have seeped into scripture."},
-              {"t": "p", "html": "Other fragments carried readings in local dialects, or verses whose recitation had been abrogated &mdash; the very differences that had set the armies of Sham and Iraq arguing. One master codex, transcribed from the Suhuf of Hafsa under Zayd &mdash; who had written the revelation himself &mdash; ended the fragmentation: from that day, a Quran opened in Damascus and a Quran opened in Kufa held the same text."}
+              {"t": "p", "html": "Other fragments carried readings in local dialects, or verses whose recitation had been abrogated &mdash; the very differences that had set the armies of Sham and Iraq arguing. One master codex, transcribed from the Suhuf of Hafsa (ra) under Zayd (ra) &mdash; who had written the revelation himself &mdash; ended the fragmentation: from that day, a Quran opened in Damascus and a Quran opened in Kufa held the same text."}
         ]
       },
       {
@@ -368,11 +368,11 @@ export const foundations = {
         "blocks": [
               {"t": "kicker", "html": "The promise, kept"},
               {"t": "h2", "html": "One Text, Everywhere"},
-              {"t": "p", "html": "That is the whole history: one gathering under Abu Bakr to save the text from loss, one standardization under Uthman to save it from division. The consonantal skeleton they fixed has never changed since &mdash; every mushaf printed today, in Morocco or Indonesia, descends from those master copies. &ldquo;Indeed, it is We who sent down the message, and indeed, We will be its guardian.&rdquo;"}
+              {"t": "p", "html": "That is the whole history: one gathering under Abu Bakr (ra) to save the text from loss, one standardization under Uthman (ra) to save it from division. The consonantal skeleton they fixed has never changed since &mdash; every mushaf printed today, in Morocco or Indonesia, descends from those master copies. &ldquo;Indeed, it is We who sent down the message, and indeed, We will be its guardian.&rdquo;"}
         ]
       }
     ],
-    "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this guide is from the Quran &mdash; Surah Al-Hijr (15:9) &mdash; and from Sahih al-Bukhari: 4986 (the gathering under Abu Bakr, narrated by Zayd ibn Thabit), 4987 (the standardization under Uthman, narrated by Anas ibn Malik), 4992 (the seven ahruf) and 4998 (Jibreel\u2019s final review). The reasons given for the burning of personal copies follow the explanation of the classical scholars.</p>\n      ",
+    "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this guide is from the Quran &mdash; Surah Al-Hijr (15:9) &mdash; and from Sahih al-Bukhari: 4986 (the gathering under Abu Bakr (ra), narrated by Zayd ibn Thabit (ra)), 4987 (the standardization under Uthman (ra), narrated by Anas ibn Malik (ra)), 4992 (the seven ahruf) and 4998 (Jibreel\u2019s final review). The reasons given for the burning of personal copies follow the explanation of the classical scholars.</p>\n      ",
     "prevNext": [{"label": "Previous guide", "title": "The Five Pillars of Islam", "href": "?p=pillars", "arrow": "back"}]
   },
 };
