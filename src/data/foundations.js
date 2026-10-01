@@ -10,7 +10,7 @@ export const foundations = {
       "sub": "What a Muslim believes — the six convictions named by the Prophet ﷺ when Jibreel (AS) asked him, “Inform me about iman.”",
       "img": "../assets/foundations-iman.webp",
       "imgAlt": "A desert of dunes under a star-filled night sky with a crescent moon",
-      "caption": "The night sky over silent dunes &mdash; a reminder of the unseen that the six articles affirm."
+      "caption": "The night sky over silent dunes — a reminder of the unseen that the six articles affirm."
     },
     "introHtml": "One day, as the Prophet ﷺ sat with his companions, a man appeared in pure white — no sign of travel on him, yet no one knew him. He asked about Islam, then about iman, then about ihsan, and confirmed every answer: “You have told the truth.” When he left, the Prophet ﷺ said: “He was Jibreel (AS). He came to you in order to instruct you in matters of religion.” His answer about iman named six articles — the six beliefs every Muslim holds, and the ground every story on this site stands on.",
     "railLabels": ["Belief in Allah", "Belief in His Angels", "Belief in His Books", "Belief in His Messengers", "Belief in the Last Day", "Belief in Divine Decree"],
@@ -32,7 +32,7 @@ export const foundations = {
                 "ref": "Quran 112:1-4",
                 "arabic": "قُلْ هُوَ ٱللَّهُ أَحَدٌ ٱللَّهُ ٱلصَّمَدُ لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
                 "translation": "Say, \"He is Allāh, [who is] One, Allāh, the Eternal Refuge. He neither begets nor is born, Nor is there to Him any equivalent.\"",
-                "citation": "Surah 112 &middot; Verses 1-4 &mdash; Saheeh International"}
+                "citation": "Surah 112 &middot; Verses 1-4 — Saheeh International"}
         ]
       },
       {
@@ -47,7 +47,7 @@ export const foundations = {
                 "ref": "Quran 2:285",
                 "arabic": "ءَامَنَ ٱلرَّسُولُ بِمَآ أُنزِلَ إِلَيْهِ مِن رَّبِّهِۦ وَٱلْمُؤْمِنُونَ ۚ كُلٌّ ءَامَنَ بِٱللَّهِ وَمَلَـٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِۦ ۚ وَقَالُوا۟ سَمِعْنَا وَأَطَعْنَا ۖ غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ ٱلْمَصِيرُ",
                 "translation": "The Messenger has believed in what was revealed to him from his Lord, and [so have] the believers. All of them have believed in Allāh and His angels and His books and His messengers, [saying], \"We make no distinction between any of His messengers.\" And they say, \"We hear and we obey. [We seek] Your forgiveness, our Lord, and to You is the [final] destination.\"",
-                "citation": "Surah 2 &middot; Verse 285 &mdash; Saheeh International"}
+                "citation": "Surah 2 &middot; Verse 285 — Saheeh International"}
         ]
       },
       {
@@ -62,7 +62,7 @@ export const foundations = {
                 "ref": "Quran 2:4",
                 "arabic": "وَٱلَّذِينَ يُؤْمِنُونَ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ وَبِٱلْـَٔاخِرَةِ هُمْ يُوقِنُونَ",
                 "translation": "And who believe in what has been revealed to you, [O Muḥammad], and what was revealed before you, and of the Hereafter they are certain [in faith].",
-                "citation": "Surah 2 &middot; Verse 4 &mdash; Saheeh International"}
+                "citation": "Surah 2 &middot; Verse 4 — Saheeh International"}
         ]
       },
       {
@@ -77,7 +77,7 @@ export const foundations = {
                 "ref": "Quran 2:136",
                 "arabic": "قُولُوٓا۟ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْنَا وَمَآ أُنزِلَ إِلَىٰٓ إِبْرَٰهِـۧمَ وَإِسْمَـٰعِيلَ وَإِسْحَـٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطِ وَمَآ أُوتِىَ مُوسَىٰ وَعِيسَىٰ وَمَآ أُوتِىَ ٱلنَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّنْهُمْ وَنَحْنُ لَهُۥ مُسْلِمُونَ",
                 "translation": "Say, [O believers], \"We have believed in Allāh and what has been revealed to us and what has been revealed to Abraham and Ishmael and Isaac and Jacob and the Descendants [al-Asbāṭ] and what was given to Moses and Jesus and what was given to the prophets from their Lord. We make no distinction between any of them, and we are Muslims [in submission] to Him.\"",
-                "citation": "Surah 2 &middot; Verse 136 &mdash; Saheeh International"}
+                "citation": "Surah 2 &middot; Verse 136 — Saheeh International"}
         ]
       },
       {
@@ -92,7 +92,7 @@ export const foundations = {
                 "ref": "Quran 2:177",
                 "arabic": "۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ",
                 "translation": "Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allāh, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakāh; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.",
-                "citation": "Surah 2 &middot; Verse 177 &mdash; Saheeh International"}
+                "citation": "Surah 2 &middot; Verse 177 — Saheeh International"}
         ]
       },
       {
@@ -102,12 +102,12 @@ export const foundations = {
         "blocks": [
               {"t": "kicker", "html": "Article 6 of 6"},
               {"t": "h2", "html": "Belief in Divine Decree"},
-              {"t": "p", "html": "Nothing happens outside Allah’s knowledge and will. Belief in qadar means affirming that He created all things with measure — the good and the painful alike. Ibn ‘Umar, who reported this hadith, swore that Allah would not accept even a mountain of gold spent in His way from one who denies the Decree."},
+              {"t": "p", "html": "Nothing happens outside Allah’s knowledge and will. Belief in qadar means affirming that He created all things with measure — the good and the painful alike. Ibn ‘Umar, who reported this hadith, swore that Allah would not accept a mountain of gold spent in charity from one who denies the Decree."},
               {"t": "verse",
                 "ref": "Quran 54:49",
                 "arabic": "إِنَّا كُلَّ شَىْءٍ خَلَقْنَـٰهُ بِقَدَرٍ",
                 "translation": "Indeed, all things We created with predestination.",
-                "citation": "Surah 54 &middot; Verse 49 &mdash; Saheeh International"}
+                "citation": "Surah 54 &middot; Verse 49 — Saheeh International"}
         ]
       }
     ],
@@ -121,7 +121,7 @@ export const foundations = {
       "sub": "What a Muslim does — the five practices upon which Islam is built, named by the Prophet ﷺ in a single hadith.",
       "img": "../assets/foundations-pillars.webp",
       "imgAlt": "Five ancient stone pillars standing in a desert valley at dawn",
-      "caption": "A symbolic image &mdash; five stone pillars at dawn, recalling the Prophet&rsquo;s ﷺ words: &ldquo;Islam is built upon five.&rdquo;"
+      "caption": "A symbolic image — five stone pillars at dawn, recalling the Prophet&rsquo;s ﷺ words: &ldquo;Islam is built upon five.&rdquo;"
     },
     "introHtml": "Iman is what the heart holds; Islam is what the limbs carry out. When the Prophet ﷺ was asked what Islam is built upon, he named five things — a testimony, a prayer, a charity, a fast, and a pilgrimage. Five pillars, and the whole religion stands on them.",
     "railLabels": ["The Testimony", "The Prayer", "The Charity", "The Fast", "The Pilgrimage"],
@@ -144,7 +144,7 @@ export const foundations = {
                 "ref": "Quran 3:18",
                 "arabic": "شَهِدَ ٱللَّهُ أَنَّهُۥ لَآ إِلَـٰهَ إِلَّا هُوَ وَٱلْمَلَـٰٓئِكَةُ وَأُو۟لُوا۟ ٱلْعِلْمِ قَآئِمًۢا بِٱلْقِسْطِ ۚ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
                 "translation": "Allāh witnesses that there is no deity except Him, and [so do] the angels and those of knowledge - [that He is] maintaining [creation] in justice. There is no deity except Him, the Exalted in Might, the Wise.",
-                "citation": "Surah 3 &middot; Verse 18 &mdash; Saheeh International"}
+                "citation": "Surah 3 &middot; Verse 18 — Saheeh International"}
         ]
       },
       {
@@ -159,7 +159,7 @@ export const foundations = {
                 "ref": "Quran 2:43",
                 "arabic": "وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَٱرْكَعُوا۟ مَعَ ٱلرَّٰكِعِينَ",
                 "translation": "And establish prayer and give zakāh and bow with those who bow [in worship and obedience].",
-                "citation": "Surah 2 &middot; Verse 43 &mdash; Saheeh International"}
+                "citation": "Surah 2 &middot; Verse 43 — Saheeh International"}
         ]
       },
       {
@@ -174,7 +174,7 @@ export const foundations = {
                 "ref": "Quran 9:103",
                 "arabic": "خُذْ مِنْ أَمْوَٰلِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا وَصَلِّ عَلَيْهِمْ ۖ إِنَّ صَلَوٰتَكَ سَكَنٌ لَّهُمْ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
                 "translation": "Take, [O Muḥammad], from their wealth a charity by which you purify them and cause them increase, and invoke [Allāh's blessings] upon them. Indeed, your invocations are reassurance for them. And Allāh is Hearing and Knowing.",
-                "citation": "Surah 9 &middot; Verse 103 &mdash; Saheeh International"}
+                "citation": "Surah 9 &middot; Verse 103 — Saheeh International"}
         ]
       },
       {
@@ -189,7 +189,7 @@ export const foundations = {
                 "ref": "Quran 2:183",
                 "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلصِّيَامُ كَمَا كُتِبَ عَلَى ٱلَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ",
                 "translation": "O you who have believed, decreed upon you is fasting as it was decreed upon those before you that you may become righteous -",
-                "citation": "Surah 2 &middot; Verse 183 &mdash; Saheeh International"}
+                "citation": "Surah 2 &middot; Verse 183 — Saheeh International"}
         ]
       },
       {
@@ -204,7 +204,7 @@ export const foundations = {
                 "ref": "Quran 3:97",
                 "arabic": "فِيهِ ءَايَـٰتٌۢ بَيِّنَـٰتٌ مَّقَامُ إِبْرَٰهِيمَ ۖ وَمَن دَخَلَهُۥ كَانَ ءَامِنًا ۗ وَلِلَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًا ۚ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنِ ٱلْعَـٰلَمِينَ",
                 "translation": "In it are clear signs [such as] the standing place of Abraham. And whoever enters it [i.e., the Ḥaram] shall be safe. And [due] to Allāh from the people is a pilgrimage to the House - for whoever is able to find thereto a way. But whoever disbelieves [i.e., refuses] - then indeed, Allāh is free from need of the worlds.",
-                "citation": "Surah 3 &middot; Verse 97 &mdash; Saheeh International"}
+                "citation": "Surah 3 &middot; Verse 97 — Saheeh International"}
         ]
       }
     ],
@@ -218,10 +218,10 @@ export const foundations = {
       "sub": "How the revelation was gathered into one book and guarded for every generation after — the history of the mushaf, from Yamama to the master codex of Uthman (RA).",
       "img": "../assets/foundations-quran.webp",
       "imgAlt": "A scribe's desk with blank scrolls, reed pens and an inkwell in warm lamplight",
-      "caption": "The scribe\u2019s desk &mdash; blank sheets awaiting the words that would be guarded for fourteen centuries."
+      "caption": "The scribe’s desk — blank sheets awaiting the words that would be guarded for fourteen centuries."
     },
-    "introHtml": "Everything in this article happened after the death of the Prophet \uFDFa &mdash; and that is the point. The revelation was complete, the Messenger \uFDFa was gone, and the young Muslim community faced a question no generation had faced before: how do you guard a Book when the man who received it is no longer among you? What follows is the history of how they answered &mdash; from the battlefield of Yamama to the master codex of Uthman (RA) &mdash; traced through the narrations the community itself preserved.",
-    "railLabels": ["The Promise", "Written in His Lifetime", "Yamama", "Zayd\u2019s Task", "Custody of the Suhuf", "Hudhayfah\u2019s Warning", "The Committee", "Why Copies Were Burned", "One Text, Everywhere"],
+    "introHtml": "Everything in this article happened after the death of the Prophet \uFDFa — and that is the point. The revelation was complete, the Messenger \uFDFa was gone, and the young Muslim community faced a question no generation had faced before: how do you guard a Book when the man who received it is no longer among you? What follows is the history of how they answered — from the battlefield of Yamama to the master codex of Uthman (RA) — traced through the narrations the community itself preserved.",
+    "railLabels": ["The Promise", "Written in His Lifetime", "Yamama", "Zayd’s Task", "Custody of the Suhuf", "Hudhayfah’s Warning", "The Committee", "Why Copies Were Burned", "One Text, Everywhere"],
     "sections": [
       {
         "id": "the-promise",
@@ -230,12 +230,12 @@ export const foundations = {
         "blocks": [
               {"t": "kicker", "html": "Where it begins"},
               {"t": "h2", "html": "The Promise"},
-              {"t": "p", "cls": "dropcap", "html": "Before the history, the promise. Allah says He sent down the Remembrance &mdash; and that He Himself will guard it. Every gathering, every manuscript, every copy that follows is the human side of that divine guarantee: the means by which the promise was kept, generation after generation."},
+              {"t": "p", "cls": "dropcap", "html": "Before the history, the promise. Allah says He sent down the Remembrance — and that He Himself will guard it. Every gathering, every manuscript, every copy that follows is the human side of that divine guarantee: the means by which the promise was kept, generation after generation."},
               {"t": "verse",
                 "ref": "Quran 15:9",
                 "arabic": "\u0625\u0650\u0646\u0651\u064e\u0627 \u0646\u064e\u062d\u0652\u0646\u064f \u0646\u064e\u0632\u0651\u064e\u0644\u0652\u0646\u064e\u0627 \u0671\u0644\u0630\u0651\u0650\u0643\u0652\u0631\u064e \u0648\u064e\u0625\u0650\u0646\u0651\u064e\u0627 \u0644\u064e\u0647\u064f\u06e5 \u0644\u064e\u062d\u064e\u0640\u0670\u0641\u0650\u0638\u064f\u0648\u0646\u064e",
                 "translation": "Indeed, it is We who sent down the message [i.e., the Qur\u2019\u0101n], and indeed, We will be its guardian.",
-                "citation": "Surah 15 &middot; Verse 9 &mdash; Saheeh International"}
+                "citation": "Surah 15 &middot; Verse 9 — Saheeh International"}
         ]
       },
       {
@@ -245,14 +245,14 @@ export const foundations = {
         "blocks": [
               {"t": "kicker", "html": "Before the gatherings"},
               {"t": "h2", "html": "Written in His Lifetime"},
-              {"t": "p", "html": "The Quran was not first written after the Prophet\u2019s \uFDFa death &mdash; it was written during his life. He had scribes, and Zayd ibn Thabit (RA), who would later be entrusted with both gatherings, was one of them, writing the revelation as it came. The verses lived on palm stalks and thin white stones &mdash; and more securely, in the hearts of the companions who memorized them."},
-              {"t": "p", "html": "And the text was fixed by review. Every Ramadan, Jibreel (AS) would go over the whole Quran with the Prophet \uFDFa &mdash; and in his final year, they went over it twice."},
+              {"t": "p", "html": "The Quran was not first written after the Prophet’s \uFDFa death — it was written during his life. He had scribes, and Zayd ibn Thabit (RA), who would later be entrusted with both gatherings, was one of them, writing the revelation as it came. The verses lived on palm stalks and thin white stones — and more securely, in the hearts of the companions who memorized them."},
+              {"t": "p", "html": "And the text was fixed by review. Every Ramadan, Jibreel (AS) would go over the whole Quran with the Prophet \uFDFa — and in his final year, they went over it twice."},
 {"t": "hadith",
       "text": "&ldquo;Gabriel used to repeat the recitation of the Qur\u2019an with the Prophet (\uFDFa) once a year, but he repeated it twice with him in the year he died.&rdquo;",
       "narrator": "&mdash; Narrated Abu Huraira",
       "href": "https://sunnah.com/bukhari:4998",
       "label": "Sahih al-Bukhari 4998 &middot; sunnah.com"},
-              {"t": "p", "html": "So when the Prophet \uFDFa died, the Quran stood complete &mdash; written in fragments, memorized in full &mdash; but not yet gathered into a single book."}
+              {"t": "p", "html": "So when the Prophet \uFDFa died, the Quran stood complete — written in fragments, memorized in full — but not yet gathered into a single book."}
         ]
       },
       {
@@ -262,29 +262,29 @@ export const foundations = {
         "blocks": [
               {"t": "kicker", "html": "11 AH &middot; The Riddah Wars"},
               {"t": "h2", "html": "Yamama"},
-              {"t": "p", "cls": "dropcap", "html": "Then came Yamama. In the wars against Musaylima the liar, the Muslim army won &mdash; but at a cost that shook Umar ibn al-Khattab (RA): heavy casualties among the Qurra\u2019, the companions who carried the whole Quran in memory. Umar saw what the next battlefield could take, and he went to Abu Bakr (RA) with a proposal no one had made before."},
+              {"t": "p", "cls": "dropcap", "html": "Then came Yamama. In the wars against Musaylima the liar, the Muslim army won — but at a cost that shook Umar ibn al-Khattab (RA): heavy casualties among the Qurra’, the companions who carried the whole Quran in memory. Umar saw what the next battlefield could take, and he went to Abu Bakr (RA) with a proposal no one had made before."},
 {"t": "hadith",
       "text": "&ldquo;Casualties were heavy among the Qurra\u2019 of the Qur\u2019an (i.e. those who knew the Qur\u2019an by heart) on the day of the Battle of Yamama, and I am afraid that more heavy casualties may take place among the Qurra\u2019 on other battlefields, whereby a large part of the Qur\u2019an may be lost. Therefore I suggest, you (Abu Bakr) order that the Qur\u2019an be collected.&rdquo;",
       "narrator": "&mdash; Umar ibn al-Khattab, narrated by Zayd ibn Thabit",
       "href": "https://sunnah.com/bukhari:4986",
       "label": "Sahih al-Bukhari 4986 &middot; sunnah.com"},
-              {"t": "p", "html": "Abu Bakr (RA) hesitated &mdash; &ldquo;How can you do something which Allah\u2019s Apostle did not do?&rdquo; &mdash; but Umar (RA) kept urging him, calling it a good project, until Allah opened Abu Bakr\u2019s chest to the idea, as He had opened Umar\u2019s."}
+              {"t": "p", "html": "Abu Bakr (RA) hesitated — &ldquo;How can you do something which Allah’s Apostle did not do?&rdquo; — but Umar (RA) kept urging him, insisting it was good, until Allah opened Abu Bakr’s chest to the idea, as He had opened Umar’s."}
         ]
       },
       {
         "id": "zayd-task",
-        "ariaLabel": "Zayd\u2019s Task",
-        "title": "Zayd\u2019s Task",
+        "ariaLabel": "Zayd’s Task",
+        "title": "Zayd’s Task",
         "blocks": [
               {"t": "kicker", "html": "The first gathering"},
-              {"t": "h2", "html": "Zayd\u2019s Task"},
-              {"t": "p", "html": "Abu Bakr (RA) summoned Zayd ibn Thabit (RA) &mdash; young, trusted, a scribe of the revelation itself &mdash; and laid the weight on him: &ldquo;You are a wise young man and we do not have any suspicion about you, and you used to write the Divine Inspiration for Allah\u2019s Messenger (\uFDFa). So you should search for (the fragmentary scripts of) the Qur\u2019an and collect it in one book.&rdquo;"},
+              {"t": "h2", "html": "Zayd’s Task"},
+              {"t": "p", "html": "Abu Bakr (RA) summoned Zayd ibn Thabit (RA) — young, trusted, a scribe of the revelation itself — and laid the weight on him: &ldquo;You are a wise young man and we do not have any suspicion about you, and you used to write the Divine Inspiration for Allah’s Messenger (\uFDFa). So you should search for (the fragmentary scripts of) the Qur’an and collect it in one book.&rdquo;"},
 {"t": "hadith",
       "text": "&ldquo;By Allah If they had ordered me to shift one of the mountains, it would not have been heavier for me than this ordering me to collect the Qur\u2019an.&rdquo;",
       "narrator": "&mdash; Zayd ibn Thabit",
       "href": "https://sunnah.com/bukhari:4986",
       "label": "Sahih al-Bukhari 4986 &middot; sunnah.com"},
-              {"t": "p", "html": "Zayd\u2019s method is given in the hadith\u2019s own words: he gathered the Quran from what was written on palm stalks and thin white stones, and from the men who knew it by heart &mdash; every fragment checked against living memory. He searched until he found the last verses of Surah at-Taubah with Abu Khuzaima al-Ansari (RA), and with no one else."},
+              {"t": "p", "html": "Zayd’s method is given in the hadith’s own words: he gathered the Quran from what was written on palm stalks and thin white stones, and from the men who knew it by heart — every fragment checked against living memory. He searched until he found the last verses of Surah at-Taubah with Abu Khuzaima al-Ansari (RA), and with no one else."},
 {"t": "hadith",
       "text": "&ldquo;So I started looking for the Qur\u2019an and collecting it from (what was written on) palme stalks, thin white stones and also from the men who knew it by heart, till I found the last Verse of Surat at-Tauba (Repentance) with Abi Khuzaima Al-Ansari, and I did not find it with anybody other than him.&rdquo;",
       "narrator": "&mdash; Zayd ibn Thabit",
@@ -299,7 +299,7 @@ export const foundations = {
         "blocks": [
               {"t": "kicker", "html": "The bound sheets"},
               {"t": "h2", "html": "Custody of the Suhuf"},
-              {"t": "p", "html": "The gathered sheets &mdash; the Suhuf &mdash; were bound into one collection. The narration ends the first gathering with a chain of custody, each link named: the complete manuscript remained with Abu Bakr (RA) until his death, then with Umar (RA) for the rest of his life, then with Hafsa (RA), daughter of Umar (RA) and a widow of the Prophet \uFDFa."},
+              {"t": "p", "html": "The gathered sheets — the Suhuf — were bound into one collection. The narration ends the first gathering with a chain of custody, each link named: the complete manuscript remained with Abu Bakr (RA) until his death, then with Umar (RA) for the rest of his life, then with Hafsa (RA), daughter of Umar (RA) and a widow of the Prophet \uFDFa."},
 {"t": "hadith",
       "text": "&ldquo;Then the complete manuscripts (copy) of the Qur\u2019an remained with Abu Bakr till he died, then with Umar till the end of his life, and then with Hafsa, the daughter of Umar.&rdquo;",
       "narrator": "&mdash; Zayd ibn Thabit",
@@ -309,18 +309,18 @@ export const foundations = {
       },
       {
         "id": "hudhayfah",
-        "ariaLabel": "Hudhayfah\u2019s Warning",
-        "title": "Hudhayfah\u2019s Warning",
+        "ariaLabel": "Hudhayfah’s Warning",
+        "title": "Hudhayfah’s Warning",
         "blocks": [
-              {"t": "kicker", "html": "Uthman\u2019s caliphate"},
-              {"t": "h2", "html": "Hudhayfah\u2019s Warning"},
-              {"t": "p", "cls": "dropcap", "html": "Some twenty years later, the empire had stretched across Syria, Iraq, and Persia, and the Quran had traveled with it &mdash; recited in the seven ways the Prophet \uFDFa had permitted, each tribe in its own familiar tongue."},
+              {"t": "kicker", "html": "Uthman’s caliphate"},
+              {"t": "h2", "html": "Hudhayfah’s Warning"},
+              {"t": "p", "cls": "dropcap", "html": "Some twenty years later, the empire had stretched across Syria, Iraq, and Persia, and the Quran had traveled with it — recited in the seven ways the Prophet \uFDFa had permitted, each people in the way most familiar to them."},
 {"t": "hadith",
       "text": "&ldquo;This Qur\u2019an has been revealed to be recited in seven different ways, so recite of it whichever (way) is easier for you.&rdquo;",
       "narrator": "&mdash; Narrated Umar ibn al-Khattab",
       "href": "https://sunnah.com/bukhari:4992",
       "label": "Sahih al-Bukhari 4992 &middot; sunnah.com"},
-              {"t": "p", "html": "What was a mercy in Arabia became a dispute on distant frontiers. Campaigning with the armies of Sham and Iraq at Arminya and Adharbijan, Hudhayfah ibn al-Yaman (RA) heard soldiers declaring one another\u2019s recitation wrong &mdash; and he rode back to Medina in alarm."},
+              {"t": "p", "html": "What was a mercy in Arabia became a dispute on distant frontiers. Campaigning with the armies of Sham and Iraq at Arminya and Adharbijan, Hudhayfah ibn al-Yaman (RA) heard soldiers declaring one another’s recitation wrong — and he rode back to Medina in alarm."},
 {"t": "hadith",
       "text": "&ldquo;O chief of the Believers! Save this nation before they differ about the Book (Qur\u2019an) as Jews and the Christians did before.&rdquo;",
       "narrator": "&mdash; Hudhayfah ibn al-Yaman, narrated by Anas ibn Malik",
@@ -335,13 +335,13 @@ export const foundations = {
         "blocks": [
               {"t": "kicker", "html": "The second gathering"},
               {"t": "h2", "html": "The Committee and the Master Codex"},
-              {"t": "p", "html": "Uthman (RA) acted at once. He sent to Hafsa (RA) for the Suhuf &mdash; &ldquo;so that we may compile the Qur\u2019anic materials in perfect copies and return the manuscripts to you&rdquo; &mdash; and appointed four men: Zayd ibn Thabit (RA) once more, with three Qurayshis &mdash; Abdullah ibn az-Zubayr (RA), Sa\u2019id ibn al-As (RA), and AbdurRahman ibn Harith ibn Hisham (RA)."},
+              {"t": "p", "html": "Uthman (RA) acted at once. He sent to Hafsa (RA) for the Suhuf — &ldquo;so that we may compile the Qur’anic materials in perfect copies and return the manuscripts to you&rdquo; — and appointed four men: Zayd ibn Thabit (RA) once more, with three Qurayshis — Abdullah ibn az-Zubayr (RA), Sa’id ibn al-As (RA), and AbdurRahman ibn Harith ibn Hisham (RA)."},
 {"t": "hadith",
       "text": "&ldquo;In case you disagree with Zaid bin Thabit on any point in the Qur\u2019an, then write it in the dialect of Quraish, the Qur\u2019an was revealed in their tongue.&rdquo;",
       "narrator": "&mdash; Uthman ibn Affan, narrated by Anas ibn Malik",
       "href": "https://sunnah.com/bukhari:4987",
       "label": "Sahih al-Bukhari 4987 &middot; sunnah.com"},
-              {"t": "p", "html": "They wrote many copies from the Suhuf in the unpointed script. Uthman returned the original sheets to Hafsa, sent one copy to every Muslim province, and ordered every other Quranic material &mdash; fragment or whole copy &mdash; to be burnt."},
+              {"t": "p", "html": "They wrote many copies from the Suhuf in the unpointed script. Uthman returned the original sheets to Hafsa, sent one copy to every Muslim province, and ordered every other Quranic material — fragment or whole copy — to be burnt."},
 {"t": "hadith",
       "text": "&ldquo;Uthman sent to every Muslim province one copy of what they had copied, and ordered that all the other Qur\u2019anic materials, whether written in fragmentary manuscripts or whole copies, be burnt.&rdquo;",
       "narrator": "&mdash; Narrated Anas ibn Malik",
@@ -356,9 +356,9 @@ export const foundations = {
         "blocks": [
               {"t": "kicker", "html": "The hard decision"},
               {"t": "h2", "html": "Why the Other Copies Were Burned"},
-              {"t": "p", "cls": "dropcap", "html": "The burning was not the destruction of the Quran &mdash; it was its protection. The classical scholars explain what those personal copies contained, and why leaving them in circulation would have endangered the text within a generation."},
-              {"t": "p", "html": "Many companions kept private notebooks: verses copied for study, with their own explanations, supplications, and commentary written in the margins &mdash; the personal codices associated with men like Abdullah ibn Mas\u2019ud and Ubayy ibn Ka\u2019b. Copied by later hands that could no longer tell the divine words from a companion\u2019s notes, human words would have seeped into scripture."},
-              {"t": "p", "html": "Other fragments carried readings in local dialects, or verses whose recitation had been abrogated &mdash; the very differences that had set the armies of Sham and Iraq arguing. One master codex, transcribed from the Suhuf of Hafsa (RA) under Zayd (RA) &mdash; who had written the revelation himself &mdash; ended the fragmentation: from that day, a Quran opened in Damascus and a Quran opened in Kufa held the same text."}
+              {"t": "p", "cls": "dropcap", "html": "The burning was not the destruction of the Quran — it was its protection. The classical scholars explain what those personal copies contained, and why leaving them in circulation would have endangered the text within a generation."},
+              {"t": "p", "html": "Many companions kept private notebooks: verses copied for study, with their own explanations, supplications, and commentary written in the margins — the personal codices associated with men like Abdullah ibn Mas’ud and Ubayy ibn Ka’b. Copied by later hands that could no longer tell the divine words from a companion’s notes, human words would have seeped into scripture."},
+              {"t": "p", "html": "Other fragments carried readings in local dialects, or verses whose recitation had been abrogated — the very differences that had set the armies of Sham and Iraq arguing. One master codex, transcribed from the Suhuf of Hafsa (RA) under Zayd (RA) — who had written the revelation himself — ended the fragmentation: from that day, a Quran opened in Damascus and a Quran opened in Kufa held the same text."}
         ]
       },
       {
@@ -368,11 +368,11 @@ export const foundations = {
         "blocks": [
               {"t": "kicker", "html": "The promise, kept"},
               {"t": "h2", "html": "One Text, Everywhere"},
-              {"t": "p", "html": "That is the whole history: one gathering under Abu Bakr (RA) to save the text from loss, one standardization under Uthman (RA) to save it from division. The consonantal skeleton they fixed has never changed since &mdash; every mushaf printed today, in Morocco or Indonesia, descends from those master copies. &ldquo;Indeed, it is We who sent down the message, and indeed, We will be its guardian.&rdquo;"}
+              {"t": "p", "html": "That is the whole history: one gathering under Abu Bakr (RA) to save the text from loss, one standardization under Uthman (RA) to save it from division. The consonantal skeleton they fixed has never changed since — every mushaf printed today, in Morocco or Indonesia, descends from those master copies. &ldquo;Indeed, it is We who sent down the message, and indeed, We will be its guardian.&rdquo;"}
         ]
       }
     ],
-    "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this article is from the Quran &mdash; Surah Al-Hijr (15:9) &mdash; and from Sahih al-Bukhari: 4986 (the gathering under Abu Bakr (RA), narrated by Zayd ibn Thabit (RA)), 4987 (the standardization under Uthman (RA), narrated by Anas ibn Malik (RA)), 4992 (the seven ahruf) and 4998 (the final review with Jibreel (AS)). The reasons given for the burning of personal copies follow the explanation of the classical scholars.</p>\n      ",
+    "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this article is from the Quran — Surah Al-Hijr (15:9) — and from Sahih al-Bukhari: 4986 (the gathering under Abu Bakr (RA), narrated by Zayd ibn Thabit (RA)), 4987 (the standardization under Uthman (RA), narrated by Anas ibn Malik (RA)), 4992 (the seven ahruf) and 4998 (the final review with Jibreel (AS)). The reasons given for the burning of personal copies follow the explanation of the classical scholars.</p>\n      ",
     "prevNext": [{"label": "Previous article", "title": "The Five Pillars of Islam", "href": "?p=pillars", "arrow": "back"}]
   },
 };
