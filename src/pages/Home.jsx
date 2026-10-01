@@ -125,7 +125,7 @@ export function HomePage() {
               Open chapters
             </h2>
             <p className="lede reveal" data-delay="2">
-              Two stories are ready to read. The rest of the manuscript is being written — each verse verified before
+              Four stories are ready to read. The rest of the manuscript is being written — each verse verified before
               it is set down.
             </p>
             <div className="story-cards">

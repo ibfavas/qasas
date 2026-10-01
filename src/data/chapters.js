@@ -3,11 +3,13 @@
 import { chapter as adam } from './adam.js';
 import { chapter as yusuf } from './yusuf.js';
 import { chapter as idris } from './idris.js';
+import { chapter as nuh } from './nuh.js';
 
 export const chapters = {
   adam,
   yusuf,
   idris,
+  nuh,
 };
 
-export const chapterOrder = ['adam', 'yusuf', 'idris'];
+export const chapterOrder = ['adam', 'idris', 'nuh', 'yusuf'];

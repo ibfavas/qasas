@@ -204,9 +204,9 @@ export const chapter = {
       "arrow": "back"
     },
     {
-      "href": "../index.html#timeline",
-      "label": "Continue",
-      "title": "The Timeline — All 25 Prophets",
+      "href": "?p=nuh",
+      "label": "Next chapter — III",
+      "title": "Nuh (AS) — The Ark and the Flood",
       "arrow": "next"
     }
   ]

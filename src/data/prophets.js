@@ -21,10 +21,10 @@ export const prophets = [
     "pname": "Idris (AS)"
   },
   {
-    "tag": "span",
-    "soon": true,
-    "href": null,
-    "aria": null,
+    "tag": "a",
+    "soon": false,
+    "href": "stories/?p=nuh",
+    "aria": "Read the story of Nuh",
     "svgAttrs": " fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"",
     "svgInner": "<path d=\"M8 28h32l-5 9H13z\"/><path d=\"M15 28v-7h18v7\"/><path d=\"M6 42c2-2 4-2 6 0s4 2 6 0 4-2 6 0 4 2 6 0 4-2 6 0 4 2 6 0\"/>",
     "pnum": "III",

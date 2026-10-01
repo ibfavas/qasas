@@ -522,9 +522,9 @@ export const chapter = {
   ],
   "prevNext": [
     {
-      "href": "?p=adam",
-      "label": "Previous chapter — I",
-      "title": "Adam (AS) — The First Man",
+      "href": "?p=nuh",
+      "label": "Previous chapter — III",
+      "title": "Nuh (AS) — The Ark and the Flood",
       "arrow": "back"
     },
     {
