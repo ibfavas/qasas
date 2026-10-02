@@ -1265,6 +1265,9 @@ body::after {
 
 /* Floating pill top bar */
 .nav-pill { background: transparent; border-bottom: none; padding: 14px 16px 12px; }
+/* Homepage: nav floats over the hero so the night sky reaches the very top */
+.nav-home-overlay { position: fixed; top: 0; left: 0; right: 0; }
+.nav-home-overlay + .hero-night { min-height: 100vh; min-height: 100svh; }
 .nav-pill-inner { max-width: 1120px; margin: 0 auto; background: #fffdf4; border: 1px solid #e5d9b8; border-radius: 999px; box-shadow: 0 12px 36px rgba(74, 58, 32, 0.28), 0 3px 10px rgba(74, 58, 32, 0.14); display: flex; align-items: center; gap: 6px; padding: 7px 30px 7px 16px; }
 .brand-pill { min-height: 0; }
 .brand-pill img { width: 30px; height: 30px; border-radius: 50%; display: block; }

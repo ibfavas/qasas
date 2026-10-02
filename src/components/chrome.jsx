@@ -2,7 +2,7 @@
 
 export function HomeNav() {
   return (
-    <nav className="nav nav-pill" aria-label="Main navigation">
+    <nav className="nav nav-pill nav-home-overlay" aria-label="Main navigation">
       <div className="nav-pill-inner">
         <a className="brand brand-pill" href="index.html" aria-label="Qasas ul-Huda home">
           <img src="assets/brand/logo.png" alt="" width="30" height="30" />
