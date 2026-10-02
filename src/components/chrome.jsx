@@ -1,20 +1,39 @@
 /* Shared chrome: navs, footer, manuscript ornaments. */
+import { useState } from 'react';
+
+function NavToggle({ open, onToggle }) {
+  return (
+    <button
+      className={'nav-toggle' + (open ? ' open' : '')}
+      aria-expanded={open}
+      aria-label={open ? 'Close menu' : 'Open menu'}
+      onClick={onToggle}
+    >
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </button>
+  );
+}
 
 export function HomeNav() {
+  const [open, setOpen] = useState(false);
+  const close = () => setOpen(false);
   return (
     <nav className="nav nav-pill nav-home-overlay" aria-label="Main navigation">
       <div className="nav-pill-inner">
         <a className="brand brand-pill" href="index.html" aria-label="Qasas ul-Huda home">
           <img src="assets/brand/logo.png" alt="" width="30" height="30" />
         </a>
-        <ul className="nav-links nav-links-pill">
-          <li><a href="index.html">Home</a></li>
-          <li><a href="asma-ul-husna/">Asma ul Husna</a></li>
-          <li><a href="#timeline">Stories of Prophets</a></li>
-          <li><a href="#foundations">Foundations</a></li>
-          <li><a href="#caliphs">The Four Caliphs</a></li>
-          <li><a href="#resources">Sources</a></li>
-          <li><a href="#about">About</a></li>
+        <NavToggle open={open} onToggle={() => setOpen(!open)} />
+        <ul className={'nav-links nav-links-pill' + (open ? ' open' : '')}>
+          <li><a href="index.html" onClick={close}>Home</a></li>
+          <li><a href="asma-ul-husna/" onClick={close}>Asma ul Husna</a></li>
+          <li><a href="#timeline" onClick={close}>Stories of Prophets</a></li>
+          <li><a href="#foundations" onClick={close}>Foundations</a></li>
+          <li><a href="#caliphs" onClick={close}>The Four Caliphs</a></li>
+          <li><a href="#resources" onClick={close}>Sources</a></li>
+          <li><a href="#about" onClick={close}>About</a></li>
         </ul>
       </div>
     </nav>
@@ -22,19 +41,22 @@ export function HomeNav() {
 }
 
 export function StoryNav() {
+  const [open, setOpen] = useState(false);
+  const close = () => setOpen(false);
   return (
     <nav className="nav nav-pill" aria-label="Main navigation">
       <div className="nav-pill-inner">
         <a className="brand brand-pill" href="../index.html" aria-label="Qasas ul-Huda home">
           <img src="../assets/brand/logo.png" alt="" width="30" height="30" />
         </a>
-        <ul className="nav-links nav-links-pill">
-          <li><a href="../asma-ul-husna/">Asma ul Husna</a></li>
-          <li><a href="../index.html#timeline">Stories of Prophets</a></li>
-          <li><a href="../index.html#foundations">Foundations</a></li>
-          <li><a href="../index.html#caliphs">The Four Caliphs</a></li>
-          <li><a href="../index.html#resources">Sources</a></li>
-          <li><a href="../index.html#about">About</a></li>
+        <NavToggle open={open} onToggle={() => setOpen(!open)} />
+        <ul className={'nav-links nav-links-pill' + (open ? ' open' : '')}>
+          <li><a href="../asma-ul-husna/" onClick={close}>Asma ul Husna</a></li>
+          <li><a href="../index.html#timeline" onClick={close}>Stories of Prophets</a></li>
+          <li><a href="../index.html#foundations" onClick={close}>Foundations</a></li>
+          <li><a href="../index.html#caliphs" onClick={close}>The Four Caliphs</a></li>
+          <li><a href="../index.html#resources" onClick={close}>Sources</a></li>
+          <li><a href="../index.html#about" onClick={close}>About</a></li>
         </ul>
       </div>
     </nav>

@@ -1276,11 +1276,29 @@ body::after {
 .nav-links-pill li + li::before { content: "\00B7"; color: var(--gold-deep); font-size: 1.25rem; margin: 0 12px; line-height: 1; }
 .nav-links-pill a { font-family: Georgia, 'Times New Roman', serif; font-size: 0.95rem; letter-spacing: 0.02em; color: var(--ink-soft); text-decoration: none; padding: 8px 12px; min-height: 0; border-bottom: none; border-radius: 999px; }
 .nav-links-pill a:hover { color: var(--gold-deep); background: rgba(168, 132, 47, 0.1); }
-@media (max-width: 700px) {
-  .nav-pill { padding: 10px 10px 0; }
-  .nav-pill-inner { flex-wrap: wrap; justify-content: center; border-radius: 22px; row-gap: 2px; padding: 8px 14px; }
-  .nav-links-pill { margin-left: 0; flex-wrap: wrap; justify-content: center; }
-  .nav-links-pill a { padding: 8px 10px; font-size: 0.9rem; }
+/* Hamburger toggle: hidden on desktop */
+.nav-toggle { display: none; background: none; border: none; cursor: pointer; padding: 10px 6px; margin-left: auto; flex-direction: column; gap: 5px; align-items: center; }
+.nav-toggle span { display: block; width: 22px; height: 2px; background: var(--ink); border-radius: 2px; transition: transform 0.2s ease, opacity 0.2s ease; }
+.nav-toggle.open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+.nav-toggle.open span:nth-child(2) { opacity: 0; }
+.nav-toggle.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+@media (max-width: 860px) {
+  .nav-toggle { display: flex; }
+  .nav-pill { padding: 10px 12px 0; }
+  .nav-pill-inner { flex-wrap: nowrap; border-radius: 999px; padding: 6px 16px 6px 12px; }
+  .nav-links-pill { display: none; }
+  .nav-links-pill.open {
+    display: flex; flex-direction: column; align-items: stretch; gap: 0;
+    position: absolute; top: calc(100% + 10px); left: 12px; right: 12px;
+    background: #fffdf4; border: 1px solid #e5d9b8; border-radius: 18px;
+    box-shadow: 0 14px 40px rgba(74, 58, 32, 0.25);
+    padding: 8px; margin: 0; z-index: 60;
+  }
+  .nav-links-pill.open li { display: block; }
+  .nav-links-pill.open li + li::before { display: none; }
+  .nav-links-pill.open li + li { border-top: 1px solid #efe5c8; }
+  .nav-links-pill.open a { display: block; padding: 13px 16px; font-size: 1rem; border-radius: 12px; }
+  .nav-links-pill.open a:hover { background: rgba(168, 132, 47, 0.1); }
 }
 
 /* Asma ul Husna: illuminated grid of the 99 names */
