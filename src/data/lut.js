@@ -38,7 +38,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Lut believed in Ibrahim, and when Ibrahim emigrated, Lut went with him: &ldquo;And Lot believed him&rdquo; (29:26). The Quran gives Lut his due in two words: &ldquo;And to Lot We gave judgement and knowledge&rdquo; (21:74). He was sent to cities sunk in wickedness, &ldquo;the city that was committing wicked deeds. Indeed, they were a people of evil, defiantly disobedient&rdquo; (21:74). And Allah saved him from them and &ldquo;admitted him into Our mercy. Indeed, he was of the righteous&rdquo; (21:75).",
+          "html": "Lut believed in Ibrahim, and when Ibrahim emigrated, Lut went with him. The Quran gives Lut his due in two words: judgement and knowledge. He was sent to cities sunk in wickedness, a people of evil, defiantly disobedient. And Allah saved him from them and admitted him into His mercy, for he was of the righteous.",
           "cls": "dropcap"
         },
         {
@@ -72,7 +72,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "His call named their sin without euphemism: &ldquo;Do you commit such immorality as no one has preceded you with from among the worlds?&rdquo; (7:80). &ldquo;Indeed, you approach men with desire, instead of women. Rather, you are a transgressing people&rdquo; (7:81). And again: &ldquo;Do you approach males among the worlds and leave what your Lord has created for you as mates? But you are a people transgressing&rdquo; (26:165-166).",
+          "html": "His call named their sin without euphemism. Do you commit such immorality as no one has preceded you with? You approach men with desire instead of women; you are a transgressing people. And again: do you approach males among the worlds and leave what your Lord created for you as mates? The charge was plain, and so was the verdict: transgressors.",
           "cls": "dropcap"
         },
         {
@@ -106,7 +106,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Their answer was mockery and expulsion. &ldquo;Evict them from your city! Indeed, they are men who keep themselves pure&rdquo; (7:82). Purity itself became the charge against him. &ldquo;Expel the family of Lot from your city. Indeed, they are people who keep themselves pure&rdquo; (27:56). When he warned them plainly, &ldquo;Do you commit immorality while you are seeing? Do you indeed approach men with desire instead of women? Rather, you are a people behaving ignorantly&rdquo; (27:54-55), they had nothing to answer but threats.",
+          "html": "Their answer was mockery and expulsion. &ldquo;Evict them from your city! Indeed, they are men who keep themselves pure.&rdquo; Purity itself became the charge against him. When he warned them plainly, they had nothing to answer but threats.",
           "cls": "dropcap"
         },
         {
@@ -140,7 +140,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "They even dared the punishment to come. &ldquo;Indeed, you approach men and obstruct the road and commit in your meetings [every] evil&rdquo; (29:28). And their answer was a challenge: &ldquo;Bring us the punishment of Allah, if you should be of the truthful&rdquo; (29:29). Lut turned to his Lord with the du&lsquo;a of the overwhelmed: &ldquo;My Lord, save me and my family from [the consequence of] what they do&rdquo; (26:169).",
+          "html": "They even dared the punishment to come. You approach men, obstruct the road, and commit every evil in your meetings, he told them. And their answer was a challenge: &ldquo;Bring us the punishment of Allah, if you should be of the truthful.&rdquo; Lut turned to his Lord with the du&lsquo;a of the overwhelmed: &ldquo;My Lord, save me and my family from [the consequence of] what they do.&rdquo;",
           "cls": "dropcap"
         },
         {
@@ -174,7 +174,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then the guests came. &ldquo;And when Our messengers, [the angels], came to Lot, he was anguished for them and felt for them great discomfort and said, &lsquo;This is a trying day&rsquo;&rdquo; (11:77). He knew his people. They came hastening, as they always hastened toward evil, and he pleaded: &ldquo;O my people, these are my daughters; they are purer for you. So fear Allah and do not disgrace me concerning my guests. Is there not among you a man of reason?&rdquo; (11:78). They answered with shameless candor: &ldquo;You have already known that we have not concerning your daughters [i.e., women] any claim [i.e., desire], and indeed, you know what we want&rdquo; (11:79). Alone against a mob, he cried out: &ldquo;If only I had against you some power or could take refuge in a strong support&rdquo; (11:80).",
+          "html": "Then the guests came. When the angels came to Lut, he was anguished for them and felt great discomfort. &ldquo;This is a trying day,&rdquo; he said. He knew his people. They came hastening, as they always hastened toward evil, and he pleaded: O my people, these are my daughters; they are purer for you. So fear Allah and do not disgrace me concerning my guests. Is there not among you a man of reason? They answered with shameless candor: you know we have no desire for your daughters, and you know what we want. Alone against a mob, he cried out: &ldquo;If only I had against you some power or could take refuge in a strong support.&rdquo;",
           "cls": "dropcap"
         },
         {
@@ -208,7 +208,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then the guests revealed themselves. &ldquo;O Lot, indeed we are messengers of your Lord; [therefore], they will never reach you. So set out with your family during a portion of the night and let not any among you look back, except your wife; indeed, she will be struck by that which strikes them. Indeed, their appointment is [for] the morning. Is not the morning near?&rdquo; (11:81). The Prophet (ﷺ) remembered Lut&rsquo;s cry for a strong support and said: may Allah send His mercy on Lot, for he wished to have a powerful support.",
+          "html": "Then the guests revealed themselves: we are messengers of your Lord; they will never reach you. Set out with your family in a portion of the night, and let none of you look back, except your wife. Their appointment is the morning; is not the morning near? The Prophet (ﷺ) remembered Lut&rsquo;s cry for a strong support and said: may Allah send His mercy on Lot, for he wished to have a powerful support.",
           "cls": "dropcap"
         },
         {
@@ -242,7 +242,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Morning came as promised. &ldquo;So when Our command came, We made the highest part [of the city] its lowest and rained upon them stones of layered hard clay, [which were] marked from your Lord. And it [i.e., Allah&rsquo;s punishment] is not from the wrongdoers [very] far&rdquo; (11:82-83). &ldquo;So We saved him and his family, except for his wife; she was of those who remained [with the evildoers]&rdquo; (7:83). &ldquo;And We rained upon them a rain [of stones]. Then see how was the end of the criminals&rdquo; (7:84). &ldquo;So We saved him and his family, all, except an old woman among those who remained behind. Then We destroyed the others. And We rained upon them a rain [of stones], and evil was the rain of those who were warned&rdquo; (26:170-173). &ldquo;Indeed, We sent upon them a storm of stones, except the family of Lot. We saved them before dawn&rdquo; (54:34).",
+          "html": "Morning came as promised. The highest part of the city became its lowest, and stones of layered hard clay rained down, marked from his Lord. Allah saved Lut and his family, except his wife, who remained with the evildoers. And He rained upon them a rain of stones. Then see how was the end of the criminals. The family of Lot was saved before dawn; the rest were destroyed, and evil was the rain of those who were warned.",
           "cls": "dropcap"
         },
         {
@@ -290,7 +290,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Quran names no one exempt from the Fire by marriage. &ldquo;Allah presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allah at all, and it was said, &lsquo;Enter the Fire with those who enter&rsquo;&rdquo; (66:10). The wife of a prophet, lost. Kinship with righteousness never saved anyone; only righteousness itself saves.",
+          "html": "The Quran names no one exempt from the Fire by marriage. Allah presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, and the prophets did not avail them from Allah at all. &ldquo;Enter the Fire with those who enter.&rdquo; The wife of a prophet, lost. Kinship with righteousness never saved anyone; only righteousness itself saves.",
           "cls": "dropcap"
         },
         {

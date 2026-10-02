@@ -42,7 +42,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Ibrahim was born into a house of idols. The Quran names his father: Azar. &ldquo;Do you take idols as deities? Indeed, I see you and your people to be in manifest error&rdquo; (6:74). And the same Quran introduces the son with honor: &ldquo;And mention in the Book [the story of] Abraham. Indeed, he was a man of truth and a prophet&rdquo; (19:41). A son of an idolater, chosen for truth. His first recorded words to his father are gentle, not mocking: &ldquo;O my father, why do you worship that which does not hear and does not see and will not benefit you at all?&rdquo; (19:42). The idols could not hear the question. Ibrahim could not stop asking it.",
+          "html": "Ibrahim was born into a house of idols; the Quran names his father Azar. Yet the same Quran introduces the son with honor: a man of truth and a prophet. A son of an idolater, chosen for truth. His first recorded words to his father are gentle, not mocking: &ldquo;O my father, why do you worship that which does not hear and does not see and will not benefit you at all?&rdquo; The idols could not hear the question. Ibrahim could not stop asking it.",
           "cls": "dropcap"
         },
         {
@@ -83,7 +83,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Before he debated his people, the Quran shows Ibrahim alone under the open sky, reasoning his way to Allah. &ldquo;And thus did We show Abraham the realm of the heavens and the earth that he would be among the certain [in faith]&rdquo; (6:75). Night fell, and he saw a star. &ldquo;This is my lord,&rdquo; he said. But when it set, he said, &ldquo;I like not those that set&rdquo; (6:76). The moon rose, brighter than the star. &ldquo;This is my lord.&rdquo; It set as well: &ldquo;Unless my Lord guides me, I will surely be among the people gone astray&rdquo; (6:77). Then the sun, greatest of all: &ldquo;This is my lord; this is greater.&rdquo; And it set like the rest: &ldquo;O my people, indeed I am free from what you associate with Allah&rdquo; (6:78). Then the conclusion, words the Muslims still pray with: &ldquo;Indeed, I have turned my face [i.e., self] toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allah&rdquo; (6:79).",
+          "html": "Before he debated his people, the Quran shows Ibrahim alone under the open sky, reasoning his way to Allah. Night fell, and he saw a star. This is my lord, he said. But when it set, he said: &ldquo;I like not those that set.&rdquo; The moon rose, brighter than the star. This is my lord. It set as well. Then the sun, greatest of all: this is my lord, this is greater. And it set like the rest. Then the conclusion, words the Muslims still pray with: &ldquo;Indeed, I have turned my face toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allah.&rdquo;",
           "cls": "dropcap"
         },
         {
@@ -117,7 +117,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "&ldquo;What are these statues to which you are devoted?&rdquo; (21:52). That was his question to his father and his people, and their answer was custom: &ldquo;We found our fathers worshippers of them&rdquo; (21:53). Custom is not proof. So Ibrahim swore an oath over their gods: &ldquo;And [I swear] by Allah, I will surely plan against your idols after you have turned and gone away&rdquo; (21:57). When the town emptied for its festival, he entered and &ldquo;made them into fragments, except a large one among them, that they might return to it [and question]&rdquo; (21:58). One idol stood whole among the ruins. The argument was about to make itself.",
+          "html": "&ldquo;What are these statues to which you are devoted?&rdquo; That was his question to his father and his people, and their answer was custom: we found our fathers worshipping them. Custom is not proof. So Ibrahim swore an oath over their gods, that he would plan against their idols once they had turned and gone away. When the town emptied for its festival, he entered and made them into fragments, except the largest, that they might return to it and question. One idol stood whole among the ruins. The argument was about to make itself.",
           "cls": "dropcap"
         },
         {
@@ -151,7 +151,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "They returned to wreckage. &ldquo;Who has done this to our gods? Indeed, he is of the wrongdoers&rdquo; (21:59). Suspicion fell on the young man who had argued against them, and they dragged him before the crowd: &ldquo;Have you done this to our gods, O Abraham?&rdquo; (21:62). His answer turned their own logic into a blade: &ldquo;Rather, this, the largest of them, did it, so ask them, if they should [be able to] speak&rdquo; (21:63). They knew the idols could not speak, and he pressed the point: &ldquo;Then do you worship instead of Allah that which does not benefit you at all or harm you? Uff to you and to what you worship instead of Allah. Then will you not use reason?&rdquo; (21:66-67). They had no answer left but force.",
+          "html": "They returned to wreckage. Who has done this to our gods? Suspicion fell on the young man who had argued against them, and they dragged him before the crowd: &ldquo;Have you done this to our gods, O Abraham?&rdquo; His answer turned their own logic into a blade: &ldquo;Rather, this, the largest of them, did it, so ask them, if they should [be able to] speak.&rdquo; They knew the idols could not speak. Then do you worship, instead of Allah, what can neither benefit nor harm you? They had no answer left but force.",
           "cls": "dropcap"
         },
         {
@@ -192,7 +192,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "&ldquo;Burn him and support your gods, if you are to act&rdquo; (21:68). Elsewhere the Quran gives their verdict in fewer words: &ldquo;Kill him or burn him&rdquo; (29:24). They built the fire, a structure the Quran calls a furnace: &ldquo;Construct for him a structure [i.e., furnace] and throw him into the burning fire&rdquo; (37:97). And then the words that undo every tyrant&rsquo;s arithmetic: &ldquo;We [i.e., Allah] said, &lsquo;O fire, be coolness and safety upon Abraham&rsquo;&rdquo; (21:69). The fire meant to consume him became his shelter. &ldquo;And they intended for him a plan [i.e., harm], but We made them the greatest losers&rdquo; (21:70). &ldquo;But Allah saved him from the fire. Indeed in that are signs for a people who believe&rdquo; (29:24).",
+          "html": "Burn him, they said, and support your gods. Elsewhere the Quran gives their verdict in fewer words: kill him or burn him. They built the fire, a furnace, and threw him in. And then the words that undo every tyrant&rsquo;s arithmetic: &ldquo;O fire, be coolness and safety upon Abraham.&rdquo; The fire meant to consume him became his shelter, and they became the greatest losers. Allah saved him from the fire, and in that are signs for a people who believe.",
           "cls": "dropcap"
         },
         {
@@ -233,7 +233,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Power itself was next to argue. A king to whom Allah had given kingship disputed with Ibrahim about his Lord. &ldquo;My Lord is the one who gives life and causes death,&rdquo; Ibrahim said. &ldquo;I give life and cause death,&rdquo; the king answered, confusing a pardon with creation. Ibrahim gave him a sign no throne could counterfeit: &ldquo;Indeed, Allah brings up the sun from the east, so bring it up from the west.&rdquo; The king was silenced on the spot: &ldquo;So the disbeliever was overwhelmed [by astonishment], and Allah does not guide the wrongdoing people&rdquo; (2:258).",
+          "html": "Power itself was next to argue. A king to whom Allah had given kingship disputed with Ibrahim about his Lord. My Lord gives life and causes death, Ibrahim said. I give life and cause death, the king answered, confusing a pardon with creation. Ibrahim gave him a sign no throne could counterfeit: &ldquo;Indeed, Allah brings up the sun from the east, so bring it up from the west.&rdquo; The king was silenced on the spot.",
           "cls": "dropcap"
         },
         {
@@ -260,7 +260,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "He could not remain among them. &ldquo;And We delivered him and Lot to the land which We had blessed for the worlds [i.e., peoples]&rdquo; (21:71). Lut believed in him, and Ibrahim spoke the words of every emigrant for Allah&rsquo;s sake: &ldquo;Indeed, I will emigrate to [the service of] my Lord. Indeed, He is the Exalted in Might, the Wise&rdquo; (29:26).",
+          "html": "He could not remain among them. Allah delivered him and Lut to the land He had blessed. Lut believed in him, and Ibrahim spoke the words of every emigrant for Allah&rsquo;s sake: &ldquo;Indeed, I will emigrate to [the service of] my Lord.&rdquo;",
           "cls": "dropcap"
         },
         {
@@ -294,7 +294,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "In his new land, honored guests came to his door. &ldquo;And certainly did Our messengers [i.e., angels] come to Abraham with good tidings; they said, &lsquo;Peace.&rsquo; He said, &lsquo;Peace,&rsquo; and did not delay in bringing [them] a roasted calf&rdquo; (11:69). But their hands did not reach for the food, and fear entered his heart, until they said, &ldquo;Fear not. We have been sent to the people of Lot&rdquo; (11:70). Then the tidings his household had waited a lifetime for: his wife was standing, and she smiled. &ldquo;Then We gave her good tidings of Isaac and after Isaac, Jacob&rdquo; (11:71). She cried out in disbelief: &ldquo;Woe to me! Shall I give birth while I am an old woman and this, my husband, is an old man? Indeed, this is an amazing thing!&rdquo; (11:72). &ldquo;Are you amazed at the decree of Allah? May the mercy of Allah and His blessings be upon you, people of the house. Indeed, He is Praiseworthy and Honorable&rdquo; (11:73).",
+          "html": "In his new land, honored guests came to his door. Angels, though he did not know it yet, and he hurried to bring them a roasted calf. But their hands did not reach for the food, and fear entered his heart, until they said: fear not, we have been sent to the people of Lot. Then the tidings his household had waited a lifetime for: his wife was standing, and she smiled. Allah gave them good tidings of Isaac, and after Isaac, Jacob. She cried out in disbelief: &ldquo;Woe to me! Shall I give birth while I am an old woman and this, my husband, is an old man?&rdquo; Are you amazed at the decree of Allah, they said. The mercy of Allah and His blessings upon you, people of the house.",
           "cls": "dropcap"
         },
         {
@@ -328,7 +328,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "His faith was certain, yet his heart wanted witnessing. &ldquo;My Lord, show me how You give life to the dead.&rdquo; Allah asked, &ldquo;Have you not believed?&rdquo; &ldquo;Yes,&rdquo; he said, &ldquo;but [I ask] only that my heart may be satisfied.&rdquo; Then the command: &ldquo;Take four birds and commit them to yourself. Then [after slaughtering them] put on each hill a portion of them; then call them, they will come [flying] to you in haste. And know that Allah is Exalted in Might and Wise&rdquo; (2:260). He called, and they came. Certainty, witnessed.",
+          "html": "His faith was certain, yet his heart wanted witnessing. &ldquo;My Lord, show me how You give life to the dead.&rdquo; Have you not believed? Allah asked. Yes, he said, but only that my heart may be satisfied. Then the command: take four birds, place a portion of them on each hill, then call them, and they will come flying to you in haste. He called, and they came. Certainty, witnessed.",
           "cls": "dropcap"
         },
         {
@@ -355,7 +355,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Allah tried Ibrahim &ldquo;with words [i.e., commands] and he fulfilled them,&rdquo; and the reward was a station given to no other: &ldquo;Indeed, I will make you a leader for the people&rdquo; (2:124). His greatest work was the House. With his son Ismail he raised its foundations, and as they built they prayed: &ldquo;Our Lord, accept [this] from us. Indeed, You are the Hearing, the Knowing&rdquo; (2:127). &ldquo;Our Lord, and make us Muslims [in submission] to You and from our descendants a Muslim nation [in submission] to You. And show us our rites [of worship] and accept our repentance. Indeed, You are the Accepting of Repentance, the Merciful&rdquo; (2:128). &ldquo;Our Lord, and send among them a messenger from themselves who will recite to them Your verses and teach them the Book and wisdom and purify them. Indeed, You are the Exalted in Might, the Wise&rdquo; (2:129). That prayer was answered in Muhammad (ﷺ). And the valley itself was his trust: &ldquo;My Lord, make this city [i.e., Makkah] secure and keep me and my sons away from worshipping idols&rdquo; (14:35). &ldquo;Our Lord, I have settled some of my descendants in an uncultivated valley near Your sacred House, our Lord, that they may establish prayer&rdquo; (14:37).",
+          "html": "Allah tried Ibrahim with commands, and he fulfilled them, and the reward was a station given to no other: a leader for the people. His greatest work was the House. With his son Ismail he raised its foundations, and as they built they prayed: &ldquo;Our Lord, accept [this] from us. Indeed, You are the Hearing, the Knowing.&rdquo; Make us Muslims, they prayed, and from our descendants a Muslim nation, and send among them a messenger who will recite Your verses. That prayer was answered in Muhammad (ﷺ). And the valley itself was his trust: make this city secure, and keep me and my sons away from worshipping idols.",
           "cls": "dropcap"
         },
         {
@@ -410,7 +410,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then came the hardest command of all. He had prayed, &ldquo;My Lord, grant me [a child] from among the righteous&rdquo; (37:100), &ldquo;So We gave him good tidings of a forbearing boy&rdquo; (37:101). When the boy &ldquo;reached with him [the age of] exertion,&rdquo; Ibrahim told him plainly: &ldquo;O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think.&rdquo; The boy answered with his father&rsquo;s own submission: &ldquo;O my father, do as you are commanded. You will find me, if Allah wills, of the steadfast&rdquo; (37:102). &ldquo;And when they had both submitted and he put him down upon his forehead&rdquo; (37:103), the call came from above: &ldquo;O Abraham, you have fulfilled the vision. Indeed, We thus reward the doers of good&rdquo; (37:104-105). &ldquo;Indeed, this was the clear trial. And We ransomed him with a great sacrifice&rdquo; (37:106-107). And the Quran seals his name with peace forever: &ldquo;Peace upon Abraham&rdquo; (37:109).",
+          "html": "Then came the hardest command of all. He had prayed for a righteous child, and Allah gave him good tidings of a forbearing boy. When the boy reached the age of exertion, Ibrahim told him plainly of the dream: I must sacrifice you, so see what you think. The boy answered with his father&rsquo;s own submission: &ldquo;O my father, do as you are commanded. You will find me, if Allah wills, of the steadfast.&rdquo; And when they had both submitted, the call came: O Abraham, you have fulfilled the vision. This was the clear trial, and Allah ransomed him with a great sacrifice. And the Quran seals his name with peace forever: &ldquo;Peace upon Abraham.&rdquo;",
           "cls": "dropcap"
         },
         {
@@ -458,7 +458,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Quran gathers his whole life into a single verdict: &ldquo;Indeed, Abraham was a [comprehensive] leader, devoutly obedient to Allah, inclining toward truth, and he was not of those who associate others with Allah. [He was] grateful for His favors. He [i.e., Allah] chose him and guided him to a straight path&rdquo; (16:120-121). He belongs to no faction and no age: &ldquo;Abraham was neither a Jew nor a Christian, but he was one inclining toward truth, a Muslim [submitting to Allah]. And he was not of the polytheists&rdquo; (3:67). And yet the man who guided nations could not guide his own father. The Prophet (ﷺ) said that on the Day of Resurrection Ibrahim will meet Azar and plead for him, and the answer will be final.",
+          "html": "The Quran gathers his whole life into a single verdict: a leader, devoutly obedient to Allah, inclining toward truth, grateful for His favors, chosen and guided to a straight path. He belongs to no faction and no age: neither Jew nor Christian, but one inclining toward truth, a Muslim. And yet the man who guided nations could not guide his own father. The Prophet (ﷺ) said that on the Day of Resurrection Ibrahim will meet Azar and plead for him, and the answer will be final.",
           "cls": "dropcap"
         },
         {

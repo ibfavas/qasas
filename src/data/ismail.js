@@ -37,7 +37,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Ibrahim was old when Allah gave him sons, and his own words remember it: &ldquo;Praise to Allah, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication&rdquo; (14:39). Of Ismail the Quran first says: &ldquo;So We gave him good tidings of a forbearing boy&rdquo; (37:101).",
+          "html": "Ibrahim was old when Allah gave him sons, and his own words remember it: &ldquo;Praise to Allah, who has granted to me in old age Ishmael and Isaac.&rdquo; Of Ismail the Quran first says: Allah gave him good tidings of a forbearing boy.",
           "cls": "dropcap"
         },
         {
@@ -71,7 +71,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The boy grew up in a valley with no crops and no water. &ldquo;Our Lord, I have settled some of my descendants in an uncultivated valley near Your sacred House, our Lord, that they may establish prayer. So make hearts among the people incline toward them and provide for them from the fruits that they might be grateful&rdquo; (14:37). The prayer was answered: hearts inclined, people came, and the valley lived.",
+          "html": "The boy grew up in a valley with no crops and no water, near the sacred House, that they might establish prayer. Ibrahim prayed that hearts would incline toward them and that they would be provided with fruits. The prayer was answered: hearts inclined, people came, and the valley lived.",
           "cls": "dropcap"
         },
         {
@@ -98,7 +98,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then the dream. &ldquo;O my son, indeed I have seen in a dream that I [must] sacrifice you, so see what you think.&rdquo; The boy did not hesitate and did not bargain: &ldquo;O my father, do as you are commanded. You will find me, if Allah wills, of the steadfast&rdquo; (37:102). &ldquo;And when they had both submitted and he put him down upon his forehead&rdquo; (37:103), Allah ransomed him &ldquo;with a great sacrifice&rdquo; (37:107). The Quran does not name the son in this passage; it names only his patience.",
+          "html": "Then the dream. O my son, I have seen that I must sacrifice you, so see what you think. The boy did not hesitate and did not bargain: &ldquo;O my father, do as you are commanded. You will find me, if Allah wills, of the steadfast.&rdquo; And when they had both submitted, Allah ransomed him with a great sacrifice. The Quran does not name the son in this passage; it names only his patience.",
           "cls": "dropcap"
         },
         {
@@ -132,7 +132,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Quran&rsquo;s own portrait of Ismail is brief and luminous: &ldquo;And mention in the Book, Ishmael. Indeed, he was true to his promise, and he was a messenger and a prophet&rdquo; (19:54). &ldquo;And he used to enjoin on his people prayer and zakah and was to his Lord pleasing [i.e., accepted by Him]&rdquo; (19:55).",
+          "html": "The Quran&rsquo;s own portrait of Ismail is brief and luminous: &ldquo;Indeed, he was true to his promise, and he was a messenger and a prophet.&rdquo; And he used to enjoin on his people prayer and zakah, and was pleasing to his Lord.",
           "cls": "dropcap"
         },
         {
@@ -159,7 +159,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "When Ibrahim was commanded to raise the House, it was Ismail who stood beside him. &ldquo;And [mention] when Abraham was raising the foundations of the House and [with him] Ishmael, [saying], &lsquo;Our Lord, accept [this] from us. Indeed, You are the Hearing, the Knowing&rsquo;&rdquo; (2:127). Stone by stone, father and son, and with every stone a prayer.",
+          "html": "When Ibrahim was commanded to raise the House, it was Ismail who stood beside him, raising the foundations together, praying as they built: &ldquo;Our Lord, accept [this] from us. Indeed, You are the Hearing, the Knowing.&rdquo; Stone by stone, father and son, and with every stone a prayer.",
           "cls": "dropcap"
         },
         {
@@ -186,7 +186,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "&ldquo;And [mention] Ishmael and Idris and Dhul-Kifl; all were of the patient. And We admitted them into Our mercy. Indeed, they were of the righteous&rdquo; (21:85-86). &ldquo;And remember Ishmael, Elisha and Dhul-Kifl, and all are among the outstanding&rdquo; (38:48).",
+          "html": "Ishmael and Idris and Dhul-Kifl: all were of the patient, and Allah admitted them into His mercy, for they were of the righteous. And remember Ishmael, Elisha and Dhul-Kifl: all are among the outstanding.",
           "cls": "dropcap"
         },
         {

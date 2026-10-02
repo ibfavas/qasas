@@ -39,7 +39,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The angels who visited Ibrahim brought two tidings: &ldquo;Then We gave her good tidings of Isaac and after Isaac, Jacob&rdquo; (11:71). And when Ibrahim left his people&rsquo;s idols, Allah gave him a household of prophets: &ldquo;So when he had left them and those they worshipped other than Allah, We gave him Isaac and Jacob, and each [of them] We made a prophet&rdquo; (19:49). Yaqub, the son of Ishaq, the grandson of the Friend of Allah.",
+          "html": "The angels who visited Ibrahim brought two tidings: Isaac, and after Isaac, Jacob. And when Ibrahim left his people&rsquo;s idols, Allah gave him a household of prophets: Isaac and Jacob, each made a prophet. Yaqub, the son of Ishaq, the grandson of the Friend of Allah.",
           "cls": "dropcap"
         },
         {
@@ -73,7 +73,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "One morning the boy Yusuf came to his father with a dream: &ldquo;O my father, indeed I have seen [in a dream] eleven stars and the sun and the moon; I saw them prostrating to me&rdquo; (12:4). Yaqub understood at once, and his counsel was wisdom itself: &ldquo;O my son, do not relate your vision to your brothers or they will contrive against you a plan. Indeed Satan, to man, is a manifest enemy&rdquo; (12:5). Not every gift is for every ear.",
+          "html": "One morning the boy Yusuf came to his father with a dream: eleven stars, the sun, and the moon, prostrating to him. Yaqub understood at once, and his counsel was wisdom itself: &ldquo;O my son, do not relate your vision to your brothers or they will contrive against you a plan.&rdquo; Not every gift is for every ear.",
           "cls": "dropcap"
         },
         {
@@ -100,7 +100,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The brothers asked to take Yusuf into the desert. &ldquo;Indeed, it saddens me that you should take him,&rdquo; Yaqub said, &ldquo;and I fear that a wolf would eat him while you are of him unaware&rdquo; (12:13). They promised, they took him, and they threw him into a well. Then &ldquo;they came to their father at night, weeping&rdquo; (12:16). &ldquo;O our father, indeed we went racing each other and left Joseph with our possessions, and a wolf ate him. But you would not believe us, even if we were truthful&rdquo; (12:17). They brought the shirt stained with false blood, and the old man saw through it all: &ldquo;Rather, your souls have enticed you to something, so patience is most fitting. And Allah is the one sought for help against that which you describe&rdquo; (12:18).",
+          "html": "The brothers asked to take Yusuf into the desert. It saddened Yaqub to let him go; he feared a wolf would eat him while they were unaware. They promised, they took him, and they threw him into a well. Then they came to their father at night, weeping, with a tale of racing and a wolf and a shirt stained with false blood. The old man saw through it all: &ldquo;Rather, your souls have enticed you to something, so patience is most fitting.&rdquo;",
           "cls": "dropcap"
         },
         {
@@ -127,7 +127,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Years later, famine drove the brothers to Egypt, and the Aziz demanded the youngest as pledge. &ldquo;Should I entrust you with him except [under coercion] as I entrusted you with his brother before?&rdquo; Yaqub asked. &ldquo;But Allah is the best guardian, and He is the most merciful of the merciful&rdquo; (12:64). He took their oath, and he gave them his counsel for the road: &ldquo;O my sons, do not enter from one gate but enter from different gates; and I cannot avail you against [the decree of] Allah at all. The decision is only for Allah; upon Him I have relied, and upon Him let those who would rely [indeed] rely&rdquo; (12:67).",
+          "html": "Years later, famine drove the brothers to Egypt, and the Aziz demanded the youngest as pledge. Should I entrust him to you as I entrusted his brother before? But Allah is the best guardian, and the most merciful of the merciful. Yaqub took their oath, and gave them his counsel for the road: enter by different gates, for he could not avail them against Allah&rsquo;s decree. The decision is only for Allah; upon Him he relied.",
           "cls": "dropcap"
         },
         {
@@ -161,7 +161,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then the second blow: Binyamin was held in Egypt. &ldquo;Rather, your souls have enticed you to something, so patience is most fitting. Perhaps Allah will bring them to me all together. Indeed, it is He who is the Knowing, the Wise&rdquo; (12:83). And he turned away from them and said, &ldquo;Oh, my sorrow over Joseph,&rdquo; and his eyes became white from grief, for he was [of that] a suppressor&rdquo; (12:84). They mocked his grief: &ldquo;By Allah, you will not cease remembering Joseph until you become fatally ill or become of those who perish&rdquo; (12:85). His answer is the charter of the grieving believer: &ldquo;I only complain of my suffering and my grief to Allah, and I know from Allah that which you do not know. O my sons, go and find out about Joseph and his brother and despair not of relief from Allah. Indeed, no one despairs of relief from Allah except the disbelieving people&rdquo; (12:86-87). The Prophet (ﷺ) said that patience counts at the first stroke of calamity; Yaqub had shown it at the first stroke, and he showed it still.",
+          "html": "Then the second blow: Binyamin was held in Egypt. &ldquo;So patience is most fitting. Perhaps Allah will bring them to me all together.&rdquo; And he turned away and said: &ldquo;Oh, my sorrow over Joseph.&rdquo; His eyes became white from grief. They mocked him: you will not cease remembering Joseph until you perish. His answer is the charter of the grieving believer: &ldquo;I only complain of my suffering and my grief to Allah.&rdquo; And: &ldquo;Despair not of relief from Allah. Indeed, no one despairs of relief from Allah except the disbelieving people.&rdquo; The Prophet (ﷺ) said that patience counts at the first stroke of calamity; Yaqub had shown it at the first stroke, and he showed it still.",
           "cls": "dropcap"
         },
         {
@@ -195,7 +195,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "&ldquo;And when the caravan departed [from Egypt], their father said, &lsquo;Indeed, I find the smell of Joseph [and would say that he was alive] if you did not think me weakened in mind&rsquo;&rdquo; (12:94). They laughed: &ldquo;By Allah, indeed you are in your [same] old error&rdquo; (12:95). &ldquo;And when the bearer of good tidings arrived, he cast it over his face, and he returned [once again] seeing. He said, &lsquo;Did I not tell you that I know from Allah that which you do not know?&rsquo;&rdquo; (12:96). The sons who had mocked him now begged him: &ldquo;O our father, ask for us forgiveness of our sins; indeed, we have been sinners&rdquo; (12:97). &ldquo;I will ask forgiveness for you from my Lord. Indeed, it is He who is the Forgiving, the Merciful&rdquo; (12:98).",
+          "html": "When the caravan departed from Egypt, the old man said he found the smell of Yusuf, if they did not think him weakened in mind. They laughed: you are in your old error. Then the bearer of good tidings arrived and cast the shirt over his face, and his sight returned. &ldquo;Did I not tell you that I know from Allah that which you do not know?&rdquo; The sons who had mocked him now begged: ask forgiveness for us. &ldquo;I will ask forgiveness for you from my Lord. Indeed, it is He who is the Forgiving, the Merciful.&rdquo;",
           "cls": "dropcap"
         },
         {
@@ -222,7 +222,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "They entered Egypt, and Yusuf embraced his parents: &ldquo;Enter Egypt, Allah willing, safe [and secure]&rdquo; (12:99). &ldquo;And he raised his parents upon the throne, and they bowed to him in prostration. And he said, &lsquo;O my father, this is the explanation of my vision of before. My Lord has made it reality&rsquo;&rdquo; (12:100). Decades of grief, ended in a single morning.",
+          "html": "They entered Egypt, and Yusuf embraced his parents. Enter Egypt, Allah willing, safe and secure. And he raised his parents upon the throne, and they bowed to him in prostration. &ldquo;O my father, this is the explanation of my vision of before. My Lord has made it reality.&rdquo; Decades of grief, ended in a single morning.",
           "cls": "dropcap"
         },
         {
@@ -249,7 +249,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "At the end of his life, his concern was the same as his forefathers&rsquo;: the religion of his children. &ldquo;And Abraham instructed his sons [to do the same] and [so did] Jacob, [saying], &lsquo;O my sons, indeed Allah has chosen for you this religion, so do not die except while you are Muslims&rsquo;&rdquo; (2:132). &ldquo;Or were you witnesses when death approached Jacob, when he said to his sons, &lsquo;What will you worship after me?&rsquo; They said, &lsquo;We will worship your God and the God of your fathers, Abraham and Ishmael and Isaac, one God. And we are Muslims [in submission] to Him&rsquo;&rdquo; (2:133).",
+          "html": "At the end of his life, his concern was the same as his forefathers&rsquo;: the religion of his children. &ldquo;O my sons, indeed Allah has chosen for you this religion, so do not die except while you are Muslims.&rdquo; And when death approached, he asked: &ldquo;What will you worship after me?&rdquo; They answered: your God and the God of your fathers, Abraham and Ishmael and Isaac, one God.",
           "cls": "dropcap"
         },
         {
@@ -276,7 +276,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Quran&rsquo;s closing verdict on him stands beside his father and grandfather: &ldquo;And remember Our servants, Abraham, Isaac and Jacob, those of strength and [religious] vision. Indeed, We chose them for an exclusive quality: remembrance of the home [of the Hereafter]. And indeed they are, to Us, among the chosen and outstanding&rdquo; (38:45-47).",
+          "html": "The Quran&rsquo;s closing verdict on him stands beside his father and grandfather: &ldquo;those of strength and [religious] vision,&rdquo; chosen for remembrance of the Home of the Hereafter, among the chosen and outstanding.",
           "cls": "dropcap"
         },
         {

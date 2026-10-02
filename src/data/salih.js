@@ -39,7 +39,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "After &lsquo;Ad came Thamud, and to them, another brother. &ldquo;And to Thamud [We sent] their brother Salih&rdquo; (11:61). His lineage was their lineage; his language, theirs. His message opened with their origin: &ldquo;He produced you from the earth and settled you in it, so ask forgiveness of Him and then repent to Him. Indeed, my Lord is near and responsive&rdquo; (11:61). Near, not distant. Responsive, not silent. And the foundation beneath it, the same as every messenger’s: &ldquo;O my people, worship Allah; you have no deity other than Him&rdquo; (7:73).",
+          "html": "After &lsquo;Ad came Thamud, and to them, another brother. Salih was one of their own: his lineage was their lineage, his language theirs. His message opened with their origin, that Allah had produced them from the earth and settled them in it, and his Lord was near and responsive, not distant, not silent. And beneath it the foundation every messenger laid: worship Allah; you have no deity other than Him.",
           "cls": "dropcap"
         },
         {
@@ -73,7 +73,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Thamud did not ask for arguments: they asked for a miracle. &ldquo;You are but a man like ourselves, so bring a sign, if you should be of the truthful&rdquo; (26:154). And Allah gave them one beyond all expectation: &ldquo;We gave Thamud the she-camel as a visible sign&rdquo; (17:59). &ldquo;This is the she-camel of Allah, to you a sign&rdquo; (11:64). She was no ordinary animal; she was &ldquo;a trial for them&rdquo; (54:27), a living, breathing test walking among them, drinking from their wells. &ldquo;So watch them and be patient,&rdquo; Allah told Salih (54:27). The sign had come. Now came the terms.",
+          "html": "Thamud did not ask for arguments; they asked for a miracle. You are only a man like us, they said, so &ldquo;bring a sign, if you should be of the truthful.&rdquo; And Allah gave them one beyond all expectation: the she-camel, a visible sign. She was no ordinary animal; she was a trial for them, a living, breathing test walking among them and drinking from their wells. Allah told Salih to watch them and be patient. The sign had come. Now came the terms.",
           "cls": "dropcap"
         },
         {
@@ -121,7 +121,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "A sign from Allah comes with conditions. &ldquo;For her is a [time of] drink, and for you is a [time of] drink, [each on] a known day&rdquo; (26:155). One day the wells were hers; the next, theirs. An arrangement no one could call unfair. &ldquo;And do not touch her with harm, lest you be seized by the punishment of a terrible day&rdquo; (26:156). The terms were simple and the warning explicit. Blessings from Allah always carry boundaries: the only question is whether men will keep them.",
+          "html": "A sign from Allah comes with conditions. The wells would be shared: one day for her, one day for them, each on a known day. An arrangement no one could call unfair. And the warning was explicit: do not touch her with harm, or the punishment of a terrible day would seize them. The terms were simple. Blessings from Allah always carry boundaries; the only question is whether men will keep them.",
           "cls": "dropcap"
         },
         {
@@ -148,7 +148,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "They kept the terms until resentment ripened into resolve. &ldquo;They called their companion, and he dared and hamstrung [her]&rdquo; (54:29), one hand did it, at the urging of many. The Quran gives him his rank in infamy: &ldquo;when the most wretched of them was sent forth&rdquo; (91:12). &ldquo;But they denied him and hamstrung her&rdquo; (91:14). Then, drunk on defiance, &ldquo;they hamstrung the she-camel and were insolent toward the command of their Lord and said, &lsquo;O Salih, bring us what you promise us, if you should be of the messengers’&rdquo; (7:77). They killed the sign, and then demanded the punishment, as if daring Allah Himself.",
+          "html": "They kept the terms until resentment ripened into resolve. They called their companion, and he dared and hamstrung her: one hand did it, at the urging of many. The Quran gives him his rank in infamy, the most wretched of them. Then, drunk on defiance, they were insolent toward the command of their Lord: &ldquo;O Salih, bring us what you promise us, if you should be of the messengers.&rdquo; They killed the sign, and then demanded the punishment, as if daring Allah Himself.",
           "cls": "dropcap"
         },
         {
@@ -196,7 +196,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Salih gave them the answer they had dared to ask for. &ldquo;Enjoy yourselves in your homes for three days. That is a promise not to be denied&rdquo; (11:65). Three days, not three years, not three hours. Time enough to repent, and they spent it waiting. The Quran gives no details of those three days. It records only the promise, and that it would not be denied.",
+          "html": "Salih gave them the answer they had dared to ask for: &ldquo;Enjoy yourselves in your homes for three days. That is a promise not to be denied.&rdquo; Three days, not three years, not three hours. Time enough to repent, and they spent it waiting. The Quran gives no details of those three days. It records only the promise, and that it would not be denied.",
           "cls": "dropcap"
         },
         {
@@ -223,7 +223,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "While the countdown ran, nine men hatched a darker plan. &ldquo;And there were in the city nine family heads causing corruption in the land and not amending&rdquo; (27:48). They swore an oath by Allah Himself, the very God they rejected, &ldquo;that we will kill him by night, he and his family. Then we will say to his executor, &lsquo;We did not witness the destruction of his family, and indeed, we are truthful’&rdquo; (27:49). Murder by night, lies by day, and an alibi prepared in advance. But &ldquo;they planned a plan, and We planned a plan, while they perceived not&rdquo; (27:50). &ldquo;So observe how was the end of their plan, that We destroyed them and their people, all&rdquo; (27:51).",
+          "html": "While the countdown ran, nine men hatched a darker plan. Nine family heads, spreading corruption in the city and never amending it. They swore an oath by Allah Himself, the very God they rejected, to murder Salih and his family by night, and to tell his executor in the morning that they had witnessed nothing, claiming truthfulness. Murder by night, lies by day, an alibi prepared in advance. But &ldquo;they planned a plan, and We planned a plan, while they perceived not.&rdquo; So observe how their plan ended: Allah destroyed them and their people, all.",
           "cls": "dropcap"
         },
         {
@@ -250,7 +250,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "When the three days ended, it came at dawn. &ldquo;The shriek seized those who had wronged, and they became within their homes [corpses] fallen prone&rdquo; (11:67). One cry: &ldquo;Indeed, We sent upon them one shriek, and they became like the dry twig fragments of an [animal] pen&rdquo; (54:31). &ldquo;The shriek seized them at dawn&rdquo; (15:83), the same dawn they woke in houses carved from living rock, feeling safe. &ldquo;Then the thunderbolt seized them while they were looking on&rdquo; (51:44). They had hamstrung Allah’s sign, and &ldquo;their Lord brought down upon them destruction for their sin and made it equal [upon all of them]&rdquo; (91:14).",
+          "html": "When the three days ended, it came at dawn. A single shriek seized the wrongdoers, and they fell prone in their homes, like dry twig fragments of an animal pen. The same dawn they woke in houses carved from living rock, feeling safe. The thunderbolt seized them while they were looking on. They had hamstrung Allah&rsquo;s sign, and their Lord brought destruction down upon them for their sin.",
           "cls": "dropcap"
         },
         {
@@ -305,7 +305,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Thamud’s pride was written in stone, literally. &ldquo;And [they were] companions of Al-Hijr [who] denied the messengers&rdquo; (15:80), and &ldquo;they used to carve from the mountains, houses, feeling secure&rdquo; (15:82). &ldquo;Thamud, who carved out the rocks in the valley&rdquo; (89:9). &ldquo;And you carve out of the mountains, homes, with skill&rdquo; (26:149). Their architecture outlived their repentance by about three days: &ldquo;the shriek seized them at dawn, and nothing availed them from what they used to earn&rdquo; (15:83-84). Centuries later, the Prophet Muhammad ﷺ passed those same ruins on the march to Tabuk, and left an order for every traveler after him:",
+          "html": "Thamud&rsquo;s pride was written in stone, literally. They were the companions of Al-Hijr who denied the messengers, carving houses from the mountains and feeling secure, carving the rocks in the valley with skill. Their architecture outlived their repentance by about three days. The shriek seized them at dawn, and nothing they had earned availed them. Centuries later, the Prophet Muhammad ﷺ passed those same ruins on the march to Tabuk, and left an order for every traveler after him:",
           "cls": "dropcap"
         },
         {
@@ -353,7 +353,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "&ldquo;So when Our command came, We saved Salih and those who believed with him, by mercy from Us, from the disgrace of that day&rdquo; (11:66). &ldquo;And We saved those who believed and feared Allah&rdquo; (41:18). The believers walked out of a city of corpses into mercy. And Thamud? &ldquo;Indeed, Thamud denied their Lord, so away with Thamud&rdquo; (11:68). Their empty houses stand in the valley to this day, desolate, as promised: &ldquo;their houses, desolate because of what they wronged. Indeed in that is a sign for people who know&rdquo; (27:52). And the Quran closes their account the way it closes every account: &ldquo;We saved those who believed&rdquo; (27:53).",
+          "html": "When the command came, Allah saved Salih and those who believed with him, by mercy, from the disgrace of that day. The believers walked out of a city of corpses into mercy. And Thamud? They denied their Lord, so away with Thamud. Their empty houses stand in the valley to this day, &ldquo;desolate because of what they wronged,&rdquo; a sign for people who know. And the Quran closes their account the way it closes every account: We saved those who believed.",
           "cls": "dropcap"
         },
         {

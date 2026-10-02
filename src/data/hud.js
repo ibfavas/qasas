@@ -39,7 +39,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "After Nuh, mankind began again, and the Quran bridges the two stories in a single breath: &ldquo;Then We produced after them a generation, and We sent among them a messenger from themselves&rdquo; (23:31-32). His name was Hud, and his people were &lsquo;Ad. &ldquo;And to &lsquo;Ad [We sent] their brother Hud,&rdquo; Allah says (11:50), their brother, not a stranger, not an angel, but one of their own blood. &ldquo;And mention, [O Muhammad], the brother of &lsquo;Ad, when he warned his people&rdquo; (46:21). And his call was the call every messenger carried, word for word: &ldquo;O my people, worship Allah; you have no deity other than Him.&rdquo;",
+          "html": "After Nuh, mankind began again. The new people were &lsquo;Ad, and the messenger sent to them was one of their own: Hud, their brother. Not a stranger, not an angel, but a man of their own blood, speaking their own tongue. His call was the call every messenger carried: worship Allah alone, for you have no deity other than Him.",
           "cls": "dropcap"
         },
         {
@@ -80,7 +80,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "&lsquo;Ad were not a weak people, and the Quran never pretends they were. It remembers them as builders of wonders: &ldquo;[With] Iram, who had lofty pillars, the likes of which had never been created in the land&rdquo; (89:7-8). They raised monuments on every high place &ldquo;for amusement&rdquo; and took fortresses &ldquo;that you might abide eternally&rdquo; (26:128-129), and &ldquo;when you seize [your enemies], you seize as tyrants&rdquo; (26:130). Their strength went to their heads until it became their creed: &ldquo;As for &lsquo;Ad, they were arrogant upon the earth without right and said, &lsquo;Who is greater than us in strength?’&rdquo; (41:15). The Quran answers its own question: &ldquo;Did they not consider that Allah who created them was greater than them in strength?&rdquo; Power had become their god, and they worshipped it openly.",
+          "html": "&lsquo;Ad were not a weak people, and the Quran never pretends they were. They raised Iram of the lofty pillars, the likes of which had never been created in the land. They built monuments on every high place for amusement, and fortresses as if they would live forever, and when they seized their enemies they seized as tyrants. Their strength went to their heads until it became their creed: &ldquo;Who is greater than us in strength?&rdquo; The Quran answers its own question: the One who created them was greater than them in strength. Power had become their god, and they worshipped it openly.",
           "cls": "dropcap"
         },
         {
@@ -121,7 +121,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Into this pride walked Hud, with nothing to sell and nothing to gain. &ldquo;O my people, I do not ask you for it any reward. My reward is only from the one who created me. Then will you not reason?&rdquo; (11:51). A warner who wants nothing from you can only want good for you. And his offer was mercy dressed as simplicity: &ldquo;Ask forgiveness of your Lord and then repent to Him. He will send [rain from] the sky upon you in showers and increase you in strength [added] to your strength. And do not turn away, [being] criminals&rdquo; (11:52). Forgiveness first, then rain, then more strength: even their beloved power would grow, if only it bowed. &ldquo;Indeed, I am to you a trustworthy messenger&rdquo; (26:126), and again, &ldquo;a trustworthy adviser&rdquo; (7:68). &ldquo;So fear Allah and obey me.&rdquo;",
+          "html": "Into this pride walked Hud, with nothing to sell and nothing to gain. He asked no wage; his reward was with the One who created him. A warner who wants nothing from you can only want good for you. And his offer was mercy dressed as simplicity: ask forgiveness and repent, and the sky would open with rain, and strength would be added to their strength. Forgiveness first, then rain, then more power: even their beloved strength would grow, if only it bowed. He told them plainly that he was a trustworthy messenger and a trustworthy adviser, and he asked only that they fear Allah and obey him.",
           "cls": "dropcap"
         },
         {
@@ -162,7 +162,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The chiefs answered with the oldest weapons in the world: ridicule and slander. &ldquo;Indeed, we see you in foolishness, and indeed, we think you are of the liars,&rdquo; they said (7:66). When he pressed them, they diagnosed him: &ldquo;We do not say except that some of our gods have seized you with evil&rdquo; (11:54): madness, they meant; the gods were punishing him for insulting them. And their philosophy is preserved word for word, the creed of every comfortable age: &ldquo;This is not but the custom of the former peoples, and we are not to be punished&rdquo; (26:137-138). A prophet is a madman, history is a wheel, punishment is a myth. They had an answer for everything, everything except the truth.",
+          "html": "The chiefs answered with the oldest weapons in the world: ridicule and slander. They called him foolish and a liar. When he pressed them, they diagnosed him as mad, claiming their gods had seized him with evil for insulting them. And their philosophy is preserved word for word, the creed of every comfortable age: this is only the custom of former peoples, and &ldquo;we are not to be punished.&rdquo; A prophet is a madman, history is a wheel, punishment is a myth. They had an answer for everything, everything except the truth.",
           "cls": "dropcap"
         },
         {
@@ -203,7 +203,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then came the challenge: the dare every doomed people throws at its warner. &ldquo;Have you come to delude us away from our gods? Then bring us what you promise us, if you should be of the truthful&rdquo; (46:22). &ldquo;So bring us what you threaten us with, if you should be of the truthful&rdquo; (7:70). Bring it, they said. Show us. They imagined the threat was empty because the sky was clear. They were about to learn what a clear sky can hide.",
+          "html": "Then came the challenge, the dare every doomed people throws at its warner. Had he come to turn them from their gods? Then let him bring what he promised, if he was truthful. Bring it, they said. Show us. They imagined the threat was empty because the sky was clear. They were about to learn what a clear sky can hide.",
           "cls": "dropcap"
         },
         {
@@ -237,7 +237,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Hud did not flinch. His answer is one of the boldest speeches in the Quran. &ldquo;I call Allah to witness, and witness [yourselves], that I am free from what you associate [with Him] other than Him. So plot against me all together; then do not give me respite&rdquo; (11:54-55). One man against a mighty nation, and he dares them all at once, with no delay granted and none asked. His confidence had a source, and he named it: &ldquo;Indeed, I have relied upon Allah, my Lord and your Lord. There is no creature but that He holds its forelock. Indeed, my Lord is on a path [that is] straight&rdquo; (11:56). Every forelock, every tyrant’s forehead, is in Allah’s grip. What is there to fear? And the sentence stood: &ldquo;There has already come upon you from your Lord punishment and anger&rdquo; (7:71).",
+          "html": "Hud did not flinch. His answer is one of the boldest speeches in the Quran. He called Allah to witness that he was free of their idols, and then he dared them all at once: plot against him, all together, and give him no respite. One man against a mighty nation, asking for no delay and granting none. His confidence had a source, and he named it: his trust was in Allah, his Lord and theirs, who holds every creature by its forelock. &ldquo;There is no creature but that He holds its forelock.&rdquo; Every tyrant&rsquo;s forehead is in Allah&rsquo;s grip. What is there to fear?",
           "cls": "dropcap"
         },
         {
@@ -271,7 +271,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The punishment came wearing the clothes of mercy. After drought, they saw it rising over the ridges: &ldquo;When they saw it as a cloud approaching their valleys, they said, &lsquo;This is a cloud bringing us rain!’&rdquo; (46:24). They celebrated, the sky had answered. But it was &ldquo;that for which you were impatient: a wind, within it a painful punishment&rdquo; (46:24). The very thing they had demanded, &ldquo;bring us what you threaten us with,&rdquo; arrived looking like the answer to their prayers. A wind &ldquo;destroying everything by command of its Lord&rdquo; (46:25). Not every relief is a relief.",
+          "html": "The punishment came wearing the clothes of mercy. After drought, they saw something rising over the ridges, a cloud approaching their valleys, and they celebrated: &ldquo;This is a cloud bringing us rain!&rdquo; The sky had answered, they thought. But it was the very thing they had been impatient for: a wind carrying a painful punishment. The thing they had demanded arrived looking like the answer to their prayers. Not every relief is a relief.",
           "cls": "dropcap"
         },
         {
@@ -298,7 +298,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Quran describes that wind from four angles, and each is more terrifying than the last. It was &ldquo;a screaming wind&rdquo; (54:19), &ldquo;the barren wind&rdquo; (51:41), barren, leaving nothing alive behind it: &ldquo;It left nothing of what it came upon but that it made it like disintegrated ruins&rdquo; (51:42). It raged &ldquo;seven nights and eight days in succession, so you would see the people therein fallen as if they were hollow trunks of palm trees&rdquo; (69:7), &ldquo;extracting the people as if they were trunks of palm trees, uprooted&rdquo; (54:20). The people who asked &ldquo;who is greater than us in strength?&rdquo; lay fallen like hollow trunks of palm trees. &ldquo;So how [severe] were My punishment and warning&rdquo; (54:21).",
+          "html": "The Quran describes that wind from four angles, and each is more terrifying than the last. A screaming wind. The barren wind, leaving nothing alive behind it, reducing everything it touched to disintegrated ruins. It raged seven nights and eight days in succession, tearing people up like uprooted trunks of palm trees and leaving them fallen like &ldquo;hollow trunks of palm trees.&rdquo; The people who had asked who was greater than them in strength lay like hollow palm trunks in the dust.",
           "cls": "dropcap"
         },
         {
@@ -339,7 +339,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "&ldquo;And when Our command came, We saved Hud and those who believed with him, by mercy from Us. And We saved them from a harsh punishment&rdquo; (11:58). The believers, unnamed, uncounted, were carried through the very wind that erased the mighty. As for &lsquo;Ad: &ldquo;they denied the signs of their Lord and disobeyed His messengers and followed the order of every obstinate tyrant&rdquo; (11:59). &ldquo;And they were [therefore] followed in this world with a curse and [as well] on the Day of Resurrection. Unquestionably, &lsquo;Ad denied their Lord; then away with &lsquo;Ad, the people of Hud&rdquo; (11:60). The Quran’s epitaph for them is a single line (53:50): He destroyed the first people of &lsquo;Ad. Of all their pillars and fortresses, only this remained: &ldquo;they became such that nothing could be seen except their dwellings&rdquo; (46:25).",
+          "html": "When the command came, Allah saved Hud and those who believed with him, by mercy, from a harsh punishment. The believers, unnamed and uncounted, were carried through the very wind that erased the mighty. As for &lsquo;Ad: they denied the signs of their Lord, disobeyed His messengers, and followed the order of every obstinate tyrant. They were followed in this world with a curse, and on the Day of Resurrection. Unquestionably, &lsquo;Ad denied their Lord; then away with &lsquo;Ad, the people of Hud. Of all their pillars and fortresses, only this remained: nothing could be seen except their dwellings.",
           "cls": "dropcap"
         },
         {

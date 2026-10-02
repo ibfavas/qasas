@@ -37,7 +37,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The angels who visited Ibrahim brought two tidings. To the old woman who laughed in disbelief they said: &ldquo;Then We gave her good tidings of Isaac and after Isaac, Jacob&rdquo; (11:71). A son in old age, and a grandson after him: the future, announced.",
+          "html": "The angels who visited Ibrahim brought two tidings. To the old woman who laughed in disbelief they said: Allah gave her good tidings of Isaac, and after Isaac, Jacob. A son in old age, and a grandson after him: the future, announced.",
           "cls": "dropcap"
         },
         {
@@ -64,7 +64,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Ibrahim himself counted it among Allah&rsquo;s greatest favors: &ldquo;Praise to Allah, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication&rdquo; (14:39).",
+          "html": "Ibrahim himself counted it among Allah&rsquo;s greatest favors: &ldquo;Praise to Allah, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication.&rdquo;",
           "cls": "dropcap"
         },
         {
@@ -91,7 +91,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Quran names Ishaq&rsquo;s station directly: &ldquo;And We gave him good tidings of Isaac, a prophet from among the righteous&rdquo; (37:112). &ldquo;And We blessed him and Isaac&rdquo; (37:113). Blessed, and a source of blessing.",
+          "html": "The Quran names Ishaq&rsquo;s station directly: &ldquo;a prophet from among the righteous.&rdquo; And Allah blessed him and Isaac. Blessed, and a source of blessing.",
           "cls": "dropcap"
         },
         {
@@ -118,7 +118,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "&ldquo;And We gave him Isaac and Jacob in addition, and all [of them] We made righteous. And We made them leaders guiding by Our command. And We inspired to them the doing of good deeds, establishment of prayer, and giving of zakah; and they were worshippers of Us&rdquo; (21:72-73).",
+          "html": "Allah gave Ibrahim Isaac and Jacob in addition, and made all of them righteous, leaders guiding by His command, inspired to do good deeds, establish prayer, and give zakah. They were worshippers of Allah.",
           "cls": "dropcap"
         },
         {
@@ -145,7 +145,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "When Ibrahim left his people&rsquo;s idols, Allah gave him a new family of prophets: &ldquo;So when he had left them and those they worshipped other than Allah, We gave him Isaac and Jacob, and each [of them] We made a prophet&rdquo; (19:49). &ldquo;And We gave to him [i.e., Abraham] Isaac and Jacob, all [of them] We guided&rdquo; (6:84).",
+          "html": "When Ibrahim left his people&rsquo;s idols, Allah gave him a new family of prophets: Isaac and Jacob, each made a prophet, all guided.",
           "cls": "dropcap"
         },
         {
@@ -179,7 +179,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Generations later, his name was still the creed. Yusuf said in prison: &ldquo;And I have followed the religion of my fathers, Abraham, Isaac and Jacob&rdquo; (12:38). And on his deathbed, Yaqub asked his sons, &ldquo;What will you worship after me?&rdquo; They said, &ldquo;We will worship your God and the God of your fathers, Abraham and Ishmael and Isaac, one God&rdquo; (2:133).",
+          "html": "Generations later, his name was still the creed. Yusuf said in prison: &ldquo;I have followed the religion of my fathers, Abraham, Isaac and Jacob.&rdquo; And on his deathbed, Yaqub asked his sons what they would worship after him, and they answered: your God and the God of your fathers, Abraham and Ishmael and Isaac, one God.",
           "cls": "dropcap"
         },
         {
