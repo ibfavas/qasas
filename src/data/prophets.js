@@ -93,11 +93,12 @@ export const prophets = [
     "pnum": "IX",
     "pname": "Ishaq (AS)"
   },
-  {
-    "tag": "span",
-    "soon": true,
-    "href": null,
-    "aria": null,
+    {
+    "tag": "a",
+    "soon": false,
+    "href": "stories/?p=yaqub",
+    "aria": "Read the story of Yaqub",
+
     "svgAttrs": " fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"",
     "svgInner": "<path d=\"M18 10l6 4 6-4 8 6-5 5v15H15V21z\"/><path d=\"M24 14v5\"/>",
     "pnum": "X",

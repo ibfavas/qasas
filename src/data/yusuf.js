@@ -522,9 +522,9 @@ export const chapter = {
   ],
   "prevNext": [
     {
-      "href": "?p=ishaq",
-      "label": "Previous chapter: IX",
-      "title": "Ishaq (AS): The Glad Tidings",
+      "href": "?p=yaqub",
+      "label": "Previous chapter: X",
+      "title": "Yaqub (AS): Beautiful Patience",
       "arrow": "back"
     },
     {

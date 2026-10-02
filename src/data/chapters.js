@@ -10,6 +10,7 @@ import { chapter as ibrahim } from './ibrahim.js';
 import { chapter as lut } from './lut.js';
 import { chapter as ismail } from './ismail.js';
 import { chapter as ishaq } from './ishaq.js';
+import { chapter as yaqub } from './yaqub.js';
 
 export const chapters = {
   adam,
@@ -22,6 +23,7 @@ export const chapters = {
   lut,
   ismail,
   ishaq,
+  yaqub,
 };
 
-export const chapterOrder = ['adam', 'idris', 'nuh', 'hud', 'salih', 'ibrahim', 'lut', 'ismail', 'ishaq', 'yusuf'];
+export const chapterOrder = ['adam', 'idris', 'nuh', 'hud', 'salih', 'ibrahim', 'lut', 'ismail', 'ishaq', 'yaqub', 'yusuf'];
