@@ -658,9 +658,10 @@ html.js body.leaving { opacity: 0; transition: opacity 0.28s ease; }
   font-family: 'Cormorant Garamond', serif; letter-spacing: 0.3em;
   text-transform: uppercase; color: var(--gold-deep); font-size: 0.95rem;
   margin: 40px 0 4px;
+  max-width: 760px; margin-left: auto; margin-right: auto;
 }
-.scene h2 { font-size: 2.15rem; margin: 0 0 10px; }
-.scene > p { max-width: 700px; }
+.scene h2 { font-size: 2.15rem; margin: 0 0 10px; max-width: 760px; margin-left: auto; margin-right: auto; }
+.scene > p { max-width: 760px; margin-left: auto; margin-right: auto; }
 p.dropcap::first-letter {
   font-family: 'Cormorant Garamond', serif;
   font-size: 4.4em; line-height: 0.82; float: left;
@@ -809,6 +810,7 @@ p.dropcap::first-letter {
   .quiz { padding: 28px 22px; }
   .scene h2 { font-size: 1.85rem; }
   .vignette { max-width: 300px; }
+  .scene-kicker, .scene h2, .scene > p { margin-left: 6px; margin-right: 6px; }
 }
 
 /* Reduced motion: everything calm and instant */
