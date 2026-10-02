@@ -1,8 +1,38 @@
 /* Manuscript components: the storybook building blocks. */
-import { useState, Fragment } from 'react';
+import { useState, useRef, useEffect, Fragment } from 'react';
 import { SceneDivider } from './chrome.jsx';
 
 export const html = (s) => ({ __html: s });
+
+/* Scroll-reveal tracked in React state, so a later re-render (for example
+   opening a collapsible panel or answering a quiz question) never wipes the
+   `visible` class the way an imperative classList.add would. */
+function useReveal() {
+  const ref = useRef(null);
+  const [shown, setShown] = useState(false);
+  useEffect(() => {
+    const el = ref.current;
+    if (!el) return;
+    if (!('IntersectionObserver' in window)) {
+      setShown(true);
+      return;
+    }
+    const io = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            setShown(true);
+            io.disconnect();
+          }
+        });
+      },
+      { threshold: 0.1, rootMargin: '0px 0px -6% 0px' }
+    );
+    io.observe(el);
+    return () => io.disconnect();
+  }, []);
+  return [ref, shown];
+}
 
 function Chevron() {
   return (
@@ -14,8 +44,9 @@ function Chevron() {
 
 export function Verse({ v }) {
   const [open, setOpen] = useState(false);
+  const [ref, shown] = useReveal();
   return (
-    <div className={`verse reveal${open ? ' is-open' : ''}`}>
+    <div ref={ref} className={`verse reveal${shown ? ' visible' : ''}${open ? ' is-open' : ''}`}>
       <button type="button" className="panel-toggle" aria-expanded={open} onClick={() => setOpen((o) => !o)}>
         <span className="ref-chip">{v.ref}</span>
         <span className="toggle-word">{open ? 'Hide' : 'Show'}</span>
@@ -34,8 +65,9 @@ export function Verse({ v }) {
 
 export function Hadith({ h }) {
   const [open, setOpen] = useState(false);
+  const [ref, shown] = useReveal();
   return (
-    <div className={`hadith reveal${open ? ' is-open' : ''}`}>
+    <div ref={ref} className={`hadith reveal${shown ? ' visible' : ''}${open ? ' is-open' : ''}`}>
       <button type="button" className="panel-toggle" aria-expanded={open} onClick={() => setOpen((o) => !o)}>
         <span className="h-chip">Hadith</span>
         <span className="toggle-cite" dangerouslySetInnerHTML={html(h.label)} />
@@ -147,12 +179,13 @@ export function Lessons({ lessons }) {
 
 export function Quiz({ questions }) {
   const [picks, setPicks] = useState({});
+  const [ref, shown] = useReveal();
   const answered = Object.keys(picks).length;
   const correct = questions.filter((q, i) => picks[i] === q.answer).length;
   const done = answered === questions.length;
 
   return (
-    <section className="quiz reveal" aria-label="Quiz">
+    <section ref={ref} className={`quiz reveal${shown ? ' visible' : ''}`} aria-label="Quiz">
       <h2>Check what you remember</h2>
       <p className="quiz-sub">Three questions, answered straight from the verses above.</p>
       <ol className="quiz-list">
