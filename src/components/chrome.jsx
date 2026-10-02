@@ -12,7 +12,7 @@ export function HomeNav() {
           <li><a href="asma-ul-husna/">Asma ul Husna</a></li>
           <li><a href="#timeline">Stories of Prophets</a></li>
           <li><a href="#foundations">Foundations</a></li>
-          <li><a href="#" aria-label="The Four Caliphs (coming later)">The Four Caliphs</a></li>
+          <li><a href="#caliphs">The Four Caliphs</a></li>
           <li><a href="#resources">Sources</a></li>
           <li><a href="#about">About</a></li>
         </ul>
@@ -32,7 +32,7 @@ export function StoryNav() {
           <li><a href="../asma-ul-husna/">Asma ul Husna</a></li>
           <li><a href="../index.html#timeline">Stories of Prophets</a></li>
           <li><a href="../index.html#foundations">Foundations</a></li>
-          <li><a href="#" aria-label="The Four Caliphs (coming later)">The Four Caliphs</a></li>
+          <li><a href="../index.html#caliphs">The Four Caliphs</a></li>
           <li><a href="../index.html#resources">Sources</a></li>
           <li><a href="../index.html#about">About</a></li>
         </ul>

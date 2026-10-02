@@ -48,5 +48,15 @@ html = html.split('../../../assets/').join('../assets/');
 await fs.mkdir(path.join(dist, 'asma-ul-husna'), { recursive: true });
 await fs.writeFile(path.join(dist, 'asma-ul-husna/index.html'), html);
 
+// Four Caliphs pages: dist/src/templates/caliphs/<slug>/index.html -> dist/caliphs/<slug>/index.html
+// One level deeper than the story page: ../../../../assets/... becomes ../../assets/...
+for (const slug of ['abu-bakr', 'umar', 'uthman', 'ali']) {
+  const caliph = path.join(dist, 'src/templates/caliphs', slug, 'index.html');
+  html = await fs.readFile(caliph, 'utf8');
+  html = html.split('../../../../assets/').join('../../assets/');
+  await fs.mkdir(path.join(dist, 'caliphs', slug), { recursive: true });
+  await fs.writeFile(path.join(dist, 'caliphs', slug, 'index.html'), html);
+}
+
 await fs.rm(path.join(dist, 'src'), { recursive: true, force: true });
 console.log('dist/ finalized for Cloudflare Pages');

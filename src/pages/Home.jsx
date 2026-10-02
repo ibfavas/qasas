@@ -2,6 +2,7 @@
 import { HomeNav, Footer, ColophonRule } from '../components/chrome.jsx';
 import { prophets } from '../data/prophets.js';
 import { foundations, foundationOrder } from '../data/foundations.js';
+import { caliphs } from '../data/caliphs.js';
 import { useSiteEffects } from '../hooks/effects.js';
 
 const ROMAN = ['I', 'II', 'III', 'IV', 'V', 'VI'];
@@ -185,6 +186,31 @@ export function HomePage() {
                   <span className="fr-numeral" aria-hidden="true">{ROMAN[i]}</span>
                   <span className="fr-title">{foundations[slug].hero.title}</span>
                   <span className="fr-arrow" aria-hidden="true">&rarr;</span>
+                </a>
+              ))}
+            </div>
+          </div>
+        </section>
+
+        <section className="section" id="caliphs">
+          <div className="wrap">
+            <p className="kicker reveal">The Rightly Guided</p>
+            <h2 className="section-title reveal" data-delay="1">
+              The Four Caliphs
+            </h2>
+            <p className="lede reveal" data-delay="2">
+              Short stories from the lives of the four rightly guided caliphs, each one verified before it is set
+              down.
+            </p>
+            <div className="caliph-rows reveal" data-delay="3">
+              {caliphs.map((c) => (
+                <a className="caliph-row" href={'caliphs/' + c.slug + '/'} key={c.slug}>
+                  <span className="cr-medal" aria-hidden="true">{c.numeral}</span>
+                  <span className="cr-text">
+                    <span className="cr-name">{c.name} (RA)</span>
+                    <span className="cr-sub">{c.honorific} &middot; {c.years}</span>
+                  </span>
+                  <span className="cr-arrow" aria-hidden="true">&rarr;</span>
                 </a>
               ))}
             </div>

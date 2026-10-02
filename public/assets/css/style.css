@@ -1301,3 +1301,21 @@ body::after {
   .asma-ar { font-size: 1.7rem; }
   .asma-tr { font-size: 1.05rem; }
 }
+
+/* The Four Caliphs: medallion rows on the homepage */
+.caliph-rows { margin-top: 8px; }
+.caliph-row { display: flex; align-items: center; gap: 20px; padding: 14px 10px; border-bottom: 1px solid var(--rule); text-decoration: none; color: var(--ink); }
+.caliph-row:first-child { border-top: 1px solid var(--rule); }
+.caliph-row:hover .cr-name { color: var(--gold-deep); }
+.cr-medal { width: 54px; height: 54px; border-radius: 50%; background: #174e2b; color: #d9bd76; display: flex; align-items: center; justify-content: center; font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.35rem; flex: none; border: 2px solid #d9bd76; }
+.cr-text { display: flex; flex-direction: column; gap: 2px; }
+.cr-name { font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.35rem; letter-spacing: 0.03em; }
+.cr-sub { font-size: 0.9rem; color: var(--ink-soft); }
+.cr-arrow { margin-left: auto; color: var(--gold-deep); font-size: 1.25rem; }
+
+/* Caliph page shell */
+.caliph-page { background: #f7f1e3; padding: 44px 0 72px; }
+.caliph-head { text-align: center; }
+.caliph-title { font-family: 'Cormorant Garamond', Georgia, serif; font-size: clamp(2.2rem, 6vw, 3.2rem); letter-spacing: 0.05em; margin: 0 0 4px; color: var(--ink); }
+.caliph-sub { color: var(--gold-deep); letter-spacing: 0.14em; font-size: 0.95rem; margin: 10px 0 0; }
+.caliph-soon { text-align: center; color: var(--ink-soft); font-style: italic; margin-top: 34px; }
