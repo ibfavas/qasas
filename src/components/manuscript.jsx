@@ -28,18 +28,6 @@ export function Hadith({ h }) {
   );
 }
 
-export function Tafsir({ t }) {
-  return (
-    <div className="tafsir reveal">
-      <p className="t-label"><span>From the Tafsir</span></p>
-      <p className="t-text" dangerouslySetInnerHTML={html(t.text)} />
-      <p className="t-cite">
-        <a href={t.href} target="_blank" rel="noopener" dangerouslySetInnerHTML={html(t.label)} />
-      </p>
-    </div>
-  );
-}
-
 export function Vignette({ v }) {
   return (
     <figure className="vignette reveal">
@@ -67,8 +55,6 @@ function Block({ b }) {
       return <Verse v={b} />;
     case 'hadith':
       return <Hadith h={b} />;
-    case 'tafsir':
-      return <Tafsir t={b} />;
     case 'vignette':
       return <Vignette v={b} />;
     default:
