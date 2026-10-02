@@ -21,6 +21,7 @@ export const chapter = {
     "The Nine Plotters",
     "The Cry at Dawn",
     "The Houses They Carved",
+    "The Wells of Al-Hijr",
     "What Remains"
   ],
   "scenes": [
@@ -345,7 +346,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-8b",
+      "id": "scene-9",
       "ariaLabel": "Scene 9: The Wells of Al-Hijr",
       "title": "The Wells of Al-Hijr",
       "blocks": [
@@ -379,7 +380,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-9",
+      "id": "scene-10",
       "ariaLabel": "Scene 10: What Remains",
       "title": "What Remains",
       "blocks": [

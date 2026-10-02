@@ -16,6 +16,7 @@ export const chapter = {
     "The Tidings",
     "In Old Age",
     "A Prophet From Among the Righteous",
+    "Under His Father’s Protection",
     "Leaders Guiding by Our Command",
     "Each We Made a Prophet",
     "The Religion of My Fathers",
@@ -110,7 +111,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-3b",
+      "id": "scene-4",
       "ariaLabel": "Scene 4: Under His Father’s Protection",
       "title": "Under His Father’s Protection",
       "blocks": [
@@ -137,7 +138,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-4",
+      "id": "scene-5",
       "ariaLabel": "Scene 5: Leaders Guiding by Our Command",
       "title": "Leaders Guiding by Our Command",
       "blocks": [
@@ -164,7 +165,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-5",
+      "id": "scene-6",
       "ariaLabel": "Scene 6: Each We Made a Prophet",
       "title": "Each We Made a Prophet",
       "blocks": [
@@ -198,7 +199,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-6",
+      "id": "scene-7",
       "ariaLabel": "Scene 7: The Religion of My Fathers",
       "title": "The Religion of My Fathers",
       "blocks": [
@@ -232,7 +233,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-7",
+      "id": "scene-8",
       "ariaLabel": "Scene 8: The Honorable, Son of the Honorable",
       "title": "The Honorable, Son of the Honorable",
       "blocks": [

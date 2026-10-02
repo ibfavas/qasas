@@ -14,10 +14,11 @@ export const chapter = {
   },
   "railLabels": [
     "After Isaac, Jacob",
+    "The Honorable, Son of the Honorable",
     "The Dream",
     "The Wolves and the Shirt",
     "The Best of Guardians",
-    "Do Not Despair of Allah&rsquo;s Relief",
+    "Do Not Despair of Allah’s Relief",
     "The Smell of Yusuf",
     "The Dream Made Reality",
     "What Will You Worship After Me?",
@@ -59,7 +60,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-1b",
+      "id": "scene-2",
       "ariaLabel": "Scene 2: The Honorable, Son of the Honorable",
       "title": "The Honorable, Son of the Honorable",
       "blocks": [
@@ -86,7 +87,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-2",
+      "id": "scene-3",
       "ariaLabel": "Scene 3: The Dream",
       "title": "The Dream",
       "blocks": [
@@ -113,7 +114,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-3",
+      "id": "scene-4",
       "ariaLabel": "Scene 4: The Wolves and the Shirt",
       "title": "The Wolves and the Shirt",
       "blocks": [
@@ -140,7 +141,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-4",
+      "id": "scene-5",
       "ariaLabel": "Scene 5: The Best of Guardians",
       "title": "The Best of Guardians",
       "blocks": [
@@ -174,7 +175,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-5",
+      "id": "scene-6",
       "ariaLabel": "Scene 6: Do Not Despair of Allah’s Relief",
       "title": "Do Not Despair of Allah’s Relief",
       "blocks": [
@@ -214,7 +215,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-6",
+      "id": "scene-7",
       "ariaLabel": "Scene 7: The Smell of Yusuf",
       "title": "The Smell of Yusuf",
       "blocks": [
@@ -241,7 +242,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-7",
+      "id": "scene-8",
       "ariaLabel": "Scene 8: The Dream Made Reality",
       "title": "The Dream Made Reality",
       "blocks": [
@@ -268,7 +269,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-8",
+      "id": "scene-9",
       "ariaLabel": "Scene 9: What Will You Worship After Me?",
       "title": "What Will You Worship After Me?",
       "blocks": [
@@ -301,7 +302,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-9",
+      "id": "scene-10",
       "ariaLabel": "Scene 10: Those of Strength and Vision",
       "title": "Those of Strength and Vision",
       "blocks": [

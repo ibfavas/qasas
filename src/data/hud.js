@@ -20,6 +20,8 @@ export const chapter = {
     "Bring What You Threaten",
     "Plot Against Me: All of You",
     "A Cloud Over the Valleys",
+    "It May Be as the People of ‘Ad Said",
+    "The East Wind and the West Wind",
     "Seven Nights and Eight Days",
     "What Remains"
   ],
@@ -290,7 +292,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-7b",
+      "id": "scene-8",
       "ariaLabel": "Scene 8: It May Be as the People of ‘Ad Said",
       "title": "It May Be as the People of ‘Ad Said",
       "blocks": [
@@ -317,7 +319,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-7c",
+      "id": "scene-9",
       "ariaLabel": "Scene 9: The East Wind and the West Wind",
       "title": "The East Wind and the West Wind",
       "blocks": [
@@ -344,7 +346,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-8",
+      "id": "scene-10",
       "ariaLabel": "Scene 10: Seven Nights and Eight Days",
       "title": "Seven Nights and Eight Days",
       "blocks": [
@@ -385,7 +387,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-9",
+      "id": "scene-11",
       "ariaLabel": "Scene 11: What Remains",
       "title": "What Remains",
       "blocks": [

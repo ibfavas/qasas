@@ -18,6 +18,7 @@ export const chapter = {
     "Evict Them From Your City",
     "Bring Us the Punishment",
     "This Is a Trying Day",
+    "He Feared for Them",
     "Do Not Look Back",
     "The Highest Became the Lowest",
     "The Wife Who Stayed"
@@ -200,7 +201,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-5b",
+      "id": "scene-6",
       "ariaLabel": "Scene 6: He Feared for Them",
       "title": "He Feared for Them",
       "blocks": [
@@ -227,7 +228,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-6",
+      "id": "scene-7",
       "ariaLabel": "Scene 7: Do Not Look Back",
       "title": "Do Not Look Back",
       "blocks": [
@@ -261,7 +262,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-7",
+      "id": "scene-8",
       "ariaLabel": "Scene 8: The Highest Became the Lowest",
       "title": "The Highest Became the Lowest",
       "blocks": [
@@ -309,7 +310,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-8",
+      "id": "scene-9",
       "ariaLabel": "Scene 9: The Wife Who Stayed",
       "title": "The Wife Who Stayed",
       "blocks": [

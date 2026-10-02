@@ -15,9 +15,12 @@ export const chapter = {
   "railLabels": [
     "The Son of Old Age",
     "Left in the Valley",
+    "I Am Satisfied to Be with Allah",
     "Do As You Are Commanded",
     "True to His Promise",
+    "Neither of Them Practiced Divination",
     "The Raising of the House",
+    "The Threshold of the Gate",
     "Among the Patient",
     "The Father of the Arabs"
   ],
@@ -84,7 +87,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-2b",
+      "id": "scene-3",
       "ariaLabel": "Scene 3: I Am Satisfied to Be with Allah",
       "title": "I Am Satisfied to Be with Allah",
       "blocks": [
@@ -111,7 +114,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-3",
+      "id": "scene-4",
       "ariaLabel": "Scene 4: Do As You Are Commanded",
       "title": "Do As You Are Commanded",
       "blocks": [
@@ -151,7 +154,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-4",
+      "id": "scene-5",
       "ariaLabel": "Scene 5: True to His Promise",
       "title": "True to His Promise",
       "blocks": [
@@ -178,7 +181,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-4b",
+      "id": "scene-6",
       "ariaLabel": "Scene 6: Neither of Them Practiced Divination",
       "title": "Neither of Them Practiced Divination",
       "blocks": [
@@ -205,7 +208,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-5",
+      "id": "scene-7",
       "ariaLabel": "Scene 7: The Raising of the House",
       "title": "The Raising of the House",
       "blocks": [
@@ -232,7 +235,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-5b",
+      "id": "scene-8",
       "ariaLabel": "Scene 8: The Threshold of the Gate",
       "title": "The Threshold of the Gate",
       "blocks": [
@@ -259,7 +262,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-6",
+      "id": "scene-9",
       "ariaLabel": "Scene 9: Among the Patient",
       "title": "Among the Patient",
       "blocks": [
@@ -293,7 +296,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-7",
+      "id": "scene-10",
       "ariaLabel": "Scene 10: The Father of the Arabs",
       "title": "The Father of the Arabs",
       "blocks": [

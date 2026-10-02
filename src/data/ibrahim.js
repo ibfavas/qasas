@@ -18,13 +18,20 @@ export const chapter = {
     "The Smashing of the Idols",
     "Have You Done This to Our Gods?",
     "O Fire, Be Coolness",
+    "Three Words, Twice for Allah",
     "The King Who Claimed Divinity",
     "The Emigration",
+    "Sarah and the Tyrant",
     "The Honored Guests",
     "How He Gives Life to the Dead",
+    "Left in the Valley",
     "The Raising of the Foundations",
+    "At Eighty, with an Adze",
     "The Dream and the Great Sacrifice",
-    "The Father of Nations"
+    "The Father of Nations",
+    "The First to Be Clothed",
+    "Myself, Myself",
+    "In the Seventh Heaven"
   ],
   "scenes": [
     {
@@ -219,7 +226,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-5b",
+      "id": "scene-6",
       "ariaLabel": "Scene 6: Three Words, Twice for Allah",
       "title": "Three Words, Twice for Allah",
       "blocks": [
@@ -246,7 +253,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-6",
+      "id": "scene-7",
       "ariaLabel": "Scene 7: The King Who Claimed Divinity",
       "title": "The King Who Claimed Divinity",
       "blocks": [
@@ -273,7 +280,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-7",
+      "id": "scene-8",
       "ariaLabel": "Scene 8: The Emigration",
       "title": "The Emigration",
       "blocks": [
@@ -307,7 +314,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-7b",
+      "id": "scene-9",
       "ariaLabel": "Scene 9: Sarah and the Tyrant",
       "title": "Sarah and the Tyrant",
       "blocks": [
@@ -334,7 +341,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-8",
+      "id": "scene-10",
       "ariaLabel": "Scene 10: The Honored Guests",
       "title": "The Honored Guests",
       "blocks": [
@@ -368,7 +375,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-9",
+      "id": "scene-11",
       "ariaLabel": "Scene 11: How He Gives Life to the Dead",
       "title": "How He Gives Life to the Dead",
       "blocks": [
@@ -395,7 +402,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-9b",
+      "id": "scene-12",
       "ariaLabel": "Scene 12: Left in the Valley",
       "title": "Left in the Valley",
       "blocks": [
@@ -429,7 +436,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-10",
+      "id": "scene-13",
       "ariaLabel": "Scene 13: The Raising of the Foundations",
       "title": "The Raising of the Foundations",
       "blocks": [
@@ -484,7 +491,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-10b",
+      "id": "scene-14",
       "ariaLabel": "Scene 14: At Eighty, with an Adze",
       "title": "At Eighty, with an Adze",
       "blocks": [
@@ -511,7 +518,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-11",
+      "id": "scene-15",
       "ariaLabel": "Scene 15: The Dream and the Great Sacrifice",
       "title": "The Dream and the Great Sacrifice",
       "blocks": [
@@ -565,7 +572,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-12",
+      "id": "scene-16",
       "ariaLabel": "Scene 16: The Father of Nations",
       "title": "The Father of Nations",
       "blocks": [
@@ -606,7 +613,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-12b",
+      "id": "scene-17",
       "ariaLabel": "Scene 17: The First to Be Clothed",
       "title": "The First to Be Clothed",
       "blocks": [
@@ -633,7 +640,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-12c",
+      "id": "scene-18",
       "ariaLabel": "Scene 18: Myself, Myself",
       "title": "Myself, Myself",
       "blocks": [
@@ -660,7 +667,7 @@ export const chapter = {
       ]
     },
     {
-      "id": "scene-12d",
+      "id": "scene-19",
       "ariaLabel": "Scene 19: In the Seventh Heaven",
       "title": "In the Seventh Heaven",
       "blocks": [
