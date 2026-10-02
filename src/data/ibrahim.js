@@ -564,9 +564,9 @@ export const chapter = {
       "arrow": "back"
     },
     {
-      "href": "?p=yusuf",
-      "label": "Next chapter: XI",
-      "title": "Yusuf (AS): The Dream Fulfilled",
+      "href": "?p=lut",
+      "label": "Next chapter: VII",
+      "title": "Lut (AS): The Overturned Towns",
       "arrow": "next"
     }
   ]

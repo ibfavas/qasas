@@ -1,0 +1,303 @@
+/* ishaq chapter data: Ishaq (AS), Chapter IX.
+   Follows the locked Adam chapter template: scene-by-scene storybook,
+   verse panels (Arabic + Saheeh International), labeled Hadith panels with
+   Sunnah.com links, lessons, verse-grounded quiz, and a sources note.
+   Scenes follow the chronological order of events as the Quran tells them. */
+export const chapter = {
+  "hero": {
+    "plaque": "Chapter IX",
+    "title": "Ishaq (AS): The Glad Tidings",
+    "sub": "Born to aged parents as a sign, a prophet from among the righteous, blessed and a blessing: the link between Ibrahim and Yaqub.",
+    "img": "../assets/ishaq-tent.webp",
+    "imgAlt": "A lone tent in a desert oasis beneath a vast dusk sky with the first star",
+    "caption": "The tidings at dusk: “Then We gave her good tidings of Isaac.” (Quran 11:71)"
+  },
+  "railLabels": [
+    "The Tidings",
+    "In Old Age",
+    "A Prophet From Among the Righteous",
+    "Leaders Guiding by Our Command",
+    "Each We Made a Prophet",
+    "The Religion of My Fathers",
+    "The Honorable, Son of the Honorable"
+  ],
+  "scenes": [
+    {
+      "id": "scene-1",
+      "ariaLabel": "Scene 1: The Tidings",
+      "title": "The Tidings",
+      "blocks": [
+        {
+          "t": "kicker",
+          "html": "Scene 1 of 7"
+        },
+        {
+          "t": "h2",
+          "html": "The Tidings"
+        },
+        {
+          "t": "p",
+          "html": "The angels who visited Ibrahim brought two tidings. To the old woman who laughed in disbelief they said: &ldquo;Then We gave her good tidings of Isaac and after Isaac, Jacob&rdquo; (11:71). A son in old age, and a grandson after him: the future, announced.",
+          "cls": "dropcap"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 11:71",
+          "arabic": " وَٱمْرَأَتُهُۥ قَآئِمَةٌ فَضَحِكَتْ فَبَشَّرْنَـٰهَا بِإِسْحَـٰقَ وَمِن وَرَآءِ إِسْحَـٰقَ يَعْقُوبَ",
+          "translation": "And his wife was standing, and she smiled. Then We gave her good tidings of Isaac and after Isaac, Jacob.",
+          "citation": "Surah 11 &middot; Verse 71 &middot; Saheeh International"
+        }
+      ]
+    },
+    {
+      "id": "scene-2",
+      "ariaLabel": "Scene 2: In Old Age",
+      "title": "In Old Age",
+      "blocks": [
+        {
+          "t": "kicker",
+          "html": "Scene 2 of 7"
+        },
+        {
+          "t": "h2",
+          "html": "In Old Age"
+        },
+        {
+          "t": "p",
+          "html": "Ibrahim himself counted it among Allah&rsquo;s greatest favors: &ldquo;Praise to Allah, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication&rdquo; (14:39).",
+          "cls": "dropcap"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 14:39",
+          "arabic": " ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَـٰعِيلَ وَإِسْحَـٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+          "translation": "Praise to Allāh, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication.",
+          "citation": "Surah 14 &middot; Verse 39 &middot; Saheeh International"
+        }
+      ]
+    },
+    {
+      "id": "scene-3",
+      "ariaLabel": "Scene 3: A Prophet From Among the Righteous",
+      "title": "A Prophet From Among the Righteous",
+      "blocks": [
+        {
+          "t": "kicker",
+          "html": "Scene 3 of 7"
+        },
+        {
+          "t": "h2",
+          "html": "A Prophet From Among the Righteous"
+        },
+        {
+          "t": "p",
+          "html": "The Quran names Ishaq&rsquo;s station directly: &ldquo;And We gave him good tidings of Isaac, a prophet from among the righteous&rdquo; (37:112). &ldquo;And We blessed him and Isaac&rdquo; (37:113). Blessed, and a source of blessing.",
+          "cls": "dropcap"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 37:112-113",
+          "arabic": " وَبَشَّرْنَـٰهُ بِإِسْحَـٰقَ نَبِيًّا مِّنَ ٱلصَّـٰلِحِينَ وَبَـٰرَكْنَا عَلَيْهِ وَعَلَىٰٓ إِسْحَـٰقَ ۚ وَمِن ذُرِّيَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِّنَفْسِهِۦ مُبِينٌ",
+          "translation": "And We gave him good tidings of Isaac, a prophet from among the righteous. And We blessed him and Isaac. But among their descendants is the doer of good and the clearly unjust to himself [i.e., sinner].",
+          "citation": "Surah 37 &middot; Verses 112-113 &middot; Saheeh International"
+        }
+      ]
+    },
+    {
+      "id": "scene-4",
+      "ariaLabel": "Scene 4: Leaders Guiding by Our Command",
+      "title": "Leaders Guiding by Our Command",
+      "blocks": [
+        {
+          "t": "kicker",
+          "html": "Scene 4 of 7"
+        },
+        {
+          "t": "h2",
+          "html": "Leaders Guiding by Our Command"
+        },
+        {
+          "t": "p",
+          "html": "&ldquo;And We gave him Isaac and Jacob in addition, and all [of them] We made righteous. And We made them leaders guiding by Our command. And We inspired to them the doing of good deeds, establishment of prayer, and giving of zakah; and they were worshippers of Us&rdquo; (21:72-73).",
+          "cls": "dropcap"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 21:72-73",
+          "arabic": " وَوَهَبْنَا لَهُۥٓ إِسْحَـٰقَ وَيَعْقُوبَ نَافِلَةً ۖ وَكُلًّا جَعَلْنَا صَـٰلِحِينَ وَجَعَلْنَـٰهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا وَأَوْحَيْنَآ إِلَيْهِمْ فِعْلَ ٱلْخَيْرَٰتِ وَإِقَامَ ٱلصَّلَوٰةِ وَإِيتَآءَ ٱلزَّكَوٰةِ ۖ وَكَانُوا۟ لَنَا عَـٰبِدِينَ",
+          "translation": "And We gave him Isaac and Jacob in addition, and all [of them] We made righteous. And We made them leaders guiding by Our command. And We inspired to them the doing of good deeds, establishment of prayer, and giving of zakāh; and they were worshippers of Us.",
+          "citation": "Surah 21 &middot; Verses 72-73 &middot; Saheeh International"
+        }
+      ]
+    },
+    {
+      "id": "scene-5",
+      "ariaLabel": "Scene 5: Each We Made a Prophet",
+      "title": "Each We Made a Prophet",
+      "blocks": [
+        {
+          "t": "kicker",
+          "html": "Scene 5 of 7"
+        },
+        {
+          "t": "h2",
+          "html": "Each We Made a Prophet"
+        },
+        {
+          "t": "p",
+          "html": "When Ibrahim left his people&rsquo;s idols, Allah gave him a new family of prophets: &ldquo;So when he had left them and those they worshipped other than Allah, We gave him Isaac and Jacob, and each [of them] We made a prophet&rdquo; (19:49). &ldquo;And We gave to him [i.e., Abraham] Isaac and Jacob, all [of them] We guided&rdquo; (6:84).",
+          "cls": "dropcap"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 19:49",
+          "arabic": " فَلَمَّا ٱعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِن دُونِ ٱللَّهِ وَهَبْنَا لَهُۥٓ إِسْحَـٰقَ وَيَعْقُوبَ ۖ وَكُلًّا جَعَلْنَا نَبِيًّا",
+          "translation": "So when he had left them and those they worshipped other than Allāh, We gave him Isaac and Jacob, and each [of them] We made a prophet.",
+          "citation": "Surah 19 &middot; Verse 49 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 6:84",
+          "arabic": " وَوَهَبْنَا لَهُۥٓ إِسْحَـٰقَ وَيَعْقُوبَ ۚ كُلًّا هَدَيْنَا ۚ وَنُوحًا هَدَيْنَا مِن قَبْلُ ۖ وَمِن ذُرِّيَّتِهِۦ دَاوُۥدَ وَسُلَيْمَـٰنَ وَأَيُّوبَ وَيُوسُفَ وَمُوسَىٰ وَهَـٰرُونَ ۚ وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+          "translation": "And We gave to him [i.e., Abraham] Isaac and Jacob - all [of them] We guided. And Noah, We guided before; and among his descendants, David and Solomon and Job and Joseph and Moses and Aaron. Thus do We reward the doers of good.",
+          "citation": "Surah 6 &middot; Verse 84 &middot; Saheeh International"
+        }
+      ]
+    },
+    {
+      "id": "scene-6",
+      "ariaLabel": "Scene 6: The Religion of My Fathers",
+      "title": "The Religion of My Fathers",
+      "blocks": [
+        {
+          "t": "kicker",
+          "html": "Scene 6 of 7"
+        },
+        {
+          "t": "h2",
+          "html": "The Religion of My Fathers"
+        },
+        {
+          "t": "p",
+          "html": "Generations later, his name was still the creed. Yusuf said in prison: &ldquo;And I have followed the religion of my fathers, Abraham, Isaac and Jacob&rdquo; (12:38). And on his deathbed, Yaqub asked his sons, &ldquo;What will you worship after me?&rdquo; They said, &ldquo;We will worship your God and the God of your fathers, Abraham and Ishmael and Isaac, one God&rdquo; (2:133).",
+          "cls": "dropcap"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 12:38",
+          "arabic": " وَٱتَّبَعْتُ مِلَّةَ ءَابَآءِىٓ إِبْرَٰهِيمَ وَإِسْحَـٰقَ وَيَعْقُوبَ ۚ مَا كَانَ لَنَآ أَن نُّشْرِكَ بِٱللَّهِ مِن شَىْءٍ ۚ ذَٰلِكَ مِن فَضْلِ ٱللَّهِ عَلَيْنَا وَعَلَى ٱلنَّاسِ وَلَـٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ",
+          "translation": "And I have followed the religion of my fathers, Abraham, Isaac and Jacob. And it was not for us to associate anything with Allāh. That is from the favor of Allāh upon us and upon the people, but most of the people are not grateful.",
+          "citation": "Surah 12 &middot; Verse 38 &middot; Saheeh International"
+        },
+        {
+          "t": "verse",
+          "ref": "Quran 2:133",
+          "arabic": " أَمْ كُنتُمْ شُهَدَآءَ إِذْ حَضَرَ يَعْقُوبَ ٱلْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ مِنۢ بَعْدِى قَالُوا۟ نَعْبُدُ إِلَـٰهَكَ وَإِلَـٰهَ ءَابَآئِكَ إِبْرَٰهِـۧمَ وَإِسْمَـٰعِيلَ وَإِسْحَـٰقَ إِلَـٰهًا وَٰحِدًا وَنَحْنُ لَهُۥ مُسْلِمُونَ",
+          "translation": "Or were you witnesses when death approached Jacob, when he said to his sons, \"What will you worship after me?\" They said, \"We will worship your God and the God of your fathers, Abraham and Ishmael and Isaac - one God. And we are Muslims [in submission] to Him.\"",
+          "citation": "Surah 2 &middot; Verse 133 &middot; Saheeh International"
+        }
+      ]
+    },
+    {
+      "id": "scene-7",
+      "ariaLabel": "Scene 7: The Honorable, Son of the Honorable",
+      "title": "The Honorable, Son of the Honorable",
+      "blocks": [
+        {
+          "t": "kicker",
+          "html": "Scene 7 of 7"
+        },
+        {
+          "t": "h2",
+          "html": "The Honorable, Son of the Honorable"
+        },
+        {
+          "t": "p",
+          "html": "The Prophet (ﷺ) gathered the whole line into one sentence of honor, and Ishaq stands in its middle: the son of the Friend of Allah, the father of Yaqub, the grandfather of Yusuf.",
+          "cls": "dropcap"
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;The Prophet (ﷺ) said, &lsquo;The honorable is the son of the honorable, the son the honorable, i.e. Joseph, the son of Jacob, the son of Isaac, the son of Abraham.&rsquo;&rdquo;",
+          "narrator": "Narrated Ibn &lsquo;Umar",
+          "href": "https://sunnah.com/bukhari:3382",
+          "label": "Sahih al-Bukhari 3382 &middot; sunnah.com"
+        }
+      ]
+    }
+  ],
+  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Hud (11:71), Surah Ibrahim (14:39), Surah As-Saffat (37:112-113), Surah Al-Anbiya (21:72-73), Surah Maryam (19:49), Surah Al-An’am (6:84), Surah Yusuf (12:38) and Surah Al-Baqarah (2:133), with one narration from Sahih al-Bukhari. What revelation does not give, we do not add: the Quran tells little of Ishaq&rsquo;s own days beyond his birth, his prophethood, and his blessing. Later books add such details, but they are not established in the Quran or authentic hadith, so this chapter leaves them out, and ends where revelation ends.</p>\n      ",
+  "lessons": [
+    "<strong>Allah gives when the means are gone.</strong> Old parents, an impossible birth: the tidings came anyway. (Quran 11:71)",
+    "<strong>Righteousness runs in the household of the righteous.</strong> Isaac and Jacob: all of them made righteous. (Quran 21:72)",
+    "<strong>Blessing follows obedience.</strong> &ldquo;We blessed him and Isaac&rdquo;: the blessing is named right after the trial. (Quran 37:113)",
+    "<strong>Hold the religion of your fathers.</strong> Yusuf in prison held Abraham, Isaac and Jacob. (Quran 12:38)",
+    "<strong>Honor the chain.</strong> The honorable, son of the honorable, son of the honorable. (Sahih al-Bukhari 3382)"
+  ],
+  "quiz": [
+    {
+      "q": "Who received glad tidings of Isaac?",
+      "options": [
+        "Ibrahim’s household",
+        "The people of Lut",
+        "The tribe of Jurhum"
+      ],
+      "answer": 0,
+      "ref": "Quran 11:71"
+    },
+    {
+      "q": "What was Isaac called in the Quran?",
+      "options": [
+        "A prophet from among the righteous",
+        "The king of Egypt",
+        "The builder of the dam"
+      ],
+      "answer": 0,
+      "ref": "Quran 37:112"
+    },
+    {
+      "q": "What did Allah make Isaac and Jacob?",
+      "options": [
+        "Leaders guiding by His command",
+        "Keepers of the temple",
+        "Scribes of the law"
+      ],
+      "answer": 0,
+      "ref": "Quran 21:73"
+    },
+    {
+      "q": "Whose religion did Yusuf say he followed?",
+      "options": [
+        "Abraham, Isaac and Jacob",
+        "The Egyptians",
+        "His own invention"
+      ],
+      "answer": 0,
+      "ref": "Quran 12:38"
+    },
+    {
+      "q": "Complete the hadith: “The honorable, son of the honorable…”",
+      "options": [
+        "Joseph, son of Jacob, son of Isaac, son of Abraham",
+        "Moses, son of Imran, son of Kohath",
+        "David, son of Jesse, son of Obed"
+      ],
+      "answer": 0,
+      "ref": "Sahih al-Bukhari 3382"
+    }
+  ],
+  "prevNext": [
+    {
+      "href": "?p=ismail",
+      "label": "Previous chapter: VIII",
+      "title": "Ismail (AS): True to His Promise",
+      "arrow": "back"
+    },
+    {
+      "href": "?p=yusuf",
+      "label": "Next chapter: XI",
+      "title": "Yusuf (AS): The Dream Fulfilled",
+      "arrow": "next"
+    }
+  ]
+};

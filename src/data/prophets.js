@@ -60,31 +60,34 @@ export const prophets = [
     "pnum": "VI",
     "pname": "Ibrahim (AS)"
   },
-  {
-    "tag": "span",
-    "soon": true,
-    "href": null,
-    "aria": null,
+    {
+    "tag": "a",
+    "soon": false,
+    "href": "stories/?p=lut",
+    "aria": "Read the story of Lut",
+
     "svgAttrs": " fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"",
     "svgInner": "<path d=\"M12 40V22a12 12 0 0 1 24 0v18\"/><path d=\"M12 40h24\"/><path d=\"M20 40V28a4 4 0 0 1 8 0v12\"/>",
     "pnum": "VII",
     "pname": "Lut (AS)"
   },
-  {
-    "tag": "span",
-    "soon": true,
-    "href": null,
-    "aria": null,
+    {
+    "tag": "a",
+    "soon": false,
+    "href": "stories/?p=ismail",
+    "aria": "Read the story of Ismail",
+
     "svgAttrs": " fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"",
     "svgInner": "<path d=\"M12 20h24v16H12z\"/><path d=\"M9 20h30\"/><path d=\"M24 12v8\"/><path d=\"M17 12h14\"/>",
     "pnum": "VIII",
     "pname": "Ismail (AS)"
   },
-  {
-    "tag": "span",
-    "soon": true,
-    "href": null,
-    "aria": null,
+    {
+    "tag": "a",
+    "soon": false,
+    "href": "stories/?p=ishaq",
+    "aria": "Read the story of Ishaq",
+
     "svgAttrs": " fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"",
     "svgInner": "<path d=\"M24 8l3.5 10L38 21.5 27.5 25 24 35l-3.5-10L10 21.5l10.5-3.5z\"/>",
     "pnum": "IX",
