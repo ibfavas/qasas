@@ -135,10 +135,10 @@ export const prophets = [
     "pname": "Shuayb (AS)"
   },
   {
-    "tag": "span",
-    "soon": true,
-    "href": null,
-    "aria": null,
+    "tag": "a",
+    "soon": false,
+    "href": "stories/?p=musa",
+    "aria": "Read the story of Musa",
     "svgAttrs": " fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"",
     "svgInner": "<path d=\"M30 40V16a8 8 0 1 0-8 8\"/>",
     "pnum": "XIV",

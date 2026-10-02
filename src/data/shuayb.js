@@ -529,9 +529,9 @@ export const chapter = {
       "arrow": "back"
     },
     {
-      "href": "../index.html#timeline",
-      "label": "Continue",
-      "title": "The Timeline: All 25 Prophets",
+      "href": "?p=musa",
+      "label": "Next chapter: XIV",
+      "title": "Musa (AS): The Parted Sea",
       "arrow": "next"
     }
   ]
