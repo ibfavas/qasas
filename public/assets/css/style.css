@@ -1265,7 +1265,7 @@ body::after {
 
 /* Floating pill top bar */
 .nav-pill { background: transparent; border-bottom: none; padding: 14px 16px 12px; }
-.nav-pill-inner { max-width: 1120px; margin: 0 auto; background: #fffdf4; border: 1px solid #e5d9b8; border-radius: 999px; box-shadow: 0 4px 18px rgba(74, 58, 32, 0.16); display: flex; align-items: center; gap: 6px; padding: 7px 30px 7px 16px; }
+.nav-pill-inner { max-width: 1120px; margin: 0 auto; background: #fffdf4; border: 1px solid #e5d9b8; border-radius: 999px; box-shadow: 0 12px 36px rgba(74, 58, 32, 0.28), 0 3px 10px rgba(74, 58, 32, 0.14); display: flex; align-items: center; gap: 6px; padding: 7px 30px 7px 16px; }
 .brand-pill { min-height: 0; }
 .brand-pill img { width: 30px; height: 30px; border-radius: 50%; display: block; }
 .nav-links-pill { gap: 0; margin-left: 20px; flex: 1; justify-content: space-between; }
