@@ -29,7 +29,7 @@ export const chapter = {
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 1 of 7"
+          "html": "Scene 1 of 8"
         },
         {
           "t": "h2",
@@ -56,7 +56,7 @@ export const chapter = {
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 2 of 7"
+          "html": "Scene 2 of 8"
         },
         {
           "t": "h2",
@@ -83,7 +83,7 @@ export const chapter = {
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 3 of 7"
+          "html": "Scene 3 of 8"
         },
         {
           "t": "h2",
@@ -100,17 +100,50 @@ export const chapter = {
           "arabic": " وَبَشَّرْنَـٰهُ بِإِسْحَـٰقَ نَبِيًّا مِّنَ ٱلصَّـٰلِحِينَ وَبَـٰرَكْنَا عَلَيْهِ وَعَلَىٰٓ إِسْحَـٰقَ ۚ وَمِن ذُرِّيَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِّنَفْسِهِۦ مُبِينٌ",
           "translation": "And We gave him good tidings of Isaac, a prophet from among the righteous. And We blessed him and Isaac. But among their descendants is the doer of good and the clearly unjust to himself [i.e., sinner].",
           "citation": "Surah 37 &middot; Verses 112-113 &middot; Saheeh International"
+        },
+        {
+          "t": "tafsir",
+          "text": "Ibn Kathir reads 37:112 as a second, separate glad tiding. After the story of the sacrifice, which he concludes concerned Ismail, Allah immediately follows with the tidings of Isaac, a prophet from among the righteous: a later tiding, for a later son, from whom would come Ya&lsquo;qub. This is the scholar&rsquo;s structural reading, not the Quran&rsquo;s wording.",
+          "href": "https://quran.com/37:112/tafsirs/en-tafisr-ibn-kathir",
+          "label": "Tafsir Ibn Kathir on 37:112 &middot; quran.com"
+        }
+      ]
+    },
+    {
+      "id": "scene-3b",
+      "ariaLabel": "Scene 4: Under His Father&rsquo;s Protection",
+      "title": "Under His Father&rsquo;s Protection",
+      "blocks": [
+        {
+          "t": "kicker",
+          "html": "Scene 4 of 8"
+        },
+        {
+          "t": "h2",
+          "html": "Under His Father&rsquo;s Protection"
+        },
+        {
+          "t": "p",
+          "html": "Ibrahim&rsquo;s love for his two sons had a daily form. The Prophet (ﷺ) said that Ibrahim used to seek Allah&rsquo;s refuge for Ismail and Isaac, and the Prophet himself used the same words for his own grandsons, Hasan and Husayn: &ldquo;O Allah! I seek refuge with Your perfect words from every devil and from poisonous pests and from every evil, harmful, envious eye.&rdquo; The father of nations, praying protection over both his boys with the perfect words of Allah.",
+          "cls": "dropcap"
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;The Prophet (ﷺ) used to seek refuge with Allah for Al-Hasan and Al-Husain and say: &lsquo;Your forefather (i.e. Abraham) used to seek refuge with Allah for Ishmael and Isaac by reciting the following: O Allah! I seek refuge with Your perfect words from every devil and from poisonous pests and from every evil, harmful, envious eye.&rsquo;&rdquo;",
+          "narrator": "Narrated by Ibn Abbas (RA)",
+          "href": "https://sunnah.com/bukhari:3371",
+          "label": "Sahih al-Bukhari 3371 &middot; sunnah.com"
         }
       ]
     },
     {
       "id": "scene-4",
-      "ariaLabel": "Scene 4: Leaders Guiding by Our Command",
+      "ariaLabel": "Scene 5: Leaders Guiding by Our Command",
       "title": "Leaders Guiding by Our Command",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 4 of 7"
+          "html": "Scene 5 of 8"
         },
         {
           "t": "h2",
@@ -132,12 +165,12 @@ export const chapter = {
     },
     {
       "id": "scene-5",
-      "ariaLabel": "Scene 5: Each We Made a Prophet",
+      "ariaLabel": "Scene 6: Each We Made a Prophet",
       "title": "Each We Made a Prophet",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 5 of 7"
+          "html": "Scene 6 of 8"
         },
         {
           "t": "h2",
@@ -166,12 +199,12 @@ export const chapter = {
     },
     {
       "id": "scene-6",
-      "ariaLabel": "Scene 6: The Religion of My Fathers",
+      "ariaLabel": "Scene 7: The Religion of My Fathers",
       "title": "The Religion of My Fathers",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 6 of 7"
+          "html": "Scene 7 of 8"
         },
         {
           "t": "h2",
@@ -200,12 +233,12 @@ export const chapter = {
     },
     {
       "id": "scene-7",
-      "ariaLabel": "Scene 7: The Honorable, Son of the Honorable",
+      "ariaLabel": "Scene 8: The Honorable, Son of the Honorable",
       "title": "The Honorable, Son of the Honorable",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 7 of 7"
+          "html": "Scene 8 of 8"
         },
         {
           "t": "h2",
@@ -226,13 +259,14 @@ export const chapter = {
       ]
     }
   ],
-  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Hud (11:71), Surah Ibrahim (14:39), Surah As-Saffat (37:112-113), Surah Al-Anbiya (21:72-73), Surah Maryam (19:49), Surah Al-An’am (6:84), Surah Yusuf (12:38) and Surah Al-Baqarah (2:133), with one narration from Sahih al-Bukhari. What revelation does not give, we do not add: the Quran tells little of Ishaq&rsquo;s own days beyond his birth, his prophethood, and his blessing. Later books add such details, but they are not established in the Quran or authentic hadith, so this chapter leaves them out, and ends where revelation ends.</p>\n      ",
+  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Hud (11:71), Surah Ibrahim (14:39), Surah As-Saffat (37:112-113), Surah Al-Anbiya (21:72-73), Surah Maryam (19:49), Surah Al-An’am (6:84), Surah Yusuf (12:38) and Surah Al-Baqarah (2:133), with narrations from Sahih al-Bukhari (3371, 3382), and one labeled panel from Tafsir Ibn Kathir (on 37:112), clearly marked as commentary, not revelation. What revelation does not give, we do not add: the Quran tells little of Ishaq&rsquo;s own days beyond his birth, his prophethood, and his blessing. Later books add such details, but they are not established in the Quran or authentic hadith, so this chapter leaves them out, and ends where revelation ends.</p>\n      ",
   "lessons": [
     "<strong>Allah gives when the means are gone.</strong> Old parents, an impossible birth: the tidings came anyway. (Quran 11:71)",
     "<strong>Righteousness runs in the household of the righteous.</strong> Isaac and Jacob: all of them made righteous. (Quran 21:72)",
     "<strong>Blessing follows obedience.</strong> &ldquo;We blessed him and Isaac&rdquo;: the blessing is named right after the trial. (Quran 37:113)",
     "<strong>Hold the religion of your fathers.</strong> Yusuf in prison held Abraham, Isaac and Jacob. (Quran 12:38)",
-    "<strong>Honor the chain.</strong> The honorable, son of the honorable, son of the honorable. (Sahih al-Bukhari 3382)"
+    "<strong>Honor the chain.</strong> The honorable, son of the honorable, son of the honorable. (Sahih al-Bukhari 3382)",
+    "<strong>Pray protection over your children.</strong> Ibrahim sought Allah&rsquo;s refuge for Ismail and Isaac with His perfect words, and the Prophet (ﷺ) did the same for Hasan and Husayn. The du&rsquo;a of a father is a shield."
   ],
   "quiz": [
     {
@@ -284,6 +318,16 @@ export const chapter = {
       ],
       "answer": 0,
       "ref": "Sahih al-Bukhari 3382"
+    },
+    {
+      "q": "What du&rsquo;a did Ibrahim use to seek refuge for Ismail and Isaac?",
+      "options": [
+        "O Allah! I seek refuge with Your perfect words from every devil and from poisonous pests and from every evil, harmful, envious eye",
+        "O Allah, make them both prophets",
+        "O Allah, grant them long lives"
+      ],
+      "answer": 0,
+      "ref": "Sahih al-Bukhari 3371"
     }
   ],
   "prevNext": [

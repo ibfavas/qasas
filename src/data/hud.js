@@ -31,7 +31,7 @@ export const chapter = {
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 1 of 9"
+          "html": "Scene 1 of 11"
         },
         {
           "t": "h2",
@@ -72,7 +72,7 @@ export const chapter = {
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 2 of 9"
+          "html": "Scene 2 of 11"
         },
         {
           "t": "h2",
@@ -103,6 +103,12 @@ export const chapter = {
           "arabic": " فَأَمَّا عَادٌ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةً ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يَجْحَدُونَ",
           "translation": "As for ʿAad, they were arrogant upon the earth without right and said, \"Who is greater than us in strength?\" Did they not consider that Allāh who created them was greater than them in strength? But they were rejecting Our signs.",
           "citation": "Surah 41 &middot; Verse 15 &middot; Saheeh International"
+        },
+        {
+          "t": "tafsir",
+          "text": "On &ldquo;Iram, of the pillars,&rdquo; Ibn Kathir records that &lsquo;Ad were the mightiest people of their time in physique and power, living in houses raised on firm pillars. He prefers the view that &ldquo;the like of which were never created in the land&rdquo; refers to the tribe&rsquo;s unmatched strength itself, calling the pillars-only reading weak. And Hud reminded them to spend that strength in obedience to the Lord who gave it. This is commentary, not revelation.",
+          "href": "https://quran.com/89:7/tafsirs/en-tafisr-ibn-kathir",
+          "label": "Tafsir Ibn Kathir on 89:7-8 &middot; quran.com"
         }
       ]
     },
@@ -113,7 +119,7 @@ export const chapter = {
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 3 of 9"
+          "html": "Scene 3 of 11"
         },
         {
           "t": "h2",
@@ -154,7 +160,7 @@ export const chapter = {
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 4 of 9"
+          "html": "Scene 4 of 11"
         },
         {
           "t": "h2",
@@ -195,7 +201,7 @@ export const chapter = {
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 5 of 9"
+          "html": "Scene 5 of 11"
         },
         {
           "t": "h2",
@@ -229,7 +235,7 @@ export const chapter = {
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 6 of 9"
+          "html": "Scene 6 of 11"
         },
         {
           "t": "h2",
@@ -263,7 +269,7 @@ export const chapter = {
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 7 of 9"
+          "html": "Scene 7 of 11"
         },
         {
           "t": "h2",
@@ -284,13 +290,67 @@ export const chapter = {
       ]
     },
     {
+      "id": "scene-7b",
+      "ariaLabel": "Scene 8: It May Be as the People of &lsquo;Ad Said",
+      "title": "It May Be as the People of &lsquo;Ad Said",
+      "blocks": [
+        {
+          "t": "kicker",
+          "html": "Scene 8 of 11"
+        },
+        {
+          "t": "h2",
+          "html": "It May Be as the People of &lsquo;Ad Said"
+        },
+        {
+          "t": "p",
+          "html": "Centuries later, the Prophet Muhammad (ﷺ) himself would remember &lsquo;Ad when the sky darkened. Aisha (RA) narrates that whenever the wind blew stormy, he would pray: O Allah, I ask You for its good and the good within it and the good it was sent with, and I seek refuge in You from its evil and the evil within it and the evil it was sent with. When thunder and lightning filled the sky, his face changed color; he went out and came back in, restless, until the rain fell and relief showed on his face. Aisha asked him why, and he said: it may be, O Aisha, as the people of &lsquo;Ad said when they saw the cloud coming toward their valley: this is a cloud bringing us rain. The Prophet (ﷺ) feared the sky because he knew what it had once hidden.",
+          "cls": "dropcap"
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;Whenever the wind was stormy, the Messenger of Allah (ﷺ) used to say: O Allah! I ask Thee for what is good in it, and the good which it contains, and the good of that which it was sent for. I seek refuge with Thee from what is evil in it, what evil it contains, and the evil of that what it was sent for &hellip; &lsquo;A&rsquo;isha asked him (about it) and he said: It may be as the people of &lsquo;Ad said: When they saw a cloud formation coming to their valley they said: It is a cloud which would give us rain (Qur&rsquo;an, xlvi. 24).&rdquo;",
+          "narrator": "Narrated by &lsquo;Ata&rsquo; ibn Abi Rabah, on the authority of A&rsquo;isha (RA)",
+          "href": "https://sunnah.com/muslim:899b",
+          "label": "Sahih Muslim 899b &middot; sunnah.com"
+        }
+      ]
+    },
+    {
+      "id": "scene-7c",
+      "ariaLabel": "Scene 9: The East Wind and the West Wind",
+      "title": "The East Wind and the West Wind",
+      "blocks": [
+        {
+          "t": "kicker",
+          "html": "Scene 9 of 11"
+        },
+        {
+          "t": "h2",
+          "html": "The East Wind and the West Wind"
+        },
+        {
+          "t": "p",
+          "html": "The wind that destroyed &lsquo;Ad has a name in the Prophet&rsquo;s (ﷺ) teaching, and so does the wind that helped him. Ibn Abbas (RA) narrates that the Prophet (ﷺ) said he was helped by the east wind, and &lsquo;Ad were destroyed by the west wind. Two winds, two histories: one carrying victory to the believers, the other carrying ruin to those who asked who was greater than them in strength. The same sky, the same air; what differs is what it is sent with.",
+          "cls": "dropcap"
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;Ibn &lsquo;Abbas reported Allah&rsquo;s Messenger (ﷺ) as saying: I have been helped by the east wind and the &lsquo;Ad were destroyed by the west wind.&rdquo;",
+          "narrator": "Narrated by Ibn Abbas (RA)",
+          "href": "https://sunnah.com/muslim:900",
+          "label": "Sahih Muslim 900a &middot; sunnah.com"
+        }
+      ]
+    },
+    {
       "id": "scene-8",
-      "ariaLabel": "Scene 8: Seven Nights and Eight Days",
+      "ariaLabel": "Scene 10: Seven Nights and Eight Days",
       "title": "Seven Nights and Eight Days",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 8 of 9"
+          "html": "Scene 10 of 11"
         },
         {
           "t": "h2",
@@ -326,12 +386,12 @@ export const chapter = {
     },
     {
       "id": "scene-9",
-      "ariaLabel": "Scene 9: What Remains",
+      "ariaLabel": "Scene 11: What Remains",
       "title": "What Remains",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 9 of 9"
+          "html": "Scene 11 of 11"
         },
         {
           "t": "h2",
@@ -373,14 +433,16 @@ export const chapter = {
       ]
     }
   ],
-  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Hud (11:50-60), Surah Al-A’raf (7:65-72), Surah Ash-Shu’ara (26:123-140) and Surah Al-Ahqaf (46:21-26), with one narration from Sahih al-Bukhari. What revelation does not give, we do not add: the Quran does not locate Iram, does not name the believers saved with Hud, and does not describe the wind beyond what is quoted here. Later books add such details, but they are not established in the Quran or authentic hadith, so this chapter leaves them out, and ends where revelation ends.</p>\n      ",
+  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Hud (11:50-60), Surah Al-A’raf (7:65-72), Surah Ash-Shu’ara (26:123-140) and Surah Al-Ahqaf (46:21-26), with narrations from Sahih al-Bukhari (1035) and Sahih Muslim (899b, 900a), and one labeled panel from Tafsir Ibn Kathir (on 89:7-8), clearly marked as commentary, not revelation. What revelation does not give, we do not add: the Quran does not locate Iram, does not name the believers saved with Hud, and does not describe the wind beyond what is quoted here. Later books add such details, but they are not established in the Quran or authentic hadith, so this chapter leaves them out, and ends where revelation ends.</p>\n      ",
   "lessons": [
     "<strong>Strength without guidance is a liability.</strong> &lsquo;Ad asked &ldquo;who is greater than us in strength?&rdquo;, and the wind answered. (Quran 41:15)",
     "<strong>The sincere caller wants nothing back.</strong> &ldquo;I do not ask you for it any reward&rdquo;: da’wah that seeks no wage cannot be bought and cannot be silenced. (Quran 11:51)",
     "<strong>Forgiveness brings rain.</strong> Hud tied istighfar to provision: repent, and the sky opens. (Quran 11:52)",
     "<strong>Fear no coalition.</strong> &ldquo;Plot against me all together, then do not give me respite&rdquo;: one man relying on Allah outmatches a nation. (Quran 11:55)",
     "<strong>Punishment can arrive disguised as mercy.</strong> They cheered a cloud that was their destruction, not every relief is a relief. (Quran 46:24)",
-    "<strong>Arrogance ends in erasure.</strong> &ldquo;Nothing could be seen except their dwellings&rdquo;: the mighty &lsquo;Ad became a moral in stone. (Quran 46:25)"
+    "<strong>Arrogance ends in erasure.</strong> &ldquo;Nothing could be seen except their dwellings&rdquo;: the mighty &lsquo;Ad became a moral in stone. (Quran 46:25)",
+    "<strong>The Prophet (ﷺ) feared the wind.</strong> When the sky darkened he prayed for its good and sought refuge from its evil, remembering what the wind once carried to &lsquo;Ad. The believer sees a sign where others see weather.",
+    "<strong>Strength is a trust, not a creed.</strong> &lsquo;Ad&rsquo;s might was real, but they worshipped it. Ibn Kathir notes Hud called them to spend their strength in obedience to the One who gave it."
   ],
   "quiz": [
     {
@@ -432,6 +494,26 @@ export const chapter = {
       ],
       "answer": 0,
       "ref": "Quran 46:24"
+    },
+    {
+      "q": "What did the Prophet (ﷺ) say when the wind blew stormy?",
+      "options": [
+        "O Allah, I ask You for its good and seek refuge from its evil",
+        "This wind brings rain",
+        "Stay indoors until it passes"
+      ],
+      "answer": 0,
+      "ref": "Sahih Muslim 899b"
+    },
+    {
+      "q": "According to Ibn Kathir, what does &lsquo;the like of which were never created in the land&rsquo; refer to?",
+      "options": [
+        "The unmatched strength of the tribe of &lsquo;Ad",
+        "The height of their pillars only",
+        "Their wealth"
+      ],
+      "answer": 0,
+      "ref": "Tafsir Ibn Kathir on 89:7-8"
     }
   ],
   "prevNext": [

@@ -31,7 +31,7 @@ export const chapter = {
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 1 of 9"
+          "html": "Scene 1 of 10"
         },
         {
           "t": "h2",
@@ -59,13 +59,40 @@ export const chapter = {
       ]
     },
     {
+      "id": "scene-1b",
+      "ariaLabel": "Scene 2: The Honorable, Son of the Honorable",
+      "title": "The Honorable, Son of the Honorable",
+      "blocks": [
+        {
+          "t": "kicker",
+          "html": "Scene 2 of 10"
+        },
+        {
+          "t": "h2",
+          "html": "The Honorable, Son of the Honorable"
+        },
+        {
+          "t": "p",
+          "html": "The Prophet (ﷺ) gathered Ya&lsquo;qub&rsquo;s whole line into a single sentence of honor. Asked who was the most honorable among people, he answered: Yusuf, the prophet of Allah, son of the prophet of Allah, son of the prophet of Allah, son of the Khalil of Allah. Yusuf son of Ya&lsquo;qub son of Ishaq son of Ibrahim: four generations, each a prophet, each the son of a prophet.",
+          "cls": "dropcap"
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;The Prophet (ﷺ) said, &lsquo;The honorable is the son of the honorable, the son the honorable, i.e. Joseph, the son of Jacob, the son of Isaac, the son of Abraham.&rsquo;&rdquo;",
+          "narrator": "Narrated by Ibn Umar (RA)",
+          "href": "https://sunnah.com/bukhari:3382",
+          "label": "Sahih al-Bukhari 3382 &middot; sunnah.com"
+        }
+      ]
+    },
+    {
       "id": "scene-2",
-      "ariaLabel": "Scene 2: The Dream",
+      "ariaLabel": "Scene 3: The Dream",
       "title": "The Dream",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 2 of 9"
+          "html": "Scene 3 of 10"
         },
         {
           "t": "h2",
@@ -87,12 +114,12 @@ export const chapter = {
     },
     {
       "id": "scene-3",
-      "ariaLabel": "Scene 3: The Wolves and the Shirt",
+      "ariaLabel": "Scene 4: The Wolves and the Shirt",
       "title": "The Wolves and the Shirt",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 3 of 9"
+          "html": "Scene 4 of 10"
         },
         {
           "t": "h2",
@@ -114,12 +141,12 @@ export const chapter = {
     },
     {
       "id": "scene-4",
-      "ariaLabel": "Scene 4: The Best of Guardians",
+      "ariaLabel": "Scene 5: The Best of Guardians",
       "title": "The Best of Guardians",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 4 of 9"
+          "html": "Scene 5 of 10"
         },
         {
           "t": "h2",
@@ -148,12 +175,12 @@ export const chapter = {
     },
     {
       "id": "scene-5",
-      "ariaLabel": "Scene 5: Do Not Despair of Allah&rsquo;s Relief",
+      "ariaLabel": "Scene 6: Do Not Despair of Allah&rsquo;s Relief",
       "title": "Do Not Despair of Allah&rsquo;s Relief",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 5 of 9"
+          "html": "Scene 6 of 10"
         },
         {
           "t": "h2",
@@ -177,17 +204,23 @@ export const chapter = {
           "narrator": "Narrated Anas bin Malik",
           "href": "https://sunnah.com/bukhari:1283",
           "label": "Sahih al-Bukhari 1283 &middot; sunnah.com"
+        },
+        {
+          "t": "tafsir",
+          "text": "On &ldquo;I only complain of my suffering and my grief to Allah,&rdquo; Qatadah and other scholars note that Ya&lsquo;qub suppressed his sorrow and complained to no created being. And on &ldquo;I know from Allah that which you do not know,&rdquo; Ibn Abbas explains: the vision Yusuf saw is truthful, and Allah will certainly make it come true. Grief held privately; hope placed in Allah alone. This is commentary, not revelation.",
+          "href": "https://quran.com/12:86/tafsirs/en-tafisr-ibn-kathir",
+          "label": "Tafsir Ibn Kathir on 12:86-87 &middot; quran.com"
         }
       ]
     },
     {
       "id": "scene-6",
-      "ariaLabel": "Scene 6: The Smell of Yusuf",
+      "ariaLabel": "Scene 7: The Smell of Yusuf",
       "title": "The Smell of Yusuf",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 6 of 9"
+          "html": "Scene 7 of 10"
         },
         {
           "t": "h2",
@@ -209,12 +242,12 @@ export const chapter = {
     },
     {
       "id": "scene-7",
-      "ariaLabel": "Scene 7: The Dream Made Reality",
+      "ariaLabel": "Scene 8: The Dream Made Reality",
       "title": "The Dream Made Reality",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 7 of 9"
+          "html": "Scene 8 of 10"
         },
         {
           "t": "h2",
@@ -236,12 +269,12 @@ export const chapter = {
     },
     {
       "id": "scene-8",
-      "ariaLabel": "Scene 8: What Will You Worship After Me?",
+      "ariaLabel": "Scene 9: What Will You Worship After Me?",
       "title": "What Will You Worship After Me?",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 8 of 9"
+          "html": "Scene 9 of 10"
         },
         {
           "t": "h2",
@@ -258,17 +291,23 @@ export const chapter = {
           "arabic": " وَوَصَّىٰ بِهَآ إِبْرَٰهِـۧمُ بَنِيهِ وَيَعْقُوبُ يَـٰبَنِىَّ إِنَّ ٱللَّهَ ٱصْطَفَىٰ لَكُمُ ٱلدِّينَ فَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ أَمْ كُنتُمْ شُهَدَآءَ إِذْ حَضَرَ يَعْقُوبَ ٱلْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ مِنۢ بَعْدِى قَالُوا۟ نَعْبُدُ إِلَـٰهَكَ وَإِلَـٰهَ ءَابَآئِكَ إِبْرَٰهِـۧمَ وَإِسْمَـٰعِيلَ وَإِسْحَـٰقَ إِلَـٰهًا وَٰحِدًا وَنَحْنُ لَهُۥ مُسْلِمُونَ",
           "translation": "And Abraham instructed his sons [to do the same] and [so did] Jacob, [saying], \"O my sons, indeed Allāh has chosen for you this religion, so do not die except while you are Muslims.\" Or were you witnesses when death approached Jacob, when he said to his sons, \"What will you worship after me?\" They said, \"We will worship your God and the God of your fathers, Abraham and Ishmael and Isaac - one God. And we are Muslims [in submission] to Him.\"",
           "citation": "Surah 2 &middot; Verses 132-133 &middot; Saheeh International"
+        },
+        {
+          "t": "tafsir",
+          "text": "On &ldquo;die not except as Muslims,&rdquo; Ibn Kathir notes these prophets loved the words of submission so deeply that they preserved them until the hour of death and enjoined their children to hold to them after. Ya&lsquo;qub&rsquo;s final counsel was not a new instruction but the lifelong creed, handed down at the last hour. This is commentary, not revelation.",
+          "href": "https://quran.com/2:132/tafsirs/en-tafisr-ibn-kathir",
+          "label": "Tafsir Ibn Kathir on 2:132 &middot; quran.com"
         }
       ]
     },
     {
       "id": "scene-9",
-      "ariaLabel": "Scene 9: Those of Strength and Vision",
+      "ariaLabel": "Scene 10: Those of Strength and Vision",
       "title": "Those of Strength and Vision",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 9 of 9"
+          "html": "Scene 10 of 10"
         },
         {
           "t": "h2",
@@ -289,13 +328,14 @@ export const chapter = {
       ]
     }
   ],
-  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Yusuf (12:4-100), Surah Al-Baqarah (2:132-133), Surah Sad (38:45-47), Surah Hud (11:71) and Surah Maryam (19:49), with one narration from Sahih al-Bukhari. What revelation does not give, we do not add: the Quran does not name the brothers, does not detail the years of separation, and does not describe the reunion beyond what is quoted. Later books add such details, but they are not established in the Quran or authentic hadith, so this chapter leaves them out, and ends where revelation ends.</p>\n      ",
+  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Yusuf (12:4-100), Surah Al-Baqarah (2:132-133), Surah Sad (38:45-47), Surah Hud (11:71) and Surah Maryam (19:49), with narrations from Sahih al-Bukhari (1283, 3382), and two labeled panels from Tafsir Ibn Kathir (on 12:86-87 and 2:132), clearly marked as commentary, not revelation. What revelation does not give, we do not add: the Quran does not name the brothers, does not detail the years of separation, and does not describe the reunion beyond what is quoted. Later books add such details, but they are not established in the Quran or authentic hadith, so this chapter leaves them out, and ends where revelation ends.</p>\n      ",
   "lessons": [
     "<strong>Guard the gift.</strong> “Do not relate your vision to your brothers”: not every blessing is for every ear. (Quran 12:5)",
     "<strong>“Patience is most fitting.”</strong> Say it at the first stroke of calamity, and say it still at the hundredth. (Quran 12:18)",
     "<strong>Entrust to the Best of Guardians.</strong> Yaqub released his son with “Allah is the best guardian” on his tongue. (Quran 12:64)",
     "<strong>Complain only to Allah.</strong> “I only complain of my suffering and my grief to Allah”: grief poured upward, not outward. (Quran 12:86)",
-    "<strong>Never despair of Allah’s relief.</strong> Despair belongs to the disbelievers; the believer keeps looking for Yusuf. (Quran 12:87)"
+    "<strong>Never despair of Allah’s relief.</strong> Despair belongs to the disbelievers; the believer keeps looking for Yusuf. (Quran 12:87)",
+    "<strong>Complain to Allah, not to people.</strong> Ya&lsquo;qub&rsquo;s grief was real and his eyes went white from it, but his complaint went only upward. The scholars note he never complained to any created being."
   ],
   "quiz": [
     {
@@ -357,6 +397,16 @@ export const chapter = {
       ],
       "answer": 0,
       "ref": "Quran 2:133"
+    },
+    {
+      "q": "How did the Prophet (ﷺ) describe Yusuf&rsquo;s lineage?",
+      "options": [
+        "The honorable, son of the honorable, son of the honorable: Joseph son of Jacob son of Isaac son of Abraham",
+        "A king descended from kings",
+        "A shepherd descended from shepherds"
+      ],
+      "answer": 0,
+      "ref": "Sahih al-Bukhari 3382"
     }
   ],
   "prevNext": [

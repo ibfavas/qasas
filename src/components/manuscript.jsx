@@ -4,25 +4,64 @@ import { SceneDivider } from './chrome.jsx';
 
 export const html = (s) => ({ __html: s });
 
-export function Verse({ v }) {
+function Chevron() {
   return (
-    <div className="verse reveal">
-      <p className="verse-marker"><span className="ref-chip">{v.ref}</span></p>
-      <p className="arabic" lang="ar" dir="rtl" dangerouslySetInnerHTML={html(v.arabic)} />
-      <p className="translation" dangerouslySetInnerHTML={html(v.translation)} />
-      <p className="citation" dangerouslySetInnerHTML={html(v.citation)} />
+    <svg className="chevron" width="16" height="16" viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+      <path d="M4 6l4 4 4-4" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" />
+    </svg>
+  );
+}
+
+export function Verse({ v }) {
+  const [open, setOpen] = useState(false);
+  return (
+    <div className={`verse reveal${open ? ' is-open' : ''}`}>
+      <button type="button" className="panel-toggle" aria-expanded={open} onClick={() => setOpen((o) => !o)}>
+        <span className="ref-chip">{v.ref}</span>
+        <span className="toggle-word">{open ? 'Hide' : 'Show'}</span>
+        <Chevron />
+      </button>
+      <div className="panel-body">
+        <div className="panel-inner">
+          <p className="arabic" lang="ar" dir="rtl" dangerouslySetInnerHTML={html(v.arabic)} />
+          <p className="translation" dangerouslySetInnerHTML={html(v.translation)} />
+          <p className="citation" dangerouslySetInnerHTML={html(v.citation)} />
+        </div>
+      </div>
     </div>
   );
 }
 
 export function Hadith({ h }) {
+  const [open, setOpen] = useState(false);
   return (
-    <div className="hadith reveal">
-      <p className="h-label"><span>Hadith</span></p>
-      <p className="h-text" dangerouslySetInnerHTML={html(h.text)} />
-      <p className="h-narrator" dangerouslySetInnerHTML={html(h.narrator)} />
-      <p className="h-cite">
-        <a href={h.href} target="_blank" rel="noopener" dangerouslySetInnerHTML={html(h.label)} />
+    <div className={`hadith reveal${open ? ' is-open' : ''}`}>
+      <button type="button" className="panel-toggle" aria-expanded={open} onClick={() => setOpen((o) => !o)}>
+        <span className="h-chip">Hadith</span>
+        <span className="toggle-cite" dangerouslySetInnerHTML={html(h.label)} />
+        <span className="toggle-word">{open ? 'Hide' : 'Show'}</span>
+        <Chevron />
+      </button>
+      <div className="panel-body">
+        <div className="panel-inner">
+          <p className="h-text" dangerouslySetInnerHTML={html(h.text)} />
+          <p className="h-narrator" dangerouslySetInnerHTML={html(h.narrator)} />
+          <p className="h-cite">
+            <a href={h.href} target="_blank" rel="noopener" dangerouslySetInnerHTML={html(h.label)} />
+          </p>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+export function Tafsir({ t }) {
+  return (
+    <div className="tafsir reveal">
+      <p className="t-label"><span>From the Tafsir</span></p>
+      <p className="t-text" dangerouslySetInnerHTML={html(t.text)} />
+      <p className="t-cite">
+        <a href={t.href} target="_blank" rel="noopener" dangerouslySetInnerHTML={html(t.label)} />
       </p>
     </div>
   );
@@ -55,6 +94,8 @@ function Block({ b }) {
       return <Verse v={b} />;
     case 'hadith':
       return <Hadith h={b} />;
+    case 'tafsir':
+      return <Tafsir t={b} />;
     case 'vignette':
       return <Vignette v={b} />;
     default:

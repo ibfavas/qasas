@@ -31,7 +31,7 @@ export const chapter = {
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 1 of 9"
+          "html": "Scene 1 of 10"
         },
         {
           "t": "h2",
@@ -65,7 +65,7 @@ export const chapter = {
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 2 of 9"
+          "html": "Scene 2 of 10"
         },
         {
           "t": "h2",
@@ -113,7 +113,7 @@ export const chapter = {
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 3 of 9"
+          "html": "Scene 3 of 10"
         },
         {
           "t": "h2",
@@ -130,6 +130,12 @@ export const chapter = {
           "arabic": " قَالَ هَـٰذِهِۦ نَاقَةٌ لَّهَا شِرْبٌ وَلَكُمْ شِرْبُ يَوْمٍ مَّعْلُومٍ وَلَا تَمَسُّوهَا بِسُوٓءٍ فَيَأْخُذَكُمْ عَذَابُ يَوْمٍ عَظِيمٍ",
           "translation": "He said, \"This is a she-camel. For her is a [time of] drink, and for you is a [time of] drink, [each] on a known day. And do not touch her with harm, lest you be seized by the punishment of a terrible day.\"",
           "citation": "Surah 26 &middot; Verses 155-156 &middot; Saheeh International"
+        },
+        {
+          "t": "tafsir",
+          "text": "Ibn Kathir details the arrangement: the she-camel drank from her well one day and left it for Thamud the next, and on her drinking days they milked her and filled their containers from her milk. He places Thamud after &lsquo;Ad, dwelling at Al-Hijr between the Hijaz and Ash-Sham, where the Prophet (ﷺ) would later pass on the way to Tabuk. This is commentary, not revelation.",
+          "href": "https://quran.com/7:73/tafsirs/en-tafisr-ibn-kathir",
+          "label": "Tafsir Ibn Kathir on 7:73 &middot; quran.com"
         }
       ]
     },
@@ -140,7 +146,7 @@ export const chapter = {
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 4 of 9"
+          "html": "Scene 4 of 10"
         },
         {
           "t": "h2",
@@ -188,7 +194,7 @@ export const chapter = {
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 5 of 9"
+          "html": "Scene 5 of 10"
         },
         {
           "t": "h2",
@@ -215,7 +221,7 @@ export const chapter = {
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 6 of 9"
+          "html": "Scene 6 of 10"
         },
         {
           "t": "h2",
@@ -242,7 +248,7 @@ export const chapter = {
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 7 of 9"
+          "html": "Scene 7 of 10"
         },
         {
           "t": "h2",
@@ -297,7 +303,7 @@ export const chapter = {
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 8 of 9"
+          "html": "Scene 8 of 10"
         },
         {
           "t": "h2",
@@ -339,13 +345,47 @@ export const chapter = {
       ]
     },
     {
+      "id": "scene-8b",
+      "ariaLabel": "Scene 9: The Wells of Al-Hijr",
+      "title": "The Wells of Al-Hijr",
+      "blocks": [
+        {
+          "t": "kicker",
+          "html": "Scene 9 of 10"
+        },
+        {
+          "t": "h2",
+          "html": "The Wells of Al-Hijr"
+        },
+        {
+          "t": "p",
+          "html": "The order at Al-Hijr went further than grief. Ibn Umar (RA) narrates that when the Prophet (ﷺ) landed there during the Tabuk expedition, he ordered the companions not to drink from its wells or store its water. Some had already kneaded dough with it and filled their bags; he ordered them to throw the dough away and pour the water out. And then he directed them to the one well that was different: the well from which the she-camel of Salih used to drink. Centuries after Thamud, her well was still known, and still blessed. The punishment had passed, but the sign&rsquo;s water remained pure.",
+          "cls": "dropcap"
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;Narrated Ibn &lsquo;Umar: When Allah&rsquo;s Messenger (ﷺ) landed at Al-Hijr during the Ghazwa of Tabuk, he ordered his companions not to drink water from its well or reserve water from it. They said, &lsquo;We have already kneaded the dough with its water, and also filled our bags with its water.&rsquo; On that, the Prophet (ﷺ) ordered them to throw away the dough and pour out the water.&rdquo;",
+          "narrator": "Narrated by Ibn Umar (RA)",
+          "href": "https://sunnah.com/bukhari:3378",
+          "label": "Sahih al-Bukhari 3378 &middot; sunnah.com"
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;The people landed at the land of Thamud called Al-Hijr along with Allah&rsquo;s Messenger (ﷺ) and they took water from its well for drinking and kneading the dough with it as well. (When Allah&rsquo;s Messenger (ﷺ) heard about it) he ordered them to pour out the water they had taken from its wells and feed the camels with the dough, and ordered them to take water from the well whence the she-camel (of Prophet Salih) used to drink.&rdquo;",
+          "narrator": "Narrated by Abdullah ibn Umar (RA)",
+          "href": "https://sunnah.com/bukhari:3379",
+          "label": "Sahih al-Bukhari 3379 &middot; sunnah.com"
+        }
+      ]
+    },
+    {
       "id": "scene-9",
-      "ariaLabel": "Scene 9: What Remains",
+      "ariaLabel": "Scene 10: What Remains",
       "title": "What Remains",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 9 of 9"
+          "html": "Scene 10 of 10"
         },
         {
           "t": "h2",
@@ -387,14 +427,15 @@ export const chapter = {
       ]
     }
   ],
-  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Hud (11:61-68), Surah Al-A’raf (7:73-79), Surah Ash-Shu’ara (26:141-159), Surah An-Naml (27:45-53) and Surah Ash-Shams (91:11-15), with two narrations from Sahih al-Bukhari. What revelation does not give, we do not add: the Quran does not describe how the she-camel appeared, does not name the nine plotters, and does not detail the three days of waiting. Later books add such details, but they are not established in the Quran or authentic hadith, so this chapter leaves them out, and ends where revelation ends.</p>\n      ",
+  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Hud (11:61-68), Surah Al-A’raf (7:73-79), Surah Ash-Shu’ara (26:141-159), Surah An-Naml (27:45-53) and Surah Ash-Shams (91:11-15), with narrations from Sahih al-Bukhari (433, 3377, 3378, 3379), and one labeled panel from Tafsir Ibn Kathir (on 7:73), clearly marked as commentary, not revelation. What revelation does not give, we do not add: the Quran does not describe how the she-camel appeared, does not name the nine plotters, and does not detail the three days of waiting. Later books add such details, but they are not established in the Quran or authentic hadith, so this chapter leaves them out, and ends where revelation ends.</p>\n      ",
   "lessons": [
     "<strong>Never demand a sign you will resent.</strong> Thamud asked for the camel, then killed it. Asking Allah for proof while planning disobedience is a doomed bargain. (Quran 17:59, 91:14)",
     "<strong>Blessings come with boundaries.</strong> Her day, your day: the arrangement was simple. Keeping Allah’s limits is part of gratitude. (Quran 26:155)",
     "<strong>One hand sins; silent approval shares the guilt.</strong> A single companion hamstrung her, but the cry took the city that let him. (Quran 54:29)",
     "<strong>Plotting against the righteous backfires.</strong> Nine men swore to murder Salih by night; Allah’s plan swallowed theirs whole. (Quran 27:49-50)",
     "<strong>Stone houses don’t save.</strong> They carved security from mountains and died in their beds at dawn. Only taqwa protects. (Quran 15:82-83)",
-    "<strong>Ruins are sermons.</strong> &ldquo;Their houses, desolate because of what they wronged&rdquo;: the empty valley still teaches. (Quran 27:52)"
+    "<strong>Ruins are sermons.</strong> &ldquo;Their houses, desolate because of what they wronged&rdquo;: the empty valley still teaches. (Quran 27:52)",
+    "<strong>Even the water remembers.</strong> At Al-Hijr the Prophet (ﷺ) ordered the tainted wells poured out, but directed his companions to the she-camel&rsquo;s well. Allah&rsquo;s signs outlast the nations that rejected them."
   ],
   "quiz": [
     {
@@ -446,6 +487,16 @@ export const chapter = {
       ],
       "answer": 0,
       "ref": "Quran 11:67"
+    },
+    {
+      "q": "What did the Prophet (ﷺ) order about the wells at Al-Hijr?",
+      "options": [
+        "Pour out their water, and drink from the she-camel&rsquo;s well",
+        "Drink freely from all the wells",
+        "Avoid Al-Hijr entirely"
+      ],
+      "answer": 0,
+      "ref": "Sahih al-Bukhari 3379"
     }
   ],
   "prevNext": [

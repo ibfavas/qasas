@@ -30,7 +30,7 @@ export const chapter = {
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 1 of 8"
+          "html": "Scene 1 of 9"
         },
         {
           "t": "h2",
@@ -64,7 +64,7 @@ export const chapter = {
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 2 of 8"
+          "html": "Scene 2 of 9"
         },
         {
           "t": "h2",
@@ -98,7 +98,7 @@ export const chapter = {
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 3 of 8"
+          "html": "Scene 3 of 9"
         },
         {
           "t": "h2",
@@ -132,7 +132,7 @@ export const chapter = {
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 4 of 8"
+          "html": "Scene 4 of 9"
         },
         {
           "t": "h2",
@@ -166,7 +166,7 @@ export const chapter = {
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 5 of 8"
+          "html": "Scene 5 of 9"
         },
         {
           "t": "h2",
@@ -190,17 +190,50 @@ export const chapter = {
           "arabic": " قَالُوا۟ لَقَدْ عَلِمْتَ مَا لَنَا فِى بَنَاتِكَ مِنْ حَقٍّ وَإِنَّكَ لَتَعْلَمُ مَا نُرِيدُ قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍ شَدِيدٍ",
           "translation": "They said, \"You have already known that we have not concerning your daughters [i.e., women] any claim [i.e., desire], and indeed, you know what we want.\" He said, \"If only I had against you some power or could take refuge in a strong support.\"",
           "citation": "Surah 11 &middot; Verses 79-80 &middot; Saheeh International"
+        },
+        {
+          "t": "tafsir",
+          "text": "On Lut&rsquo;s plea &ldquo;these are my daughters,&rdquo; Ibn Kathir presents the mainstream reading of Mujahid and Qatadah: he meant the women of his nation, for every prophet is like a father to his nation. This is commentary, not revelation, and it guards against misreading the verse.",
+          "href": "https://quran.com/11:77/tafsirs/en-tafisr-ibn-kathir",
+          "label": "Tafsir Ibn Kathir on 11:77-78 &middot; quran.com"
+        }
+      ]
+    },
+    {
+      "id": "scene-5b",
+      "ariaLabel": "Scene 6: He Feared for Them",
+      "title": "He Feared for Them",
+      "blocks": [
+        {
+          "t": "kicker",
+          "html": "Scene 6 of 9"
+        },
+        {
+          "t": "h2",
+          "html": "He Feared for Them"
+        },
+        {
+          "t": "p",
+          "html": "The visitors who distressed Lut were angels, though he did not know it. They came in the form of handsome young men, and that was the test: Lut&rsquo;s anguish was not fear for himself but fear for them. He was afraid that if he did not take them in, someone else of his people would, and they would harm them, and he knew he would have to defend them alone. &ldquo;This is a trying day,&rdquo; he said, and Ibn Abbas explained the words: a severe test for him. The Prophet (ﷺ) remembered his cry for a strong support and said: &ldquo;May Allah forgive Lot: he wanted to have a powerful support.&rdquo;",
+          "cls": "dropcap"
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;The Prophet (ﷺ) said, &lsquo;May Allah forgive Lot: He wanted to have a powerful support.&rsquo;&rdquo;",
+          "narrator": "Narrated by Abu Huraira (RA)",
+          "href": "https://sunnah.com/bukhari:3375",
+          "label": "Sahih al-Bukhari 3375 &middot; sunnah.com"
         }
       ]
     },
     {
       "id": "scene-6",
-      "ariaLabel": "Scene 6: Do Not Look Back",
+      "ariaLabel": "Scene 7: Do Not Look Back",
       "title": "Do Not Look Back",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 6 of 8"
+          "html": "Scene 7 of 9"
         },
         {
           "t": "h2",
@@ -229,12 +262,12 @@ export const chapter = {
     },
     {
       "id": "scene-7",
-      "ariaLabel": "Scene 7: The Highest Became the Lowest",
+      "ariaLabel": "Scene 8: The Highest Became the Lowest",
       "title": "The Highest Became the Lowest",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 7 of 8"
+          "html": "Scene 8 of 9"
         },
         {
           "t": "h2",
@@ -277,12 +310,12 @@ export const chapter = {
     },
     {
       "id": "scene-8",
-      "ariaLabel": "Scene 8: The Wife Who Stayed",
+      "ariaLabel": "Scene 9: The Wife Who Stayed",
       "title": "The Wife Who Stayed",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 8 of 8"
+          "html": "Scene 9 of 9"
         },
         {
           "t": "h2",
@@ -299,18 +332,26 @@ export const chapter = {
           "arabic": " ضَرَبَ ٱللَّهُ مَثَلًا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍ وَٱمْرَأَتَ لُوطٍ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
           "translation": "Allāh presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so they [i.e., those prophets] did not avail them from Allāh at all, and it was said, \"Enter the Fire with those who enter.\"",
           "citation": "Surah 66 &middot; Verse 10 &middot; Saheeh International"
+        },
+        {
+          "t": "tafsir",
+          "text": "On &ldquo;they both betrayed them,&rdquo; Ibn Kathir is explicit: the betrayal was in faith, not in marriage. No wife of a prophet ever committed adultery, he records from Ibn Abbas and others. Of Lut&rsquo;s wife specifically: she would tell the people of the city whenever her husband entertained a guest, tipping off the mob about the angels.",
+          "href": "https://quran.com/66:10/tafsirs/en-tafisr-ibn-kathir",
+          "label": "Tafsir Ibn Kathir on 66:10 &middot; quran.com"
         }
       ]
     }
   ],
-  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Hud (11:77-83), Surah Al-A’raf (7:80-84), Surah Ash-Shu’ara (26:165-173), Surah Al-Ankabut (29:26-29), Surah An-Naml (27:54-58), Surah Al-Anbiya (21:74-75), Surah Al-Qamar (54:33-34) and Surah At-Tahrim (66:10), with one narration from Sahih al-Bukhari. What revelation does not give, we do not add: the Quran does not name the towns, does not number the angels who came to him, and does not describe his life after the punishment. Later books add such details, but they are not established in the Quran or authentic hadith, so this chapter leaves them out, and ends where revelation ends.</p>\n      ",
+  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Hud (11:77-83), Surah Al-A’raf (7:80-84), Surah Ash-Shu’ara (26:165-173), Surah Al-Ankabut (29:26-29), Surah An-Naml (27:54-58), Surah Al-Anbiya (21:74-75), Surah Al-Qamar (54:33-34) and Surah At-Tahrim (66:10), with narrations from Sahih al-Bukhari (3372, 3375), and two labeled panels from Tafsir Ibn Kathir (on 11:77-78 and 66:10), clearly marked as commentary, not revelation. What revelation does not give, we do not add: the Quran does not name the towns, does not number the angels who came to him, and does not describe his life after the punishment. Later books add such details, but they are not established in the Quran or authentic hadith, so this chapter leaves them out, and ends where revelation ends.</p>\n      ",
   "lessons": [
     "<strong>Name the sin plainly.</strong> Lut did not soften the charge; clarity is mercy before the punishment comes. (Quran 7:80)",
     "<strong>Mockery of purity is a dying people’s joke.</strong> “Evict them, they keep themselves pure”: when virtue becomes the crime, ruin is near. (Quran 7:82)",
     "<strong>Never dare the punishment to come.</strong> “Bring us the punishment of Allah”: the dare was answered by morning. (Quran 29:29)",
     "<strong>The believer’s cry has an answer.</strong> “If only I had a strong support”: he wished for one, and Allah was it. (Quran 11:80)",
     "<strong>When the command comes, leave and do not look back.</strong> Hesitation at the edge of ruin is ruin. (Quran 11:81)",
-    "<strong>Marriage to a prophet never saved anyone.</strong> His wife remained behind; only righteousness itself saves. (Quran 66:10)"
+    "<strong>Marriage to a prophet never saved anyone.</strong> His wife remained behind; only righteousness itself saves. (Quran 66:10)",
+    "<strong>He feared for them, not for himself.</strong> Lut&rsquo;s anguish at the angels&rsquo; visit was the anguish of a host: he knew what his people would do to his guests. Nobility is measured by whom you fear for.",
+    "<strong>The mob had an informant.</strong> Lut&rsquo;s wife told the city whenever her husband entertained a guest. Treachery can wear a familiar face, and kinship with a prophet never saved anyone."
   ],
   "quiz": [
     {
@@ -372,6 +413,26 @@ export const chapter = {
       ],
       "answer": 0,
       "ref": "Quran 7:83"
+    },
+    {
+      "q": "According to Ibn Kathir, what did Lut mean by &lsquo;my daughters&rsquo;?",
+      "options": [
+        "The women of his nation",
+        "His literal daughters only",
+        "His wives"
+      ],
+      "answer": 0,
+      "ref": "Tafsir Ibn Kathir on 11:77-78"
+    },
+    {
+      "q": "What did the Prophet (ﷺ) say about Lut wanting a strong support?",
+      "options": [
+        "May Allah forgive Lot: he wanted to have a powerful support",
+        "Lot was wrong to wish for support",
+        "Lot should have fought the mob alone"
+      ],
+      "answer": 0,
+      "ref": "Sahih al-Bukhari 3375"
     }
   ],
   "prevNext": [

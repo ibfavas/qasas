@@ -29,7 +29,7 @@ export const chapter = {
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 1 of 7"
+          "html": "Scene 1 of 10"
         },
         {
           "t": "h2",
@@ -63,7 +63,7 @@ export const chapter = {
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 2 of 7"
+          "html": "Scene 2 of 10"
         },
         {
           "t": "h2",
@@ -84,13 +84,40 @@ export const chapter = {
       ]
     },
     {
+      "id": "scene-2b",
+      "ariaLabel": "Scene 3: I Am Satisfied to Be with Allah",
+      "title": "I Am Satisfied to Be with Allah",
+      "blocks": [
+        {
+          "t": "kicker",
+          "html": "Scene 3 of 10"
+        },
+        {
+          "t": "h2",
+          "html": "I Am Satisfied to Be with Allah"
+        },
+        {
+          "t": "p",
+          "html": "Another narration adds Hajar&rsquo;s own words at the parting. When Ibrahim reached Makkah and made her sit under a tree and turned to go, she followed him to Kada&rsquo; and called from behind: to whom are you leaving us? He answered: to Allah&rsquo;s care. &ldquo;I am satisfied to be with Allah,&rdquo; she said, and returned to her place. Her milk increased for the child as she drank from the skin. When the water ran out she climbed Safa and ran to Marwa, seven rounds, until a voice answered her: it was Gabriel, striking the earth with his heel, and the water gushed out.",
+          "cls": "dropcap"
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;When Abraham reached Mecca, he made her sit under a tree and afterwards returned home. Ishmael&rsquo;s mother followed him, and when they reached Kada&rsquo;, she called him from behind, &lsquo;O Abraham! To whom are you leaving us?&rsquo; He replied, &lsquo;(I am leaving you) to Allah&rsquo;s (Care).&rsquo; She said, &lsquo;I am satisfied to be with Allah.&rsquo; &hellip; Lo! It was Gabriel (who had made the voice). Gabriel hit the earth with his heel like this, and so the water gushed out.&rdquo;",
+          "narrator": "Narrated by Ibn Abbas (RA)",
+          "href": "https://sunnah.com/bukhari:3365",
+          "label": "Sahih al-Bukhari 3365 &middot; sunnah.com"
+        }
+      ]
+    },
+    {
       "id": "scene-3",
-      "ariaLabel": "Scene 3: Do As You Are Commanded",
+      "ariaLabel": "Scene 4: Do As You Are Commanded",
       "title": "Do As You Are Commanded",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 3 of 7"
+          "html": "Scene 4 of 10"
         },
         {
           "t": "h2",
@@ -114,17 +141,23 @@ export const chapter = {
           "arabic": " وَفَدَيْنَـٰهُ بِذِبْحٍ عَظِيمٍ",
           "translation": "And We ransomed him with a great sacrifice,",
           "citation": "Surah 37 &middot; Verse 107 &middot; Saheeh International"
+        },
+        {
+          "t": "tafsir",
+          "text": "On the question of which son was to be sacrificed, Ibn Kathir concludes it was Ismail. The glad tidings of the forbearing boy come first, then the story of the sacrifice, and only afterward the glad tidings of Isaac: the sacrifice, in his reading, belongs to the son of the first tidings. This is the scholar&rsquo;s conclusion, not the Quran&rsquo;s wording: the Quran itself does not name the son.",
+          "href": "https://quran.com/37:102/tafsirs/en-tafisr-ibn-kathir",
+          "label": "Tafsir Ibn Kathir on 37:101-113 &middot; quran.com"
         }
       ]
     },
     {
       "id": "scene-4",
-      "ariaLabel": "Scene 4: True to His Promise",
+      "ariaLabel": "Scene 5: True to His Promise",
       "title": "True to His Promise",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 4 of 7"
+          "html": "Scene 5 of 10"
         },
         {
           "t": "h2",
@@ -145,13 +178,40 @@ export const chapter = {
       ]
     },
     {
+      "id": "scene-4b",
+      "ariaLabel": "Scene 6: Neither of Them Practiced Divination",
+      "title": "Neither of Them Practiced Divination",
+      "blocks": [
+        {
+          "t": "kicker",
+          "html": "Scene 6 of 10"
+        },
+        {
+          "t": "h2",
+          "html": "Neither of Them Practiced Divination"
+        },
+        {
+          "t": "p",
+          "html": "The Prophet (ﷺ) himself testified to Ismail&rsquo;s uprightness. When he entered the Ka&lsquo;bah and saw pictures of Ibrahim and Ismail holding divining arrows, he ordered them erased and said: may Allah curse those who made them; by Allah, neither Ibrahim nor Ismail ever practiced divination by arrows. The Arabs around them cast arrows to seek fortunes; the two prophets never touched them.",
+          "cls": "dropcap"
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;When the Prophet (ﷺ) saw pictures in the Ka&lsquo;ba, he did not enter it till he ordered them to be erased. When he saw the pictures of Abraham and Ishmael carrying the arrows of divination, he said, &lsquo;May Allah curse them (i.e. the Quraish)! By Allah, neither Abraham nor Ishmael practiced divination by arrows.&rsquo;&rdquo;",
+          "narrator": "Narrated by Ibn Abbas (RA)",
+          "href": "https://sunnah.com/bukhari:3352",
+          "label": "Sahih al-Bukhari 3352 &middot; sunnah.com"
+        }
+      ]
+    },
+    {
       "id": "scene-5",
-      "ariaLabel": "Scene 5: The Raising of the House",
+      "ariaLabel": "Scene 7: The Raising of the House",
       "title": "The Raising of the House",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 5 of 7"
+          "html": "Scene 7 of 10"
         },
         {
           "t": "h2",
@@ -172,13 +232,40 @@ export const chapter = {
       ]
     },
     {
+      "id": "scene-5b",
+      "ariaLabel": "Scene 8: The Threshold of the Gate",
+      "title": "The Threshold of the Gate",
+      "blocks": [
+        {
+          "t": "kicker",
+          "html": "Scene 8 of 10"
+        },
+        {
+          "t": "h2",
+          "html": "The Threshold of the Gate"
+        },
+        {
+          "t": "p",
+          "html": "After Hajar died, Ibrahim would visit Makkah to see the family he had left. Twice he found Ismail away, and twice he tested the household by its gratitude. The first wife complained of hardship and poverty; his parting message, carried to Ismail, was to change the threshold of his gate, and Ismail understood: divorce her. The second wife praised Allah for their prosperity; his message was to keep the threshold firm, and Ismail understood: keep her. A father&rsquo;s wisdom, a son&rsquo;s obedience, and a household weighed by thankfulness.",
+          "cls": "dropcap"
+        },
+        {
+          "t": "hadith",
+          "text": "&ldquo;After Ishmael&rsquo;s mother had died, Abraham came after Ishmael&rsquo;s marriage in order to see his family that he had left before &hellip; she replied, &lsquo;We are living in misery; we are living in hardship and destitution,&rsquo; complaining to him. He said, &lsquo;When your husband returns, convey my salutation to him and tell him to change the threshold of the gate (of his house).&rsquo; &hellip; Ishmael said, &lsquo;It was my father, and he has ordered me to divorce you. Go back to your family.&rsquo; &hellip; She replied, &lsquo;We are prosperous and well-off (i.e. we have everything in abundance).&rsquo; Then she thanked Allah &hellip; &lsquo;When your husband comes, give my regards to him and tell him that he should keep firm the threshold of his gate.&rsquo; &hellip; Ishmael said, &lsquo;It was my father, and you are the threshold (of the gate). He has ordered me to keep you with me.&rsquo;&rdquo;",
+          "narrator": "Narrated by Ibn Abbas (RA)",
+          "href": "https://sunnah.com/bukhari:3364",
+          "label": "Sahih al-Bukhari 3364 &middot; sunnah.com"
+        }
+      ]
+    },
+    {
       "id": "scene-6",
-      "ariaLabel": "Scene 6: Among the Patient",
+      "ariaLabel": "Scene 9: Among the Patient",
       "title": "Among the Patient",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 6 of 7"
+          "html": "Scene 9 of 10"
         },
         {
           "t": "h2",
@@ -207,12 +294,12 @@ export const chapter = {
     },
     {
       "id": "scene-7",
-      "ariaLabel": "Scene 7: The Father of the Arabs",
+      "ariaLabel": "Scene 10: The Father of the Arabs",
       "title": "The Father of the Arabs",
       "blocks": [
         {
           "t": "kicker",
-          "html": "Scene 7 of 7"
+          "html": "Scene 10 of 10"
         },
         {
           "t": "h2",
@@ -233,13 +320,15 @@ export const chapter = {
       ]
     }
   ],
-  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Maryam (19:54-55), Surah As-Saffat (37:101-107), Surah Ibrahim (14:37-39), Surah Al-Baqarah (2:127), Surah Al-Anbiya (21:85-86) and Surah Sad (38:48), with one narration from Sahih Muslim. What revelation does not give, we do not add: the Quran does not name the son in the dream passage, does not detail the years in the valley, and does not describe the building of the House beyond the raising of its foundations. Later books add such details, but they are not established in the Quran or authentic hadith, so this chapter leaves them out, and ends where revelation ends.</p>\n      ",
+  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Maryam (19:54-55), Surah As-Saffat (37:101-107), Surah Ibrahim (14:37-39), Surah Al-Baqarah (2:127), Surah Al-Anbiya (21:85-86) and Surah Sad (38:48), with narrations from Sahih Muslim (2276) and Sahih al-Bukhari (3352, 3364, 3365), and one labeled panel from Tafsir Ibn Kathir (on 37:101-113), clearly marked as commentary, not revelation. What revelation does not give, we do not add: the Quran does not name the son in the dream passage, does not detail the years in the valley, and does not describe the building of the House beyond the raising of its foundations. Later books add such details, but they are not established in the Quran or authentic hadith, so this chapter leaves them out, and ends where revelation ends.</p>\n      ",
   "lessons": [
     "<strong>Keep your promise.</strong> The Quran&rsquo;s portrait of Ismail begins there; a kept promise is a prophetic trait. (Quran 19:54)",
     "<strong>“Do as you are commanded.”</strong> No hesitation, no bargaining: submission is the whole answer. (Quran 37:102)",
     "<strong>Enjoin prayer and zakah on your household.</strong> His care began at home. (Quran 19:55)",
     "<strong>Build with your father.</strong> Stone by stone and prayer by prayer, righteous work is worship. (Quran 2:127)",
-    "<strong>Patience admits into mercy.</strong> He is named among the patient, and the patient are admitted. (Quran 21:85-86)"
+    "<strong>Patience admits into mercy.</strong> He is named among the patient, and the patient are admitted. (Quran 21:85-86)",
+    "<strong>Gratitude is the threshold.</strong> Ibrahim tested Ismail&rsquo;s household by one measure: thankfulness. The complaining wife was sent away; the grateful one was kept. Blessings stay where gratitude lives.",
+    "<strong>They never touched divination.</strong> The Prophet (ﷺ) testified that neither Ibrahim nor Ismail ever practiced divination by arrows. Purity of worship leaves no room for fortune-telling."
   ],
   "quiz": [
     {
@@ -291,6 +380,26 @@ export const chapter = {
       ],
       "answer": 0,
       "ref": "Sahih Muslim 2276"
+    },
+    {
+      "q": "What did Hajar say when Ibrahim left her in Allah&rsquo;s care?",
+      "options": [
+        "I am satisfied to be with Allah",
+        "Take us with you",
+        "Leave us more water"
+      ],
+      "answer": 0,
+      "ref": "Sahih al-Bukhari 3365"
+    },
+    {
+      "q": "What did the Prophet (ﷺ) say about Ibrahim and Ismail and divining arrows?",
+      "options": [
+        "Neither of them ever practiced divination by arrows",
+        "They used arrows only for hunting",
+        "They permitted it for others"
+      ],
+      "answer": 0,
+      "ref": "Sahih al-Bukhari 3352"
     }
   ],
   "prevNext": [
