@@ -1234,10 +1234,18 @@ body::after {
 .lineage-wrap { overflow-x: hidden; margin: 0 -8px; padding: 8px; }
 .lineage-wrap svg { max-width: 100%; }
 .lt-name { font-family: Georgia, 'Times New Roman', serif; font-size: 15px; fill: var(--ink); }
+.lt-plain { font-size: 14px; fill: var(--ink-soft); }
+.lt-card-name { font-size: 14.5px; font-weight: bold; fill: #fffdf4; }
+.lt-card-honor { fill: #d9bd76; }
+.lineage-legend { display: flex; flex-wrap: wrap; gap: 6px 22px; justify-content: center; align-items: center; margin: 18px 0 4px; font-size: 14px; color: var(--ink-soft); }
+.lineage-legend .sw { display: inline-block; width: 12px; height: 12px; border-radius: 3px; margin-right: 7px; vertical-align: -1px; }
+.lineage-legend .sw-green { background: #236b3d; }
+.lineage-legend .sw-gold { background: #a87f2a; }
+.lineage-legend .legend-note { font-style: italic; }
 .lt-honor { font-family: Georgia, 'Times New Roman', serif; font-size: 11.5px; letter-spacing: 0.06em; fill: var(--gold-deep); }
 .lt-seal-name { fill: #fffdf4; font-weight: bold; }
 .lt-seal-honor { fill: #f3e6c3; }
-.lt-link { stroke: var(--gold); stroke-width: 2; fill: none; opacity: 0.85; }
+.lt-link { stroke: #2e7d43; stroke-width: 2; fill: none; opacity: 0.9; }
 @media (max-width: 700px) {
   .lt-name { font-size: 14px; }
 }

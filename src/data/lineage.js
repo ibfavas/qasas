@@ -3,16 +3,16 @@
    Names follow the transmitted genealogies (Ibn Hisham, Ibn Kathir). */
 
 export const lineageSpine = [
-  { n: 'Adam', h: '(AS)', p: 1 },
+  { n: 'Adam', ar: 'آدم', h: '(AS)', p: 1, num: 1 },
   { n: 'Shith' },
   { n: 'Anush' },
   { n: 'Qaynan' },
   { n: 'Mahlayil' },
   { n: 'Yarid' },
-  { n: 'Idris', h: '(AS)', p: 1 },
+  { n: 'Idris', ar: 'إدريس', h: '(AS)', p: 1, num: 2 },
   { n: 'Matushalakh' },
   { n: 'Lamak' },
-  { n: 'Nuh', h: '(AS)', p: 1 },
+  { n: 'Nuh', ar: 'نوح', h: '(AS)', p: 1, num: 3 },
   { n: 'Sam' },
   { n: 'Arfakhshad' },
   { n: 'Shalikh' },
@@ -22,8 +22,8 @@ export const lineageSpine = [
   { n: 'Sarugh' },
   { n: 'Nahur' },
   { n: 'Azar (Tarih)' },
-  { n: 'Ibrahim', h: '(AS)', p: 1 },
-  { n: 'Ismail', h: '(AS)', p: 1 },
+  { n: 'Ibrahim', ar: 'إبراهيم', h: '(AS)', p: 1, num: 5 },
+  { n: 'Ismail', ar: 'إسماعيل', h: '(AS)', p: 1, num: 6 },
   { n: 'Nabit' },
   { n: 'Yashjub' },
   { n: "Ya'rub" },
@@ -52,18 +52,18 @@ export const lineageSpine = [
   { n: 'Hashim' },
   { n: 'Abdul Muttalib' },
   { n: 'Abdullah' },
-  { n: 'Muhammad', h: 'ﷺ', p: 2 },
+  { n: 'Muhammad', ar: 'محمد', h: 'ﷺ', p: 2, num: 10 },
 ];
 
 /* Branches: { from } names a spine node; nodes extend from it in order. */
 export const lineageBranches = [
-  { from: 'Shalikh', nodes: [{ n: 'Hud', h: '(AS)', p: 1 }] },
+  { from: 'Shalikh', nodes: [{ n: 'Hud', ar: 'هود', h: '(AS)', p: 1, num: 4 }] },
   {
     from: 'Ibrahim',
     nodes: [
-      { n: 'Ishaq', h: '(AS)', p: 1 },
-      { n: 'Yaqub', h: '(AS)', p: 1 },
-      { n: 'Yusuf', h: '(AS)', p: 1 },
+      { n: 'Ishaq', ar: 'إسحاق', h: '(AS)', p: 1, num: 7 },
+      { n: 'Yaqub', ar: 'يعقوب', h: '(AS)', p: 1, num: 8 },
+      { n: 'Yusuf', ar: 'يوسف', h: '(AS)', p: 1, num: 9 },
     ],
   },
 ];
