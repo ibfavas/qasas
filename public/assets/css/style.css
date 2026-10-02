@@ -1273,7 +1273,7 @@ body::after {
 .nav-pill-inner { max-width: 1120px; margin: 0 auto; background: #fffdf4; border: 1px solid #e5d9b8; border-radius: 999px; box-shadow: 0 4px 18px rgba(74, 58, 32, 0.16); display: flex; align-items: center; gap: 6px; padding: 7px 30px 7px 16px; }
 .brand-pill { min-height: 0; }
 .brand-pill img { width: 30px; height: 30px; border-radius: 50%; display: block; }
-.nav-links-pill { gap: 0; margin-left: 20px; flex: 1; justify-content: flex-start; }
+.nav-links-pill { gap: 0; margin-left: 20px; flex: 1; justify-content: space-between; }
 .nav-links-pill li { display: flex; align-items: center; }
 .nav-links-pill li + li::before { content: "\00B7"; color: var(--gold-deep); font-size: 1.25rem; margin: 0 12px; line-height: 1; }
 .nav-links-pill a { font-family: Georgia, 'Times New Roman', serif; font-size: 0.95rem; letter-spacing: 0.02em; color: var(--ink-soft); text-decoration: none; padding: 8px 12px; min-height: 0; border-bottom: none; border-radius: 999px; }
