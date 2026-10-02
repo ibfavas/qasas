@@ -73,7 +73,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Prophet (ﷺ) gathered Ya&lsquo;qub&rsquo;s whole line into a single sentence of honor. Asked who was the most honorable among people, he answered: Yusuf, the prophet of Allah, son of the prophet of Allah, son of the prophet of Allah, son of the Khalil of Allah. Yusuf son of Ya&lsquo;qub son of Ishaq son of Ibrahim: four generations, each a prophet, each the son of a prophet.",
+          "html": "The Prophet (ﷺ) gathered Ya&lsquo;qub’s whole line into a single sentence of honor. Asked who was the most honorable among people, he answered: Yusuf, the prophet of Allah, son of the prophet of Allah, son of the prophet of Allah, son of the Khalil of Allah. Yusuf son of Ya&lsquo;qub son of Ishaq son of Ibrahim: four generations, each a prophet, each the son of a prophet.",
           "cls": "dropcap"
         },
         {
@@ -175,8 +175,8 @@ export const chapter = {
     },
     {
       "id": "scene-5",
-      "ariaLabel": "Scene 6: Do Not Despair of Allah&rsquo;s Relief",
-      "title": "Do Not Despair of Allah&rsquo;s Relief",
+      "ariaLabel": "Scene 6: Do Not Despair of Allah’s Relief",
+      "title": "Do Not Despair of Allah’s Relief",
       "blocks": [
         {
           "t": "kicker",
@@ -184,7 +184,7 @@ export const chapter = {
         },
         {
           "t": "h2",
-          "html": "Do Not Despair of Allah&rsquo;s Relief"
+          "html": "Do Not Despair of Allah’s Relief"
         },
         {
           "t": "p",
@@ -282,7 +282,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "At the end of his life, his concern was the same as his forefathers&rsquo;: the religion of his children. &ldquo;O my sons, indeed Allah has chosen for you this religion, so do not die except while you are Muslims.&rdquo; And when death approached, he asked: &ldquo;What will you worship after me?&rdquo; They answered: your God and the God of your fathers, Abraham and Ishmael and Isaac, one God.",
+          "html": "At the end of his life, his concern was the same as his forefathers’: the religion of his children. &ldquo;O my sons, indeed Allah has chosen for you this religion, so do not die except while you are Muslims.&rdquo; And when death approached, he asked: &ldquo;What will you worship after me?&rdquo; They answered: your God and the God of your fathers, Abraham and Ishmael and Isaac, one God.",
           "cls": "dropcap"
         },
         {
@@ -315,7 +315,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Quran&rsquo;s closing verdict on him stands beside his father and grandfather: &ldquo;those of strength and [religious] vision,&rdquo; chosen for remembrance of the Home of the Hereafter, among the chosen and outstanding.",
+          "html": "The Quran’s closing verdict on him stands beside his father and grandfather: &ldquo;those of strength and [religious] vision,&rdquo; chosen for remembrance of the Home of the Hereafter, among the chosen and outstanding.",
           "cls": "dropcap"
         },
         {

@@ -64,7 +64,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Ibrahim himself counted it among Allah&rsquo;s greatest favors: &ldquo;Praise to Allah, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication.&rdquo;",
+          "html": "Ibrahim himself counted it among Allah’s greatest favors: &ldquo;Praise to Allah, who has granted to me in old age Ishmael and Isaac. Indeed, my Lord is the Hearer of supplication.&rdquo;",
           "cls": "dropcap"
         },
         {
@@ -91,7 +91,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Quran names Ishaq&rsquo;s station directly: &ldquo;a prophet from among the righteous.&rdquo; And Allah blessed him and Isaac. Blessed, and a source of blessing.",
+          "html": "The Quran names Ishaq’s station directly: &ldquo;a prophet from among the righteous.&rdquo; And Allah blessed him and Isaac. Blessed, and a source of blessing.",
           "cls": "dropcap"
         },
         {
@@ -111,8 +111,8 @@ export const chapter = {
     },
     {
       "id": "scene-3b",
-      "ariaLabel": "Scene 4: Under His Father&rsquo;s Protection",
-      "title": "Under His Father&rsquo;s Protection",
+      "ariaLabel": "Scene 4: Under His Father’s Protection",
+      "title": "Under His Father’s Protection",
       "blocks": [
         {
           "t": "kicker",
@@ -120,11 +120,11 @@ export const chapter = {
         },
         {
           "t": "h2",
-          "html": "Under His Father&rsquo;s Protection"
+          "html": "Under His Father’s Protection"
         },
         {
           "t": "p",
-          "html": "Ibrahim&rsquo;s love for his two sons had a daily form. The Prophet (ﷺ) said that Ibrahim used to seek Allah&rsquo;s refuge for Ismail and Isaac, and the Prophet himself used the same words for his own grandsons, Hasan and Husayn: &ldquo;O Allah! I seek refuge with Your perfect words from every devil and from poisonous pests and from every evil, harmful, envious eye.&rdquo; The father of nations, praying protection over both his boys with the perfect words of Allah.",
+          "html": "Ibrahim’s love for his two sons had a daily form. The Prophet (ﷺ) said that Ibrahim used to seek Allah&rsquo;s refuge for Ismail and Isaac, and the Prophet himself used the same words for his own grandsons, Hasan and Husayn: &ldquo;O Allah! I seek refuge with Your perfect words from every devil and from poisonous pests and from every evil, harmful, envious eye.&rdquo; The father of nations, praying protection over both his boys with the perfect words of Allah.",
           "cls": "dropcap"
         },
         {
@@ -178,7 +178,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "When Ibrahim left his people&rsquo;s idols, Allah gave him a new family of prophets: Isaac and Jacob, each made a prophet, all guided.",
+          "html": "When Ibrahim left his people’s idols, Allah gave him a new family of prophets: Isaac and Jacob, each made a prophet, all guided.",
           "cls": "dropcap"
         },
         {

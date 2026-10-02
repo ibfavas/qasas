@@ -39,7 +39,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "After Nuh, mankind began again. The new people were &lsquo;Ad, and the messenger sent to them was one of their own: Hud, their brother. Not a stranger, not an angel, but a man of their own blood, speaking their own tongue. His call was the call every messenger carried: worship Allah alone, for you have no deity other than Him.",
+          "html": "After Nuh, mankind began again. The new people were ‘Ad, and the messenger sent to them was one of their own: Hud, their brother. Not a stranger, not an angel, but a man of their own blood, speaking their own tongue. His call was the call every messenger carried: worship Allah alone, for you have no deity other than Him.",
           "cls": "dropcap"
         },
         {
@@ -80,7 +80,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "&lsquo;Ad were not a weak people, and the Quran never pretends they were. They raised Iram of the lofty pillars, the likes of which had never been created in the land. They built monuments on every high place for amusement, and fortresses as if they would live forever, and when they seized their enemies they seized as tyrants. Their strength went to their heads until it became their creed: &ldquo;Who is greater than us in strength?&rdquo; The Quran answers its own question: the One who created them was greater than them in strength. Power had become their god, and they worshipped it openly.",
+          "html": "‘Ad were not a weak people, and the Quran never pretends they were. They raised Iram of the lofty pillars, the likes of which had never been created in the land. They built monuments on every high place for amusement, and fortresses as if they would live forever, and when they seized their enemies they seized as tyrants. Their strength went to their heads until it became their creed: &ldquo;Who is greater than us in strength?&rdquo; The Quran answers its own question: the One who created them was greater than them in strength. Power had become their god, and they worshipped it openly.",
           "cls": "dropcap"
         },
         {
@@ -291,8 +291,8 @@ export const chapter = {
     },
     {
       "id": "scene-7b",
-      "ariaLabel": "Scene 8: It May Be as the People of &lsquo;Ad Said",
-      "title": "It May Be as the People of &lsquo;Ad Said",
+      "ariaLabel": "Scene 8: It May Be as the People of ‘Ad Said",
+      "title": "It May Be as the People of ‘Ad Said",
       "blocks": [
         {
           "t": "kicker",
@@ -300,11 +300,11 @@ export const chapter = {
         },
         {
           "t": "h2",
-          "html": "It May Be as the People of &lsquo;Ad Said"
+          "html": "It May Be as the People of ‘Ad Said"
         },
         {
           "t": "p",
-          "html": "Centuries later, the Prophet Muhammad (ﷺ) himself would remember &lsquo;Ad when the sky darkened. Aisha (RA) narrates that whenever the wind blew stormy, he would pray: O Allah, I ask You for its good and the good within it and the good it was sent with, and I seek refuge in You from its evil and the evil within it and the evil it was sent with. When thunder and lightning filled the sky, his face changed color; he went out and came back in, restless, until the rain fell and relief showed on his face. Aisha asked him why, and he said: it may be, O Aisha, as the people of &lsquo;Ad said when they saw the cloud coming toward their valley: this is a cloud bringing us rain. The Prophet (ﷺ) feared the sky because he knew what it had once hidden.",
+          "html": "Centuries later, the Prophet Muhammad (ﷺ) himself would remember ‘Ad when the sky darkened. Aisha (RA) narrates that whenever the wind blew stormy, he would pray: O Allah, I ask You for its good and the good within it and the good it was sent with, and I seek refuge in You from its evil and the evil within it and the evil it was sent with. When thunder and lightning filled the sky, his face changed color; he went out and came back in, restless, until the rain fell and relief showed on his face. Aisha asked him why, and he said: it may be, O Aisha, as the people of &lsquo;Ad said when they saw the cloud coming toward their valley: this is a cloud bringing us rain. The Prophet (ﷺ) feared the sky because he knew what it had once hidden.",
           "cls": "dropcap"
         },
         {
@@ -331,7 +331,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The wind that destroyed &lsquo;Ad has a name in the Prophet&rsquo;s (ﷺ) teaching, and so does the wind that helped him. Ibn Abbas (RA) narrates that the Prophet (ﷺ) said he was helped by the east wind, and &lsquo;Ad were destroyed by the west wind. Two winds, two histories: one carrying victory to the believers, the other carrying ruin to those who asked who was greater than them in strength. The same sky, the same air; what differs is what it is sent with.",
+          "html": "The wind that destroyed ‘Ad has a name in the Prophet&rsquo;s (ﷺ) teaching, and so does the wind that helped him. Ibn Abbas (RA) narrates that the Prophet (ﷺ) said he was helped by the east wind, and &lsquo;Ad were destroyed by the west wind. Two winds, two histories: one carrying victory to the believers, the other carrying ruin to those who asked who was greater than them in strength. The same sky, the same air; what differs is what it is sent with.",
           "cls": "dropcap"
         },
         {
