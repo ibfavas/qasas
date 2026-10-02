@@ -2,12 +2,12 @@
 
 export function HomeNav() {
   return (
-    <nav className="nav nav-centered" aria-label="Main navigation">
-      <div className="nav-inner">
-        <a className="brand" href="index.html" aria-label="Qasas ul-Huda home">
-          <img src="assets/brand/logo.png" alt="" width="40" height="40" />
+    <nav className="nav nav-pill" aria-label="Main navigation">
+      <div className="nav-pill-inner">
+        <a className="brand brand-pill" href="index.html" aria-label="Qasas ul-Huda home">
+          <img src="assets/brand/logo.png" alt="" width="30" height="30" />
         </a>
-        <ul className="nav-links">
+        <ul className="nav-links nav-links-pill">
           <li><a href="index.html">Home</a></li>
           <li><a href="asma-ul-husna/">Asma ul Husna</a></li>
           <li><a href="#timeline">Prophets</a></li>
@@ -20,13 +20,12 @@ export function HomeNav() {
 
 export function StoryNav() {
   return (
-    <nav className="nav" aria-label="Main navigation">
-      <div className="nav-inner">
-        <a className="brand" href="../index.html" aria-label="Qasas ul-Huda home">
-          <img src="../assets/brand/logo.png" alt="" width="26" height="26" />
-          Qasas ul-Huda
+    <nav className="nav nav-pill" aria-label="Main navigation">
+      <div className="nav-pill-inner">
+        <a className="brand brand-pill" href="../index.html" aria-label="Qasas ul-Huda home">
+          <img src="../assets/brand/logo.png" alt="" width="30" height="30" />
         </a>
-        <ul className="nav-links">
+        <ul className="nav-links nav-links-pill">
           <li><a href="../asma-ul-husna/">Asma ul Husna</a></li>
           <li><a href="../index.html#timeline">Prophets</a></li>
           <li><a href="../index.html#foundations">Foundations</a></li>
