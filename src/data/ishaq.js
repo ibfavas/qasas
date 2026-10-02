@@ -260,7 +260,7 @@ export const chapter = {
       ]
     }
   ],
-  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Hud (11:71), Surah Ibrahim (14:39), Surah As-Saffat (37:112-113), Surah Al-Anbiya (21:72-73), Surah Maryam (19:49), Surah Al-An’am (6:84), Surah Yusuf (12:38) and Surah Al-Baqarah (2:133), with narrations from Sahih al-Bukhari (3371, 3382), and one labeled panel from Tafsir Ibn Kathir (on 37:112), clearly marked as commentary, not revelation. What revelation does not give, we do not add: the Quran tells little of Ishaq&rsquo;s own days beyond his birth, his prophethood, and his blessing. Later books add such details, but they are not established in the Quran or authentic hadith, so this chapter leaves them out, and ends where revelation ends.</p>\n      ",
+  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Hud (11:71), Surah Ibrahim (14:39), Surah As-Saffat (37:112-113), Surah Al-Anbiya (21:72-73), Surah Maryam (19:49), Surah Al-An’am (6:84), Surah Yusuf (12:38) and Surah Al-Baqarah (2:133), with narrations from Sahih al-Bukhari (3371, 3382), and one labeled panel from Tafsir Ibn Kathir (on 37:112), clearly marked as commentary, not revelation.</p>\n      ",
   "lessons": [
     "<strong>Allah gives when the means are gone.</strong> Old parents, an impossible birth: the tidings came anyway. (Quran 11:71)",
     "<strong>Righteousness runs in the household of the righteous.</strong> Ishaq and Yaqub: all of them made righteous. (Quran 21:72)",

@@ -323,7 +323,7 @@ export const chapter = {
       ]
     }
   ],
-  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Maryam (19:54-55), Surah As-Saffat (37:101-107), Surah Ibrahim (14:37-39), Surah Al-Baqarah (2:127), Surah Al-Anbiya (21:85-86) and Surah Sad (38:48), with narrations from Sahih Muslim (2276) and Sahih al-Bukhari (3352, 3364, 3365), and one labeled panel from Tafsir Ibn Kathir (on 37:101-113), clearly marked as commentary, not revelation. What revelation does not give, we do not add: the Quran does not name the son in the dream passage, does not detail the years in the valley, and does not describe the building of the House beyond the raising of its foundations. Later books add such details, but they are not established in the Quran or authentic hadith, so this chapter leaves them out, and ends where revelation ends.</p>\n      ",
+  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Maryam (19:54-55), Surah As-Saffat (37:101-107), Surah Ibrahim (14:37-39), Surah Al-Baqarah (2:127), Surah Al-Anbiya (21:85-86) and Surah Sad (38:48), with narrations from Sahih Muslim (2276) and Sahih al-Bukhari (3352, 3364, 3365), and one labeled panel from Tafsir Ibn Kathir (on 37:101-113), clearly marked as commentary, not revelation.</p>\n      ",
   "lessons": [
     "<strong>Keep your promise.</strong> The Quran&rsquo;s portrait of Ismail begins there; a kept promise is a prophetic trait. (Quran 19:54)",
     "<strong>“Do as you are commanded.”</strong> No hesitation, no bargaining: submission is the whole answer. (Quran 37:102)",

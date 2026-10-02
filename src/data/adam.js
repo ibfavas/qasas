@@ -418,7 +418,6 @@ export const chapter = {
       ]
     }
   ],
-  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>The Quran does not give the names of Adam&rsquo;s two sons, so we do not name them here. <span class=\"tradition\">Tradition note:</span> later tradition gives them names, but that is not from the Quran. Nor do these passages tell us more about Adam&rsquo;s life on earth, how long he lived or what his days held, so this chapter ends where the verses end, without adding what we do not know.</p>\n      ",
   "lessons": [
     "<strong>Knowledge is an honour.</strong> Allah taught Adam the names, all of them, and raised him by it. (Quran 2:31)",
     "<strong>Pride destroys.</strong> Iblis refused a single command out of arrogance and became of the disbelievers. (Quran 2:34, 7:12)",

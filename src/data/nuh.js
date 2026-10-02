@@ -499,7 +499,7 @@ export const chapter = {
       ]
     }
   ],
-  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Nuh (71), Surah Hud (11:25-49), Surah Al-Mu’minun (23:23-30) and Surah Al-Qamar (54:9-17), with two narrations from Sahih al-Bukhari. What revelation does not give, we do not add: the Quran gives no measurements of the ship, no names for his sons, no description of what the &ldquo;oven&rdquo; (at-tannur) was or where it stood, no number for the believers beyond &ldquo;a few,&rdquo; and no account of how long the flood lasted. Later books and other scriptures add such details, but they are not established in the Quran or authentic hadith, so this chapter leaves them out, and ends where revelation ends.</p>\n      ",
+  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Nuh (71), Surah Hud (11:25-49), Surah Al-Mu’minun (23:23-30) and Surah Al-Qamar (54:9-17), with two narrations from Sahih al-Bukhari.</p>\n      ",
   "lessons": [
     "<strong>Call for centuries; despair for none.</strong> Nuh invited his people night and day for nine hundred and fifty years. Da’wah is measured in sincerity, not in speed of results. (Quran 29:14)",
     "<strong>Truth is not a numbers game.</strong> After nine centuries, &ldquo;none had believed with him, except a few,&rdquo; and the few were the saved. (Quran 11:40)",

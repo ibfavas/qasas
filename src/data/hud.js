@@ -435,7 +435,7 @@ export const chapter = {
       ]
     }
   ],
-  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Hud (11:50-60), Surah Al-A’raf (7:65-72), Surah Ash-Shu’ara (26:123-140) and Surah Al-Ahqaf (46:21-26), with narrations from Sahih al-Bukhari (1035) and Sahih Muslim (899b, 900a), and one labeled panel from Tafsir Ibn Kathir (on 89:7-8), clearly marked as commentary, not revelation. What revelation does not give, we do not add: the Quran does not locate Iram, does not name the believers saved with Hud, and does not describe the wind beyond what is quoted here. Later books add such details, but they are not established in the Quran or authentic hadith, so this chapter leaves them out, and ends where revelation ends.</p>\n      ",
+  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Hud (11:50-60), Surah Al-A’raf (7:65-72), Surah Ash-Shu’ara (26:123-140) and Surah Al-Ahqaf (46:21-26), with narrations from Sahih al-Bukhari (1035) and Sahih Muslim (899b, 900a), and one labeled panel from Tafsir Ibn Kathir (on 89:7-8), clearly marked as commentary, not revelation.</p>\n      ",
   "lessons": [
     "<strong>Strength without guidance is a liability.</strong> &lsquo;Ad asked &ldquo;who is greater than us in strength?&rdquo;, and the wind answered. (Quran 41:15)",
     "<strong>The sincere caller wants nothing back.</strong> &ldquo;I do not ask you for it any reward&rdquo;: da’wah that seeks no wage cannot be bought and cannot be silenced. (Quran 11:51)",

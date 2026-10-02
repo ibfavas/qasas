@@ -329,7 +329,7 @@ export const chapter = {
       ]
     }
   ],
-  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Yusuf (12:4-100), Surah Al-Baqarah (2:132-133), Surah Sad (38:45-47), Surah Hud (11:71) and Surah Maryam (19:49), with narrations from Sahih al-Bukhari (1283, 3382), and two labeled panels from Tafsir Ibn Kathir (on 12:86-87 and 2:132), clearly marked as commentary, not revelation. What revelation does not give, we do not add: the Quran does not name the brothers, does not detail the years of separation, and does not describe the reunion beyond what is quoted. Later books add such details, but they are not established in the Quran or authentic hadith, so this chapter leaves them out, and ends where revelation ends.</p>\n      ",
+  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Yusuf (12:4-100), Surah Al-Baqarah (2:132-133), Surah Sad (38:45-47), Surah Hud (11:71) and Surah Maryam (19:49), with narrations from Sahih al-Bukhari (1283, 3382), and two labeled panels from Tafsir Ibn Kathir (on 12:86-87 and 2:132), clearly marked as commentary, not revelation.</p>\n      ",
   "lessons": [
     "<strong>Guard the gift.</strong> “Do not relate your vision to your brothers”: not every blessing is for every ear. (Quran 12:5)",
     "<strong>“Patience is most fitting.”</strong> Say it at the first stroke of calamity, and say it still at the hundredth. (Quran 12:18)",

@@ -86,7 +86,7 @@ export function ChapterPage({ chapter }) {
               ))}
             </nav>
             <Scenes scenes={chapter.scenes} />
-            <NoteCard noteHtml={chapter.note} />
+            {chapter.note && <NoteCard noteHtml={chapter.note} />}
             <Lessons lessons={chapter.lessons} />
             <Quiz questions={chapter.quiz} />
           </div>

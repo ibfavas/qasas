@@ -343,7 +343,7 @@ export const chapter = {
       ]
     }
   ],
-  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Hud (11:77-83), Surah Al-A’raf (7:80-84), Surah Ash-Shu’ara (26:165-173), Surah Al-Ankabut (29:26-29), Surah An-Naml (27:54-58), Surah Al-Anbiya (21:74-75), Surah Al-Qamar (54:33-34) and Surah At-Tahrim (66:10), with narrations from Sahih al-Bukhari (3372, 3375), and two labeled panels from Tafsir Ibn Kathir (on 11:77-78 and 66:10), clearly marked as commentary, not revelation. What revelation does not give, we do not add: the Quran does not name the towns, does not number the angels who came to him, and does not describe his life after the punishment. Later books add such details, but they are not established in the Quran or authentic hadith, so this chapter leaves them out, and ends where revelation ends.</p>\n      ",
+  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Hud (11:77-83), Surah Al-A’raf (7:80-84), Surah Ash-Shu’ara (26:165-173), Surah Al-Ankabut (29:26-29), Surah An-Naml (27:54-58), Surah Al-Anbiya (21:74-75), Surah Al-Qamar (54:33-34) and Surah At-Tahrim (66:10), with narrations from Sahih al-Bukhari (3372, 3375), and two labeled panels from Tafsir Ibn Kathir (on 11:77-78 and 66:10), clearly marked as commentary, not revelation.</p>\n      ",
   "lessons": [
     "<strong>Name the sin plainly.</strong> Lut did not soften the charge; clarity is mercy before the punishment comes. (Quran 7:80)",
     "<strong>Mockery of purity is a dying people’s joke.</strong> “Evict them, they keep themselves pure”: when virtue becomes the crime, ruin is near. (Quran 7:82)",

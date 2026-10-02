@@ -157,7 +157,7 @@ export const chapter = {
       ]
     }
   ],
-  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>The Quran mentions Idris in only two passages: Surah Maryam 19:56-57 and Surah Al-Anbiya 21:85-86. It tells us nothing of his people, his call, or the details of his life. <span class=\"tradition\">Tradition note:</span> later books report many details about him, but they are not from the Quran or from authentic hadith, so this chapter ends where revelation ends, without adding what we do not know.</p>\n      ",
+  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>The Quran mentions Idris in only two passages: Surah Maryam 19:56-57 and Surah Al-Anbiya 21:85-86.</p>\n      ",
   "lessons": [
     "<strong>Truthfulness is the prophets&rsquo; mark.</strong> Before anything else is said of Idris, Allah calls him a man of truth, and then a prophet. (Quran 19:56)",
     "<strong>Allah raises the righteous.</strong> High station is not taken; it is given: &ldquo;We raised him to a high station.&rdquo; (Quran 19:57)",

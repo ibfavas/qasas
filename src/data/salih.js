@@ -428,7 +428,7 @@ export const chapter = {
       ]
     }
   ],
-  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Hud (11:61-68), Surah Al-A’raf (7:73-79), Surah Ash-Shu’ara (26:141-159), Surah An-Naml (27:45-53) and Surah Ash-Shams (91:11-15), with narrations from Sahih al-Bukhari (433, 3377, 3378, 3379), and one labeled panel from Tafsir Ibn Kathir (on 7:73), clearly marked as commentary, not revelation. What revelation does not give, we do not add: the Quran does not describe how the she-camel appeared, does not name the nine plotters, and does not detail the three days of waiting. Later books add such details, but they are not established in the Quran or authentic hadith, so this chapter leaves them out, and ends where revelation ends.</p>\n      ",
+  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Hud (11:61-68), Surah Al-A’raf (7:73-79), Surah Ash-Shu’ara (26:141-159), Surah An-Naml (27:45-53) and Surah Ash-Shams (91:11-15), with narrations from Sahih al-Bukhari (433, 3377, 3378, 3379), and one labeled panel from Tafsir Ibn Kathir (on 7:73), clearly marked as commentary, not revelation.</p>\n      ",
   "lessons": [
     "<strong>Never demand a sign you will resent.</strong> Thamud asked for the camel, then killed it. Asking Allah for proof while planning disobedience is a doomed bargain. (Quran 17:59, 91:14)",
     "<strong>Blessings come with boundaries.</strong> Her day, your day: the arrangement was simple. Keeping Allah’s limits is part of gratitude. (Quran 26:155)",

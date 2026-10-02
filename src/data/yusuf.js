@@ -481,7 +481,7 @@ export const chapter = {
       ]
     }
   ],
-  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter comes from Surah Yusuf itself, which tells the story from beginning to end. We have not named the king, the brothers, or others beyond what the verses say, and we have added no details the Quran does not give. Where the Quran is silent, this chapter is silent too.</p>\n      ",
+  "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter comes from Surah Yusuf itself, which tells the story from beginning to end. </p>\n      ",
   "lessons": [
     "<strong>Dreams can carry truth.</strong> The boy’s dream came true years later, exactly as Allah willed. (Quran 12:4, 12:100)",
     "<strong>Choose hardship over sin.</strong> Yusuf preferred prison to disobeying Allah. (Quran 12:33)",
