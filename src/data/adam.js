@@ -67,7 +67,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "Then Allah fashioned Adam. When He had proportioned him, shaped and formed him, and breathed into him of His created soul, He commanded the angels: fall down to him in prostration. This was no ordinary creature. Allah Himself gave him form, and breathed into him, and ordered the angels to honour him."
+          "html": "Then Allah fashioned Adam (AS). When He had proportioned him, shaped and formed him, and breathed into him of His created soul, He commanded the angels: fall down to him in prostration. This was no ordinary creature. Allah Himself gave him form, and breathed into him, and ordered the angels to honour him."
         },
         {
           "t": "verse",
@@ -101,7 +101,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "Allah gave Adam something no other creature had been given: knowledge. He taught Adam the names, all of them. Then He showed them to the angels and challenged them: &ldquo;Inform Me of the names of these, if you are truthful.&rdquo; Before any test of strength, mankind was honoured with a test of knowledge."
+          "html": "Allah gave Adam (AS) something no other creature had been given: knowledge. He taught Adam (AS) the names, all of them. Then He showed them to the angels and challenged them: &ldquo;Inform Me of the names of these, if you are truthful.&rdquo; Before any test of strength, mankind was honoured with a test of knowledge."
         },
         {
           "t": "verse",
@@ -136,8 +136,8 @@ export const chapter = {
           "arabic": "وَإِذْ قُلْنَا لِلْمَلَـٰٓئِكَةِ ٱسْجُدُوا۟ لِـَٔادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ أَبَىٰ وَٱسْتَكْبَرَ وَكَانَ مِنَ ٱلْكَـٰفِرِينَ",
           "translation": "And [mention] when We said to the angels, &quot;Prostrate before Adam&quot;; so they prostrated, except for Iblees. He refused and was arrogant and became of the disbelievers.",
           "citation": "Surah 2 &middot; Verse 34 &middot; Saheeh International"
-        },
-              ]
+        }
+      ]
     },
     {
       "id": "scene-5",
@@ -155,7 +155,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "Allah asked Iblis directly: &ldquo;What prevented you from prostrating when I commanded you?&rdquo; Iblis did not ask forgiveness. He argued: &ldquo;I am better than him. You created me from fire and created him from clay.&rdquo; He measured himself against Adam by what they were made of, and decided the fire in him was nobler than the clay in Adam."
+          "html": "Allah asked Iblis directly: &ldquo;What prevented you from prostrating when I commanded you?&rdquo; Iblis did not ask forgiveness. He argued: &ldquo;I am better than him. You created me from fire and created him from clay.&rdquo; He measured himself against Adam (AS) by what they were made of, and decided the fire in him was nobler than the clay in Adam (AS)."
         },
         {
           "t": "verse",
@@ -182,7 +182,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "Allah settled Adam in Paradise, with his wife beside him. &ldquo;O Adam,&rdquo; He said, &ldquo;dwell, you and your wife, in Paradise, and eat from wherever you will, but do not approach this tree, lest you be among the wrongdoers.&rdquo; One tree. One command. Everything else in the Garden was theirs."
+          "html": "Allah settled Adam (AS) in Paradise, with his wife beside him. &ldquo;O Adam,&rdquo; He said, &ldquo;dwell, you and your wife, in Paradise, and eat from wherever you will, but do not approach this tree, lest you be among the wrongdoers.&rdquo; One tree. One command. Everything else in the Garden was theirs."
         },
         {
           "t": "verse",
@@ -190,8 +190,8 @@ export const chapter = {
           "arabic": "وَيَـٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ فَكُلَا مِنْ حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَـٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّـٰلِمِينَ",
           "translation": "And &quot;O Adam, dwell, you and your wife, in Paradise and eat from wherever you will but do not approach this tree, lest you be among the wrongdoers.&quot;",
           "citation": "Surah 7 &middot; Verse 19 &middot; Saheeh International"
-        },
-              ]
+        }
+      ]
     },
     {
       "id": "scene-7",
@@ -209,7 +209,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "But there was an enemy waiting: the same Iblis who had refused to bow. Satan whispered to Adam and his wife, hoping to expose what had been hidden from them. And he lied to them about their Lord: &ldquo;Your Lord only forbade you this tree so that you would not become angels, or become of the immortal.&rdquo; The first lie ever told to mankind was about Allah."
+          "html": "But there was an enemy waiting: the same Iblis who had refused to bow. Satan whispered to Adam (AS) and his wife, hoping to expose what had been hidden from them. And he lied to them about their Lord: &ldquo;Your Lord only forbade you this tree so that you would not become angels, or become of the immortal.&rdquo; The first lie ever told to mankind was about Allah."
         },
         {
           "t": "verse",
@@ -263,7 +263,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "Adam and his wife did not run from their mistake, and they did not blame each other. They turned back to their Lord with words He Himself taught them: &ldquo;Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.&rdquo; And Allah, the Accepting of Repentance, the Merciful, accepted their repentance. This is the difference between Adam and Iblis: one disobeyed and returned, the other disobeyed and argued."
+          "html": "Adam (AS) and his wife did not run from their mistake, and they did not blame each other. They turned back to their Lord with words He Himself taught them: &ldquo;Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.&rdquo; And Allah, the Accepting of Repentance, the Merciful, accepted their repentance. This is the difference between Adam (AS) and Iblis: one disobeyed and returned, the other disobeyed and argued."
         },
         {
           "t": "verse",
@@ -312,8 +312,8 @@ export const chapter = {
           "narrator": "Abu Huraira reported Allah&#x27;s Messenger (peace be upon him) as saying",
           "href": "https://sunnah.com/muslim:854",
           "label": "Sahih Muslim 854a &middot; sunnah.com"
-        },
-              ]
+        }
+      ]
     },
     {
       "id": "scene-11",
@@ -331,7 +331,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "On earth, Adam&rsquo;s story continued through his children. The Quran tells us, in truth, the story of Adam&rsquo;s two sons. Each of them made an offering to Allah. It was accepted from one of them, but not from the other. The one whose offering was refused said: &ldquo;I will surely kill you.&rdquo; The righteous one answered: &ldquo;Indeed, Allah only accepts from the righteous.&rdquo; And even with his brother&rsquo;s hand raised against him, he refused to raise his own: &ldquo;I shall not raise my hand toward you to kill you. Indeed, I fear Allah, Lord of the worlds.&rdquo;"
+          "html": "On earth, Adam (AS)&rsquo;s story continued through his children. The Quran tells us, in truth, the story of Adam (AS)&rsquo;s two sons. Each of them made an offering to Allah. It was accepted from one of them, but not from the other. The one whose offering was refused said: &ldquo;I will surely kill you.&rdquo; The righteous one answered: &ldquo;Indeed, Allah only accepts from the righteous.&rdquo; And even with his brother&rsquo;s hand raised against him, he refused to raise his own: &ldquo;I shall not raise my hand toward you to kill you. Indeed, I fear Allah, Lord of the worlds.&rdquo;"
         },
         {
           "t": "verse",
@@ -346,8 +346,8 @@ export const chapter = {
           "arabic": "لَئِنۢ بَسَطتَ إِلَىَّ يَدَكَ لِتَقْتُلَنِى مَآ أَنَا۠ بِبَاسِطٍ يَدِىَ إِلَيْكَ لِأَقْتُلَكَ ۖ إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَـٰلَمِينَ",
           "translation": "If you should raise your hand toward me to kill me - I shall not raise my hand toward you to kill you. Indeed, I fear Allāh, Lord of the worlds.",
           "citation": "Surah 5 &middot; Verse 28 &middot; Saheeh International"
-        },
-              ]
+        }
+      ]
     },
     {
       "id": "scene-12",
@@ -387,8 +387,8 @@ export const chapter = {
           "narrator": "Narrated &#x27;Abdullah",
           "href": "https://sunnah.com/bukhari:3335",
           "label": "Sahih al-Bukhari 3335 &middot; sunnah.com"
-        },
-              ]
+        }
+      ]
     },
     {
       "id": "scene-13",
@@ -419,14 +419,14 @@ export const chapter = {
     }
   ],
   "lessons": [
-    "<strong>Knowledge is an honour.</strong> Allah taught Adam the names, all of them, and raised him by it. (Quran 2:31)",
+    "<strong>Knowledge is an honour.</strong> Allah taught Adam (AS) the names, all of them, and raised him by it. (Quran 2:31)",
     "<strong>Pride destroys.</strong> Iblis refused a single command out of arrogance and became of the disbelievers. (Quran 2:34, 7:12)",
-    "<strong>Repentance is always open.</strong> Allah Himself taught Adam the words of repentance, and He accepted it. (Quran 2:37)",
+    "<strong>Repentance is always open.</strong> Allah Himself taught Adam (AS) the words of repentance, and He accepted it. (Quran 2:37)",
     "<strong>One life is sacred.</strong> Killing a single innocent soul is like killing all of mankind. (Quran 5:32)"
   ],
   "quiz": [
     {
-      "q": "What did Allah teach Adam?",
+      "q": "What did Allah teach Adam (AS)?",
       "options": [
         "The names, all of them",
         "How to build a house",
@@ -436,7 +436,7 @@ export const chapter = {
       "ref": "Quran 2:31"
     },
     {
-      "q": "Who refused to prostrate before Adam?",
+      "q": "Who refused to prostrate before Adam (AS)?",
       "options": [
         "One of the angels",
         "Iblis",

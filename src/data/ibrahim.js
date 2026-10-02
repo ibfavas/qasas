@@ -49,7 +49,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Ibrahim was born into a house of idols; the Quran names his father Azar. Yet the same Quran introduces the son with honor: a man of truth and a prophet. A son of an idolater, chosen for truth. His first recorded words to his father are gentle, not mocking: &ldquo;O my father, why do you worship that which does not hear and does not see and will not benefit you at all?&rdquo; The idols could not hear the question. Ibrahim could not stop asking it.",
+          "html": "Ibrahim (AS) was born into a house of idols; the Quran names his father Azar. Yet the same Quran introduces the son with honor: a man of truth and a prophet. A son of an idolater, chosen for truth. His first recorded words to his father are gentle, not mocking: &ldquo;O my father, why do you worship that which does not hear and does not see and will not benefit you at all?&rdquo; The idols could not hear the question. Ibrahim (AS) could not stop asking it.",
           "cls": "dropcap"
         },
         {
@@ -90,7 +90,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Before he debated his people, the Quran shows Ibrahim alone under the open sky, reasoning his way to Allah. Night fell, and he saw a star. This is my lord, he said. But when it set, he said: &ldquo;I like not those that set.&rdquo; The moon rose, brighter than the star. This is my lord. It set as well. Then the sun, greatest of all: this is my lord, this is greater. And it set like the rest. Then the conclusion, words the Muslims still pray with: &ldquo;Indeed, I have turned my face toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allah.&rdquo;",
+          "html": "Before he debated his people, the Quran shows Ibrahim (AS) alone under the open sky, reasoning his way to Allah. Night fell, and he saw a star. This is my lord, he said. But when it set, he said: &ldquo;I like not those that set.&rdquo; The moon rose, brighter than the star. This is my lord. It set as well. Then the sun, greatest of all: this is my lord, this is greater. And it set like the rest. Then the conclusion, words the Muslims still pray with: &ldquo;Indeed, I have turned my face toward He who created the heavens and the earth, inclining toward truth, and I am not of those who associate others with Allah.&rdquo;",
           "cls": "dropcap"
         },
         {
@@ -124,7 +124,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "&ldquo;What are these statues to which you are devoted?&rdquo; That was his question to his father and his people, and their answer was custom: we found our fathers worshipping them. Custom is not proof. So Ibrahim swore an oath over their gods, that he would plan against their idols once they had turned and gone away. When the town emptied for its festival, he entered and made them into fragments, except the largest, that they might return to it and question. One idol stood whole among the ruins. The argument was about to make itself.",
+          "html": "&ldquo;What are these statues to which you are devoted?&rdquo; That was his question to his father and his people, and their answer was custom: we found our fathers worshipping them. Custom is not proof. So Ibrahim (AS) swore an oath over their gods, that he would plan against their idols once they had turned and gone away. When the town emptied for its festival, he entered and made them into fragments, except the largest, that they might return to it and question. One idol stood whole among the ruins. The argument was about to make itself.",
           "cls": "dropcap"
         },
         {
@@ -158,7 +158,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "They returned to wreckage. Who has done this to our gods? Suspicion fell on the young man who had argued against them, and they dragged him before the crowd, demanding to know whether Ibrahim had done this to their gods. His answer turned their own logic into a blade: &ldquo;Rather, this, the largest of them, did it, so ask them, if they should [be able to] speak.&rdquo; They knew the idols could not speak. Then do you worship, instead of Allah, what can neither benefit nor harm you? They had no answer left but force.",
+          "html": "They returned to wreckage. Who has done this to our gods? Suspicion fell on the young man who had argued against them, and they dragged him before the crowd, demanding to know whether Ibrahim (AS) had done this to their gods. His answer turned their own logic into a blade: &ldquo;Rather, this, the largest of them, did it, so ask them, if they should [be able to] speak.&rdquo; They knew the idols could not speak. Then do you worship, instead of Allah, what can neither benefit nor harm you? They had no answer left but force.",
           "cls": "dropcap"
         },
         {
@@ -199,7 +199,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Burn him, they said, and support your gods. Elsewhere the Quran gives their verdict in fewer words: kill him or burn him. They built the fire, a furnace, and threw him in. And then the command that undoes every tyrant&rsquo;s arithmetic: Allah told the fire to be coolness and safety upon Ibrahim. The fire meant to consume him became his shelter, and they became the greatest losers. Allah saved him from the fire, and in that are signs for a people who believe.",
+          "html": "Burn him, they said, and support your gods. Elsewhere the Quran gives their verdict in fewer words: kill him or burn him. They built the fire, a furnace, and threw him in. And then the command that undoes every tyrant&rsquo;s arithmetic: Allah told the fire to be coolness and safety upon Ibrahim (AS). The fire meant to consume him became his shelter, and they became the greatest losers. Allah saved him from the fire, and in that are signs for a people who believe.",
           "cls": "dropcap"
         },
         {
@@ -240,7 +240,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Prophet (ﷺ) told us that Ibrahim uttered only three such statements in his whole life, and two of them were for Allah&rsquo;s sake. When his people invited him to their festival of idols, he said he was sick, and stayed behind. And when they demanded who had shattered their gods, he pointed at the largest idol and said it had done it, forcing them to admit their gods could not even speak. Three statements, each a weapon against falsehood, each uttered for Allah alone.",
+          "html": "The Prophet (ﷺ) told us that Ibrahim (AS) uttered only three such statements in his whole life, and two of them were for Allah&rsquo;s sake. When his people invited him to their festival of idols, he said he was sick, and stayed behind. And when they demanded who had shattered their gods, he pointed at the largest idol and said it had done it, forcing them to admit their gods could not even speak. Three statements, each a weapon against falsehood, each uttered for Allah alone.",
           "cls": "dropcap"
         },
         {
@@ -267,7 +267,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Power itself was next to argue. A king to whom Allah had given kingship disputed with Ibrahim about his Lord. My Lord gives life and causes death, Ibrahim said. I give life and cause death, the king answered, confusing a pardon with creation. Ibrahim gave him a sign no throne could counterfeit: &ldquo;Indeed, Allah brings up the sun from the east, so bring it up from the west.&rdquo; The king was silenced on the spot.",
+          "html": "Power itself was next to argue. A king to whom Allah had given kingship disputed with Ibrahim (AS) about his Lord. My Lord gives life and causes death, Ibrahim (AS) said. I give life and cause death, the king answered, confusing a pardon with creation. Ibrahim (AS) gave him a sign no throne could counterfeit: &ldquo;Indeed, Allah brings up the sun from the east, so bring it up from the west.&rdquo; The king was silenced on the spot.",
           "cls": "dropcap"
         },
         {
@@ -294,7 +294,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "He could not remain among them. Allah delivered him and Lut to the land He had blessed. Lut believed in him, and Ibrahim spoke the words of every emigrant for Allah&rsquo;s sake: &ldquo;Indeed, I will emigrate to [the service of] my Lord.&rdquo;",
+          "html": "He could not remain among them. Allah delivered him and Lut (AS) to the land He had blessed. Lut (AS) believed in him, and Ibrahim (AS) spoke the words of every emigrant for Allah&rsquo;s sake: &ldquo;Indeed, I will emigrate to [the service of] my Lord.&rdquo;",
           "cls": "dropcap"
         },
         {
@@ -328,7 +328,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "On their journeys, Ibrahim and Sarah passed through the territory of a tyrant, and word reached him that a man traveled with a woman of striking beauty. He summoned Ibrahim and asked who she was. &ldquo;She is my sister,&rdquo; Ibrahim said, meaning his sister in faith, and he told Sarah the truth of their situation: there were no believers on the face of the earth except the two of them. When the tyrant seized Sarah, his hand stiffened and he was confounded. Twice he tried, twice his hand seized, and twice Sarah&rsquo;s prayer to Allah released him. Defeated, he gave Hajar to Sarah as a servant. Sarah returned to find Ibrahim standing in prayer. Allah had spoiled the plot of the tyrant, and from that day Hajar, the mother of the Arabs, entered Ibrahim&rsquo;s household.",
+          "html": "On their journeys, Ibrahim (AS) and Sarah passed through the territory of a tyrant, and word reached him that a man traveled with a woman of striking beauty. He summoned Ibrahim (AS) and asked who she was. &ldquo;She is my sister,&rdquo; Ibrahim (AS) said, meaning his sister in faith, and he told Sarah the truth of their situation: there were no believers on the face of the earth except the two of them. When the tyrant seized Sarah, his hand stiffened and he was confounded. Twice he tried, twice his hand seized, and twice Sarah&rsquo;s prayer to Allah released him. Defeated, he gave Hajar to Sarah as a servant. Sarah returned to find Ibrahim (AS) standing in prayer. Allah had spoiled the plot of the tyrant, and from that day Hajar, the mother of the Arabs, entered Ibrahim (AS)&rsquo;s household.",
           "cls": "dropcap"
         },
         {
@@ -355,7 +355,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "In his new land, honored guests came to his door. Angels, though he did not know it yet, and he hurried to bring them a roasted calf. But their hands did not reach for the food, and fear entered his heart, until they said: fear not, we have been sent to the people of Lut. Then the tidings his household had waited a lifetime for: his wife was standing, and she smiled. Allah gave them good tidings of Ishaq, and after Ishaq, Yaqub. She cried out in disbelief: &ldquo;Woe to me! Shall I give birth while I am an old woman and this, my husband, is an old man?&rdquo; Are you amazed at the decree of Allah, they said. The mercy of Allah and His blessings upon you, people of the house.",
+          "html": "In his new land, honored guests came to his door. Angels, though he did not know it yet, and he hurried to bring them a roasted calf. But their hands did not reach for the food, and fear entered his heart, until they said: fear not, we have been sent to the people of Lut (AS). Then the tidings his household had waited a lifetime for: his wife was standing, and she smiled. Allah gave them good tidings of Ishaq (AS), and after Ishaq (AS), Yaqub (AS). She cried out in disbelief: &ldquo;Woe to me! Shall I give birth while I am an old woman and this, my husband, is an old man?&rdquo; Are you amazed at the decree of Allah, they said. The mercy of Allah and His blessings upon you, people of the house.",
           "cls": "dropcap"
         },
         {
@@ -416,7 +416,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Years later, by Allah&rsquo;s command, Ibrahim brought Hajar and her infant Ismail to a barren valley near the site of the Ka&lsquo;bah, left them a bag of dates and a skin of water, and turned to go. Hajar followed, calling after him: where are you going, leaving us in a valley with no person and nothing? He did not look back. Then she asked the question that changed everything: has Allah ordered you to do this? Yes, he said. &ldquo;Then He will not neglect us,&rdquo; she answered, and returned to her child. When the water ran out and the infant tossed in agony, she could not bear to watch. She climbed Safa, looking for anyone, then ran through the valley to Marwa, and back again, seven times. That desperate run is why the pilgrims walk between Safa and Marwa to this day. On the last circuit she heard a voice, and saw an angel digging at the spot of Zamzam with his heel until water flowed. &ldquo;Don&rsquo;t be afraid of being neglected,&rdquo; the angel told her, &ldquo;for this is the House of Allah which will be built by this boy and his father, and Allah never neglects His people.&rdquo; The Jurhum tribe saw birds circling water where no water should be, and they settled beside her, and Ismail grew up learning Arabic among them.",
+          "html": "Years later, by Allah&rsquo;s command, Ibrahim (AS) brought Hajar and her infant Ismail (AS) to a barren valley near the site of the Ka&lsquo;bah, left them a bag of dates and a skin of water, and turned to go. Hajar followed, calling after him: where are you going, leaving us in a valley with no person and nothing? He did not look back. Then she asked the question that changed everything: has Allah ordered you to do this? Yes, he said. &ldquo;Then He will not neglect us,&rdquo; she answered, and returned to her child. When the water ran out and the infant tossed in agony, she could not bear to watch. She climbed Safa, looking for anyone, then ran through the valley to Marwa, and back again, seven times. That desperate run is why the pilgrims walk between Safa and Marwa to this day. On the last circuit she heard a voice, and saw an angel digging at the spot of Zamzam with his heel until water flowed. &ldquo;Don&rsquo;t be afraid of being neglected,&rdquo; the angel told her, &ldquo;for this is the House of Allah which will be built by this boy and his father, and Allah never neglects His people.&rdquo; The Jurhum tribe saw birds circling water where no water should be, and they settled beside her, and Ismail (AS) grew up learning Arabic among them.",
           "cls": "dropcap"
         },
         {
@@ -450,7 +450,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Allah tried Ibrahim with commands, and he fulfilled them, and the reward was a station given to no other: a leader for the people. His greatest work was the House. With his son Ismail he raised its foundations, and as they built they prayed: &ldquo;Our Lord, accept [this] from us. Indeed, You are the Hearing, the Knowing.&rdquo; Make us Muslims, they prayed, and from our descendants a Muslim nation, and send among them a messenger who will recite Your verses. That prayer was answered in Muhammad (ﷺ). And the valley itself was his trust: make this city secure, and keep me and my sons away from worshipping idols.",
+          "html": "Allah tried Ibrahim (AS) with commands, and he fulfilled them, and the reward was a station given to no other: a leader for the people. His greatest work was the House. With his son Ismail (AS) he raised its foundations, and as they built they prayed: &ldquo;Our Lord, accept [this] from us. Indeed, You are the Hearing, the Knowing.&rdquo; Make us Muslims, they prayed, and from our descendants a Muslim nation, and send among them a messenger who will recite Your verses. That prayer was answered in Muhammad (ﷺ). And the valley itself was his trust: make this city secure, and keep me and my sons away from worshipping idols.",
           "cls": "dropcap"
         },
         {
@@ -505,7 +505,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Submission, for Ibrahim, was not a young man&rsquo;s zeal that fades with age. At eighty years old, he circumcised himself with an adze, a carpenter&rsquo;s tool. No anesthesia of excuses, no delay of decades: when the command came, the Friend of Allah obeyed with his own hands.",
+          "html": "Submission, for Ibrahim (AS), was not a young man&rsquo;s zeal that fades with age. At eighty years old, he circumcised himself with an adze, a carpenter&rsquo;s tool. No anesthesia of excuses, no delay of decades: when the command came, the Friend of Allah obeyed with his own hands.",
           "cls": "dropcap"
         },
         {
@@ -532,7 +532,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then came the hardest command of all. He had prayed for a righteous child, and Allah gave him good tidings of a forbearing boy. When the boy reached the age of exertion, Ibrahim told him plainly of the dream: I must sacrifice you, so see what you think. The boy answered with his father&rsquo;s own submission: &ldquo;O my father, do as you are commanded. You will find me, if Allah wills, of the steadfast.&rdquo; And when they had both submitted, the call came: O Ibrahim, you have fulfilled the vision. This was the clear trial, and Allah ransomed him with a great sacrifice. And the Quran bids him peace forever.",
+          "html": "Then came the hardest command of all. He had prayed for a righteous child, and Allah gave him good tidings of a forbearing boy. When the boy reached the age of exertion, Ibrahim (AS) told him plainly of the dream: I must sacrifice you, so see what you think. The boy answered with his father&rsquo;s own submission: &ldquo;O my father, do as you are commanded. You will find me, if Allah wills, of the steadfast.&rdquo; And when they had both submitted, the call came: O Ibrahim (AS), you have fulfilled the vision. This was the clear trial, and Allah ransomed him with a great sacrifice. And the Quran bids him peace forever.",
           "cls": "dropcap"
         },
         {
@@ -565,7 +565,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "On the question of which son was to be sacrificed, Ibn Kathir concludes it was Ismail. His reasoning follows the order of the surah itself: the glad tidings of the forbearing boy come first, then the story of the sacrifice, and only afterward the glad tidings of Isaac. The sacrifice, in his reading, belongs to the son of the first tidings, and the elder son at that, which makes the test the more exquisite. This is the scholar&rsquo;s conclusion, not the Quran&rsquo;s wording: the Quran itself does not name the son.",
+          "text": "On the question of which son was to be sacrificed, Ibn Kathir concludes it was Ismail (AS). His reasoning follows the order of the surah itself: the glad tidings of the forbearing boy come first, then the story of the sacrifice, and only afterward the glad tidings of Isaac. The sacrifice, in his reading, belongs to the son of the first tidings, and the elder son at that, which makes the test the more exquisite. This is the scholar&rsquo;s conclusion, not the Quran&rsquo;s wording: the Quran itself does not name the son.",
           "href": "https://quran.com/37:102/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 37:101-113 &middot; quran.com"
         }
@@ -586,7 +586,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Quran gathers his whole life into a single verdict: a leader, devoutly obedient to Allah, inclining toward truth, grateful for His favors, chosen and guided to a straight path. He belongs to no faction and no age: neither Jew nor Christian, but one inclining toward truth, a Muslim. And yet the man who guided nations could not guide his own father. The Prophet (ﷺ) said that on the Day of Resurrection Ibrahim will meet Azar and plead for him, and the answer will be final.",
+          "html": "The Quran gathers his whole life into a single verdict: a leader, devoutly obedient to Allah, inclining toward truth, grateful for His favors, chosen and guided to a straight path. He belongs to no faction and no age: neither Jew nor Christian, but one inclining toward truth, a Muslim. And yet the man who guided nations could not guide his own father. The Prophet (ﷺ) said that on the Day of Resurrection Ibrahim (AS) will meet Azar and plead for him, and the answer will be final.",
           "cls": "dropcap"
         },
         {
@@ -627,7 +627,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The honors of Ibrahim do not end with his life. The Prophet (ﷺ) said that on the Day of Resurrection, when mankind is gathered barefooted, naked, and uncircumcised, the first to be dressed will be Ibrahim. The Friend of Allah, honored first among all the gathered.",
+          "html": "The honors of Ibrahim (AS) do not end with his life. The Prophet (ﷺ) said that on the Day of Resurrection, when mankind is gathered barefooted, naked, and uncircumcised, the first to be dressed will be Ibrahim (AS). The Friend of Allah, honored first among all the gathered.",
           "cls": "dropcap"
         },
         {
@@ -654,7 +654,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "On that same Day, when the sun draws near and distress becomes unbearable, mankind will seek someone to intercede with Allah. They will come to Ibrahim, Allah&rsquo;s Khalil from among the people of the earth, and plead with him. And Ibrahim will decline. He will remember his three statements and say only: myself, myself, myself. Go to someone else; go to Musa. Even the greatest of men will be occupied with themselves on that Day, except the one to whom Allah grants intercession.",
+          "html": "On that same Day, when the sun draws near and distress becomes unbearable, mankind will seek someone to intercede with Allah. They will come to Ibrahim (AS), Allah&rsquo;s Khalil from among the people of the earth, and plead with him. And Ibrahim (AS) will decline. He will remember his three statements and say only: myself, myself, myself. Go to someone else; go to Musa (AS). Even the greatest of men will be occupied with themselves on that Day, except the one to whom Allah grants intercession.",
           "cls": "dropcap"
         },
         {
@@ -681,7 +681,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "And there is a meeting the Prophet (ﷺ) himself described. On the night of the ascension, he was taken up through the heavens, greeting Adam, then Isa and Yahya, then Yusuf, Idris, Harun, and Musa, until the seventh heaven. There he met Ibrahim, who welcomed him: you are welcomed, O son and a Prophet. And there he was shown al-Bayt al-Ma&lsquo;mur, the Frequented House, where seventy thousand angels pray every day and never return. The Friend of Allah, stationed at the highest heaven, beside the house of the angels.",
+          "html": "And there is a meeting the Prophet (ﷺ) himself described. On the night of the ascension, he was taken up through the heavens, greeting Adam (AS), then Isa (AS) and Yahya (AS), then Yusuf (AS), Idris (AS), Harun (AS), and Musa (AS), until the seventh heaven. There he met Ibrahim (AS), who welcomed him: you are welcomed, O son and a Prophet. And there he was shown al-Bayt al-Ma&lsquo;mur, the Frequented House, where seventy thousand angels pray every day and never return. The Friend of Allah, stationed at the highest heaven, beside the house of the angels.",
           "cls": "dropcap"
         },
         {
@@ -707,7 +707,7 @@ export const chapter = {
   ],
   "quiz": [
     {
-      "q": "What did Ibrahim ask his father Azar?",
+      "q": "What did Ibrahim (AS) ask his father Azar?",
       "options": [
         "Do you take idols as deities?",
         "Who built this temple?",
@@ -717,7 +717,7 @@ export const chapter = {
       "ref": "Quran 6:74"
     },
     {
-      "q": "What did Ibrahim say when the star set?",
+      "q": "What did Ibrahim (AS) say when the star set?",
       "options": [
         "I like not those that set",
         "The night is too dark",
@@ -727,7 +727,7 @@ export const chapter = {
       "ref": "Quran 6:76"
     },
     {
-      "q": "What did Allah command the fire to become for Ibrahim?",
+      "q": "What did Allah command the fire to become for Ibrahim (AS)?",
       "options": [
         "Coolness and safety",
         "Smoke and ashes",
@@ -737,7 +737,7 @@ export const chapter = {
       "ref": "Quran 21:69"
     },
     {
-      "q": "What did Ibrahim ask Allah to show him?",
+      "q": "What did Ibrahim (AS) ask Allah to show him?",
       "options": [
         "How He gives life to the dead",
         "The face of the angel",
@@ -747,17 +747,17 @@ export const chapter = {
       "ref": "Quran 2:260"
     },
     {
-      "q": "With whom did Ibrahim raise the foundations of the House?",
+      "q": "With whom did Ibrahim (AS) raise the foundations of the House?",
       "options": [
-        "Ismail",
-        "Ishaq",
-        "Lut"
+        "Ismail (AS)",
+        "Ishaq (AS)",
+        "Lut (AS)"
       ],
       "answer": 0,
       "ref": "Quran 2:127"
     },
     {
-      "q": "With what did Allah ransom Ibrahim’s son?",
+      "q": "With what did Allah ransom Ibrahim (AS)’s son?",
       "options": [
         "A great sacrifice",
         "A flock of sheep",
@@ -767,7 +767,7 @@ export const chapter = {
       "ref": "Quran 37:107"
     },
     {
-      "q": "What did Hajar say when Ibrahim told her Allah had ordered him to leave them in the valley?",
+      "q": "What did Hajar say when Ibrahim (AS) told her Allah had ordered him to leave them in the valley?",
       "options": [
         "Then He will not neglect us",
         "Take us back with you",

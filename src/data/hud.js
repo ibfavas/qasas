@@ -41,7 +41,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "After Nuh, mankind began again. The new people were ‘Ad, and the messenger sent to them was one of their own: Hud, their brother. Not a stranger, not an angel, but a man of their own blood, speaking their own tongue. His call was the call every messenger carried: worship Allah alone, for you have no deity other than Him.",
+          "html": "After Nuh (AS), mankind began again. The new people were ‘Ad, and the messenger sent to them was one of their own: Hud (AS), their brother. Not a stranger, not an angel, but a man of their own blood, speaking their own tongue. His call was the call every messenger carried: worship Allah alone, for you have no deity other than Him.",
           "cls": "dropcap"
         },
         {
@@ -108,7 +108,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "On &ldquo;Iram, of the pillars,&rdquo; Ibn Kathir records that &lsquo;Ad were the mightiest people of their time in physique and power, living in houses raised on firm pillars. He prefers the view that &ldquo;the like of which were never created in the land&rdquo; refers to the tribe&rsquo;s unmatched strength itself, calling the pillars-only reading weak. And Hud reminded them to spend that strength in obedience to the Lord who gave it. This is commentary, not revelation.",
+          "text": "On &ldquo;Iram, of the pillars,&rdquo; Ibn Kathir records that &lsquo;Ad were the mightiest people of their time in physique and power, living in houses raised on firm pillars. He prefers the view that &ldquo;the like of which were never created in the land&rdquo; refers to the tribe&rsquo;s unmatched strength itself, calling the pillars-only reading weak. And Hud (AS) reminded them to spend that strength in obedience to the Lord who gave it. This is commentary, not revelation.",
           "href": "https://quran.com/89:7/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 89:7-8 &middot; quran.com"
         }
@@ -129,7 +129,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Into this pride walked Hud, with nothing to sell and nothing to gain. He asked no wage; his reward was with the One who created him. A warner who wants nothing from you can only want good for you. And his offer was mercy dressed as simplicity: ask forgiveness and repent, and the sky would open with rain, and strength would be added to their strength. Forgiveness first, then rain, then more power: even their beloved strength would grow, if only it bowed. He told them plainly that he was a trustworthy messenger and a trustworthy adviser, and he asked only that they fear Allah and obey him.",
+          "html": "Into this pride walked Hud (AS), with nothing to sell and nothing to gain. He asked no wage; his reward was with the One who created him. A warner who wants nothing from you can only want good for you. And his offer was mercy dressed as simplicity: ask forgiveness and repent, and the sky would open with rain, and strength would be added to their strength. Forgiveness first, then rain, then more power: even their beloved strength would grow, if only it bowed. He told them plainly that he was a trustworthy messenger and a trustworthy adviser, and he asked only that they fear Allah and obey him.",
           "cls": "dropcap"
         },
         {
@@ -245,7 +245,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Hud did not flinch. His answer is one of the boldest speeches in the Quran. He called Allah to witness that he was free of their idols, and then he dared them all at once: plot against him, all together, and give him no respite. One man against a mighty nation, asking for no delay and granting none. His confidence had a source, and he named it: his trust was in Allah, his Lord and theirs, who holds every creature by its forelock. &ldquo;There is no creature but that He holds its forelock.&rdquo; Every tyrant&rsquo;s forehead is in Allah&rsquo;s grip. What is there to fear?",
+          "html": "Hud (AS) did not flinch. His answer is one of the boldest speeches in the Quran. He called Allah to witness that he was free of their idols, and then he dared them all at once: plot against him, all together, and give him no respite. One man against a mighty nation, asking for no delay and granting none. His confidence had a source, and he named it: his trust was in Allah, his Lord and theirs, who holds every creature by its forelock. &ldquo;There is no creature but that He holds its forelock.&rdquo; Every tyrant&rsquo;s forehead is in Allah&rsquo;s grip. What is there to fear?",
           "cls": "dropcap"
         },
         {
@@ -401,7 +401,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "When the command came, Allah saved Hud and those who believed with him, by mercy, from a harsh punishment. The believers, unnamed and uncounted, were carried through the very wind that erased the mighty. As for &lsquo;Ad: they denied the signs of their Lord, disobeyed His messengers, and followed the order of every obstinate tyrant. They were followed in this world with a curse, and on the Day of Resurrection. Unquestionably, &lsquo;Ad denied their Lord; then away with &lsquo;Ad, the people of Hud. Of all their pillars and fortresses, only this remained: nothing could be seen except their dwellings.",
+          "html": "When the command came, Allah saved Hud (AS) and those who believed with him, by mercy, from a harsh punishment. The believers, unnamed and uncounted, were carried through the very wind that erased the mighty. As for &lsquo;Ad: they denied the signs of their Lord, disobeyed His messengers, and followed the order of every obstinate tyrant. They were followed in this world with a curse, and on the Day of Resurrection. Unquestionably, &lsquo;Ad denied their Lord; then away with &lsquo;Ad, the people of Hud (AS). Of all their pillars and fortresses, only this remained: nothing could be seen except their dwellings.",
           "cls": "dropcap"
         },
         {
@@ -439,16 +439,16 @@ export const chapter = {
   "lessons": [
     "<strong>Strength without guidance is a liability.</strong> &lsquo;Ad asked &ldquo;who is greater than us in strength?&rdquo;, and the wind answered. (Quran 41:15)",
     "<strong>The sincere caller wants nothing back.</strong> &ldquo;I do not ask you for it any reward&rdquo;: da’wah that seeks no wage cannot be bought and cannot be silenced. (Quran 11:51)",
-    "<strong>Forgiveness brings rain.</strong> Hud tied istighfar to provision: repent, and the sky opens. (Quran 11:52)",
+    "<strong>Forgiveness brings rain.</strong> Hud (AS) tied istighfar to provision: repent, and the sky opens. (Quran 11:52)",
     "<strong>Fear no coalition.</strong> &ldquo;Plot against me all together, then do not give me respite&rdquo;: one man relying on Allah outmatches a nation. (Quran 11:55)",
     "<strong>Punishment can arrive disguised as mercy.</strong> They cheered a cloud that was their destruction, not every relief is a relief. (Quran 46:24)",
     "<strong>Arrogance ends in erasure.</strong> &ldquo;Nothing could be seen except their dwellings&rdquo;: the mighty &lsquo;Ad became a moral in stone. (Quran 46:25)",
     "<strong>The Prophet (ﷺ) feared the wind.</strong> When the sky darkened he prayed for its good and sought refuge from its evil, remembering what the wind once carried to &lsquo;Ad. The believer sees a sign where others see weather.",
-    "<strong>Strength is a trust, not a creed.</strong> &lsquo;Ad&rsquo;s might was real, but they worshipped it. Ibn Kathir notes Hud called them to spend their strength in obedience to the One who gave it."
+    "<strong>Strength is a trust, not a creed.</strong> &lsquo;Ad&rsquo;s might was real, but they worshipped it. Ibn Kathir notes Hud (AS) called them to spend their strength in obedience to the One who gave it."
   ],
   "quiz": [
     {
-      "q": "To which people was Hud sent?",
+      "q": "To which people was Hud (AS) sent?",
       "options": [
         "&lsquo;Ad",
         "Thamud",
@@ -468,7 +468,7 @@ export const chapter = {
       "ref": "Quran 41:15"
     },
     {
-      "q": "What did Hud ask as payment for his message?",
+      "q": "What did Hud (AS) ask as payment for his message?",
       "options": [
         "Nothing",
         "Gold",

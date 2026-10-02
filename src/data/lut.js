@@ -39,7 +39,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Lut believed in Ibrahim, and when Ibrahim emigrated, Lut went with him. The Quran gives Lut his due in two words: judgement and knowledge. He was sent to cities sunk in wickedness, a people of evil, defiantly disobedient. And Allah saved him from them and admitted him into His mercy, for he was of the righteous.",
+          "html": "Lut (AS) believed in Ibrahim (AS), and when Ibrahim (AS) emigrated, Lut (AS) went with him. The Quran gives Lut (AS) his due in two words: judgement and knowledge. He was sent to cities sunk in wickedness, a people of evil, defiantly disobedient. And Allah saved him from them and admitted him into His mercy, for he was of the righteous.",
           "cls": "dropcap"
         },
         {
@@ -141,7 +141,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "They even dared the punishment to come. You approach men, obstruct the road, and commit every evil in your meetings, he told them. And their answer was a challenge: &ldquo;Bring us the punishment of Allah, if you should be of the truthful.&rdquo; Lut turned to his Lord with the du&lsquo;a of the overwhelmed: &ldquo;My Lord, save me and my family from [the consequence of] what they do.&rdquo;",
+          "html": "They even dared the punishment to come. You approach men, obstruct the road, and commit every evil in your meetings, he told them. And their answer was a challenge: &ldquo;Bring us the punishment of Allah, if you should be of the truthful.&rdquo; Lut (AS) turned to his Lord with the du&lsquo;a of the overwhelmed: &ldquo;My Lord, save me and my family from [the consequence of] what they do.&rdquo;",
           "cls": "dropcap"
         },
         {
@@ -175,7 +175,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then the guests came. When the angels came to Lut, he was anguished for them and felt great discomfort. &ldquo;This is a trying day,&rdquo; he said. He knew his people. They came hastening, as they always hastened toward evil, and he pleaded: O my people, these are my daughters; they are purer for you. So fear Allah and do not disgrace me concerning my guests. Is there not among you a man of reason? They answered with shameless candor: you know we have no desire for your daughters, and you know what we want. Alone against a mob, he cried out: &ldquo;If only I had against you some power or could take refuge in a strong support.&rdquo;",
+          "html": "Then the guests came. When the angels came to Lut (AS), he was anguished for them and felt great discomfort. &ldquo;This is a trying day,&rdquo; he said. He knew his people. They came hastening, as they always hastened toward evil, and he pleaded: O my people, these are my daughters; they are purer for you. So fear Allah and do not disgrace me concerning my guests. Is there not among you a man of reason? They answered with shameless candor: you know we have no desire for your daughters, and you know what we want. Alone against a mob, he cried out: &ldquo;If only I had against you some power or could take refuge in a strong support.&rdquo;",
           "cls": "dropcap"
         },
         {
@@ -194,7 +194,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "On Lut&rsquo;s plea &ldquo;these are my daughters,&rdquo; Ibn Kathir presents the mainstream reading of Mujahid and Qatadah: he meant the women of his nation, for every prophet is like a father to his nation. This is commentary, not revelation, and it guards against misreading the verse.",
+          "text": "On Lut (AS)&rsquo;s plea &ldquo;these are my daughters,&rdquo; Ibn Kathir presents the mainstream reading of Mujahid and Qatadah: he meant the women of his nation, for every prophet is like a father to his nation. This is commentary, not revelation, and it guards against misreading the verse.",
           "href": "https://quran.com/11:77/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 11:77-78 &middot; quran.com"
         }
@@ -215,7 +215,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The visitors who distressed Lut were angels, though he did not know it. They came in the form of handsome young men, and that was the test: Lut&rsquo;s anguish was not fear for himself but fear for them. He was afraid that if he did not take them in, someone else of his people would, and they would harm them, and he knew he would have to defend them alone. &ldquo;This is a trying day,&rdquo; he said, and Ibn Abbas explained the words: a severe test for him. The Prophet (ﷺ) remembered his cry for a strong support , asking Allah to forgive Lut, for he had wished for a powerful support.",
+          "html": "The visitors who distressed Lut (AS) were angels, though he did not know it. They came in the form of handsome young men, and that was the test: Lut (AS)&rsquo;s anguish was not fear for himself but fear for them. He was afraid that if he did not take them in, someone else of his people would, and they would harm them, and he knew he would have to defend them alone. &ldquo;This is a trying day,&rdquo; he said, and Ibn Abbas explained the words: a severe test for him. The Prophet (ﷺ) remembered his cry for a strong support , asking Allah to forgive Lut (AS), for he had wished for a powerful support.",
           "cls": "dropcap"
         },
         {
@@ -242,7 +242,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then the guests revealed themselves: we are messengers of your Lord; they will never reach you. Set out with your family in a portion of the night, and let none of you look back, except your wife. Their appointment is the morning; is not the morning near? The Prophet (ﷺ) remembered Lut&rsquo;s cry for a strong support and said: may Allah send His mercy on Lut, for he wished to have a powerful support.",
+          "html": "Then the guests revealed themselves: we are messengers of your Lord; they will never reach you. Set out with your family in a portion of the night, and let none of you look back, except your wife. Their appointment is the morning; is not the morning near? The Prophet (ﷺ) remembered Lut (AS)&rsquo;s cry for a strong support and said: may Allah send His mercy on Lut (AS), for he wished to have a powerful support.",
           "cls": "dropcap"
         },
         {
@@ -276,7 +276,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Morning came as promised. The highest part of the city became its lowest, and stones of layered hard clay rained down, marked from his Lord. Allah saved Lut and his family, except his wife, who remained with the evildoers. And He rained upon them a rain of stones. Then see how was the end of the criminals. The family of Lut was saved before dawn; the rest were destroyed, and evil was the rain of those who were warned.",
+          "html": "Morning came as promised. The highest part of the city became its lowest, and stones of layered hard clay rained down, marked from his Lord. Allah saved Lut (AS) and his family, except his wife, who remained with the evildoers. And He rained upon them a rain of stones. Then see how was the end of the criminals. The family of Lut (AS) was saved before dawn; the rest were destroyed, and evil was the rain of those who were warned.",
           "cls": "dropcap"
         },
         {
@@ -324,7 +324,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Quran names no one exempt from the Fire by marriage. Allah presents an example of those who disbelieved: the wife of Nuh and the wife of Lut. They were under two of Our righteous servants but betrayed them, and the prophets did not avail them from Allah at all. &ldquo;Enter the Fire with those who enter.&rdquo; The wife of a prophet, lost. Kinship with righteousness never saved anyone; only righteousness itself saves.",
+          "html": "The Quran names no one exempt from the Fire by marriage. Allah presents an example of those who disbelieved: the wife of Nuh (AS) and the wife of Lut (AS). They were under two of Our righteous servants but betrayed them, and the prophets did not avail them from Allah at all. &ldquo;Enter the Fire with those who enter.&rdquo; The wife of a prophet, lost. Kinship with righteousness never saved anyone; only righteousness itself saves.",
           "cls": "dropcap"
         },
         {
@@ -336,7 +336,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "On &ldquo;they both betrayed them,&rdquo; Ibn Kathir is explicit: the betrayal was in faith, not in marriage. No wife of a prophet ever committed adultery, he records from Ibn Abbas and others. Of Lut&rsquo;s wife specifically: she would tell the people of the city whenever her husband entertained a guest, tipping off the mob about the angels.",
+          "text": "On &ldquo;they both betrayed them,&rdquo; Ibn Kathir is explicit: the betrayal was in faith, not in marriage. No wife of a prophet ever committed adultery, he records from Ibn Abbas and others. Of Lut (AS)&rsquo;s wife specifically: she would tell the people of the city whenever her husband entertained a guest, tipping off the mob about the angels.",
           "href": "https://quran.com/66:10/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 66:10 &middot; quran.com"
         }
@@ -345,18 +345,18 @@ export const chapter = {
   ],
   "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Hud (11:77-83), Surah Al-A’raf (7:80-84), Surah Ash-Shu’ara (26:165-173), Surah Al-Ankabut (29:26-29), Surah An-Naml (27:54-58), Surah Al-Anbiya (21:74-75), Surah Al-Qamar (54:33-34) and Surah At-Tahrim (66:10), with narrations from Sahih al-Bukhari (3372, 3375), and two labeled panels from Tafsir Ibn Kathir (on 11:77-78 and 66:10), clearly marked as commentary, not revelation.</p>\n      ",
   "lessons": [
-    "<strong>Name the sin plainly.</strong> Lut did not soften the charge; clarity is mercy before the punishment comes. (Quran 7:80)",
+    "<strong>Name the sin plainly.</strong> Lut (AS) did not soften the charge; clarity is mercy before the punishment comes. (Quran 7:80)",
     "<strong>Mockery of purity is a dying people’s joke.</strong> “Evict them, they keep themselves pure”: when virtue becomes the crime, ruin is near. (Quran 7:82)",
     "<strong>Never dare the punishment to come.</strong> “Bring us the punishment of Allah”: the dare was answered by morning. (Quran 29:29)",
     "<strong>The believer’s cry has an answer.</strong> “If only I had a strong support”: he wished for one, and Allah was it. (Quran 11:80)",
     "<strong>When the command comes, leave and do not look back.</strong> Hesitation at the edge of ruin is ruin. (Quran 11:81)",
     "<strong>Marriage to a prophet never saved anyone.</strong> His wife remained behind; only righteousness itself saves. (Quran 66:10)",
-    "<strong>He feared for them, not for himself.</strong> Lut&rsquo;s anguish at the angels&rsquo; visit was the anguish of a host: he knew what his people would do to his guests. Nobility is measured by whom you fear for.",
-    "<strong>The mob had an informant.</strong> Lut&rsquo;s wife told the city whenever her husband entertained a guest. Treachery can wear a familiar face, and kinship with a prophet never saved anyone."
+    "<strong>He feared for them, not for himself.</strong> Lut (AS)&rsquo;s anguish at the angels&rsquo; visit was the anguish of a host: he knew what his people would do to his guests. Nobility is measured by whom you fear for.",
+    "<strong>The mob had an informant.</strong> Lut (AS)&rsquo;s wife told the city whenever her husband entertained a guest. Treachery can wear a familiar face, and kinship with a prophet never saved anyone."
   ],
   "quiz": [
     {
-      "q": "What did Lut’s people do that none had done before them?",
+      "q": "What did Lut (AS)’s people do that none had done before them?",
       "options": [
         "Approached men with desire instead of women",
         "Worshipped the sun",
@@ -366,7 +366,7 @@ export const chapter = {
       "ref": "Quran 7:81"
     },
     {
-      "q": "What was their answer to Lut?",
+      "q": "What was their answer to Lut (AS)?",
       "options": [
         "Evict them from your city!",
         "We will follow you",
@@ -376,7 +376,7 @@ export const chapter = {
       "ref": "Quran 7:82"
     },
     {
-      "q": "Who came to Lut as guests?",
+      "q": "Who came to Lut (AS) as guests?",
       "options": [
         "Messengers of his Lord, angels",
         "Traveling merchants",
@@ -386,7 +386,7 @@ export const chapter = {
       "ref": "Quran 11:81"
     },
     {
-      "q": "What was Lut commanded to do?",
+      "q": "What was Lut (AS) commanded to do?",
       "options": [
         "Leave by night and let none look back",
         "Fight them at dawn",
@@ -416,7 +416,7 @@ export const chapter = {
       "ref": "Quran 7:83"
     },
     {
-      "q": "According to Ibn Kathir, what did Lut mean by &lsquo;my daughters&rsquo;?",
+      "q": "According to Ibn Kathir, what did Lut (AS) mean by &lsquo;my daughters&rsquo;?",
       "options": [
         "The women of his nation",
         "His literal daughters only",
@@ -426,11 +426,11 @@ export const chapter = {
       "ref": "Tafsir Ibn Kathir on 11:77-78"
     },
     {
-      "q": "What did the Prophet (ﷺ) say about Lut wanting a strong support?",
+      "q": "What did the Prophet (ﷺ) say about Lut (AS) wanting a strong support?",
       "options": [
-        "May Allah forgive Lut: he wanted to have a powerful support",
-        "Lut was wrong to wish for support",
-        "Lut should have fought the mob alone"
+        "May Allah forgive Lut (AS): he wanted to have a powerful support",
+        "Lut (AS) was wrong to wish for support",
+        "Lut (AS) should have fought the mob alone"
       ],
       "answer": 0,
       "ref": "Sahih al-Bukhari 3375"

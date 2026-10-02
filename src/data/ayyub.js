@@ -13,7 +13,7 @@ export const chapter = {
     "caption": "“Strike your foot; this is a cool bath and drink.” (Quran 38:42)"
   },
   "railLabels": [
-    "A Prophet in the Line of Ibrahim",
+    "A Prophet in the Line of Ibrahim (AS)",
     "The Servant Afflicted",
     "Adversity Has Touched Me",
     "Strike Your Foot",
@@ -27,8 +27,8 @@ export const chapter = {
   "scenes": [
     {
       "id": "scene-1",
-      "ariaLabel": "Scene 1: A Prophet in the Line of Ibrahim",
-      "title": "A Prophet in the Line of Ibrahim",
+      "ariaLabel": "Scene 1: A Prophet in the Line of Ibrahim (AS)",
+      "title": "A Prophet in the Line of Ibrahim (AS)",
       "blocks": [
         {
           "t": "kicker",
@@ -36,11 +36,11 @@ export const chapter = {
         },
         {
           "t": "h2",
-          "html": "A Prophet in the Line of Ibrahim"
+          "html": "A Prophet in the Line of Ibrahim (AS)"
         },
         {
           "t": "p",
-          "html": "His story begins with a name in a noble list. When Allah recounts the prophets He guided from the household of Ibrahim, Ayyub stands among them, a descendant named in the same breath as Dawud and Sulayman, and among those preferred over the worlds. Revelation carried his name again to the Prophet (ﷺ), in the line of those who received it after Nuh. Before any trial is mentioned, the Quran has already told us who he is: a prophet of the house of Ibrahim, guided, chosen, and righteous.",
+          "html": "His story begins with a name in a noble list. When Allah recounts the prophets He guided from the household of Ibrahim (AS), Ayyub (AS) stands among them, a descendant named in the same breath as Dawud and Sulayman (AS), and among those preferred over the worlds. Revelation carried his name again to the Prophet (ﷺ), in the line of those who received it after Nuh (AS). Before any trial is mentioned, the Quran has already told us who he is: a prophet of the house of Ibrahim (AS), guided, chosen, and righteous.",
           "cls": "dropcap"
         },
         {
@@ -113,7 +113,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "Ibn Kathir relates that the trials struck Ayyub in his wealth, his children and his health, until nothing of this world was left to him but his wife, who stayed devoted to him and served people to earn his food. Through it all, he writes, Ayyub had the utmost patience, and turned his emptied heart to the remembrance and praise of Allah, saying: &ldquo;O Lord, You gave me wealth and children, and there was no one standing at my door complaining of some wrong I had done to him.&rdquo; This is commentary, not revelation.",
+          "text": "Ibn Kathir relates that the trials struck Ayyub (AS) in his wealth, his children and his health, until nothing of this world was left to him but his wife, who stayed devoted to him and served people to earn his food. Through it all, he writes, Ayyub (AS) had the utmost patience, and turned his emptied heart to the remembrance and praise of Allah, saying: &ldquo;O Lord, You gave me wealth and children, and there was no one standing at my door complaining of some wrong I had done to him.&rdquo; This is commentary, not revelation.",
           "href": "https://quran.com/21:83/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 21:83-84 &middot; quran.com"
         }
@@ -207,7 +207,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "Ibn Kathir explains that during his illness Ayyub had sworn that if Allah healed him he would strike his wife a hundred blows over something she had done, and that once he was healed, her devoted service could not be repaid with a beating. So Allah showed him the way out: a bundle of grass with a hundred stems, struck once, fulfilling the oath without breaking it. He adds that the restoration came in return for his patience, steadfastness, humility and constant turning to Allah, a reminder to people of understanding that the consequence of patience is a solution and a way out. This is commentary, not revelation.",
+          "text": "Ibn Kathir explains that during his illness Ayyub (AS) had sworn that if Allah healed him he would strike his wife a hundred blows over something she had done, and that once he was healed, her devoted service could not be repaid with a beating. So Allah showed him the way out: a bundle of grass with a hundred stems, struck once, fulfilling the oath without breaking it. He adds that the restoration came in return for his patience, steadfastness, humility and constant turning to Allah, a reminder to people of understanding that the consequence of patience is a solution and a way out. This is commentary, not revelation.",
           "href": "https://quran.com/38:41/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 38:41-44 &middot; quran.com"
         }
@@ -252,7 +252,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Allah did not leave this as one man&rsquo;s private relief. He sealed the account with its purpose: &ldquo;a reminder for the worshippers&rdquo; of Allah, and again, &ldquo;a reminder for those of understanding.&rdquo; The story stands so that no sufferer after him reads affliction as abandonment. The Prophet (ﷺ) was asked which people are tried most severely, and his answer placed Ayyub&rsquo;s road inside a law of this faith: the closer a servant stands to Allah, the heavier the test may be, and the test, borne well, leaves a man walking the earth with his sins fallen away.",
+          "html": "Allah did not leave this as one man&rsquo;s private relief. He sealed the account with its purpose: &ldquo;a reminder for the worshippers&rdquo; of Allah, and again, &ldquo;a reminder for those of understanding.&rdquo; The story stands so that no sufferer after him reads affliction as abandonment. The Prophet (ﷺ) was asked which people are tried most severely, and his answer placed Ayyub (AS)&rsquo;s road inside a law of this faith: the closer a servant stands to Allah, the heavier the test may be, and the test, borne well, leaves a man walking the earth with his sins fallen away.",
           "cls": "dropcap"
         },
         {
@@ -279,7 +279,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The restoration has one more scene, and the Prophet (ﷺ) himself told it. While Ayyub was bathing, a swarm of locusts of gold fell upon him, and he began gathering them into his garment, handful after handful, unwilling to let a blessing of his Lord drop uncollected. It is the same servant we met in the affliction, unchanged in the blessing: empty-handed he praised, and full-handed he gathered, and in both states his eyes were on the Giver.",
+          "html": "The restoration has one more scene, and the Prophet (ﷺ) himself told it. While Ayyub (AS) was bathing, a swarm of locusts of gold fell upon him, and he began gathering them into his garment, handful after handful, unwilling to let a blessing of his Lord drop uncollected. It is the same servant we met in the affliction, unchanged in the blessing: empty-handed he praised, and full-handed he gathered, and in both states his eyes were on the Giver.",
           "cls": "dropcap"
         },
         {
@@ -306,7 +306,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "So the account closes where it opened, with his place. A descendant of Ibrahim preferred over the worlds. A servant found patient. A reminder standing for every worshipper who will ever suffer in silence and wonder whether heaven sees. And for the smaller versions of his road that believers still walk, the Prophet (ﷺ) left a promise: nothing of the pain is wasted, not even the prick of a thorn.",
+          "html": "So the account closes where it opened, with his place. A descendant of Ibrahim (AS) preferred over the worlds. A servant found patient. A reminder standing for every worshipper who will ever suffer in silence and wonder whether heaven sees. And for the smaller versions of his road that believers still walk, the Prophet (ﷺ) left a promise: nothing of the pain is wasted, not even the prick of a thorn.",
           "cls": "dropcap"
         },
         {
@@ -321,26 +321,26 @@ export const chapter = {
   ],
   "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran: Surah Al-An&rsquo;am (6:84-86), Surah An-Nisa (4:163), Surah Al-Anbiya (21:83-84) and Surah Sad (38:41-44), with narrations from Sahih al-Bukhari (3391, 5641) and Jami at-Tirmidhi (2398), and two labeled panels from Tafsir Ibn Kathir (on 21:83-84 and 38:41-44), clearly marked as commentary, not revelation.</p>\n      ",
   "lessons": [
-    "<strong>Patience is a verdict to be found.</strong> Allah did not say Ayyub felt patient; He said, &ldquo;We found him patient.” Patience is what the trial discovers in a servant. (Quran 38:44)",
+    "<strong>Patience is a verdict to be found.</strong> Allah did not say Ayyub (AS) felt patient; He said, &ldquo;We found him patient.” Patience is what the trial discovers in a servant. (Quran 38:44)",
     "<strong>Name the mercy, not only the pain.</strong> His one-sentence prayer ends on &ldquo;You are the most merciful of the merciful.” Let every complaint you carry upward end the same way. (Quran 21:83)",
     "<strong>The cry is not the failure.</strong> He cried out, and heaven preserved his cry as worship. Patience is the direction of the cry, not the absence of it. (Quran 38:41)",
     "<strong>Heaven answers the call.</strong> &ldquo;So We responded to him and removed what afflicted him of adversity.” No sincere call to the most merciful of the merciful goes unheard. (Quran 21:84)",
-    "<strong>Affliction is not abandonment.</strong> The most severely tested are the prophets, then those nearest to them. A heavy test can be the mark of nearness, and Allah made Ayyub a reminder of exactly that. (Quran 38:43)",
+    "<strong>Affliction is not abandonment.</strong> The most severely tested are the prophets, then those nearest to them. A heavy test can be the mark of nearness, and Allah made Ayyub (AS) a reminder of exactly that. (Quran 38:43)",
     "<strong>Turn back, again and again.</strong> The secret named in his verdict is a rhythm, not a moment: &ldquo;he was one repeatedly turning back [to Allah].” Keep returning, in loss and in restoration alike. (Quran 38:44)"
   ],
   "quiz": [
     {
-      "q": "In Surah Al-An&rsquo;am, Ayyub is named among the descendants of which prophet?",
+      "q": "In Surah Al-An&rsquo;am, Ayyub (AS) is named among the descendants of which prophet?",
       "options": [
-        "Ibrahim",
-        "Musa",
-        "Yaqub"
+        "Ibrahim (AS)",
+        "Musa (AS)",
+        "Yaqub (AS)"
       ],
       "answer": 0,
       "ref": "Quran 6:84"
     },
     {
-      "q": "What did Ayyub say had touched him, in his call to his Lord?",
+      "q": "What did Ayyub (AS) say had touched him, in his call to his Lord?",
       "options": [
         "A fever that would not lift",
         "Adversity",
@@ -350,7 +350,7 @@ export const chapter = {
       "ref": "Quran 21:83"
     },
     {
-      "q": "How did Allah answer Ayyub&rsquo;s call?",
+      "q": "How did Allah answer Ayyub (AS)&rsquo;s call?",
       "options": [
         "He sent him a dream of glad tidings",
         "He told him to travel to a distant land",
@@ -360,7 +360,7 @@ export const chapter = {
       "ref": "Quran 21:84"
     },
     {
-      "q": "What appeared when Ayyub struck the ground with his foot?",
+      "q": "What appeared when Ayyub (AS) struck the ground with his foot?",
       "options": [
         "A spring, a cool bath and drink",
         "A well of sweet milk",
@@ -370,7 +370,7 @@ export const chapter = {
       "ref": "Quran 38:42"
     },
     {
-      "q": "What did Allah give Ayyub back after his healing?",
+      "q": "What did Allah give Ayyub (AS) back after his healing?",
       "options": [
         "His family and the like thereof with them",
         "Only his health, nothing more",
@@ -380,7 +380,7 @@ export const chapter = {
       "ref": "Quran 38:43"
     },
     {
-      "q": "What was Ayyub told to take in his hand so his oath would be fulfilled without breaking it?",
+      "q": "What was Ayyub (AS) told to take in his hand so his oath would be fulfilled without breaking it?",
       "options": [
         "A staff of dry wood",
         "A smooth stone",

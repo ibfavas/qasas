@@ -43,7 +43,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "dropcap",
-          "html": "Allah calls the story of Yusuf the best of stories, <em>ahsan al-qasas</em>. He relates it in the Quran, in what He revealed, though before it the Prophet ﷺ was among the unaware. Of all the stories ever told, this is the one Allah Himself named the best."
+          "html": "Allah calls the story of Yusuf (AS) the best of stories, <em>ahsan al-qasas</em>. He relates it in the Quran, in what He revealed, though before it the Prophet ﷺ was among the unaware. Of all the stories ever told, this is the one Allah Himself named the best."
         },
         {
           "t": "verse",
@@ -70,7 +70,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "When Yusuf was a boy, he went to his father with a dream he could not forget: &ldquo;O my father, I have seen eleven stars, and the sun and the moon; I saw them prostrating to me.&rdquo; A strange dream for a child. But it was a true one, and it would take many years and many tears to come true."
+          "html": "When Yusuf (AS) was a boy, he went to his father with a dream he could not forget: &ldquo;O my father, I have seen eleven stars, and the sun and the moon; I saw them prostrating to me.&rdquo; A strange dream for a child. But it was a true one, and it would take many years and many tears to come true."
         },
         {
           "t": "verse",
@@ -85,8 +85,8 @@ export const chapter = {
           "narrator": "Narrated Ibn &#x27;Umar",
           "href": "https://sunnah.com/bukhari:3390",
           "label": "Sahih al-Bukhari 3390 &middot; sunnah.com"
-        },
-              ]
+        }
+      ]
     },
     {
       "id": "scene-3",
@@ -104,7 +104,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "His father Yaqub understood that this dream was a sign of great things to come. He told his son: your Lord will choose you. He will teach you the interpretation of dreams and events, and He will complete His favour upon you and upon the family of Yaqub, just as He completed it upon your forefathers, Ibrahim and Ishaq, before you."
+          "html": "His father Yaqub (AS) understood that this dream was a sign of great things to come. He told his son: your Lord will choose you. He will teach you the interpretation of dreams and events, and He will complete His favour upon you and upon the family of Yaqub (AS), just as He completed it upon your forefathers, Ibrahim (AS) and Ishaq (AS), before you."
         },
         {
           "t": "verse",
@@ -131,7 +131,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "But jealousy had grown among Yusuf’s brothers. One of them spoke up with a plan: do not kill Yusuf but throw him into the bottom of a deep well instead, and some travellers passing by would pick him up. The well, not death, was their decision."
+          "html": "But jealousy had grown among Yusuf (AS)’s brothers. One of them spoke up with a plan: do not kill Yusuf (AS) but throw him into the bottom of a deep well instead, and some travellers passing by would pick him up. The well, not death, was their decision."
         },
         {
           "t": "verse",
@@ -158,7 +158,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "They took Yusuf out with them and agreed together to lower him into the dark bottom of the well. But in that darkness, Allah inspired to the frightened boy: &ldquo;You will surely tell them about what they did to you one day, while they do not even recognise you.&rdquo; Even at the bottom of a well, Allah was with him."
+          "html": "They took Yusuf (AS) out with them and agreed together to lower him into the dark bottom of the well. But in that darkness, Allah inspired to the frightened boy: &ldquo;You will surely tell them about what they did to you one day, while they do not even recognise you.&rdquo; Even at the bottom of a well, Allah was with him."
         },
         {
           "t": "verse",
@@ -166,8 +166,8 @@ export const chapter = {
           "arabic": "فَلَمَّا ذَهَبُوا۟ بِهِۦ وَأَجْمَعُوٓا۟ أَن يَجْعَلُوهُ فِى غَيَـٰبَتِ ٱلْجُبِّ ۚ وَأَوْحَيْنَآ إِلَيْهِ لَتُنَبِّئَنَّهُم بِأَمْرِهِمْ هَـٰذَا وَهُمْ لَا يَشْعُرُونَ",
           "translation": "So when they took him [out] and agreed to put him into the bottom of the well... But We inspired to him, &quot;You will surely inform them [someday] about this affair of theirs while they do not perceive [your identity].&quot;",
           "citation": "Surah 12 &middot; Verse 15 &middot; Saheeh International"
-        },
-              ]
+        }
+      ]
     },
     {
       "id": "scene-6",
@@ -193,8 +193,8 @@ export const chapter = {
           "arabic": "وَجَآءَتْ سَيَّارَةٌ فَأَرْسَلُوا۟ وَارِدَهُمْ فَأَدْلَىٰ دَلْوَهُۥ ۖ قَالَ يَـٰبُشْرَىٰ هَـٰذَا غُلَـٰمٌ ۚ وَأَسَرُّوهُ بِضَـٰعَةً ۚ وَٱللَّهُ عَلِيمٌۢ بِمَا يَعْمَلُونَ",
           "translation": "And there came a company of travelers; then they sent their water drawer, and he let down his bucket. He said, &quot;Good news! Here is a boy.&quot; And they concealed him, [taking him] as merchandise; and Allāh was knowing of what they did.",
           "citation": "Surah 12 &middot; Verse 19 &middot; Saheeh International"
-        },
-              ]
+        }
+      ]
     },
     {
       "id": "scene-7",
@@ -212,7 +212,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "Yusuf was taken to Egypt, into the house of a great man. There, the woman of the house tried to seduce him. She locked the doors and said, &ldquo;Come.&rdquo; But Yusuf sought the refuge of Allah: &ldquo;My master has made good my residence, and wrongdoers will never succeed.&rdquo; Alone, far from home, with no one watching, he chose Allah."
+          "html": "Yusuf (AS) was taken to Egypt, into the house of a great man. There, the woman of the house tried to seduce him. She locked the doors and said, &ldquo;Come.&rdquo; But Yusuf (AS) sought the refuge of Allah: &ldquo;My master has made good my residence, and wrongdoers will never succeed.&rdquo; Alone, far from home, with no one watching, he chose Allah."
         },
         {
           "t": "verse",
@@ -246,7 +246,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "When he was accused, Yusuf spoke the truth: &ldquo;It was she who sought to seduce me.&rdquo; A witness from her own family proposed a test: look at the shirt. If it is torn from the front, she is truthful and he is lying. But when her husband saw the shirt torn from the back, proof that Yusuf had been running away, he said: &ldquo;This is from your scheming. Indeed, your scheming is great.&rdquo;"
+          "html": "When he was accused, Yusuf (AS) spoke the truth: &ldquo;It was she who sought to seduce me.&rdquo; A witness from her own family proposed a test: look at the shirt. If it is torn from the front, she is truthful and he is lying. But when her husband saw the shirt torn from the back, proof that Yusuf (AS) had been running away, he said: &ldquo;This is from your scheming. Indeed, your scheming is great.&rdquo;"
         },
         {
           "t": "verse",
@@ -261,8 +261,8 @@ export const chapter = {
           "arabic": "فَلَمَّا رَءَا قَمِيصَهُۥ قُدَّ مِن دُبُرٍ قَالَ إِنَّهُۥ مِن كَيْدِكُنَّ ۖ إِنَّ كَيْدَكُنَّ عَظِيمٌ",
           "translation": "So when he [i.e., her husband] saw his shirt torn from the back, he said, &quot;Indeed, it is of your [i.e., women&#x27;s] plan. Indeed, your plan is great [i.e., vehement].",
           "citation": "Surah 12 &middot; Verse 28 &middot; Saheeh International"
-        },
-              ]
+        }
+      ]
     },
     {
       "id": "scene-9",
@@ -280,7 +280,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "Even with his innocence clear, the pressure did not stop. So Yusuf turned to Allah with a prayer that shows his heart: &ldquo;My Lord, prison is more beloved to me than what they are calling me to. If You do not turn their scheming away from me, I might lean toward them and become of the ignorant.&rdquo; He chose a prison cell over disobeying Allah."
+          "html": "Even with his innocence clear, the pressure did not stop. So Yusuf (AS) turned to Allah with a prayer that shows his heart: &ldquo;My Lord, prison is more beloved to me than what they are calling me to. If You do not turn their scheming away from me, I might lean toward them and become of the ignorant.&rdquo; He chose a prison cell over disobeying Allah."
         },
         {
           "t": "verse",
@@ -307,7 +307,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "Yusuf’s gift was the interpretation of dreams, the very gift his father had foretold for him. His counsel for the seven years ahead was practical and precise: &ldquo;Plant for seven consecutive years. Leave what you harvest in its spikes, except for a little that you eat.&rdquo;"
+          "html": "Yusuf (AS)’s gift was the interpretation of dreams, the very gift his father had foretold for him. His counsel for the seven years ahead was practical and precise: &ldquo;Plant for seven consecutive years. Leave what you harvest in its spikes, except for a little that you eat.&rdquo;"
         },
         {
           "t": "verse",
@@ -361,7 +361,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "Cleared of every accusation, Yusuf was asked what position he wanted. He did not ask for wealth or revenge. He said: &ldquo;Appoint me over the storehouses of the land. I will be a knowing guardian.&rdquo; He asked for responsibility, so he could protect people from hunger."
+          "html": "Cleared of every accusation, Yusuf (AS) was asked what position he wanted. He did not ask for wealth or revenge. He said: &ldquo;Appoint me over the storehouses of the land. I will be a knowing guardian.&rdquo; He asked for responsibility, so he could protect people from hunger."
         },
         {
           "t": "verse",
@@ -388,7 +388,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "Far away, his old father Yaqub had never stopped believing his son was alive. He sent his sons out with words every believer should hold onto in the darkest years: &ldquo;Go and search for Yusuf and his brother, and never despair of relief from Allah. No one despairs of relief from Allah except the disbelieving people.&rdquo;"
+          "html": "Far away, his old father Yaqub (AS) had never stopped believing his son was alive. He sent his sons out with words every believer should hold onto in the darkest years: &ldquo;Go and search for Yusuf and his brother, and never despair of relief from Allah. No one despairs of relief from Allah except the disbelieving people.&rdquo;"
         },
         {
           "t": "verse",
@@ -415,7 +415,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "When the brothers stood before Yusuf at last, exposed, ashamed, at his mercy, he did not take revenge. He said: &ldquo;No blame will be upon you today. May Allah forgive you; and He is the most merciful of the merciful.&rdquo; At the height of his power, he chose forgiveness."
+          "html": "When the brothers stood before Yusuf (AS) at last, exposed, ashamed, at his mercy, he did not take revenge. He said: &ldquo;No blame will be upon you today. May Allah forgive you; and He is the most merciful of the merciful.&rdquo; At the height of his power, he chose forgiveness."
         },
         {
           "t": "verse",
@@ -442,7 +442,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "Then came the moment the dream had promised, all those years before. Yusuf raised his parents upon the throne, and they prostrated to him. And Yusuf said: &ldquo;O my father, this is the meaning of my dream from long ago. My Lord has made it come true. He was good to me when He brought me out of prison, and brought you from the desert, after Satan had caused trouble between me and my brothers. My Lord is subtle in what He wills. He is the Knowing, the Wise.&rdquo;"
+          "html": "Then came the moment the dream had promised, all those years before. Yusuf (AS) raised his parents upon the throne, and they prostrated to him. And Yusuf (AS) said: &ldquo;O my father, this is the meaning of my dream from long ago. My Lord has made it come true. He was good to me when He brought me out of prison, and brought you from the desert, after Satan had caused trouble between me and my brothers. My Lord is subtle in what He wills. He is the Knowing, the Wise.&rdquo;"
         },
         {
           "t": "verse",
@@ -450,8 +450,8 @@ export const chapter = {
           "arabic": "وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًا ۖ وَقَالَ يَـٰٓأَبَتِ هَـٰذَا تَأْوِيلُ رُءْيَـٰىَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّا ۖ وَقَدْ أَحْسَنَ بِىٓ إِذْ أَخْرَجَنِى مِنَ ٱلسِّجْنِ وَجَآءَ بِكُم مِّنَ ٱلْبَدْوِ مِنۢ بَعْدِ أَن نَّزَغَ ٱلشَّيْطَـٰنُ بَيْنِى وَبَيْنَ إِخْوَتِىٓ ۚ إِنَّ رَبِّى لَطِيفٌ لِّمَا يَشَآءُ ۚ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ",
           "translation": "And he raised his parents upon the throne, and they bowed to him in prostration. And he said, &quot;O my father, this is the explanation of my vision of before. My Lord has made it reality. And He was certainly good to me when He took me out of prison and brought you [here] from bedouin life after Satan had induced [estrangement] between me and my brothers. Indeed, my Lord is Subtle in what He wills. Indeed, it is He who is the Knowing, the Wise.",
           "citation": "Surah 12 &middot; Verse 100 &middot; Saheeh International"
-        },
-              ]
+        }
+      ]
     },
     {
       "id": "scene-16",
@@ -469,7 +469,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "At the very height of his power, with wealth, position, and family restored, Yusuf did not ask for more of this world. He turned to Allah: &ldquo;My Lord, You have given me sovereignty and taught me the interpretation of dreams. Creator of the heavens and the earth, You are my Protector in this world and the next. Cause me to die as a Muslim, and join me with the righteous.&rdquo;"
+          "html": "At the very height of his power, with wealth, position, and family restored, Yusuf (AS) did not ask for more of this world. He turned to Allah: &ldquo;My Lord, You have given me sovereignty and taught me the interpretation of dreams. Creator of the heavens and the earth, You are my Protector in this world and the next. Cause me to die as a Muslim, and join me with the righteous.&rdquo;"
         },
         {
           "t": "verse",
@@ -484,13 +484,13 @@ export const chapter = {
   "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter comes from Surah Yusuf itself, which tells the story from beginning to end. </p>\n      ",
   "lessons": [
     "<strong>Dreams can carry truth.</strong> The boy’s dream came true years later, exactly as Allah willed. (Quran 12:4, 12:100)",
-    "<strong>Choose hardship over sin.</strong> Yusuf preferred prison to disobeying Allah. (Quran 12:33)",
-    "<strong>Never despair of Allah’s relief.</strong> Yaqub’s words in the darkest years. (Quran 12:87)",
-    "<strong>Forgive when you have the power.</strong> Yusuf forgave the brothers who had wronged him. (Quran 12:92)"
+    "<strong>Choose hardship over sin.</strong> Yusuf (AS) preferred prison to disobeying Allah. (Quran 12:33)",
+    "<strong>Never despair of Allah’s relief.</strong> Yaqub (AS)’s words in the darkest years. (Quran 12:87)",
+    "<strong>Forgive when you have the power.</strong> Yusuf (AS) forgave the brothers who had wronged him. (Quran 12:92)"
   ],
   "quiz": [
     {
-      "q": "In Yusuf’s dream, how many stars prostrated to him?",
+      "q": "In Yusuf (AS)’s dream, how many stars prostrated to him?",
       "options": [
         "Eleven",
         "Seven",
@@ -500,7 +500,7 @@ export const chapter = {
       "ref": "Quran 12:4"
     },
     {
-      "q": "What did Yusuf say was more beloved to him than sin?",
+      "q": "What did Yusuf (AS) say was more beloved to him than sin?",
       "options": [
         "Prison",
         "Exile",
@@ -510,7 +510,7 @@ export const chapter = {
       "ref": "Quran 12:33"
     },
     {
-      "q": "What did Yusuf ask to be appointed over?",
+      "q": "What did Yusuf (AS) ask to be appointed over?",
       "options": [
         "The storehouses of the land",
         "The army of Egypt",

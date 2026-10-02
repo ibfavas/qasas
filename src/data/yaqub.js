@@ -7,19 +7,19 @@ export const chapter = {
   "hero": {
     "plaque": "Chapter X",
     "title": "Yaqub (AS): Beautiful Patience",
-    "sub": "The father who lost Yusuf and waited in beautiful patience, whose eyes went white with grief and whose sight was restored: the story of Yaqub, as the Quran tells it.",
+    "sub": "The father who lost Yusuf (AS) and waited in beautiful patience, whose eyes went white with grief and whose sight was restored: the story of Yaqub (AS), as the Quran tells it.",
     "img": "../assets/yaqub-road.webp",
     "imgAlt": "A desert road at dawn with a trail of footprints stretching to the horizon",
     "caption": "The long wait: “So patience is most fitting.” (Quran 12:18)"
   },
   "railLabels": [
-    "After Ishaq, Yaqub",
+    "After Ishaq (AS), Yaqub (AS)",
     "The Honorable, Son of the Honorable",
     "The Dream",
     "The Wolves and the Shirt",
     "The Best of Guardians",
     "Do Not Despair of Allah’s Relief",
-    "The Smell of Yusuf",
+    "The Smell of Yusuf (AS)",
     "The Dream Made Reality",
     "What Will You Worship After Me?",
     "Those of Strength and Vision"
@@ -27,8 +27,8 @@ export const chapter = {
   "scenes": [
     {
       "id": "scene-1",
-      "ariaLabel": "Scene 1: After Ishaq, Yaqub",
-      "title": "After Ishaq, Yaqub",
+      "ariaLabel": "Scene 1: After Ishaq (AS), Yaqub (AS)",
+      "title": "After Ishaq (AS), Yaqub (AS)",
       "blocks": [
         {
           "t": "kicker",
@@ -36,11 +36,11 @@ export const chapter = {
         },
         {
           "t": "h2",
-          "html": "After Ishaq, Yaqub"
+          "html": "After Ishaq (AS), Yaqub (AS)"
         },
         {
           "t": "p",
-          "html": "The angels who visited Ibrahim brought two tidings: Ishaq, and after Ishaq, Yaqub. And when Ibrahim left his people&rsquo;s idols, Allah gave him a household of prophets: Ishaq and Yaqub, each made a prophet. Yaqub, the son of Ishaq, the grandson of the Friend of Allah.",
+          "html": "The angels who visited Ibrahim (AS) brought two tidings: Ishaq (AS), and after Ishaq (AS), Yaqub (AS). And when Ibrahim (AS) left his people&rsquo;s idols, Allah gave him a household of prophets: Ishaq (AS) and Yaqub (AS), each made a prophet. Yaqub (AS), the son of Ishaq (AS), the grandson of the Friend of Allah.",
           "cls": "dropcap"
         },
         {
@@ -74,7 +74,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Prophet (ﷺ) gathered Ya&lsquo;qub’s whole line into a single sentence of honor. Asked who was the most honorable among people, he answered: Yusuf, the prophet of Allah, son of the prophet of Allah, son of the prophet of Allah, son of the Khalil of Allah. Yusuf son of Ya&lsquo;qub son of Ishaq son of Ibrahim: four generations, each a prophet, each the son of a prophet.",
+          "html": "The Prophet (ﷺ) gathered Ya&lsquo;qub (AS)’s whole line into a single sentence of honor. Asked who was the most honorable among people, he answered: Yusuf (AS), the prophet of Allah, son of the prophet of Allah, son of the prophet of Allah, son of the Khalil of Allah. Yusuf (AS) son of Ya&lsquo;qub (AS) son of Ishaq (AS) son of Ibrahim (AS): four generations, each a prophet, each the son of a prophet.",
           "cls": "dropcap"
         },
         {
@@ -101,7 +101,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "One morning the boy Yusuf came to his father with a dream: eleven stars, the sun, and the moon, prostrating to him. Yaqub understood at once, and his counsel was wisdom itself: &ldquo;O my son, do not relate your vision to your brothers or they will contrive against you a plan.&rdquo; Not every gift is for every ear.",
+          "html": "One morning the boy Yusuf (AS) came to his father with a dream: eleven stars, the sun, and the moon, prostrating to him. Yaqub (AS) understood at once, and his counsel was wisdom itself: &ldquo;O my son, do not relate your vision to your brothers or they will contrive against you a plan.&rdquo; Not every gift is for every ear.",
           "cls": "dropcap"
         },
         {
@@ -128,7 +128,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The brothers asked to take Yusuf into the desert. It saddened Yaqub to let him go; he feared a wolf would eat him while they were unaware. They promised, they took him, and they threw him into a well. Then they came to their father at night, weeping, with a tale of racing and a wolf and a shirt stained with false blood. The old man saw through it all: &ldquo;Rather, your souls have enticed you to something, so patience is most fitting.&rdquo;",
+          "html": "The brothers asked to take Yusuf (AS) into the desert. It saddened Yaqub (AS) to let him go; he feared a wolf would eat him while they were unaware. They promised, they took him, and they threw him into a well. Then they came to their father at night, weeping, with a tale of racing and a wolf and a shirt stained with false blood. The old man saw through it all: &ldquo;Rather, your souls have enticed you to something, so patience is most fitting.&rdquo;",
           "cls": "dropcap"
         },
         {
@@ -155,7 +155,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Years later, famine drove the brothers to Egypt, and the Aziz demanded the youngest as pledge. Should I entrust him to you as I entrusted his brother before? But Allah is the best guardian, and the most merciful of the merciful. Yaqub took their oath, and gave them his counsel for the road: enter by different gates, for he could not avail them against Allah&rsquo;s decree. The decision is only for Allah; upon Him he relied.",
+          "html": "Years later, famine drove the brothers to Egypt, and the Aziz demanded the youngest as pledge. Should I entrust him to you as I entrusted his brother before? But Allah is the best guardian, and the most merciful of the merciful. Yaqub (AS) took their oath, and gave them his counsel for the road: enter by different gates, for he could not avail them against Allah&rsquo;s decree. The decision is only for Allah; upon Him he relied.",
           "cls": "dropcap"
         },
         {
@@ -189,7 +189,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then the second blow: Binyamin was held in Egypt. &ldquo;So patience is most fitting. Perhaps Allah will bring them to me all together.&rdquo; And he turned away, crying out his sorrow over Yusuf. His eyes became white from grief. They mocked him: you will not cease remembering Yusuf until you perish. His answer is the charter of the grieving believer: &ldquo;I only complain of my suffering and my grief to Allah.&rdquo; And: &ldquo;Despair not of relief from Allah. Indeed, no one despairs of relief from Allah except the disbelieving people.&rdquo; The Prophet (ﷺ) said that patience counts at the first stroke of calamity; Yaqub had shown it at the first stroke, and he showed it still.",
+          "html": "Then the second blow: Binyamin was held in Egypt. &ldquo;So patience is most fitting. Perhaps Allah will bring them to me all together.&rdquo; And he turned away, crying out his sorrow over Yusuf (AS). His eyes became white from grief. They mocked him: you will not cease remembering Yusuf (AS) until you perish. His answer is the charter of the grieving believer: &ldquo;I only complain of my suffering and my grief to Allah.&rdquo; And: &ldquo;Despair not of relief from Allah. Indeed, no one despairs of relief from Allah except the disbelieving people.&rdquo; The Prophet (ﷺ) said that patience counts at the first stroke of calamity; Yaqub (AS) had shown it at the first stroke, and he showed it still.",
           "cls": "dropcap"
         },
         {
@@ -208,7 +208,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "On &ldquo;I only complain of my suffering and my grief to Allah,&rdquo; Qatadah and other scholars note that Ya&lsquo;qub suppressed his sorrow and complained to no created being. And on &ldquo;I know from Allah that which you do not know,&rdquo; Ibn Abbas explains: the vision Yusuf saw is truthful, and Allah will certainly make it come true. Grief held privately; hope placed in Allah alone. This is commentary, not revelation.",
+          "text": "On &ldquo;I only complain of my suffering and my grief to Allah,&rdquo; Qatadah and other scholars note that Ya&lsquo;qub (AS) suppressed his sorrow and complained to no created being. And on &ldquo;I know from Allah that which you do not know,&rdquo; Ibn Abbas explains: the vision Yusuf (AS) saw is truthful, and Allah will certainly make it come true. Grief held privately; hope placed in Allah alone. This is commentary, not revelation.",
           "href": "https://quran.com/12:86/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 12:86-87 &middot; quran.com"
         }
@@ -216,8 +216,8 @@ export const chapter = {
     },
     {
       "id": "scene-7",
-      "ariaLabel": "Scene 7: The Smell of Yusuf",
-      "title": "The Smell of Yusuf",
+      "ariaLabel": "Scene 7: The Smell of Yusuf (AS)",
+      "title": "The Smell of Yusuf (AS)",
       "blocks": [
         {
           "t": "kicker",
@@ -225,11 +225,11 @@ export const chapter = {
         },
         {
           "t": "h2",
-          "html": "The Smell of Yusuf"
+          "html": "The Smell of Yusuf (AS)"
         },
         {
           "t": "p",
-          "html": "When the caravan departed from Egypt, the old man said he found the smell of Yusuf, if they did not think him weakened in mind. They laughed: you are in your old error. Then the bearer of good tidings arrived and cast the shirt over his face, and his sight returned. &ldquo;Did I not tell you that I know from Allah that which you do not know?&rdquo; The sons who had mocked him now begged: ask forgiveness for us. &ldquo;I will ask forgiveness for you from my Lord. Indeed, it is He who is the Forgiving, the Merciful.&rdquo;",
+          "html": "When the caravan departed from Egypt, the old man said he found the smell of Yusuf (AS), if they did not think him weakened in mind. They laughed: you are in your old error. Then the bearer of good tidings arrived and cast the shirt over his face, and his sight returned. &ldquo;Did I not tell you that I know from Allah that which you do not know?&rdquo; The sons who had mocked him now begged: ask forgiveness for us. &ldquo;I will ask forgiveness for you from my Lord. Indeed, it is He who is the Forgiving, the Merciful.&rdquo;",
           "cls": "dropcap"
         },
         {
@@ -256,7 +256,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "They entered Egypt, and Yusuf embraced his parents. Enter Egypt, Allah willing, safe and secure. And he raised his parents upon the throne, and they bowed to him in prostration. &ldquo;O my father, this is the explanation of my vision of before. My Lord has made it reality.&rdquo; Decades of grief, ended in a single morning.",
+          "html": "They entered Egypt, and Yusuf (AS) embraced his parents. Enter Egypt, Allah willing, safe and secure. And he raised his parents upon the throne, and they bowed to him in prostration. &ldquo;O my father, this is the explanation of my vision of before. My Lord has made it reality.&rdquo; Decades of grief, ended in a single morning.",
           "cls": "dropcap"
         },
         {
@@ -283,7 +283,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "At the end of his life, his concern was the same as his forefathers’: the religion of his children. &ldquo;O my sons, indeed Allah has chosen for you this religion, so do not die except while you are Muslims.&rdquo; And when death approached, he asked: &ldquo;What will you worship after me?&rdquo; They answered: your God and the God of your fathers, Ibrahim and Ismail and Ishaq, one God.",
+          "html": "At the end of his life, his concern was the same as his forefathers’: the religion of his children. &ldquo;O my sons, indeed Allah has chosen for you this religion, so do not die except while you are Muslims.&rdquo; And when death approached, he asked: &ldquo;What will you worship after me?&rdquo; They answered: your God and the God of your fathers, Ibrahim (AS) and Ismail (AS) and Ishaq (AS), one God.",
           "cls": "dropcap"
         },
         {
@@ -295,7 +295,7 @@ export const chapter = {
         },
         {
           "t": "tafsir",
-          "text": "On &ldquo;die not except as Muslims,&rdquo; Ibn Kathir notes these prophets loved the words of submission so deeply that they preserved them until the hour of death and enjoined their children to hold to them after. Ya&lsquo;qub&rsquo;s final counsel was not a new instruction but the lifelong creed, handed down at the last hour. This is commentary, not revelation.",
+          "text": "On &ldquo;die not except as Muslims,&rdquo; Ibn Kathir notes these prophets loved the words of submission so deeply that they preserved them until the hour of death and enjoined their children to hold to them after. Ya&lsquo;qub (AS)&rsquo;s final counsel was not a new instruction but the lifelong creed, handed down at the last hour. This is commentary, not revelation.",
           "href": "https://quran.com/2:132/tafsirs/en-tafisr-ibn-kathir",
           "label": "Tafsir Ibn Kathir on 2:132 &middot; quran.com"
         }
@@ -333,14 +333,14 @@ export const chapter = {
   "lessons": [
     "<strong>Guard the gift.</strong> “Do not relate your vision to your brothers”: not every blessing is for every ear. (Quran 12:5)",
     "<strong>“Patience is most fitting.”</strong> Say it at the first stroke of calamity, and say it still at the hundredth. (Quran 12:18)",
-    "<strong>Entrust to the Best of Guardians.</strong> Yaqub released his son with “Allah is the best guardian” on his tongue. (Quran 12:64)",
+    "<strong>Entrust to the Best of Guardians.</strong> Yaqub (AS) released his son with “Allah is the best guardian” on his tongue. (Quran 12:64)",
     "<strong>Complain only to Allah.</strong> “I only complain of my suffering and my grief to Allah”: grief poured upward, not outward. (Quran 12:86)",
-    "<strong>Never despair of Allah’s relief.</strong> Despair belongs to the disbelievers; the believer keeps looking for Yusuf. (Quran 12:87)",
-    "<strong>Complain to Allah, not to people.</strong> Ya&lsquo;qub&rsquo;s grief was real and his eyes went white from it, but his complaint went only upward. The scholars note he never complained to any created being."
+    "<strong>Never despair of Allah’s relief.</strong> Despair belongs to the disbelievers; the believer keeps looking for Yusuf (AS). (Quran 12:87)",
+    "<strong>Complain to Allah, not to people.</strong> Ya&lsquo;qub (AS)&rsquo;s grief was real and his eyes went white from it, but his complaint went only upward. The scholars note he never complained to any created being."
   ],
   "quiz": [
     {
-      "q": "What did Yusuf see in his dream?",
+      "q": "What did Yusuf (AS) see in his dream?",
       "options": [
         "Eleven stars, the sun and the moon prostrating to him",
         "A well full of water",
@@ -350,7 +350,7 @@ export const chapter = {
       "ref": "Quran 12:4"
     },
     {
-      "q": "What did Yaqub say when shown the blood-stained shirt?",
+      "q": "What did Yaqub (AS) say when shown the blood-stained shirt?",
       "options": [
         "Patience is most fitting",
         "I will take revenge",
@@ -360,7 +360,7 @@ export const chapter = {
       "ref": "Quran 12:18"
     },
     {
-      "q": "What did Yaqub say when sending Binyamin to Egypt?",
+      "q": "What did Yaqub (AS) say when sending Binyamin to Egypt?",
       "options": [
         "Allah is the best guardian",
         "Do not return without him",
@@ -370,7 +370,7 @@ export const chapter = {
       "ref": "Quran 12:64"
     },
     {
-      "q": "What happened to Yaqub’s eyes?",
+      "q": "What happened to Yaqub (AS)’s eyes?",
       "options": [
         "They became white from grief",
         "They saw the future",
@@ -382,7 +382,7 @@ export const chapter = {
     {
       "q": "What restored his sight?",
       "options": [
-        "Yusuf’s shirt cast over his face",
+        "Yusuf (AS)’s shirt cast over his face",
         "A doctor from Egypt",
         "Zamzam water"
       ],
@@ -390,7 +390,7 @@ export const chapter = {
       "ref": "Quran 12:96"
     },
     {
-      "q": "What did Yaqub ask his sons on his deathbed?",
+      "q": "What did Yaqub (AS) ask his sons on his deathbed?",
       "options": [
         "What will you worship after me?",
         "Who will lead the tribe?",
@@ -400,9 +400,9 @@ export const chapter = {
       "ref": "Quran 2:133"
     },
     {
-      "q": "How did the Prophet (ﷺ) describe Yusuf&rsquo;s lineage?",
+      "q": "How did the Prophet (ﷺ) describe Yusuf (AS)&rsquo;s lineage?",
       "options": [
-        "The honorable, son of the honorable, son of the honorable: Yusuf son of Yaqub son of Ishaq son of Ibrahim",
+        "The honorable, son of the honorable, son of the honorable: Yusuf (AS) son of Yaqub (AS) son of Ishaq (AS) son of Ibrahim (AS)",
         "A king descended from kings",
         "A shepherd descended from shepherds"
       ],
