@@ -1,7 +1,10 @@
 /* Homepage v4: original illuminated cover. All artwork generated for Qasas ul-Huda. */
 import { HomeNav, Footer, ColophonRule } from '../components/chrome.jsx';
 import { prophets } from '../data/prophets.js';
+import { foundations, foundationOrder } from '../data/foundations.js';
 import { useSiteEffects } from '../hooks/effects.js';
+
+const ROMAN = ['I', 'II', 'III', 'IV', 'V', 'VI'];
 
 function ProphetItem({ p }) {
   const medallion = (
@@ -176,37 +179,14 @@ export function HomePage() {
               Short articles on the essentials every story stands on, each one verified from the Quran and authentic
               hadith before it is set down.
             </p>
-            <div className="story-cards">
-              <a className="story-card reveal" data-delay="1" href="foundations/?p=iman">
-                <span className="thumb">
-                  <img src="assets/foundations-iman.webp" alt="A desert of dunes under a star-filled night sky with a crescent moon" loading="lazy" />
-                </span>
-                <span className="card-body">
-                  <span className="chapter-label">Article</span>
-                  <h3>The Six Articles of Faith</h3>
-                  <span className="soon-tag">Read the article</span>
-                </span>
-              </a>
-              <a className="story-card reveal" data-delay="2" href="foundations/?p=pillars">
-                <span className="thumb">
-                  <img src="assets/foundations-pillars.webp" alt="Five ancient stone pillars standing in a desert valley at dawn" loading="lazy" />
-                </span>
-                <span className="card-body">
-                  <span className="chapter-label">Article</span>
-                  <h3>The Five Pillars of Islam</h3>
-                  <span className="soon-tag">Read the article</span>
-                </span>
-              </a>
-              <a className="story-card reveal" data-delay="3" href="foundations/?p=quran">
-                <span className="thumb">
-                  <img src="assets/foundations-quran.webp" alt="A scribe's desk with blank scrolls, reed pens and an inkwell in warm lamplight" loading="lazy" />
-                </span>
-                <span className="card-body">
-                  <span className="chapter-label">Article</span>
-                  <h3>The Standardization of the Quran</h3>
-                  <span className="soon-tag">Read the article</span>
-                </span>
-              </a>
+            <div className="foundation-rows reveal" data-delay="3">
+              {foundationOrder.map((slug, i) => (
+                <a className="foundation-row" href={'foundations/?p=' + slug} key={slug}>
+                  <span className="fr-numeral" aria-hidden="true">{ROMAN[i]}</span>
+                  <span className="fr-title">{foundations[slug].hero.title}</span>
+                  <span className="fr-arrow" aria-hidden="true">&rarr;</span>
+                </a>
+              ))}
             </div>
           </div>
         </section>

@@ -9,6 +9,7 @@ export function HomeNav() {
         </a>
         <ul className="nav-links">
           <li><a href="index.html">Home</a></li>
+          <li><a href="asma-ul-husna/">Asma ul Husna</a></li>
           <li><a href="#timeline">Prophets</a></li>
           <li><a href="#foundations">Foundations</a></li>
         </ul>
@@ -26,6 +27,7 @@ export function StoryNav() {
           Qasas ul-Huda
         </a>
         <ul className="nav-links">
+          <li><a href="../asma-ul-husna/">Asma ul Husna</a></li>
           <li><a href="../index.html#timeline">Prophets</a></li>
           <li><a href="../index.html#foundations">Foundations</a></li>
         </ul>

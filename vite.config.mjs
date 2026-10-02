@@ -20,6 +20,7 @@ export default defineConfig({
         main: resolve(__dirname, 'src/templates/index.html'),
         story: resolve(__dirname, 'src/templates/stories/index.html'),
         foundations: resolve(__dirname, 'src/templates/foundations/index.html'),
+        asma: resolve(__dirname, 'src/templates/asma-ul-husna/index.html'),
       },
     },
   },

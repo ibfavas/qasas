@@ -40,5 +40,13 @@ html = html.split('../../../assets/').join('../assets/');
 await fs.mkdir(path.join(dist, 'foundations'), { recursive: true });
 await fs.writeFile(path.join(dist, 'foundations/index.html'), html);
 
+// Asma ul Husna page: dist/src/templates/asma-ul-husna/index.html -> dist/asma-ul-husna/index.html
+// Same depth as the story page: ../../../assets/... becomes ../assets/...
+const asma = path.join(dist, 'src/templates/asma-ul-husna/index.html');
+html = await fs.readFile(asma, 'utf8');
+html = html.split('../../../assets/').join('../assets/');
+await fs.mkdir(path.join(dist, 'asma-ul-husna'), { recursive: true });
+await fs.writeFile(path.join(dist, 'asma-ul-husna/index.html'), html);
+
 await fs.rm(path.join(dist, 'src'), { recursive: true, force: true });
 console.log('dist/ finalized for Cloudflare Pages');

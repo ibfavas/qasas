@@ -1249,3 +1249,16 @@ body::after {
 @media (max-width: 700px) {
   .lt-name { font-size: 14px; }
 }
+
+/* Foundations: slim article rows on the homepage (no thumbnails) */
+.foundation-rows { margin-top: 34px; border-top: 1px solid var(--rule); }
+.foundation-row { display: flex; align-items: baseline; gap: 20px; padding: 20px 6px; border-bottom: 1px solid var(--rule); text-decoration: none; }
+.fr-numeral { font-family: Georgia, 'Times New Roman', serif; font-size: 15px; letter-spacing: 0.12em; color: var(--gold-deep); min-width: 34px; }
+.fr-title { flex: 1; font-family: Georgia, 'Times New Roman', serif; font-size: 21px; color: var(--ink); }
+.fr-arrow { font-size: 20px; color: var(--gold); transition: transform 0.2s ease; }
+.foundation-row:hover .fr-title, .foundation-row:focus-visible .fr-title { color: var(--gold-deep); }
+.foundation-row:hover .fr-arrow, .foundation-row:focus-visible .fr-arrow { transform: translateX(5px); }
+@media (max-width: 700px) {
+  .fr-title { font-size: 18px; }
+  .foundation-row { padding: 16px 4px; }
+}
