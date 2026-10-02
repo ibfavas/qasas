@@ -10,7 +10,7 @@ export function HomeNav() {
         <ul className="nav-links nav-links-pill">
           <li><a href="index.html">Home</a></li>
           <li><a href="asma-ul-husna/">Asma ul Husna</a></li>
-          <li><a href="#timeline">Prophets</a></li>
+          <li><a href="#timeline">Stories of Prophets</a></li>
           <li><a href="#foundations">Foundations</a></li>
           <li><a href="#" aria-label="Caliphs (coming later)">Caliphs</a></li>
           <li><a href="#resources">Sources</a></li>
@@ -30,7 +30,7 @@ export function StoryNav() {
         </a>
         <ul className="nav-links nav-links-pill">
           <li><a href="../asma-ul-husna/">Asma ul Husna</a></li>
-          <li><a href="../index.html#timeline">Prophets</a></li>
+          <li><a href="../index.html#timeline">Stories of Prophets</a></li>
           <li><a href="../index.html#foundations">Foundations</a></li>
           <li><a href="#" aria-label="Caliphs (coming later)">Caliphs</a></li>
           <li><a href="../index.html#resources">Sources</a></li>
