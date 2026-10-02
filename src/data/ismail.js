@@ -7,7 +7,7 @@ export const chapter = {
   "hero": {
     "plaque": "Chapter VIII",
     "title": "Ismail (AS): True to His Promise",
-    "sub": "The son of Ibrahim (AS) who submitted to the dream and helped raise the House, the forefather of the Arabs: true to his promise, constant in prayer.",
+    "sub": "The son of Ibrahim (AS) who submitted to the dream and helped raise the House beside his father, the forefather of the Arabs, true to his promise and constant in prayer.",
     "img": "../assets/ismail-well.webp",
     "imgAlt": "An ancient stone well in a barren desert valley at dawn",
     "caption": "The valley of the well: “Indeed, he was true to his promise.” (Quran 19:54)"
@@ -40,7 +40,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Ibrahim (AS) was old when Allah gave him sons, and his own words remember it: praise to Allah, who had granted him Ismail (AS) and Ishaq (AS) in his old age. Of Ismail (AS) the Quran first says: Allah gave him good tidings of a forbearing boy.",
+          "html": "Ibrahim (AS) was old when Allah gave him sons, and his own words remember the gift: praise to Allah, who had granted him Ismail (AS) and Ishaq (AS) in his old age. Of Ismail (AS), the first tidings are these: Allah gave him good tidings of a forbearing boy.",
           "cls": "dropcap"
         },
         {
@@ -74,7 +74,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The boy grew up in a valley with no crops and no water, near the sacred House, that they might establish prayer. Ibrahim (AS) prayed that hearts would incline toward them and that they would be provided with fruits. The prayer was answered: hearts inclined, people came, and the valley lived.",
+          "html": "The boy grew up in a valley with no crops and no water, near the sacred House, settled there that they might establish prayer. Ibrahim (AS) prayed that hearts among the people would incline toward them and that they would be provided with fruits. And the prayer was answered: hearts inclined, people came, and the valley lived.",
           "cls": "dropcap"
         },
         {
@@ -101,7 +101,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Another narration adds Hajar&rsquo;s own words at the parting. When Ibrahim (AS) reached Makkah and made her sit under a tree and turned to go, she followed him to Kada&rsquo; and called from behind: to whom are you leaving us? He answered: to Allah&rsquo;s care. &ldquo;I am satisfied to be with Allah,&rdquo; she said, and returned to her place. Her milk increased for the child as she drank from the skin. When the water ran out she climbed Safa and ran to Marwa, seven rounds, until a voice answered her: it was Gabriel, striking the earth with his heel, and the water gushed out.",
+          "html": "Another narration preserves Hajar&rsquo;s own words at the parting. When Ibrahim (AS) reached Makkah, he made her sit under a tree and then turned to go. She followed him as far as Kada&rsquo; and called after him: to whom are you leaving us? To Allah&rsquo;s care, he answered. &ldquo;I am satisfied to be with Allah,&rdquo; she said, and she returned to her place. As she drank from the skin, her milk increased for the child. Then the water ran out, and she climbed Safa and ran to Marwa, seven rounds, until a voice answered her. It was Gabriel, striking the earth with his heel, and the water gushed out.",
           "cls": "dropcap"
         },
         {
@@ -128,7 +128,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then the dream. O my son, I have seen that I must sacrifice you, so see what you think. The boy did not hesitate and did not bargain: &ldquo;O my father, do as you are commanded. You will find me, if Allah wills, of the steadfast.&rdquo; And when they had both submitted, Allah ransomed him with a great sacrifice. The Quran does not name the son in this passage; it names only his patience.",
+          "html": "Then came the dream. O my son, I have seen that I must sacrifice you, so see what you think. The boy did not hesitate, and he did not bargain. &ldquo;O my father, do as you are commanded. You will find me, if Allah wills, of the steadfast.&rdquo; When they had both submitted, Allah ransomed him with a great sacrifice. In this passage the son is not named; only his patience is named.",
           "cls": "dropcap"
         },
         {
@@ -168,7 +168,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Quran&rsquo;s own portrait of Ismail (AS) is brief and luminous: &ldquo;Indeed, he was true to his promise, and he was a messenger and a prophet.&rdquo; And he used to enjoin on his people prayer and zakah, and was pleasing to his Lord.",
+          "html": "The Quran&rsquo;s own portrait of Ismail (AS) is brief, and it shines: &ldquo;Indeed, he was true to his promise, and he was a messenger and a prophet.&rdquo; He used to enjoin on his people prayer and zakah, and he was pleasing to his Lord.",
           "cls": "dropcap"
         },
         {
@@ -195,7 +195,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Prophet (ﷺ) himself testified to Ismail (AS)&rsquo;s uprightness. When he entered the Ka&lsquo;bah and saw pictures of Ibrahim (AS) and Ismail (AS) holding divining arrows, he ordered them erased and said: may Allah curse those who made them; by Allah, neither Ibrahim (AS) nor Ismail (AS) ever practiced divination by arrows. The Arabs around them cast arrows to seek fortunes; the two prophets never touched them.",
+          "html": "The Prophet (ﷺ) himself bore witness to Ismail (AS)&rsquo;s uprightness. When he entered the Ka&lsquo;bah and saw pictures of Ibrahim (AS) and Ismail (AS) holding divining arrows, he ordered them erased and said: may Allah curse those who made them; by Allah, neither Ibrahim (AS) nor Ismail (AS) ever practiced divination by arrows. Around them, the Arabs cast arrows to seek fortunes; the two prophets never touched them.",
           "cls": "dropcap"
         },
         {
@@ -222,7 +222,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "When Ibrahim (AS) was commanded to raise the House, it was Ismail (AS) who stood beside him, raising the foundations together, praying as they built: &ldquo;Our Lord, accept [this] from us. Indeed, You are the Hearing, the Knowing.&rdquo; Stone by stone, father and son, and with every stone a prayer.",
+          "html": "When Ibrahim (AS) was commanded to raise the House, Ismail (AS) stood beside him, and together they raised its foundations, praying as they built: &ldquo;Our Lord, accept [this] from us. Indeed, You are the Hearing, the Knowing.&rdquo; Stone by stone, father and son, and with every stone a prayer.",
           "cls": "dropcap"
         },
         {
@@ -249,7 +249,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "After Hajar died, Ibrahim (AS) would visit Makkah to see the family he had left. Twice he found Ismail (AS) away, and twice he tested the household by its gratitude. The first wife complained of hardship and poverty; his parting message, carried to Ismail (AS), was to change the threshold of his gate, and Ismail (AS) understood: divorce her. The second wife praised Allah for their prosperity; his message was to keep the threshold firm, and Ismail (AS) understood: keep her. A father&rsquo;s wisdom, a son&rsquo;s obedience, and a household weighed by thankfulness.",
+          "html": "After Hajar died, Ibrahim (AS) would come to Makkah to see the family he had left there. Twice he found Ismail (AS) away, and twice he tested the household by its gratitude. The first wife complained of hardship and poverty. His parting message, carried to Ismail (AS), was to change the threshold of his gate, and Ismail (AS) understood: divorce her. The second wife praised Allah for their prosperity. His message then was to keep the threshold firm, and Ismail (AS) understood: keep her. A father&rsquo;s wisdom, a son&rsquo;s obedience, and a household weighed by thankfulness.",
           "cls": "dropcap"
         },
         {
@@ -276,7 +276,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Ismail (AS) and Idris (AS) and Dhul-Kifl (AS): all were of the patient, and Allah admitted them into His mercy, for they were of the righteous. And remember Ismail (AS), Al-Yasa (AS), and Dhul-Kifl (AS): all are among the outstanding.",
+          "html": "Ismail (AS), Idris (AS), and Dhul-Kifl (AS) were all of the patient, and Allah admitted them into His mercy, for they were of the righteous. And remember Ismail (AS), Al-Yasa (AS), and Dhul-Kifl (AS): all are among the outstanding.",
           "cls": "dropcap"
         },
         {
@@ -310,7 +310,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "From Ismail (AS)&rsquo;s line came a nation. The Prophet (ﷺ) said that Allah granted eminence to Kinanah from the descendants of Ismail (AS), and to Quraysh from Kinanah, and to Banu Hashim from Quraysh, and to himself from Banu Hashim. The boy left in the valley became the forefather of the final messenger.",
+          "html": "From Ismail (AS)&rsquo;s line came a nation. The Prophet (ﷺ) said that Allah granted eminence to Kinanah from the descendants of Ismail (AS), to Quraysh from Kinanah, to Banu Hashim from Quraysh, and to himself from Banu Hashim. The boy left in the valley had become the forefather of the final messenger.",
           "cls": "dropcap"
         },
         {
@@ -325,13 +325,13 @@ export const chapter = {
   ],
   "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Maryam (19:54-55), Surah As-Saffat (37:101-107), Surah Ibrahim (14:37-39), Surah Al-Baqarah (2:127), Surah Al-Anbiya (21:85-86) and Surah Sad (38:48), with narrations from Sahih Muslim (2276) and Sahih al-Bukhari (3352, 3364, 3365), and one labeled panel from Tafsir Ibn Kathir (on 37:101-113), clearly marked as commentary, not revelation.</p>\n      ",
   "lessons": [
-    "<strong>Keep your promise.</strong> The Quran&rsquo;s portrait of Ismail (AS) begins there; a kept promise is a prophetic trait. (Quran 19:54)",
-    "<strong>“Do as you are commanded.”</strong> No hesitation, no bargaining: submission is the whole answer. (Quran 37:102)",
-    "<strong>Enjoin prayer and zakah on your household.</strong> His care began at home. (Quran 19:55)",
-    "<strong>Build with your father.</strong> Stone by stone and prayer by prayer, righteous work is worship. (Quran 2:127)",
-    "<strong>Patience admits into mercy.</strong> He is named among the patient, and the patient are admitted. (Quran 21:85-86)",
-    "<strong>Gratitude is the threshold.</strong> Ibrahim (AS) tested Ismail (AS)&rsquo;s household by one measure: thankfulness. The complaining wife was sent away; the grateful one was kept. Blessings stay where gratitude lives.",
-    "<strong>They never touched divination.</strong> The Prophet (ﷺ) testified that neither Ibrahim (AS) nor Ismail (AS) ever practiced divination by arrows. Purity of worship leaves no room for fortune-telling."
+    "<strong>Keep your promise.</strong> The Quran&rsquo;s portrait of Ismail (AS) begins with a promise kept, and a kept promise is a prophetic trait. (Quran 19:54)",
+    "<strong>“Do as you are commanded.”</strong> Without hesitation and without bargaining, submission is the whole answer. (Quran 37:102)",
+    "<strong>Enjoin prayer and zakah on your household.</strong> His care began at home, with his own household. (Quran 19:55)",
+    "<strong>Build with your father.</strong> Stone by stone, prayer by prayer: righteous work, done together, is worship. (Quran 2:127)",
+    "<strong>Patience admits into mercy.</strong> He is named among the patient, and the patient are admitted into mercy. (Quran 21:85-86)",
+    "<strong>Gratitude is the threshold.</strong> Ibrahim (AS) measured Ismail (AS)&rsquo;s household by one thing: thankfulness. The wife who complained was sent away; the wife who gave thanks was kept. Blessings remain where gratitude lives.",
+    "<strong>They never touched divination.</strong> The Prophet (ﷺ) bore witness that neither Ibrahim (AS) nor Ismail (AS) ever practiced divination by arrows. Worship kept pure has no room for fortune-telling."
   ],
   "quiz": [
     {

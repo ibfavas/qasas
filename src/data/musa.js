@@ -7,7 +7,7 @@ export const chapter = {
   "hero": {
     "plaque": "Chapter XIV",
     "title": "Musa (AS): The Parted Sea",
-    "sub": "Placed in the river as a baby and raised in Pharaoh's house, he returned to stand before Pharaoh with a staff in his hand, and watched the sea stand like mountains: the story of Musa (AS), as the Quran tells it.",
+    "sub": "Placed in the river as a baby and raised in Pharaoh's house, Musa (AS) returned to stand before Pharaoh, staff in hand, and watched the sea stand like mountains: his story, as the Quran tells it.",
     "img": "../assets/musa-sea.webp",
     "imgAlt": "Towering walls of water standing apart above a dry path through the sea",
     "caption": "“Strike with your staff the sea.” (Quran 26:63)"
@@ -46,7 +46,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Pharaoh had raised himself high in the land of Egypt and split its people into castes, holding one of them down in weakness: the Children of Israel. His order against them was written in blood. Their sons were slaughtered, and their women were kept alive, a policy of slow erasure carried out year after year over a subjected people.",
+          "html": "In Egypt, Pharaoh had exalted himself in the land and divided its people into castes, pressing one group down in weakness: the Children of Israel. Against them his decree ran in blood. Their sons were slaughtered and their women kept alive, year after year, a slow erasure imposed on a people held under his power.",
           "cls": "dropcap"
         },
         {
@@ -58,7 +58,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "It was a humiliation with a purpose. Pharaoh meant to break a people by striking at its future, killing the sons while the daughters lived under his power. The Quran does not soften the record: it names it a great trial from their Lord."
+          "html": "It was humiliation meant to break them at the root: to strike at their future by killing the sons while the daughters lived under his power. The record leaves nothing softened. It calls what they endured a great trial from their Lord."
         },
         {
           "t": "verse",
@@ -84,7 +84,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Into that terror a son was born to a woman of the Children of Israel. Allah inspired her heart with an instruction no frightened mother could have devised for herself: nurse him, and when you fear for him, cast him into the river. Do not fear and do not grieve, for He would return the child to her and make him one of the messengers.",
+          "html": "Into that terror, a son was born to a woman of the Children of Israel. Allah inspired her with a command no frightened mother could have found on her own: nurse him, and when you fear for him, cast him into the river. Do not fear, and do not grieve. He would return the child to her, and make him one of the messengers.",
           "cls": "dropcap"
         },
         {
@@ -96,7 +96,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "She obeyed, and the river carried the basket where her arms could not. Her heart was left hollow with grief, and she nearly cried out over him and betrayed the secret, had Allah not bound her heart fast so that she would be among the believers. Then she sent his sister after him, to watch from a distance and see where the current would deliver him."
+          "html": "She obeyed. The river bore the basket where her own arms could not go. Her heart was hollowed by grief, and she came near to crying out over him and giving the secret away, had Allah not bound her heart fast, that she might be among the believers. Then she sent his sister after him, to follow from a distance and see where the current would bring him."
         },
         {
           "t": "verse",
@@ -122,7 +122,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The basket came to rest at the house of Pharaoh himself, and the tyrant&rsquo;s own wife pleaded for the child&rsquo;s life: a comfort of the eye for her and for him, not to be killed, for perhaps he would benefit them or they might take him as a son. So the boy who was marked for death was gathered up in the palace of the man who had ordered the killing.",
+          "html": "The basket came to rest at Pharaoh&rsquo;s own house, and the wife of the tyrant pleaded for the child&rsquo;s life. Let him be a comfort of the eye for her and for him. Let him not be killed, for he might benefit them, or they might take him as a son. So the boy marked for death was taken up inside the palace of the man who had ordered the killing.",
           "cls": "dropcap"
         },
         {
@@ -134,7 +134,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "But the palace could not feed him. The infant refused every wet nurse offered to him, until his sister came forward with a quiet proposal: shall I direct you to a household who will care for him and be sincere toward him? And so Musa (AS) was carried back to his own mother&rsquo;s arms, openly, as a nursling of the court."
+          "html": "The palace, though, could not feed him. The infant refused every wet nurse brought to him, until his sister stepped forward with a quiet question: shall I direct you to a household who will care for him for you, and be sincere toward him? And so Musa (AS) was carried back into his own mother&rsquo;s arms, openly now, a nursling of the court."
         },
         {
           "t": "verse",
@@ -145,7 +145,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The promise made at the riverbank was kept in Pharaoh&rsquo;s own house: Allah&rsquo;s word to a frightened mother, fulfilled under the roof of the man she feared. The child grew up sheltered by the very household that hunted his people."
+          "html": "So the promise spoken at the river was kept inside Pharaoh&rsquo;s house. Allah&rsquo;s word to a frightened mother was fulfilled beneath the roof of the man she feared, and the child grew up sheltered by the household that hunted his people."
         }
       ]
     },
@@ -164,7 +164,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "When Musa (AS) had reached his maturity, he entered the city at a time when its people were heedless and found two men fighting, one from his own people and one from their enemy. The Israelite cried out to him for help against the Egyptian, and Musa (AS) struck the man a single blow and finished him. He had not gone out to kill. Horror at his own act followed at once: this is from the work of Satan, he said, and fell into prayer for forgiveness, and his Lord forgave him.",
+          "html": "When Musa (AS) had reached maturity, he entered the city at a time when its people were heedless, and found two men fighting: one from his own people, and one from their enemy. The man from his people cried to him for help against the Egyptian, and Musa (AS) struck him a single blow, and it finished him. He had not gone out meaning to kill. At once he recoiled from what he had done: this is from the work of Satan, he said, and turned in prayer for forgiveness. And his Lord forgave him.",
           "cls": "dropcap"
         },
         {
@@ -176,7 +176,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The next morning found him in the city again, fearful and watchful, when the same man he had helped the day before screamed for his help once more. Musa (AS) rebuked him openly: you are clearly a troublemaker. And when he reached out toward their common enemy, the cry went up that named him before all who heard: do you want to kill me as you killed a soul yesterday? The secret was out, and Egypt was no longer safe for him."
+          "html": "The next morning he was in the city again, fearful and watching for what might come, when the same man he had helped the day before cried out to him once more. Musa (AS) rebuked him plainly: you are clearly a troublemaker. Then, as he reached toward the enemy they shared, the words rang out that exposed him to every ear: do you want to kill me, as you killed a soul yesterday? The secret was out. Egypt was no longer safe for him."
         },
         {
           "t": "verse",
@@ -202,12 +202,12 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "He fled Egypt a wanted man, turning his face toward Madyan with a fugitive&rsquo;s prayer: perhaps my Lord will guide me to the sound way. At the well of Madyan he found a crowd watering their flocks, and apart from them two women holding their animals back, waiting. Their father, they explained, was an old man, so the work of the well fell to them.",
+          "html": "He left Egypt a wanted man, and turned toward Madyan carrying this prayer: perhaps my Lord will guide me to the sound way. At the well of Madyan he found a crowd watering their flocks. Apart from them stood two women, holding their animals back and waiting. Their father, they told him, was an old man; that was why the work at the well had fallen to them.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "Musa (AS) watered their flock for them, then withdrew to the shade, owning nothing in a strange land: no home, no food secured, no patron. His words there were the words of a man utterly dependent and utterly content to be so: my Lord, indeed I am in need of whatever good You send down to me."
+          "html": "Musa (AS) watered their flock for them, then withdrew into the shade. He owned nothing in a strange land: no home, no food secured, no patron. There he spoke as a man wholly dependent, and at peace in his dependence: my Lord, indeed I am in need of whatever good You send down to me."
         },
         {
           "t": "verse",
@@ -233,12 +233,12 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "One of the two women came back to him walking with shyness, carrying her father&rsquo;s invitation. The old man heard the fugitive&rsquo;s story, and his first word to him was the one Musa (AS) had not heard in Egypt: do not fear. You have escaped from the wrongdoing people. Then the daughter spoke the assessment that would shape the next years: hire him, for the best one you can hire is the strong and the trustworthy.",
+          "html": "Then one of the two women returned to him, walking with shyness, and brought her father&rsquo;s invitation. The old man listened to the story of the man who had fled, and his first words gave Musa (AS) what Egypt had not: do not fear. You have escaped from the wrongdoing people. Then one of his daughters spoke the judgement that would shape the years ahead: hire him, for the best you can hire is the strong and the trustworthy.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "The old man offered him one of his daughters in marriage on a single condition: honest service for eight years, or ten if he completed them as a favor from himself. No hardship was demanded, by Allah&rsquo;s will, and the bargain was struck before Allah as witness. So the wanted man of Egypt became a shepherd and a son by marriage in Madyan, and the years of exile passed over him."
+          "html": "The old man offered him one of his daughters in marriage, on one condition: service, honestly given, for eight years, and ten if he completed them from himself as a favour. He would impose no hardship, if Allah willed, and the agreement was set with Allah as witness over it. So the man wanted in Egypt became a shepherd in Madyan, and a son by marriage, and the years of exile went by over him."
         },
         {
           "t": "verse",
@@ -264,7 +264,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "When the term of service was complete, Musa (AS) set out with his family, and on the way, beside the mountain, he caught sight of a fire. Wait here, he told them; I will bring you news from it, or a burning brand so you may warm yourselves. But what waited for him at that fire was not news. It was a voice.",
+          "html": "When the term of service was done, Musa (AS) journeyed on with his family. Along the way, by the mountain, he saw a fire. Stay here, he told them; I will bring you news from it, or a burning brand so you may warm yourselves. But what awaited him at that fire was not news. It was a voice.",
           "cls": "dropcap"
         },
         {
@@ -276,7 +276,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "What is that in your right hand, O Musa (AS)? His staff, he answered, the shepherd&rsquo;s tool of every day, for leaning on, for beating down leaves for his sheep, for uses beyond counting. Throw it down. He threw it, and it was a serpent, moving swiftly across the ground. Take it and do not fear, came the command; and the staff was a staff again in his grip. Then his hand, drawn from his side, came out white and shining, without disease: a second sign."
+          "html": "What is that in your right hand, O Musa (AS)? His staff, he answered: the tool of his shepherd&rsquo;s days, to lean upon, to beat down leaves for his sheep, and for other uses besides. Throw it down. He threw it down, and there it was: a serpent, moving swiftly. Take it, and do not fear. He took hold of it, and it was a staff again in his grip. Then he drew his hand from his side, and it came out white and shining, without disease: another sign."
         },
         {
           "t": "verse",
@@ -287,7 +287,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then came the commission: go to Pharaoh, for he has transgressed. Musa (AS) did not answer with pride in the honor. He answered with a prayer, asking for an expanded chest, an eased task, a knot loosed from his tongue so that his words would land, and a partner from his own house: Harun (AS), my brother. Strengthen me with him, he said, and let me not carry this alone. The answer came back at once: you have been granted your request, O Musa (AS)."
+          "html": "Then the commission came: go to Pharaoh, for he has transgressed. Musa (AS) did not meet the honour with pride. He met it with prayer. He asked for his chest to be expanded, his task to be eased, and the knot in his tongue to be loosed, so that they might understand his speech. And he asked for a partner from his own house: Harun (AS), my brother. Strengthen me through him, he said; do not let me bear this alone. The answer came at once: you have been granted your request, O Musa (AS)."
         },
         {
           "t": "verse",
@@ -298,7 +298,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Prophet ﷺ told of Musa (AS) meeting Adam (AS), and Adam (AS) himself named what had happened at that fire: you are Musa (AS), whom Allah selected with His messages and with His speech. The man who had asked only for firewood had been chosen to be spoken to by Allah, and sent back to the tyrant of his childhood with signs in his hands."
+          "html": "The Prophet ﷺ told how Musa (AS) met Adam (AS), and how Adam (AS) named what had happened at that fire: you are Musa (AS), whom Allah selected with His messages and with His speech. He had gone looking for a brand from a fire, and he had been chosen, spoken to by Allah, and sent back to the tyrant of his childhood with signs in his hands."
         },
         {
           "t": "hadith",
@@ -324,7 +324,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The two brothers were sent together, and their instructions were a study in restraint: speak to him with gentle speech, that perhaps he may be reminded or fear Allah. The command to be gentle was given about a man who slaughtered children. Musa (AS) and Harun (AS) spoke their fear plainly, that Pharaoh would hasten punishment upon them or cross every bound, and the answer held them up: do not fear. Indeed, I am with you both; I hear and I see.",
+          "html": "The brothers were sent together, and the charge laid on them was measured and restrained: speak to him with gentle speech, that perhaps he may remember, or fear Allah. That gentleness was commanded toward a man who had slaughtered children. Musa (AS) and Harun (AS) named their fear honestly, that Pharaoh might hasten against them, or transgress beyond bounds, and the answer steadied them: do not fear. I am with you both. I hear, and I see.",
           "cls": "dropcap"
         },
         {
@@ -336,7 +336,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "They were to enter the court not as petitioners but as envoys: we are messengers of the Lord of the worlds, and the demand itself was the door to everything after it. Send with us the Children of Israel. The palace that had sheltered Musa (AS) as an infant would now hear him as a prophet."
+          "html": "They were to enter that court not asking as petitioners, but speaking as envoys: we are messengers of the Lord of the worlds. The demand they carried would open everything that followed: send with us the Children of Israel. The palace that had taken Musa (AS) in as an infant would now hear him as a prophet."
         },
         {
           "t": "verse",
@@ -362,7 +362,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Musa (AS) brought Pharaoh the message and the proof of it together, for Allah had not sent him with words alone. Before the court he threw down his staff, and it was a serpent, manifest. He drew out his hand, and it was white to all who looked on. The tyrant&rsquo;s council answered with the only explanation they could afford: magic, concocted to drive them from their land, and a contest was arranged to bury the signs under spectacle.",
+          "html": "Musa (AS) came to Pharaoh with the message, and with its proof beside it, for Allah had not sent him with words alone. Before the court, he cast down his staff, and it was a serpent, plain to see. He drew out his hand, and it was white for all who beheld it. The council around the tyrant gave the only answer they could afford: this was magic, worked to drive them from their land. A contest was set, to bury the signs beneath a spectacle.",
           "cls": "dropcap"
         },
         {
@@ -374,7 +374,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The magicians of Egypt came with their price named in advance, and they threw first, bewitching the eyes of the crowd with ropes and staffs that seemed to crawl. Then Musa (AS) threw his staff, and it swallowed, in an instant, everything their hands had faked. The contest was over, and its judges knew it. The magicians fell down in prostration where they stood, declaring faith in the Lord of the worlds, the Lord of Musa (AS) and Harun (AS). Pharaoh raged that they had believed without his permission and swore to cut their hands and feet on opposite sides and crucify them all. Their answer stands among the great speeches of the Quran: we are returning to our Lord; pour out upon us patience, and let us die as Muslims."
+          "html": "The magicians of Egypt came, their price named before they began, and they cast first. Their ropes and staffs bewitched the eyes of the people, and seemed to move. Then Musa (AS) cast his staff, and in a moment it swallowed all that they had falsified. The contest ended there, and those who knew the craft knew what they had seen. The magicians fell in prostration where they stood, and declared their faith in the Lord of the worlds, the Lord of Musa (AS) and Harun (AS). Pharaoh raged that they had believed before he gave them leave, and threatened to cut off their hands and feet on opposite sides, and to crucify them all. Their answer endures: to our Lord we are returning. Pour upon us patience, and cause us to die as Muslims."
         },
         {
           "t": "verse",
@@ -400,7 +400,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Pharaoh&rsquo;s answer to humiliation was pressure: he seized the Children of Israel with years of drought and failing crops, hoping hardship would bend what signs could not. Instead, his own land became the lesson. The flood came, and the locusts, and the lice, and the frogs, and the blood, distinct signs sent one upon another, and still the court stiffened in arrogance and called itself a criminal people only when the waters were at its own throat.",
+          "html": "Pharaoh&rsquo;s answer to humiliation was pressure, seizing upon the Children of Israel in years of drought and failing crops, hoping hardship would bend what signs could not. Instead, Pharaoh&rsquo;s own land became the lesson. The flood came, and the locusts, and the lice, and the frogs, and the blood, distinct signs sent one after another. Still the court stiffened in arrogance, and was a criminal people, turning for help only when the punishment had fallen upon it.",
           "cls": "dropcap"
         },
         {
@@ -412,7 +412,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Each plague bought a promise, and each promise died with the plague that purchased it. When the punishment fell, they begged Musa (AS) to pray to his Lord: if you remove this from us, we will surely believe you and send the Children of Israel with you. And when it was lifted, every time, they broke their word to the last man. The signs had ceased to be evidence to them. They had become weather, waited out and forgotten."
+          "html": "Every plague bought a promise, and every promise died when the plague that had bought it lifted. When the punishment descended, they begged Musa (AS) to call upon his Lord for them: if You remove this from us, we will believe you, and we will send the Children of Israel with you. Then the punishment would be removed, and, every time, they broke their word. The signs were no longer evidence to them. They had become weather, to be waited out, and then forgotten."
         }
       ]
     },
@@ -431,7 +431,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then Allah revealed to Musa (AS): depart with My servants by night, for you will be pursued. The Children of Israel slipped out of Egypt in the darkness, a whole people on the move, while Pharaoh woke to an emptied land and sent his heralds through the cities to muster an army, sneering even as he armed: these are but an insignificant band, and they have enraged us.",
+          "html": "Then Allah revealed to Musa (AS) the order for the night: travel by night with My servants, for you will be pursued. In the darkness, the Children of Israel went out of Egypt, a whole people moving together. Pharaoh woke to a land emptied of them, and sent gatherers into the cities to raise his host, dismissing those he hunted even as he armed against them: they are only a small band, and they have enraged us.",
           "cls": "dropcap"
         },
         {
@@ -443,7 +443,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The road out had been prepared before Pharaoh stirred. Allah had commanded His prophet: travel by night with My servants, and strike for them a dry path through the sea, fearing neither to be overtaken nor to drown. The fugitives did not yet know what that path would look like. They only knew the order had come, and the order was enough."
+          "html": "The way out had been commanded before Pharaoh stirred. Travel by night with My servants, and strike for them a dry path through the sea, fearing neither pursuit that overtakes, nor drowning. Those who fled did not yet know what that path would be. They knew only that the command had come, and the command was enough for them."
         }
       ]
     },
@@ -462,7 +462,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Pharaoh&rsquo;s host caught up with them at sunrise, and the two companies saw each other. Before the Children of Israel lay the sea; behind them, the army of the king who had killed their sons. Panic broke over the camp: indeed, we are to be overtaken. Musa (AS) answered with the calm of the whole story in a single sentence: no. Indeed, with me is my Lord; He will guide me. Then came the command: strike the sea with your staff. He struck it, and the sea split apart, and each side stood like a great towering mountain.",
+          "html": "At sunrise, Pharaoh&rsquo;s host overtook them, and the two companies saw one another. The sea lay before the Children of Israel. Behind them stood the army of the king who had slaughtered their sons. Panic swept the camp: indeed, we are to be overtaken. Musa (AS) answered, and his answer held the calm of the whole account in a single sentence: no. Indeed, with me is my Lord; He will guide me. Then the command came: strike the sea with your staff. He struck. The sea parted, and every portion of it stood like a great, towering mountain.",
           "cls": "dropcap"
         },
         {
@@ -474,7 +474,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Through that drowned road the Children of Israel crossed on dry ground, and Pharaoh, drawn on behind them, followed his enemy into the sea itself. Only when the water closed over him did his tongue find faith: I believe that there is no god but the One in whom the Children of Israel believe, and I am of the Muslims. The answer was a question that ends every tyranny: now? And you had disobeyed before, and were of the corrupters?"
+          "html": "Across that road, through the sea, the Children of Israel passed on dry ground. Pharaoh pressed after them, and followed the people he hunted into the sea itself. Only when drowning overtook him did his tongue find its confession: I believe there is no god except the One in whom the Children of Israel believe, and I am of the Muslims. The reply came as a question: now? And you disobeyed before, and were among the corrupters?"
         },
         {
           "t": "verse",
@@ -485,7 +485,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Not one of Musa (AS)&rsquo;s company was lost, and not one of Pharaoh&rsquo;s host remained alive. The Quran closes the account the way it closes every rescue: indeed in this is a sign, but most of them were not believers. And indeed, your Lord, He is the Exalted in Might, the Merciful."
+          "html": "Musa (AS) and all with him were saved, and the host that pursued them was drowned. Not one of his company was lost; not one of Pharaoh&rsquo;s army was left alive. The account closes where every rescue closes: in this there is a sign, yet most of them were not believers. And your Lord is the Exalted in Might, the Merciful."
         },
         {
           "t": "verse",
@@ -502,7 +502,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Prophet ﷺ would later fast the day of Ashura in gratitude for this rescue, telling the people of Madinah that he had more right to Musa (AS) than they did. The crossing of the sea remained, for the whole community, a day marked by fasting and thanks."
+          "html": "The Prophet ﷺ later fasted the day of Ashura in gratitude for that rescue, and told the people of Madinah that he had more right to Musa (AS) than they. The crossing remained, for the community, a day of fasting and thanks."
         },
         {
           "t": "hadith",
@@ -528,7 +528,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Rescue did not end at the far shore. In the wilderness, Allah shaded the Children of Israel with clouds and sent down to them manna and quails: eat from the good things We have provided for you. A people who had eaten under slavery now ate from the sky, and the provision asked nothing of them but gratitude.",
+          "html": "The rescue did not end at the far shore. In the wilderness, Allah shaded the Children of Israel with clouds, and sent down upon them manna and quails: eat of the good things with which We have provided you. A people who had eaten under slavery were now fed from above, and nothing was asked of them in return but gratitude.",
           "cls": "dropcap"
         },
         {
@@ -540,7 +540,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "And when thirst pressed them, Musa (AS) was told: strike the rock with your staff. He struck it, and twelve springs gushed out, one for every tribe, so that all the people knew their place to drink. The tyrant&rsquo;s Egypt had slaughtered their sons; the desert, by Allah&rsquo;s command, fed them and watered them in their thousands."
+          "html": "And when thirst pressed upon them, Musa (AS) was told: strike the rock with your staff. He struck it, and twelve springs burst forth, one for each tribe, so that every people knew its drinking place. Egypt under the tyrant had slaughtered their sons. The wilderness, at Allah&rsquo;s command, gave them food and water in their thousands."
         },
         {
           "t": "verse",
@@ -566,7 +566,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "While Musa (AS) was on the mountain receiving the words of his Lord, his people below were fashioning a god. The Samiri cast for them a calf, a body that lowed, and they declared: this is your god and the god of Musa (AS), but he forgot. Harun (AS) had warned them before Musa (AS) ever descended: my people, you are only being tested by it, and indeed your Lord is the Most Merciful, so follow me and obey my order. They answered that they would not stop until Musa (AS) returned.",
+          "html": "While Musa (AS) was on the mountain, receiving the words of his Lord, the people below were making a god for themselves. The Samiri brought out for them a calf: a body, with a lowing sound. This is your god, they said, and the god of Musa (AS), but he has forgotten. Harun (AS) had already warned them, before Musa (AS) came down: my people, you are only being tested by it. Your Lord is the Most Merciful, so follow me, and obey my command. They answered that they would never cease their devotion to it until Musa (AS) returned to them.",
           "cls": "dropcap"
         },
         {
@@ -578,7 +578,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "He came down with the tablets in his hands and fury in his face, seizing his brother by the head and dragging him toward himself. Harun (AS) pleaded: do not seize me by my beard or by my head; I feared you would say I caused division among the Children of Israel and did not respect your word. Then Musa (AS) turned his anger into prayer, and the prayer covered his brother before himself: my Lord, forgive me and my brother, and admit us into Your mercy, for You are the most merciful of the merciful."
+          "html": "He returned with the tablets in his hands, angry and grieved, and seized his brother by the head, drawing him toward himself. Harun (AS) pleaded with him: son of my mother, do not seize me by my beard, or by my head. I feared you would say that I had divided the Children of Israel, and had not watched for your word. Then Musa (AS) turned from anger to prayer, and the prayer took in his brother before himself: my Lord, forgive me and my brother, and bring us into Your mercy. You are the most merciful of the merciful."
         },
         {
           "t": "verse",
@@ -589,7 +589,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "To the Samiri he gave a sentence to carry for the rest of his days: go, and in this life you will say, touch me not; and there is a promise for you you will not be able to avoid. Then he looked at the god of gold his people had worshipped, and its end was fire and scattering: we will surely burn it, then scatter it into the sea. The calf went into the water as dust, and the people were commanded to repent to their Maker."
+          "html": "Then he turned to the Samiri, and gave him a sentence to carry through his life: go. In this life, yours will be to say: no contact. And you have an appointment you will not fail to keep. Then he looked to the god of gold they had remained devoted to, and named its end: we will burn it, and scatter it into the sea. The calf was burned, and blown into the water, and the people were commanded to repent to their Maker."
         },
         {
           "t": "verse",
@@ -615,12 +615,12 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Years on, Musa (AS) rose one day to address the Children of Israel and was asked who among people knew the most. I do, he answered, and his Lord admonished him for not returning the knowledge to Allah. There was a servant of Allah at the junction of the two seas with knowledge Musa (AS) had not been given. So he set out with his young companion, carrying a fish, resolved to travel on and on until he reached that junction, or the years rolled by.",
+          "html": "Years later, Musa (AS) stood to address the Children of Israel, and was asked who, among all people, knew the most. I do, he answered. His Lord admonished him, because he had not referred the knowledge back to Allah. At the junction of the two seas, there was a servant of Allah who had been given knowledge that Musa (AS) had not been given. So he set out with his young companion, a fish carried with them, resolved to go on until he reached that junction, or to travel on for a long time.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "At the junction they found the servant, a man Allah had wrapped in mercy from Himself and taught knowledge from His own presence, the one the prophetic narrations name Al-Khidr. Musa (AS) asked, as a student asks: may I follow you, so that you teach me from what you have been taught of right judgement? The answer set the law of the road ahead: you will never be able to bear patiently with me, for how can you bear what you cannot encompass in knowledge?"
+          "html": "At the junction of the two seas, they found that servant: one to whom Allah had given mercy from Himself, and whom He had taught knowledge from His own presence. The prophetic narrations name him Al-Khidr. Musa (AS) came to him as a student comes to a teacher: may I follow you, that you may teach me of what you have been taught, of sound judgement? The answer fixed the terms of all that lay ahead: you will never be able to have patience with me. How could you have patience for what you do not encompass in knowledge?"
         },
         {
           "t": "verse",
@@ -637,7 +637,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "What followed pressed Musa (AS) three times in the one place he could not be pressed and stay silent: the law he carried. A ship that had carried them for free was holed. A boy was taken. A collapsing wall, in a town that had refused them food, was set straight without wage. Each time Musa (AS) spoke, and the third time, the parting came. Before they separated, Al-Khidr laid the hidden meanings open: a king seizing every sound ship by force, a boy whose disbelief would have burdened his believing parents, and a wall guarding the treasure of two orphans until they reached maturity. Your Lord intended, he said, that they reach maturity and extract their treasure, as a mercy from your Lord. I did it not of my own accord."
+          "html": "What followed tried Musa (AS) three times, and each time at the point where he could not remain silent: the law he bore. A ship that had carried them without charge was holed. A boy was taken. A wall, falling down in a town that had refused them food, was set upright, and no wage was taken for it. Each time, Musa (AS) spoke. At the third, the parting came. Before they separated, Al-Khidr opened the meanings that had lain hidden. Behind the ship stood a king, taking every sound ship by force. Behind the boy stood parents who believed, and a son whose disbelief would have weighed upon his believing parents. Behind the wall lay the treasure of two orphan boys, guarded until they grew to maturity. Your Lord intended that they should reach maturity and bring out their treasure, as a mercy from your Lord. And I did not do it of my own accord."
         },
         {
           "t": "verse",
@@ -648,7 +648,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Prophet ﷺ preserved the very name of the teacher. Al-Khadir, he explained, was called so because when he sat upon barren white land, it turned green with growth behind him. Musa (AS) parted from him having learned the lesson the whole journey was built to teach: beyond the knowledge given to even the greatest of men stands the knowledge of Allah, encompassing what no servant can see."
+          "html": "The Prophet ﷺ preserved the teacher&rsquo;s name itself. Al-Khadir, he said, was so called because when he sat upon barren white land, it turned green with growth behind him. Musa (AS) parted from him having learned the lesson the journey had been made to teach: beyond the knowledge granted to even the greatest of men stands the knowledge of Allah, wider than any servant can see."
         },
         {
           "t": "hadith",
@@ -674,7 +674,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "At the border of the holy land, the story of the generation comes to its reckoning. Musa (AS) reminded his people of the favors written over their lives and commanded them: enter the holy land Allah has assigned to you, and do not turn back, or you will be losers. They answered with the fear that had followed them out of Egypt: there are a tyrannical people in it, and we will never enter it until they leave. Two God-fearing men urged the gate upon them, but the camp gave its final answer to its prophet: go, you and your Lord, and fight. Indeed, we are remaining right here.",
+          "html": "At the approach to the holy land, the reckoning of that generation came. Musa (AS) called his people to remember the favour of Allah upon them, and commanded them to enter the land Allah had assigned to them, and not to turn back, lest they become losers. They answered out of the fear that had trailed them since Egypt: in it are a people of tyrannical strength, and we will not enter while they remain there. Two men who feared Allah, and whom Allah had favoured, urged them to enter upon them by the gate. But the camp gave its prophet its last answer: go, you and your Lord, and fight. We are staying here.",
           "cls": "dropcap"
         },
         {
@@ -686,11 +686,11 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "So the land was forbidden to them for forty years, and they wandered the earth while Musa (AS) was told: do not grieve over the defiantly disobedient people. The generation that had watched the sea split passed away in the wilderness, and the Quran&rsquo;s account of Musa (AS) with his people closes there, at the edge of the promised land he would approach but not enter with them."
+          "html": "So the land was forbidden to them for forty years. They wandered in the earth, and Musa (AS) was told not to grieve over the defiantly disobedient people. The generation that had seen the sea divide passed away in the wilderness. There the account of Musa (AS) with his people draws to a close, at the edge of the land he would approach, but would not enter with them."
         },
         {
           "t": "p",
-          "html": "His death, when it came, came to a man who had asked to be near the holy land at the end. The Angel of Death was sent to him, and Musa (AS), not yet told that his time had come, struck him. Allah returned the angel with a choice of years, and Musa (AS) asked only: and then? Then death, he was told. He said: then let it be now. And he asked Allah to bring him close to the sacred land, within a stone&rsquo;s throw of it."
+          "html": "His death, when it came, found a man who asked, at the end, only to be near the holy land. The Angel of Death was sent to him, and Musa (AS), not yet told that his time had come, struck him. Allah returned the angel with a choice of years, and Musa (AS) asked: and then what? Then death, came the answer. Then let it be now, he said. And he asked Allah to set him close to the sacred land, within a stone&rsquo;s throw of it."
         },
         {
           "t": "hadith",
@@ -701,19 +701,19 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "So ends the account of Musa (AS): the baby his mother placed in the river, who fled to Madyan and herded sheep there, who was addressed by Allah at the fire, struck the sea and watched it stand in mountains, and who asked, at the last, for nothing but nearness to the land he had led his people toward. Peace be upon Musa (AS), the one Allah spoke to directly, and upon all the prophets."
+          "html": "Here the account of Musa (AS) ends. He was the child his mother placed in the river. He left Egypt for Madyan, herded sheep there, and stood at the fire, and was spoken to by Allah. He struck the sea, and saw it stand in towering portions, and at last asked only nearness to the land he had led his people toward. Peace be upon Musa (AS), the one Allah spoke to directly, and upon all the prophets."
         }
       ]
     }
   ],
   "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran: Surah Al-Qasas (28), Surah Ta-Ha (20), Surah Al-A&rsquo;raf (7), Surah Ash-Shu&rsquo;ara (26), Surah Al-Baqarah (2), Surah Yunus (10), Surah Al-Kahf (18) and Surah Al-Ma&rsquo;idah (5), with narrations from Sahih al-Bukhari (3397, 3402, 3409) and Sahih Muslim (2372), and two labeled panels from Tafsir Ibn Kathir (on 26:63 and 18:65), clearly marked as commentary, not revelation.</p>\n      ",
   "lessons": [
-    "<strong>Need is its own provision.</strong> In the shade at Madyan, owning nothing, Musa (AS) prayed: my Lord, I am in need of whatever good You send down to me. (Quran 28:24)",
-    "<strong>Begin with a prayer for the task.</strong> Commissioned to face Pharaoh, Musa (AS) first asked for an opened chest, an eased task, and a tongue made clear. (Quran 20:25-28)",
-    "<strong>Speak gently, even to a tyrant.</strong> Allah commanded the brothers to address Pharaoh with gentle speech, that perhaps he might be reminded or fear Him. (Quran 20:44)",
-    "<strong>When the sea is ahead and the army behind, trust is a sentence.</strong> Musa (AS) answered panic with certainty: no, indeed my Lord is with me; He will guide me. (Quran 26:62)",
-    "<strong>Anger bows to mercy.</strong> Returning to the calf, Musa (AS) turned his fury into a prayer that covered his brother first: forgive me and my brother. (Quran 7:151)",
-    "<strong>No one&rsquo;s knowledge is the whole.</strong> Al-Khidr carried knowledge Musa (AS) had not been given; every servant&rsquo;s learning ends where Allah&rsquo;s begins. (Quran 18:65)"
+    "<strong>Need is its own provision.</strong> In the shade at Madyan, with nothing of his own, Musa (AS) prayed: my Lord, I am in need of whatever good You send down to me. (Quran 28:24)",
+    "<strong>Begin with a prayer for the task.</strong> Sent to face Pharaoh, Musa (AS) asked first for an opened chest, an eased task, and a tongue made clear. (Quran 20:25-28)",
+    "<strong>Speak gently, even to a tyrant.</strong> Allah commanded the brothers to speak to Pharaoh with gentle speech, that perhaps he might be reminded, or might fear Him. (Quran 20:44)",
+    "<strong>When the sea is ahead and the army behind, trust is a sentence.</strong> Facing panic, Musa (AS) answered with certainty: no, indeed my Lord is with me; He will guide me. (Quran 26:62)",
+    "<strong>Anger bows to mercy.</strong> Coming back to the calf, Musa (AS) let his fury yield to prayer, and the prayer covered his brother first: forgive me and my brother. (Quran 7:151)",
+    "<strong>No one&rsquo;s knowledge is the whole.</strong> Al-Khidr bore knowledge Musa (AS) had not been given; where every servant&rsquo;s learning ends, Allah&rsquo;s knowledge goes on. (Quran 18:65)"
   ],
   "quiz": [
     {

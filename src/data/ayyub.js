@@ -7,7 +7,7 @@ export const chapter = {
   "hero": {
     "plaque": "Chapter XII",
     "title": "Ayyub (AS): The Patient Servant",
-    "sub": "The prophet whose one-sentence prayer was answered with a spring at his feet, his family restored to him, and a verdict from heaven: patient, an excellent servant.",
+    "sub": "The prophet whose single sentence of prayer was answered with a spring at his feet, his family restored to him, and the verdict of heaven: patient, an excellent servant.",
     "img": "../assets/ayyub-spring.webp",
     "imgAlt": "A clear spring flowing from rock into a quiet pool among green hills",
     "caption": "“Strike your foot; this is a cool bath and drink.” (Quran 38:42)"
@@ -40,7 +40,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "His story begins with a name in a noble list. When Allah recounts the prophets He guided from the household of Ibrahim (AS), Ayyub (AS) stands among them, a descendant named in the same breath as Dawud and Sulayman (AS), and among those preferred over the worlds. Revelation carried his name again to the Prophet (ﷺ), in the line of those who received it after Nuh (AS). Before any trial is mentioned, the Quran has already told us who he is: a prophet of the house of Ibrahim (AS), guided, chosen, and righteous.",
+          "html": "His story begins with a name set in noble company. When Allah names the prophets He guided from the household of Ibrahim (AS), Ayyub (AS) stands among them, a descendant spoken of alongside Dawud (AS) and Sulayman (AS), among those preferred over the worlds. Revelation named him again to the Prophet (ﷺ), in the line of those who received it after Nuh (AS). Before any trial is told, we already know who he is: a prophet of the house of Ibrahim (AS), guided, chosen, and righteous.",
           "cls": "dropcap"
         },
         {
@@ -74,7 +74,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "When Surah Sad opens his story, it does not begin with the sickness. It begins with a title: &ldquo;Our servant.&rdquo; Then the servant speaks, and his one sentence carries the whole affliction: Satan has touched me with hardship and torment. The Quran gives no catalogue of symptoms and counts no years of suffering. It gives us a servant of Allah, a hardship he lays at the door of Satan, and a voice still turned toward his Lord. That restraint is itself part of the telling: heaven records the call, not the complaint.",
+          "html": "Surah Sad does not open his story with the sickness. It opens with a title: &ldquo;Our servant.&rdquo; Then the servant speaks, and one sentence carries the whole affliction: Satan has touched me with hardship and torment. No catalogue of symptoms follows, and no count of years. There is only a servant of Allah, a hardship laid at the door of Satan, and a voice still turned toward his Lord. The restraint is part of the telling: heaven records the call, not the complaint.",
           "cls": "dropcap"
         },
         {
@@ -101,7 +101,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "In Surah Al-Anbiya, his prayer is preserved in a single sentence: &ldquo;Indeed, adversity has touched me, and You are the most merciful of the merciful.&rdquo; He names his condition once, with no detail and no blame, and then he names his Lord by the name that answers it. There is no demand in it, and no despair either. A man at the end of his strength lays his case before the most merciful of the merciful, and leaves the rest to Him.",
+          "html": "In Surah Al-Anbiya his prayer stands preserved in a single sentence: &ldquo;Indeed, adversity has touched me, and You are the most merciful of the merciful.&rdquo; He states his condition once, with no detail and no blame, then names his Lord by the name that answers it. There is no demand in the prayer, and no despair. A man at the end of his strength sets his case before the most merciful of the merciful, and leaves the rest to Him.",
           "cls": "dropcap"
         },
         {
@@ -134,7 +134,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The answer did not come as an explanation. It came as a command: &ldquo;Strike [the ground] with your foot.&rdquo; He struck, and a spring rose where his foot fell, cool water appointed for two things at once: a bath to wash in, and a drink. The first step of his cure was a step, taken by a man who rose at the word of his Lord. No long road, no distant remedy. The relief flowed at his feet.",
+          "html": "The answer came, but not as an explanation. It came as a command: &ldquo;Strike [the ground] with your foot.&rdquo; He struck, and where his foot fell a spring rose, cool water appointed for two purposes at once: a bath to wash in and a drink. His cure began with a single step, taken by a man who rose at the word of his Lord. No long road. No distant remedy. The relief flowed at his feet.",
           "cls": "dropcap"
         },
         {
@@ -161,7 +161,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then the response widened beyond the healing of one body. Allah answered his call, lifted the adversity that had touched him, and gave him back his family, and the like of them along with them: what the trial had taken returned, and returned doubled. Both surahs close the account with the same word for it, mercy. It was not wages. It was mercy from Allah, poured on a servant who had never stopped calling Him the most merciful of the merciful.",
+          "html": "Then what came widened beyond the healing of one body. Allah responded to his call, lifted the adversity that had touched him, and gave him back his family, and the like of them along with them. What the trial had taken returned, and returned doubled. Both surahs name it with the same word: mercy. It was never wages. It was mercy from Allah, poured upon a servant who had never stopped calling Him the most merciful of the merciful.",
           "cls": "dropcap"
         },
         {
@@ -195,7 +195,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "One thread from the days of his illness still hung over the healed man: an oath he had sworn. Allah would not leave His servant trapped between a vow spoken in suffering and a life restored. So the word came: &ldquo;And take in your hand a bunch [of grass] and strike with it and do not break your oath.&rdquo; A handful of grass, one light strike, and the oath stood fulfilled with no one harmed. The Lord who had lifted the affliction also lifted the burden of the vow, and found a way out that broke nothing.",
+          "html": "One thread from the days of his illness still hung over the healed man: an oath he had sworn. Allah would not leave His servant caught between a vow spoken in suffering and a life restored. So the word came: &ldquo;And take in your hand a bunch [of grass] and strike with it and do not break your oath.&rdquo; A handful of grass. One light strike. And the oath stood fulfilled, with no one harmed. The Lord who lifted the affliction lifted the burden of the vow with it, and opened a way out that broke nothing.",
           "cls": "dropcap"
         },
         {
@@ -228,12 +228,12 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then heaven gives its verdict, and it is the whole story in a few words: &ldquo;Indeed, We found him patient, an excellent servant.&rdquo; Not that the pain was small, and not that time did the healing. Found patient: tried, examined by affliction, and discovered faithful at the end of it. And one habit is named as the secret of the man: he was one repeatedly turning back to Allah, in his plenty and in his loss, in the sickness and in the spring water alike.",
+          "html": "Then heaven delivers its verdict, and the whole story rests inside a few words: &ldquo;Indeed, We found him patient, an excellent servant.&rdquo; Not that the pain was small. Not that time did the healing. Found patient: tried, examined by affliction, and discovered faithful at the end of it. And the verdict names the habit at the man&rsquo;s heart: he was one repeatedly turning back to Allah, in his plenty and in his loss, in the sickness and in the spring water alike.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "It is worth pausing on what the verdict does not say. It does not praise him for never grieving, or for never crying out. He did cry out; the Quran preserves his cry. It praises him for where the cry was aimed, at his Lord, and for what it never became: a charge against Allah. His patience was not silence. It was a direction."
+          "html": "Consider, too, what the verdict does not say. It does not praise him for never grieving, or for never crying out. He did cry out, and his cry stands preserved. It praises him for where that cry was aimed, at his Lord, and for what it never became: a charge against Allah. His patience was not silence. It was a direction."
         }
       ]
     },
@@ -252,7 +252,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Allah did not leave this as one man&rsquo;s private relief. He sealed the account with its purpose: &ldquo;a reminder for the worshippers&rdquo; of Allah, and again, &ldquo;a reminder for those of understanding.&rdquo; The story stands so that no sufferer after him reads affliction as abandonment. The Prophet (ﷺ) was asked which people are tried most severely, and his answer placed Ayyub (AS)&rsquo;s road inside a law of this faith: the closer a servant stands to Allah, the heavier the test may be, and the test, borne well, leaves a man walking the earth with his sins fallen away.",
+          "html": "Allah did not leave this as one man&rsquo;s private relief. He sealed the account with its purpose: &ldquo;a reminder for the worshippers&rdquo; of Allah, and again, &ldquo;a reminder for those of understanding.&rdquo; The story stands so no sufferer after him reads affliction as abandonment. The Prophet (ﷺ) was asked which people are tried most severely, and his answer set Ayyub (AS)&rsquo;s road within a law of this faith: the nearer a servant stands to Allah, the heavier the test may be, and the test, borne well, leaves a man walking the earth with his sins fallen away.",
           "cls": "dropcap"
         },
         {
@@ -279,7 +279,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The restoration has one more scene, and the Prophet (ﷺ) himself told it. While Ayyub (AS) was bathing, a swarm of locusts of gold fell upon him, and he began gathering them into his garment, handful after handful, unwilling to let a blessing of his Lord drop uncollected. It is the same servant we met in the affliction, unchanged in the blessing: empty-handed he praised, and full-handed he gathered, and in both states his eyes were on the Giver.",
+          "html": "One scene of the restoration remains, and the Prophet (ﷺ) himself told it. While Ayyub (AS) was bathing, a swarm of locusts of gold fell upon him, and he started gathering them into his garment, handful after handful, unwilling to let a blessing of his Lord fall uncollected. It is the same servant we met in the affliction, unchanged in the blessing: empty-handed he praised, and full-handed he gathered, and in both states his eyes were on the Giver.",
           "cls": "dropcap"
         },
         {
@@ -306,7 +306,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "So the account closes where it opened, with his place. A descendant of Ibrahim (AS) preferred over the worlds. A servant found patient. A reminder standing for every worshipper who will ever suffer in silence and wonder whether heaven sees. And for the smaller versions of his road that believers still walk, the Prophet (ﷺ) left a promise: nothing of the pain is wasted, not even the prick of a thorn.",
+          "html": "So the account closes where it opened, with his place established. A descendant of Ibrahim (AS), preferred over the worlds. A servant found patient. A reminder standing for every worshipper who will ever suffer in silence and wonder whether heaven sees. And for the smaller versions of his road that believers still walk, the Prophet (ﷺ) left a promise: none of the pain is wasted, not even the prick of a thorn.",
           "cls": "dropcap"
         },
         {
@@ -321,12 +321,12 @@ export const chapter = {
   ],
   "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran: Surah Al-An&rsquo;am (6:84-86), Surah An-Nisa (4:163), Surah Al-Anbiya (21:83-84) and Surah Sad (38:41-44), with narrations from Sahih al-Bukhari (3391, 5641) and Jami at-Tirmidhi (2398), and two labeled panels from Tafsir Ibn Kathir (on 21:83-84 and 38:41-44), clearly marked as commentary, not revelation.</p>\n      ",
   "lessons": [
-    "<strong>Patience is a verdict to be found.</strong> Allah did not say Ayyub (AS) felt patient; He said, &ldquo;We found him patient.” Patience is what the trial discovers in a servant. (Quran 38:44)",
-    "<strong>Name the mercy, not only the pain.</strong> His one-sentence prayer ends on &ldquo;You are the most merciful of the merciful.” Let every complaint you carry upward end the same way. (Quran 21:83)",
-    "<strong>The cry is not the failure.</strong> He cried out, and heaven preserved his cry as worship. Patience is the direction of the cry, not the absence of it. (Quran 38:41)",
-    "<strong>Heaven answers the call.</strong> &ldquo;So We responded to him and removed what afflicted him of adversity.” No sincere call to the most merciful of the merciful goes unheard. (Quran 21:84)",
-    "<strong>Affliction is not abandonment.</strong> The most severely tested are the prophets, then those nearest to them. A heavy test can be the mark of nearness, and Allah made Ayyub (AS) a reminder of exactly that. (Quran 38:43)",
-    "<strong>Turn back, again and again.</strong> The secret named in his verdict is a rhythm, not a moment: &ldquo;he was one repeatedly turning back [to Allah].” Keep returning, in loss and in restoration alike. (Quran 38:44)"
+    "<strong>Patience is a verdict to be found.</strong> Allah did not say that Ayyub (AS) felt patient; He said, &ldquo;We found him patient.” What the trial discovers in a servant is patience itself. (Quran 38:44)",
+    "<strong>Name the mercy, not only the pain.</strong> His single sentence of prayer closes on &ldquo;You are the most merciful of the merciful.” Let every complaint you carry upward close the same way. (Quran 21:83)",
+    "<strong>The cry is not the failure.</strong> He cried out, and heaven kept his cry as worship. Patience lies in the direction of the cry, not in its absence. (Quran 38:41)",
+    "<strong>Heaven answers the call.</strong> &ldquo;So We responded to him and removed what afflicted him of adversity.” No sincere call upon the most merciful of the merciful is left unheard. (Quran 21:84)",
+    "<strong>Affliction is not abandonment.</strong> Those tried most severely are the prophets, then those nearest to them. A heavy test may mark nearness itself, and Allah set Ayyub (AS) before us as a reminder of exactly that. (Quran 38:43)",
+    "<strong>Turn back, again and again.</strong> The secret in his verdict is a rhythm, not a single moment: &ldquo;he was one repeatedly turning back [to Allah].” Keep returning, in loss and in restoration alike. (Quran 38:44)"
   ],
   "quiz": [
     {

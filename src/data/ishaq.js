@@ -7,7 +7,7 @@ export const chapter = {
   "hero": {
     "plaque": "Chapter IX",
     "title": "Ishaq (AS): The Glad Tidings",
-    "sub": "Born to aged parents as a sign, a prophet from among the righteous, blessed and a blessing: the link between Ibrahim (AS) and Yaqub (AS).",
+    "sub": "Announced to aged parents as a sign, a prophet from among the righteous, blessed and a blessing: the link between Ibrahim (AS) and Yaqub (AS).",
     "img": "../assets/ishaq-tent.webp",
     "imgAlt": "A lone tent in a desert oasis beneath a vast dusk sky with the first star",
     "caption": "The tidings at dusk: “Then We gave her good tidings of Ishaq.” (Quran 11:71)"
@@ -38,7 +38,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The angels who visited Ibrahim (AS) brought two tidings. To the old woman who laughed in disbelief they said: Allah gave her good tidings of Ishaq (AS), and after Ishaq (AS), Yaqub (AS). A son in old age, and a grandson after him: the future, announced.",
+          "html": "The angels who came to Ibrahim (AS) carried two tidings. The second was for the old woman standing there, who had laughed in disbelief: Allah gave her good tidings of Ishaq (AS), and after Ishaq (AS), Yaqub (AS). A son in her old age, and a grandson after him. The future, announced.",
           "cls": "dropcap"
         },
         {
@@ -65,7 +65,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Ibrahim (AS) himself counted it among Allah’s greatest favors: praise to Allah, who had granted him Ismail (AS) and Ishaq (AS) in his old age, for his Lord is the Hearer of supplication.",
+          "html": "Ibrahim (AS) himself named it among Allah’s greatest favors: praise to Allah, who had granted him Ismail (AS) and Ishaq (AS) in his old age. For his Lord, he declared, is the Hearer of supplication.",
           "cls": "dropcap"
         },
         {
@@ -92,7 +92,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Quran names Ishaq (AS)’s station directly: &ldquo;a prophet from among the righteous.&rdquo; And Allah blessed him and Ishaq (AS). Blessed, and a source of blessing.",
+          "html": "The Quran names Ishaq (AS)’s station in plain words: &ldquo;a prophet from among the righteous.&rdquo; And Allah blessed him and Ishaq (AS). Blessed, and himself a source of blessing.",
           "cls": "dropcap"
         },
         {
@@ -125,7 +125,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Ibrahim (AS)’s love for his two sons had a daily form. The Prophet (ﷺ) said that Ibrahim (AS) used to seek Allah&rsquo;s refuge for Ismail (AS) and Ishaq (AS), and the Prophet himself used the same words for his own grandsons, Hasan and Husayn: &ldquo;O Allah! I seek refuge with Your perfect words from every devil and from poisonous pests and from every evil, harmful, envious eye.&rdquo; The father of nations, praying protection over both his boys with the perfect words of Allah.",
+          "html": "Ibrahim (AS)’s love for his two sons took a daily form. The Prophet (ﷺ) said that Ibrahim (AS) used to seek Allah&rsquo;s refuge for Ismail (AS) and Ishaq (AS), and that he himself used the same words over his own grandsons, Hasan and Husayn: &ldquo;O Allah! I seek refuge with Your perfect words from every devil and from poisonous pests and from every evil, harmful, envious eye.&rdquo; The father of nations, praying protection over both his boys with the perfect words of Allah.",
           "cls": "dropcap"
         },
         {
@@ -152,7 +152,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Allah gave Ibrahim (AS) Ishaq (AS) and Yaqub (AS) in addition, and made all of them righteous, leaders guiding by His command, inspired to do good deeds, establish prayer, and give zakah. They were worshippers of Allah.",
+          "html": "Allah gave Ibrahim (AS) Ishaq (AS) and Yaqub (AS) in addition, and He made all of them righteous: leaders guiding by His command, inspired to do good deeds, to establish prayer, and to give zakah. They were worshippers of Allah.",
           "cls": "dropcap"
         },
         {
@@ -179,7 +179,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "When Ibrahim (AS) left his people’s idols, Allah gave him a new family of prophets: Ishaq (AS) and Yaqub (AS), each made a prophet, all guided.",
+          "html": "When Ibrahim (AS) left his people and their idols behind, Allah gave him a new family of prophets in return: Ishaq (AS) and Yaqub (AS), each made a prophet, all guided.",
           "cls": "dropcap"
         },
         {
@@ -213,7 +213,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Generations later, his name was still the creed. Yusuf (AS) said in prison that he had followed the religion of his fathers: Ibrahim (AS), Ishaq (AS), and Yaqub (AS). And on his deathbed, Yaqub (AS) asked his sons what they would worship after him, and they answered: your God and the God of your fathers, Ibrahim (AS) and Ismail (AS) and Ishaq (AS), one God.",
+          "html": "Generations later, his name was still the creed. Yusuf (AS) declared in prison that he had followed the religion of his fathers: Ibrahim (AS), Ishaq (AS), and Yaqub (AS). And when death approached Yaqub (AS), he asked his sons what they would worship after him, and they answered: your God and the God of your fathers, Ibrahim (AS) and Ismail (AS) and Ishaq (AS): one God.",
           "cls": "dropcap"
         },
         {
@@ -247,7 +247,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Prophet (ﷺ) gathered the whole line into one sentence of honor, and Ishaq (AS) stands in its middle: the son of the Friend of Allah, the father of Yaqub (AS), the grandfather of Yusuf (AS).",
+          "html": "The Prophet (ﷺ) gathered the whole line into a single sentence of honor, and Ishaq (AS) stands at its center: the son of the Friend of Allah, the father of Yaqub (AS), the grandfather of Yusuf (AS).",
           "cls": "dropcap"
         },
         {
@@ -262,12 +262,12 @@ export const chapter = {
   ],
   "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Hud (11:71), Surah Ibrahim (14:39), Surah As-Saffat (37:112-113), Surah Al-Anbiya (21:72-73), Surah Maryam (19:49), Surah Al-An’am (6:84), Surah Yusuf (12:38) and Surah Al-Baqarah (2:133), with narrations from Sahih al-Bukhari (3371, 3382), and one labeled panel from Tafsir Ibn Kathir (on 37:112), clearly marked as commentary, not revelation.</p>\n      ",
   "lessons": [
-    "<strong>Allah gives when the means are gone.</strong> Old parents, an impossible birth: the tidings came anyway. (Quran 11:71)",
-    "<strong>Righteousness runs in the household of the righteous.</strong> Ishaq (AS) and Yaqub (AS): all of them made righteous. (Quran 21:72)",
+    "<strong>Allah gives when the means are gone.</strong> Old parents, an impossible birth, and the tidings came anyway. (Quran 11:71)",
+    "<strong>Righteousness runs in the household of the righteous.</strong> Ishaq (AS) and Yaqub (AS): every one of them made righteous. (Quran 21:72)",
     "<strong>Blessing follows obedience.</strong> &ldquo;We blessed him and Isaac&rdquo;: the blessing is named right after the trial. (Quran 37:113)",
     "<strong>Hold the religion of your fathers.</strong> Yusuf (AS) in prison held to Ibrahim (AS), Ishaq (AS), and Yaqub (AS). (Quran 12:38)",
     "<strong>Honor the chain.</strong> The honorable, son of the honorable, son of the honorable. (Sahih al-Bukhari 3382)",
-    "<strong>Pray protection over your children.</strong> Ibrahim (AS) sought Allah&rsquo;s refuge for Ismail (AS) and Ishaq (AS) with His perfect words, and the Prophet (ﷺ) did the same for Hasan and Husayn. The du&rsquo;a of a father is a shield."
+    "<strong>Pray protection over your children.</strong> Ibrahim (AS) sought Allah&rsquo;s refuge over Ismail (AS) and Ishaq (AS) with His perfect words; the Prophet (ﷺ) used the same words over Hasan and Husayn. A father&rsquo;s du&rsquo;a is a shield."
   ],
   "quiz": [
     {

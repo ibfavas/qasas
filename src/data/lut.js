@@ -7,7 +7,7 @@ export const chapter = {
   "hero": {
     "plaque": "Chapter VII",
     "title": "Lut (AS): The Overturned Towns",
-    "sub": "A prophet among a people of unprecedented sin, the guests who were angels, and the towns turned upside down by morning.",
+    "sub": "A prophet among a people of unprecedented sin, guests who proved to be angels, and towns turned upside down by morning.",
     "img": "../assets/lut-valley.webp",
     "imgAlt": "A desolate valley of strange rock pillars and barren stone at dawn",
     "caption": "The valley after the rain: “And We rained upon them a rain [of stones].” (Quran 26:173)"
@@ -39,7 +39,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Lut (AS) believed in Ibrahim (AS), and when Ibrahim (AS) emigrated, Lut (AS) went with him. The Quran gives Lut (AS) his due in two words: judgement and knowledge. He was sent to cities sunk in wickedness, a people of evil, defiantly disobedient. And Allah saved him from them and admitted him into His mercy, for he was of the righteous.",
+          "html": "Lut (AS) believed in Ibrahim (AS), and when Ibrahim (AS) set out in emigration, Lut (AS) went with him. To Lut (AS) were given judgement and knowledge. He was sent to cities sunk in wickedness, to a people of evil, defiantly disobedient. And Allah saved him from them and admitted him into His mercy, for he was of the righteous.",
           "cls": "dropcap"
         },
         {
@@ -73,7 +73,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "His call named their sin without euphemism. Do you commit such immorality as no one has preceded you with? You approach men with desire instead of women; you are a transgressing people. And again: do you approach males among the worlds and leave what your Lord created for you as mates? The charge was plain, and so was the verdict: transgressors.",
+          "html": "He named their sin plainly, without softening a word of it. Do you commit such immorality as no one has preceded you with? You approach men with desire instead of women; you are a transgressing people. And again he asked them: do you approach males among the worlds and leave what your Lord created for you as mates? The charge was plain, and so was the verdict: transgressors.",
           "cls": "dropcap"
         },
         {
@@ -107,7 +107,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Their answer was mockery and expulsion. &ldquo;Evict them from your city! Indeed, they are men who keep themselves pure.&rdquo; Purity itself became the charge against him. When he warned them plainly, they had nothing to answer but threats.",
+          "html": "Their answer came back as mockery, and a threat of expulsion. &ldquo;Evict them from your city! Indeed, they are men who keep themselves pure.&rdquo; Purity itself had become the charge against him. To a plain warning, they had nothing left to offer but threats.",
           "cls": "dropcap"
         },
         {
@@ -141,7 +141,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "They even dared the punishment to come. You approach men, obstruct the road, and commit every evil in your meetings, he told them. And their answer was a challenge: &ldquo;Bring us the punishment of Allah, if you should be of the truthful.&rdquo; Lut (AS) turned to his Lord with the du&lsquo;a of the overwhelmed: &ldquo;My Lord, save me and my family from [the consequence of] what they do.&rdquo;",
+          "html": "They even dared the punishment itself to come. You approach men, obstruct the road, and commit every evil in your meetings, he told them. Their only answer was a challenge thrown back at him: &ldquo;Bring us the punishment of Allah, if you should be of the truthful.&rdquo; Lut (AS) turned to his Lord with the du&lsquo;a of the overwhelmed: &ldquo;My Lord, save me and my family from [the consequence of] what they do.&rdquo;",
           "cls": "dropcap"
         },
         {
@@ -175,7 +175,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then the guests came. When the angels came to Lut (AS), he was anguished for them and felt great discomfort. &ldquo;This is a trying day,&rdquo; he said. He knew his people. They came hastening, as they always hastened toward evil, and he pleaded: O my people, these are my daughters; they are purer for you. So fear Allah and do not disgrace me concerning my guests. Is there not among you a man of reason? They answered with shameless candor: you know we have no desire for your daughters, and you know what we want. Alone against a mob, he cried out: &ldquo;If only I had against you some power or could take refuge in a strong support.&rdquo;",
+          "html": "Then the guests arrived. When the angels came to Lut (AS), he was anguished for them and felt great discomfort. &ldquo;This is a trying day,&rdquo; he said. He knew his people. They came hastening toward him, as they had always hastened toward evil, and he pleaded with them: O my people, these are my daughters; they are purer for you. So fear Allah and do not disgrace me concerning my guests. Is there not among you a man of reason? They answered without shame: you know we have no desire for your daughters, and you know what we want. Alone against a mob, he cried out: &ldquo;If only I had against you some power or could take refuge in a strong support.&rdquo;",
           "cls": "dropcap"
         },
         {
@@ -215,7 +215,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The visitors who distressed Lut (AS) were angels, though he did not know it. They came in the form of handsome young men, and that was the test: Lut (AS)&rsquo;s anguish was not fear for himself but fear for them. He was afraid that if he did not take them in, someone else of his people would, and they would harm them, and he knew he would have to defend them alone. &ldquo;This is a trying day,&rdquo; he said, and Ibn Abbas explained the words: a severe test for him. The Prophet (ﷺ) remembered his cry for a strong support , asking Allah to forgive Lut (AS), for he had wished for a powerful support.",
+          "html": "The visitors who had distressed Lut (AS) were angels, though he did not know it. They had come in the form of handsome young men, and in that form lay the test: the anguish of Lut (AS) was not fear for himself, but fear for them. He feared that if he did not take them in, another of his people would, and would harm them, and that he would stand alone to defend them. &ldquo;This is a trying day,&rdquo; he said, and Ibn Abbas explained his words: a severe test for him. The Prophet (ﷺ) remembered that cry for a strong support, asking Allah to forgive Lut (AS), for he had wished for a powerful support.",
           "cls": "dropcap"
         },
         {
@@ -242,7 +242,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then the guests revealed themselves: we are messengers of your Lord; they will never reach you. Set out with your family in a portion of the night, and let none of you look back, except your wife. Their appointment is the morning; is not the morning near? The Prophet (ﷺ) remembered Lut (AS)&rsquo;s cry for a strong support and said: may Allah send His mercy on Lut (AS), for he wished to have a powerful support.",
+          "html": "Then the guests made themselves known: we are messengers of your Lord; they will never reach you. Set out with your family in a portion of the night, and let none among you look back, except your wife. Their appointment is the morning; is not the morning near? The Prophet (ﷺ) remembered the cry of Lut (AS) for a strong support and said: may Allah send His mercy on Lut (AS), for he wished to have a powerful support.",
           "cls": "dropcap"
         },
         {
@@ -276,7 +276,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Morning came as promised. The highest part of the city became its lowest, and stones of layered hard clay rained down, marked from his Lord. Allah saved Lut (AS) and his family, except his wife, who remained with the evildoers. And He rained upon them a rain of stones. Then see how was the end of the criminals. The family of Lut (AS) was saved before dawn; the rest were destroyed, and evil was the rain of those who were warned.",
+          "html": "Morning came, as it had been promised. The highest part of the city was made its lowest, and stones of layered hard clay rained down upon them, marked from his Lord. Allah saved Lut (AS) and his family, except his wife, who remained with the evildoers. And He rained upon them a rain of stones. Then see how was the end of the criminals. The family of Lut (AS) was saved before dawn; the rest were destroyed, and evil was the rain of those who were warned.",
           "cls": "dropcap"
         },
         {
@@ -324,7 +324,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Quran names no one exempt from the Fire by marriage. Allah presents an example of those who disbelieved: the wife of Nuh (AS) and the wife of Lut (AS). They were under two of Our righteous servants but betrayed them, and the prophets did not avail them from Allah at all. &ldquo;Enter the Fire with those who enter.&rdquo; The wife of a prophet, lost. Kinship with righteousness never saved anyone; only righteousness itself saves.",
+          "html": "No one is exempt from the Fire by marriage. Allah presents an example of those who disbelieved: the wife of Nuh (AS) and the wife of Lut (AS). They were under two of Our righteous servants but betrayed them, and the prophets did not avail them from Allah at all. &ldquo;Enter the Fire with those who enter.&rdquo; The wife of a prophet, lost. Kinship with righteousness never saved anyone; only righteousness itself saves.",
           "cls": "dropcap"
         },
         {
@@ -345,14 +345,14 @@ export const chapter = {
   ],
   "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Hud (11:77-83), Surah Al-A’raf (7:80-84), Surah Ash-Shu’ara (26:165-173), Surah Al-Ankabut (29:26-29), Surah An-Naml (27:54-58), Surah Al-Anbiya (21:74-75), Surah Al-Qamar (54:33-34) and Surah At-Tahrim (66:10), with narrations from Sahih al-Bukhari (3372, 3375), and two labeled panels from Tafsir Ibn Kathir (on 11:77-78 and 66:10), clearly marked as commentary, not revelation.</p>\n      ",
   "lessons": [
-    "<strong>Name the sin plainly.</strong> Lut (AS) did not soften the charge; clarity is mercy before the punishment comes. (Quran 7:80)",
-    "<strong>Mockery of purity is a dying people’s joke.</strong> “Evict them, they keep themselves pure”: when virtue becomes the crime, ruin is near. (Quran 7:82)",
-    "<strong>Never dare the punishment to come.</strong> “Bring us the punishment of Allah”: the dare was answered by morning. (Quran 29:29)",
-    "<strong>The believer’s cry has an answer.</strong> “If only I had a strong support”: he wished for one, and Allah was it. (Quran 11:80)",
-    "<strong>When the command comes, leave and do not look back.</strong> Hesitation at the edge of ruin is ruin. (Quran 11:81)",
-    "<strong>Marriage to a prophet never saved anyone.</strong> His wife remained behind; only righteousness itself saves. (Quran 66:10)",
-    "<strong>He feared for them, not for himself.</strong> Lut (AS)&rsquo;s anguish at the angels&rsquo; visit was the anguish of a host: he knew what his people would do to his guests. Nobility is measured by whom you fear for.",
-    "<strong>The mob had an informant.</strong> Lut (AS)&rsquo;s wife told the city whenever her husband entertained a guest. Treachery can wear a familiar face, and kinship with a prophet never saved anyone."
+    "<strong>Name the sin plainly.</strong> Lut (AS) did not soften the charge; plain speech is mercy before the punishment comes. (Quran 7:80)",
+    "<strong>Mockery of purity is a dying people’s joke.</strong> “Evict them, they keep themselves pure”: once virtue itself is treated as the crime, ruin stands near. (Quran 7:82)",
+    "<strong>Never dare the punishment to come.</strong> “Bring us the punishment of Allah”: by morning, the dare had been answered. (Quran 29:29)",
+    "<strong>The believer’s cry has an answer.</strong> “If only I had a strong support”: he wished for one, and Allah proved to be that support. (Quran 11:80)",
+    "<strong>When the command comes, leave and do not look back.</strong> To hesitate at the edge of ruin is ruin itself. (Quran 11:81)",
+    "<strong>Marriage to a prophet never saved anyone.</strong> His wife remained behind; nothing but righteousness itself saves. (Quran 66:10)",
+    "<strong>He feared for them, not for himself.</strong> The anguish of Lut (AS) at the visit of the angels was the anguish of a host: he knew what his people would do to his guests. Nobility is measured by the one you fear for.",
+    "<strong>The mob had an informant.</strong> Whenever her husband entertained a guest, the wife of Lut (AS) told the city. Treachery can wear a familiar face, and kinship with a prophet never saved anyone."
   ],
   "quiz": [
     {

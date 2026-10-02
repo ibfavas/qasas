@@ -7,7 +7,7 @@ export const chapter = {
   "hero": {
     "plaque": "Chapter XIII",
     "title": "Shuayb (AS): Full Measure",
-    "sub": "The prophet sent to a people who prospered while their scale came up short, who called them back to full measure and the straight balance: the story of Shuayb (AS), as the Quran tells it.",
+    "sub": "Sent to a people who prospered while their scales came up short, Shuayb (AS) called them back to full measure and the honest balance: his story, as the Quran tells it.",
     "img": "../assets/shuayb-madyan.webp",
     "imgAlt": "An ancient desert town beside a dense thicket, with a stone well in the foreground",
     "caption": "The command: “Give full measure and weight in justice.” (Quran 11:85)"
@@ -41,12 +41,12 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Allah sent to the people of Madyan their own brother, Shuayb (AS). His call opened where every prophet&rsquo;s call opens: worship Allah, for you have no deity other than Him. Clear evidence had come to them from their Lord, and bound into that call to worship was a command about the marketplace: fill the measure, fill the balance, and do not hold back from people what is due to them.",
+          "html": "To the people of Madyan, Allah sent their own brother, Shuayb (AS). His call began where the call of every prophet begins: worship Allah, for you have no deity other than Him. Clear evidence had come to them from their Lord, and woven into that worship was a command for the marketplace: fill the measure, fill the balance, and do not hold back from people what is due to them.",
           "cls": "dropcap"
         },
         {
           "t": "p",
-          "html": "He also summoned them to look past the trading day to the Day that outlasts it: worship Allah, expect the Last Day, and do not spread corruption through the land. It was one message, not two: the God who is worshipped alone is the God who watches the scale."
+          "html": "Beyond the trading day, he pointed them to the Day that outlasts it: worship Allah, expect the Last Day, and do not spread corruption through the land. One message, not two: the God who is worshipped alone is the God who watches the scale."
         },
         {
           "t": "verse",
@@ -79,7 +79,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The sin of Madyan sat in its marketplace. When they sold, the measure came up light; when a man&rsquo;s goods were weighed out to him, something of them quietly went missing. Shuayb (AS) stood in the middle of that market and set the standard plainly: give full measure and weight in justice, and do not deprive the people of their due.",
+          "html": "Madyan&rsquo;s sin lived in its marketplace. When its people sold, the measure came up light; when a man&rsquo;s goods were weighed out to him, some part of them quietly went missing. Shuayb (AS) stood in the midst of that market and set the standard plain: give full measure and weight in justice, and do not deprive the people of their due.",
           "cls": "dropcap"
         },
         {
@@ -104,7 +104,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The same sin would surface long after Madyan. The Prophet (ﷺ) once passed a heap of food in the market, pushed his hand into it, and found the damp grain hidden underneath the dry. His verdict on the concealed measure was final."
+          "html": "Long after Madyan, the same sin would surface again. The Prophet (ﷺ) once passed a heap of food in the market, thrust his hand into it, and found the damp grain hidden beneath the dry. His verdict on what had been concealed was final."
         },
         {
           "t": "hadith",
@@ -130,7 +130,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Shuayb (AS) saw his people clearly, and what he saw was not hunger driving men to cheat. &ldquo;I see you in prosperity,&rdquo; he told them, yet he feared for them the punishment of a Day that would surround them completely. Against the quick profit of the short measure he set a quieter reckoning: what remains lawful from Allah is better for you than anything skimmed from the scale. And he claimed no power to compel them: he was a warner over them, not a guardian.",
+          "html": "Shuayb (AS) saw his people as they were, and it was not hunger driving them to cheat. &ldquo;I see you in prosperity,&rdquo; he told them, yet he feared for them the punishment of a Day that would surround them completely. Against the quick profit of the short measure he set what remains lawful from Allah, better for them than anything skimmed from the scale. And he claimed no power to compel them: he was a warner over them, not a guardian.",
           "cls": "dropcap"
         },
         {
@@ -157,7 +157,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then Shuayb (AS) laid down the law of his own mission before he pressed theirs. Standing on clear evidence from his Lord, and provided by Him with good provision, how could he forbid his people a thing and then reach for it himself in secret? &ldquo;I only intend reform as much as I am able,&rdquo; he said. &ldquo;And my success is not but through Allah.&rdquo; The caller would practice first what he called others to.",
+          "html": "Then Shuayb (AS) laid down the law of his own mission before he pressed theirs. He stood on clear evidence from his Lord, who had provided him with good provision. How, then, could he forbid his people a thing and reach for it himself in secret? &ldquo;I only intend reform as much as I am able,&rdquo; he said. &ldquo;And my success is not but through Allah.&rdquo; He would practice first what he called others to.",
           "cls": "dropcap"
         },
         {
@@ -190,7 +190,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The answer came back as a sneer. Did his prayer command them to abandon what their fathers had worshipped, and to stop doing with their own wealth whatever they pleased? Then, with mock courtesy, the thrust: indeed, you are the forbearing, the discerning one. The sarcasm confessed the charge it mocked: their wealth had become their religion, and Shuayb (AS)&rsquo;s prayer had trespassed on sacred ground.",
+          "html": "Their answer came back as a sneer. Did his prayer command them to leave what their fathers had worshipped, and to stop doing with their own wealth whatever they pleased? Then the thrust, dressed in mock courtesy: indeed, you are the forbearing, the discerning one. The sarcasm laid bare the charge it mocked: their wealth had become their religion, and the prayer of Shuayb (AS) had crossed onto ground they held sacred.",
           "cls": "dropcap"
         },
         {
@@ -217,7 +217,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Sneering soon hardened into threat. The arrogant chiefs laid the choice before Shuayb (AS) and those who believed with him: be driven out of the city, or return to the religion of the tribe. He threw their offer back as a question: even if we were unwilling?",
+          "html": "What began as a sneer ended as a threat. The arrogant chiefs put the choice plainly to Shuayb (AS) and to those who believed with him: be driven out of the city, or come back to the religion of the tribe. He returned their offer as a question: even if we were unwilling?",
           "cls": "dropcap"
         },
         {
@@ -229,7 +229,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "He warned them not to let their quarrel with him drag down on their heads what had struck the people of Nuh (AS), and of Hud (AS), and of Salih (AS); and the people of Lut (AS), he reminded them, were not far from them. But the warning only drew contempt. We barely understand much of what you say, they told him, and we see you weak among us. Had it not been for his clan, they said, they would have stoned him, for he counted for nothing in their eyes."
+          "html": "He warned them not to let dissension with him bring down on their heads what had struck the people of Nuh (AS), and of Hud (AS), and of Salih (AS); and the people of Lut (AS), he reminded them, were not far from them. The warning drew only contempt. We do not understand much of what you say, they told him, and we see you weak among us. Were it not for his clan, they said, they would have stoned him, for in their eyes he counted for nothing."
         },
         {
           "t": "verse",
@@ -262,7 +262,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Shuayb (AS) answered with the question that laid the matter bare: is my clan mightier in your sight than Allah, that you spare me for their sake while you put Him behind your backs? Then he left them to their course with words as calm as they were final. Work according to your position, he told them; I am working according to mine. And watch and wait, for I am watching with you.",
+          "html": "Shuayb (AS) put the question that exposed it all: is my clan worth more in your eyes than Allah, that you spare me for its sake while you put Him behind your backs? Then he left them to go their way, his words calm, and final. Work according to your position, he told them, and I will do mine according to mine. Watch and wait; I am watching with you.",
           "cls": "dropcap"
         },
         {
@@ -296,7 +296,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Quran also names them the companions of the thicket, after the dense trees of their land. To them Shuayb (AS) came with the same unadorned call: will you not fear Allah? He was to them a trustworthy messenger, and he asked no wage from any man for his warning: his wage was with the Lord of the worlds alone.",
+          "html": "They are also named the companions of the thicket, after the dense trees of their land. To them Shuayb (AS) came with the same plain call: will you not fear Allah? He stood before them as a trustworthy messenger, and he asked no wage of any man for his warning: his wage lay with the Lord of the worlds alone.",
           "cls": "dropcap"
         },
         {
@@ -308,7 +308,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Allah&rsquo;s own summary of the thicket people is brief and heavy: they were wrongdoers. Retribution overtook them, and their dwelling was left standing beside a clear highway, a lesson in plain sight for every traveler who passed that way after them."
+          "html": "Allah&rsquo;s verdict on the people of the thicket is brief, and it is heavy: they were wrongdoers. Retribution overtook them, and their dwelling stayed standing beside a clear highway, left in plain sight as a lesson for every traveler who passed that way after them."
         },
         {
           "t": "verse",
@@ -334,7 +334,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "To the thicket people Shuayb (AS) repeated the warning: fear the One who created you and the generations before you. They answered with the stock replies of every nation that refused its prophet: a man bewitched, a man like ourselves, and in our view a liar. Then came the dare: cause fragments of the sky to fall upon us, if you are truthful. Shuayb (AS) left the matter where it belonged: my Lord is most knowing of what you do.",
+          "html": "To the people of the thicket Shuayb (AS) repeated the warning: fear the One who created you and the generations before you. They answered as every nation that refused its prophet had answered: a man bewitched, a man like themselves, and, in their judgment, a liar. Then came the dare: cause fragments of the sky to fall upon us, if you are truthful. Shuayb (AS) left the matter where it belonged: my Lord is most knowing of what you do.",
           "cls": "dropcap"
         },
         {
@@ -346,7 +346,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The sky they had mocked him with gave its answer. The punishment of the day of the overshadowing cloud seized the thicket people, and in Madyan the earthquake took the deniers in their homes, so that by morning the loud market towns lay silent, their people fallen prone where they had lived and traded."
+          "html": "The answer came from the sky itself, the sky they had mocked him with. The punishment of the day of the overshadowing cloud seized the people of the thicket, and in Madyan the earthquake took the deniers inside their homes, until by morning the loud market towns had fallen silent, their people fallen prone where they had lived and traded."
         },
         {
           "t": "verse",
@@ -393,7 +393,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "But the prophet and his followers were not in those ruins. When Allah&rsquo;s command came, He saved Shuayb (AS) and those who believed with him, by a mercy from Him, while the shriek seized those who had wronged. The people who had filled the city became as though they had never prospered in it at all, and Madyan was cast into the far distance, just as Thamud had been cast away before it.",
+          "html": "But the prophet and those who believed with him were not among those ruins. When the command of Allah came, He saved Shuayb (AS) and those who believed with him, by a mercy from Him, while the shriek seized those who had wronged. The people who had filled the city became as though they had never prospered there at all, and Madyan was cast far away, just as Thamud had been cast away before it.",
           "cls": "dropcap"
         },
         {
@@ -427,7 +427,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then Shuayb (AS) turned away from them, and his last recorded words carry no triumph and no curse. He had conveyed the messages of his Lord and counseled them in sincerity; what grief could he spend on a people who would not believe? With that the account of Madyan closes: the warner discharged of his trust, and the scales of his people settled beyond appeal.",
+          "html": "Then Shuayb (AS) turned away from them, and his last recorded words carry neither triumph nor curse. He had conveyed the messages of his Lord, and he had counseled them in sincerity; what grief, then, could he spend on a people who would not believe? There the account of Madyan closes: the trust discharged, and the scales of his people settled beyond appeal.",
           "cls": "dropcap"
         },
         {
@@ -442,12 +442,12 @@ export const chapter = {
   ],
   "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran: Surah Hud (11:84-95), Surah Al-A’raf (7:85-93), Surah Ash-Shu’ara (26:176-191), Surah Al-Hijr (15:78-79) and Surah Al-Ankabut (29:36-37), with a narration from Sahih Muslim (102), and two labeled panels from Tafsir Ibn Kathir (on 11:88 and 26:183-184), clearly marked as commentary, not revelation.</p>\n      ",
   "lessons": [
-    "<strong>Give full measure.</strong> The measure and the balance are trusts: fill both, in justice, every time. (Quran 11:85)",
-    "<strong>What remains lawful is best.</strong> The profit Allah leaves in your hands after honest dealing outweighs any gain skimmed by deceit. (Quran 11:86)",
-    "<strong>Reform begins with the caller.</strong> Shuayb (AS) would not forbid what he himself practised in secret: intend reform, and leave success to Allah. (Quran 11:88)",
-    "<strong>Remember the nations before you.</strong> Nuh (AS), Hud (AS), Salih (AS), and Lut (AS) are not distant stories; they are warnings posted along the road. (Quran 11:89)",
-    "<strong>Do not deprive people of their due.</strong> Short-changing a buyer is not clever trade; the Quran names it corruption spread through the land. (Quran 26:183)",
-    "<strong>Fear the Creator of every generation.</strong> The One who created you, and the peoples who came before you, watches how you trade. (Quran 26:184)"
+    "<strong>Give full measure.</strong> The measure and the balance are trusts: fill each one fully, in justice, every time. (Quran 11:85)",
+    "<strong>What remains lawful is best.</strong> The profit Allah leaves in your hands after honest dealing is worth more than any gain skimmed by deceit. (Quran 11:86)",
+    "<strong>Reform begins with the caller.</strong> Shuayb (AS) would not forbid a thing and then practise it himself in secret: intend reform, and leave success to Allah. (Quran 11:88)",
+    "<strong>Remember the nations before you.</strong> Nuh (AS), Hud (AS), Salih (AS), and Lut (AS) are not far-off tales; they are warnings set along the road. (Quran 11:89)",
+    "<strong>Do not deprive people of their due.</strong> Short-changing a buyer is no clever trade; it is corruption spread through the land. (Quran 26:183)",
+    "<strong>Fear the Creator of every generation.</strong> The One who created you and the peoples before you watches over how you trade. (Quran 26:184)"
   ],
   "quiz": [
     {

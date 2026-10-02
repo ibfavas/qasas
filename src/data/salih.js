@@ -7,7 +7,7 @@ export const chapter = {
   "hero": {
     "plaque": "Chapter V",
     "title": "Salih (AS): The She-Camel of Allah",
-    "sub": "A sign they demanded, a camel they were warned never to touch, and three days of waiting after the hamstringing.",
+    "sub": "They demanded a sign, were warned never to harm the camel it brought, and were given three days after they hamstrung her.",
     "img": "../assets/salih-hijr.webp",
     "imgAlt": "Ancient rock-carved cliff dwellings at dawn in a desert valley",
     "caption": "The dwellings of Thamud: “their houses, desolate because of what they wronged.” (Quran 27:52)"
@@ -40,7 +40,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "After &lsquo;Ad came Thamud, and to them, another brother. Salih (AS) was one of their own: his lineage was their lineage, his language theirs. His message opened with their origin, that Allah had produced them from the earth and settled them in it, and his Lord was near and responsive, not distant, not silent. And beneath it the foundation every messenger laid: worship Allah; you have no deity other than Him.",
+          "html": "After &lsquo;Ad came Thamud, and to them Allah sent a brother from among themselves. Salih (AS) shared their lineage and spoke their own tongue. He began where their story began: Allah had produced them from the earth and settled them in it, and their Lord was near, responsive, not distant and not silent. Beneath all of it stood the foundation every messenger laid first: worship Allah; you have no deity other than Him.",
           "cls": "dropcap"
         },
         {
@@ -74,7 +74,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Thamud did not ask for arguments; they asked for a miracle. You are only a man like us, they said, so &ldquo;bring a sign, if you should be of the truthful.&rdquo; And Allah gave them one beyond all expectation: the she-camel, a visible sign. She was no ordinary animal; she was a trial for them, a living, breathing test walking among them and drinking from their wells. Allah told Salih (AS) to watch them and be patient. The sign had come. Now came the terms.",
+          "html": "Thamud wanted more than words; they wanted a miracle. You are only a man like us, they said, so &ldquo;bring a sign, if you should be of the truthful.&rdquo; Allah answered with the she-camel, a visible sign standing before their eyes. She was no ordinary beast; she was a trial sent among them, living among their wells. Allah told Salih (AS) to watch them and to be patient. The sign had arrived. Now its terms would follow.",
           "cls": "dropcap"
         },
         {
@@ -122,7 +122,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "A sign from Allah comes with conditions. The wells would be shared: one day for her, one day for them, each on a known day. An arrangement no one could call unfair. And the warning was explicit: do not touch her with harm, or the punishment of a terrible day would seize them. The terms were simple. Blessings from Allah always carry boundaries; the only question is whether men will keep them.",
+          "html": "A sign from Allah is never without its terms. The water would be shared: one day hers, the next theirs, each drink on a day already known. No one could call it unjust. And the warning was spoken plainly: do not touch her with harm, lest the punishment of a terrible day seize you. The conditions were simple. Every blessing from Allah carries its boundary; what remained was whether men would honour it.",
           "cls": "dropcap"
         },
         {
@@ -155,7 +155,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "They kept the terms until resentment ripened into resolve. They called their companion, and he dared and hamstrung her: one hand did it, at the urging of many. The Quran gives him his rank in infamy, the most wretched of them. Then, drunk on defiance, they were insolent toward the command of their Lord: &ldquo;O Salih, bring us what you promise us, if you should be of the messengers.&rdquo; They killed the sign, and then demanded the punishment, as if daring Allah Himself.",
+          "html": "For a time they held to the terms, until resentment hardened into resolve. They summoned their companion; he dared, and he hamstrung her. One hand struck, at the urging of many, and its owner stands named the most wretched among them. Then defiance spilled into open insolence toward their Lord&rsquo;s command: &ldquo;O Salih, bring us what you promise us, if you should be of the messengers.&rdquo; They had killed the sign, and now they demanded the punishment it had warned of.",
           "cls": "dropcap"
         },
         {
@@ -203,7 +203,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Salih (AS) gave them the answer they had dared to ask for: &ldquo;Enjoy yourselves in your homes for three days. That is a promise not to be denied.&rdquo; Three days, not three years, not three hours. Time enough to repent, and they spent it waiting. The Quran gives no details of those three days. It records only the promise, and that it would not be denied.",
+          "html": "Salih (AS) answered with the very thing they had dared him to bring: &ldquo;Enjoy yourselves in your homes for three days. That is a promise not to be denied.&rdquo; Three days; not three years, not three hours. There was still time to repent, and they let it pass in waiting. No account is given of how those days were spent; only the promise is preserved, and that it would not fail.",
           "cls": "dropcap"
         },
         {
@@ -230,7 +230,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "While the countdown ran, nine men hatched a darker plan. Nine family heads, spreading corruption in the city and never amending it. They swore an oath by Allah Himself, the very God they rejected, to murder Salih (AS) and his family by night, and to tell his executor in the morning that they had witnessed nothing, claiming truthfulness. Murder by night, lies by day, an alibi prepared in advance. But &ldquo;they planned a plan, and We planned a plan, while they perceived not.&rdquo; So observe how their plan ended: Allah destroyed them and their people, all.",
+          "html": "As the three days ran down, nine men formed a darker design. Nine heads of families, spreading corruption through the city and amending nothing, swore together by Allah, the Lord they had rejected, to fall upon Salih (AS) and his household by night, then stand before his executor and claim they had witnessed no destruction, insisting they spoke the truth. Murder in the dark, innocence by daylight, the alibi prepared beforehand. But &ldquo;they planned a plan, and We planned a plan, while they perceived not.&rdquo; Look, then, at where their plotting ended: Allah destroyed them and their people, all of them.",
           "cls": "dropcap"
         },
         {
@@ -257,7 +257,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "When the three days ended, it came at dawn. A single shriek seized the wrongdoers, and they fell prone in their homes, like dry twig fragments of an animal pen. The same dawn they woke in houses carved from living rock, feeling safe. The thunderbolt seized them while they were looking on. They had hamstrung Allah&rsquo;s sign, and their Lord brought destruction down upon them for their sin.",
+          "html": "When the third day closed, the end came with the dawn. One shriek seized those who had wronged, and they were left fallen prone within their homes, like dry twig fragments of an animal pen. The thunderbolt took them while they looked on, in the very houses they had carved from rock and trusted for safety. They had hamstrung the sign of Allah, and their Lord brought destruction upon them for their sin.",
           "cls": "dropcap"
         },
         {
@@ -312,7 +312,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Thamud&rsquo;s pride was written in stone, literally. They were the companions of Al-Hijr who denied the messengers, carving houses from the mountains and feeling secure, carving the rocks in the valley with skill. Their architecture outlived their repentance by about three days. The shriek seized them at dawn, and nothing they had earned availed them. Centuries later, the Prophet Muhammad ﷺ passed those same ruins on the march to Tabuk, and left an order for every traveler after him:",
+          "html": "Thamud had carved their pride into the mountains themselves. The companions of Al-Hijr, who denied the messengers, cut houses out of the rock and dwelt in them feeling secure, hewing the stone of the valley with skill. Their workmanship outlasted their repentance by three days. At dawn the shriek seized them, and all they had earned could not avail them. Generations later, Muhammad ﷺ passed by those same ruins on the march to Tabuk, and left a command for every traveller who would come after:",
           "cls": "dropcap"
         },
         {
@@ -360,7 +360,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The order at Al-Hijr went further than grief. Ibn Umar (RA) narrates that when the Prophet (ﷺ) landed there during the Tabuk expedition, he ordered the companions not to drink from its wells or store its water. Some had already kneaded dough with it and filled their bags; he ordered them to throw the dough away and pour the water out. And then he directed them to the one well that was different: the well from which the she-camel of Salih (AS) used to drink. Centuries after Thamud, her well was still known, and still blessed. The punishment had passed, but the sign&rsquo;s water remained pure.",
+          "html": "The command at Al-Hijr reached beyond grief. Ibn Umar (RA) relates that when the Prophet (ﷺ) halted there on the Tabuk expedition, he forbade his companions to drink from its wells or to carry its water away. Some had already kneaded dough with that water and filled their bags; he ordered the dough cast away and the water poured out. Then he pointed them to one well set apart from the rest, the well from which the she-camel of Salih (AS) once drank. Long after Thamud had vanished, her well was still known, and its water remained pure after the punishment had passed.",
           "cls": "dropcap"
         },
         {
@@ -394,7 +394,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "When the command came, Allah saved Salih (AS) and those who believed with him, by mercy, from the disgrace of that day. The believers walked out of a city of corpses into mercy. And Thamud? They denied their Lord, so away with Thamud. Their empty houses stand in the valley to this day, &ldquo;desolate because of what they wronged,&rdquo; a sign for people who know. And the Quran closes their account the way it closes every account: We saved those who believed.",
+          "html": "When Allah&rsquo;s command arrived, He saved Salih (AS) and those who believed alongside him, by His mercy sparing them the disgrace of that day. They came out of a silent city into mercy. As for Thamud, they had denied their Lord, and the word fell: away with Thamud. Their houses still stand empty in the valley, &ldquo;desolate because of what they wronged,&rdquo; a lasting sign for people who know. And their story closes as every such account closes: We saved those who believed.",
           "cls": "dropcap"
         },
         {
@@ -430,13 +430,13 @@ export const chapter = {
   ],
   "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Hud (11:61-68), Surah Al-A’raf (7:73-79), Surah Ash-Shu’ara (26:141-159), Surah An-Naml (27:45-53) and Surah Ash-Shams (91:11-15), with narrations from Sahih al-Bukhari (433, 3377, 3378, 3379), and one labeled panel from Tafsir Ibn Kathir (on 7:73), clearly marked as commentary, not revelation.</p>\n      ",
   "lessons": [
-    "<strong>Never demand a sign you will resent.</strong> Thamud asked for the camel, then killed it. Asking Allah for proof while planning disobedience is a doomed bargain. (Quran 17:59, 91:14)",
-    "<strong>Blessings come with boundaries.</strong> Her day, your day: the arrangement was simple. Keeping Allah’s limits is part of gratitude. (Quran 26:155)",
-    "<strong>One hand sins; silent approval shares the guilt.</strong> A single companion hamstrung her, but the cry took the city that let him. (Quran 54:29)",
-    "<strong>Plotting against the righteous backfires.</strong> Nine men swore to murder Salih (AS) by night; Allah’s plan swallowed theirs whole. (Quran 27:49-50)",
-    "<strong>Stone houses don’t save.</strong> They carved security from mountains and died in their beds at dawn. Only taqwa protects. (Quran 15:82-83)",
-    "<strong>Ruins are sermons.</strong> &ldquo;Their houses, desolate because of what they wronged&rdquo;: the empty valley still teaches. (Quran 27:52)",
-    "<strong>Even the water remembers.</strong> At Al-Hijr the Prophet (ﷺ) ordered the tainted wells poured out, but directed his companions to the she-camel&rsquo;s well. Allah&rsquo;s signs outlast the nations that rejected them."
+    "<strong>Never demand a sign you will resent.</strong> Thamud begged for the camel, then hamstrung it. To seek proof from Allah while intending disobedience is a bargain doomed from the start. (Quran 17:59, 91:14)",
+    "<strong>Blessings come with boundaries.</strong> One day hers, the next yours: the sharing could not have been plainer. Gratitude includes keeping the limits Allah sets. (Quran 26:155)",
+    "<strong>One hand sins; silent approval shares the guilt.</strong> One companion struck the blow, yet the shriek took the whole city that had let him act. (Quran 54:29)",
+    "<strong>Plotting against the righteous backfires.</strong> Nine men swore to kill Salih (AS) under cover of night; Allah&rsquo;s plan closed over theirs entirely. (Quran 27:49-50)",
+    "<strong>Stone houses don’t save.</strong> They hewed their security from the mountains and were taken at dawn within them. Nothing shelters a soul except taqwa. (Quran 15:82-83)",
+    "<strong>Ruins are sermons.</strong> &ldquo;Their houses, desolate because of what they wronged&rdquo;: centuries on, the emptied valley still preaches to whoever passes and understands. (Quran 27:52)",
+    "<strong>Even the water remembers.</strong> At Al-Hijr the Prophet (ﷺ) had the wells&rsquo; water poured away, yet sent his companions to draw from the well of the she-camel. The signs of Allah remain long after the people who refused them are gone."
   ],
   "quiz": [
     {

@@ -3,7 +3,7 @@ export const chapter = {
   "hero": {
     "plaque": "Chapter I",
     "title": "Adam (AS): The First Man",
-    "sub": "From the first announcement to the first murder, the whole story as the Quran tells it.",
+    "sub": "From the opening announcement to the first murder, the complete story as the Quran tells it.",
     "img": "../assets/adam-descent.webp",
     "imgAlt": "Two small distant figures walking down a mountainside path at dawn",
     "caption": "The descent to earth, carrying with it a promise of guidance for all who follow it."
@@ -40,7 +40,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "dropcap",
-          "html": "Before there was any human being on earth, Allah spoke to the angels and told them His plan: He would place upon the earth a <em>khalifa</em>, a successive authority. The angels, who spent their existence praising Allah and declaring His perfection, asked a question: would He place there one who would cause corruption and shed blood? Allah answered them with words that settle every question beyond our sight: &ldquo;Indeed, I know that which you do not know.&rdquo;"
+          "html": "There was not yet a human being on earth when Allah addressed the angels and made His plan known: He would place upon the earth a <em>khalifa</em>, a successive authority. The angels, whose existence was spent praising Allah and declaring His perfection, asked in return whether He would place there one who would cause corruption and shed blood. Allah answered with words that close every question lying beyond sight: &ldquo;Indeed, I know that which you do not know.&rdquo;"
         },
         {
           "t": "verse",
@@ -67,7 +67,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "Then Allah fashioned Adam (AS). When He had proportioned him, shaped and formed him, and breathed into him of His created soul, He commanded the angels: fall down to him in prostration. This was no ordinary creature. Allah Himself gave him form, and breathed into him, and ordered the angels to honour him."
+          "html": "Then Allah fashioned Adam (AS), proportioning him and giving him shape and form, and He breathed into him of His created soul. With that, He commanded the angels to fall down to him in prostration. This was no ordinary creature. Allah Himself had given him form and breathed into him, and He ordered the angels to honour him."
         },
         {
           "t": "verse",
@@ -101,7 +101,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "Allah gave Adam (AS) something no other creature had been given: knowledge. He taught Adam (AS) the names, all of them. Then He showed them to the angels and challenged them: &ldquo;Inform Me of the names of these, if you are truthful.&rdquo; Before any test of strength, mankind was honoured with a test of knowledge."
+          "html": "Allah gave Adam (AS) a gift given to no other creature: knowledge. He taught Adam (AS) the names, all of them, then presented them to the angels with a challenge: &ldquo;Inform Me of the names of these, if you are truthful.&rdquo; Mankind was honoured first not by a test of strength but by a test of knowledge."
         },
         {
           "t": "verse",
@@ -128,7 +128,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "Then Allah commanded the angels: &ldquo;Prostrate before Adam.&rdquo; And they all prostrated, every one of them, except one. Iblis refused. He was arrogant, and he became of the disbelievers. The angels obeyed; Iblis refused. The first sin recorded here was pride."
+          "html": "Then came the command to the angels: &ldquo;Prostrate before Adam.&rdquo; They all prostrated, every one of them, all but one. Iblis refused. Arrogant in his refusal, he became of the disbelievers. Where the angels obeyed, Iblis held back, and the first sin recorded here was pride."
         },
         {
           "t": "verse",
@@ -155,7 +155,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "Allah asked Iblis directly: &ldquo;What prevented you from prostrating when I commanded you?&rdquo; Iblis did not ask forgiveness. He argued: &ldquo;I am better than him. You created me from fire and created him from clay.&rdquo; He measured himself against Adam (AS) by what they were made of, and decided the fire in him was nobler than the clay in Adam (AS)."
+          "html": "Allah put the question to Iblis directly: &ldquo;What prevented you from prostrating when I commanded you?&rdquo; Iblis offered no plea for forgiveness. He argued instead: &ldquo;I am better than him. You created me from fire and created him from clay.&rdquo; He weighed himself against Adam (AS) by what each was made of, and judged the fire in himself nobler than the clay in Adam (AS)."
         },
         {
           "t": "verse",
@@ -182,7 +182,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "Allah settled Adam (AS) in Paradise, with his wife beside him. &ldquo;O Adam,&rdquo; He said, &ldquo;dwell, you and your wife, in Paradise, and eat from wherever you will, but do not approach this tree, lest you be among the wrongdoers.&rdquo; One tree. One command. Everything else in the Garden was theirs."
+          "html": "Allah settled Adam (AS) and his wife in Paradise. &ldquo;O Adam,&rdquo; He said, &ldquo;dwell, you and your wife, in Paradise, and eat from wherever you will, but do not approach this tree, lest you be among the wrongdoers.&rdquo; One tree only. One command only. All the rest of the Garden was theirs."
         },
         {
           "t": "verse",
@@ -209,7 +209,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "But there was an enemy waiting: the same Iblis who had refused to bow. Satan whispered to Adam (AS) and his wife, hoping to expose what had been hidden from them. And he lied to them about their Lord: &ldquo;Your Lord only forbade you this tree so that you would not become angels, or become of the immortal.&rdquo; The first lie ever told to mankind was about Allah."
+          "html": "An enemy, however, was already waiting: Iblis himself, the one who had refused to bow. Satan whispered to Adam (AS) and his wife, hoping to lay bare what had been hidden from them. Then he lied to them about their Lord: &ldquo;Your Lord only forbade you this tree so that you would not become angels, or become of the immortal.&rdquo; The first lie ever told to mankind was about Allah."
         },
         {
           "t": "verse",
@@ -236,7 +236,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "Deceived, they fell. When they tasted of the tree, what had been hidden from them became visible, and they began fastening together over themselves leaves from the Garden. Then their Lord called out to them: &ldquo;Did I not forbid you from that tree and tell you that Satan is to you a clear enemy?&rdquo;"
+          "html": "Taken in by deception, they fell. When they tasted of the tree, what had been hidden from them became apparent, and they set about fastening together over themselves the leaves of the Garden. Then their Lord called to them: &ldquo;Did I not forbid you from that tree and tell you that Satan is to you a clear enemy?&rdquo;"
         },
         {
           "t": "verse",
@@ -263,7 +263,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "Adam (AS) and his wife did not run from their mistake, and they did not blame each other. They turned back to their Lord with words He Himself taught them: &ldquo;Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.&rdquo; And Allah, the Accepting of Repentance, the Merciful, accepted their repentance. This is the difference between Adam (AS) and Iblis: one disobeyed and returned, the other disobeyed and argued."
+          "html": "Adam (AS) and his wife neither fled their mistake nor turned on each other in blame. They returned to their Lord in the very words He had taught them: &ldquo;Our Lord, we have wronged ourselves, and if You do not forgive us and have mercy upon us, we will surely be among the losers.&rdquo; Allah, the Accepting of Repentance, the Merciful, accepted their repentance. Here lies the difference between Adam (AS) and Iblis: one disobeyed and returned, the other disobeyed and argued."
         },
         {
           "t": "verse",
@@ -297,7 +297,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "Then came the command: &ldquo;Go down from it, all of you.&rdquo; But with the descent came a promise, a promise that still stands for every human being alive today: when guidance comes from Allah, whoever follows His guidance will have no fear, and they will not grieve."
+          "html": "Then the command fell: &ldquo;Go down from it, all of you.&rdquo; Yet the descent did not come alone; a promise came with it, one that still stands for every human being alive today. When guidance comes from Allah, whoever follows His guidance will have no fear, nor will they grieve."
         },
         {
           "t": "verse",
@@ -331,7 +331,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "On earth, Adam (AS)&rsquo;s story continued through his children. The Quran tells us, in truth, the story of Adam (AS)&rsquo;s two sons. Each of them made an offering to Allah. It was accepted from one of them, but not from the other. The one whose offering was refused said: &ldquo;I will surely kill you.&rdquo; The righteous one answered: &ldquo;Indeed, Allah only accepts from the righteous.&rdquo; And even with his brother&rsquo;s hand raised against him, he refused to raise his own: &ldquo;I shall not raise my hand toward you to kill you. Indeed, I fear Allah, Lord of the worlds.&rdquo;"
+          "html": "On earth, Adam (AS)&rsquo;s story ran on through his children. Told here in truth is the account of Adam (AS)&rsquo;s two sons. Both brought an offering to Allah; it was accepted from one of them and refused from the other. The one refused threatened that he would surely kill his brother. The righteous brother answered: &ldquo;Indeed, Allah only accepts from the righteous.&rdquo; And even with his brother&rsquo;s hand raised against him to kill him, he would not raise his own in return: &ldquo;I shall not raise my hand toward you to kill you. Indeed, I fear Allah, Lord of the worlds.&rdquo;"
         },
         {
           "t": "verse",
@@ -365,7 +365,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "But his brother&rsquo;s soul permitted him the murder of his brother, and he killed him, and became among the losers. A brother had killed his brother: the first murder. Then Allah sent a crow, scratching in the ground, to show the killer how to hide the body of his brother. The murderer looked at the small bird and cried out: &ldquo;O woe to me! Have I failed to be like this crow and hide the body of my brother?&rdquo; And he became of the regretful."
+          "html": "But his own soul made the murder of his brother permissible to him, and he killed him and became among the losers. Brother had killed brother: it was the first murder. Allah then sent a crow, scratching in the ground, to show him how to hide the body of his brother. The killer looked at that small bird and cried out: &ldquo;O woe to me! Have I failed to be like this crow and hide the body of my brother?&rdquo; And so he became of the regretful."
         },
         {
           "t": "verse",
@@ -406,7 +406,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "Because of that first murder, Allah decreed a law upon the Children of Israel, a law for all of humanity: whoever kills a soul, unless for a soul or for corruption in the land, it is as if he had killed all of mankind. And whoever saves a life, it is as if he had saved all of mankind. One murder, at the beginning of history, and the verdict upon it echoes to the end of time."
+          "html": "Out of that first murder came the decree Allah laid upon the Children of Israel, a decree for all humanity: whoever kills a soul, unless for a soul or for corruption in the land, it is as if he had slain all mankind. And whoever saves a life, it is as if he had saved all mankind. One murder, at the beginning of history, and the verdict upon it resounds to the end of time."
         },
         {
           "t": "verse",
@@ -419,10 +419,10 @@ export const chapter = {
     }
   ],
   "lessons": [
-    "<strong>Knowledge is an honour.</strong> Allah taught Adam (AS) the names, all of them, and raised him by it. (Quran 2:31)",
-    "<strong>Pride destroys.</strong> Iblis refused a single command out of arrogance and became of the disbelievers. (Quran 2:34, 7:12)",
-    "<strong>Repentance is always open.</strong> Allah Himself taught Adam (AS) the words of repentance, and He accepted it. (Quran 2:37)",
-    "<strong>One life is sacred.</strong> Killing a single innocent soul is like killing all of mankind. (Quran 5:32)"
+    "<strong>Knowledge is an honour.</strong> Allah raised Adam (AS) by teaching him the names, all of them. (Quran 2:31)",
+    "<strong>Pride destroys.</strong> Out of arrogance Iblis refused one command, and so became of the disbelievers. (Quran 2:34, 7:12)",
+    "<strong>Repentance is always open.</strong> From Allah Himself Adam (AS) received the words of repentance, and He accepted it. (Quran 2:37)",
+    "<strong>One life is sacred.</strong> The killing of one innocent soul is like the killing of all mankind. (Quran 5:32)"
   ],
   "quiz": [
     {

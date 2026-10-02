@@ -7,7 +7,7 @@ export const chapter = {
   "hero": {
     "plaque": "Chapter IV",
     "title": "Hud (AS): The Barren Wind",
-    "sub": "A brother sent to ‘Ad, a people of unmatched strength. He called them to Allah alone, and the wind answered their defiance.",
+    "sub": "A brother was sent to ‘Ad, a people unmatched in strength. He called them to worship Allah alone, and the wind answered their defiance.",
     "img": "../assets/hud-wind.webp",
     "imgAlt": "A vast desert valley beneath a towering wall of dark wind-driven dust",
     "caption": "The barren wind: “We sent against them the barren wind.” (Quran 51:41)"
@@ -41,7 +41,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "After Nuh (AS), mankind began again. The new people were ‘Ad, and the messenger sent to them was one of their own: Hud (AS), their brother. Not a stranger, not an angel, but a man of their own blood, speaking their own tongue. His call was the call every messenger carried: worship Allah alone, for you have no deity other than Him.",
+          "html": "After Nuh (AS), the earth was peopled anew. To the ‘Ad, Allah sent one of their own, their brother Hud (AS). He was no stranger to them, and no angel, but a man of their own blood who spoke their own tongue. His message was the message of every messenger: worship Allah alone, for you have no deity other than Him.",
           "cls": "dropcap"
         },
         {
@@ -82,7 +82,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "‘Ad were not a weak people, and the Quran never pretends they were. They raised Iram of the lofty pillars, the likes of which had never been created in the land. They built monuments on every high place for amusement, and fortresses as if they would live forever, and when they seized their enemies they seized as tyrants. Their strength went to their heads until it became their creed: &ldquo;Who is greater than us in strength?&rdquo; The Quran answers its own question: the One who created them was greater than them in strength. Power had become their god, and they worshipped it openly.",
+          "html": "‘Ad were a people of formidable strength, and their power was no illusion. They raised Iram of the lofty pillars, the likes of which had never been created in the land. On every high place they built monuments for amusement, and they raised fortresses as though they would abide forever. When they struck, they struck as tyrants. Strength filled their minds until it became their creed, and they asked, &ldquo;Who is greater than us in strength?&rdquo; Yet the One who created them was greater than them in strength. Power had become their god, and they served it openly.",
           "cls": "dropcap"
         },
         {
@@ -129,7 +129,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Into this pride walked Hud (AS), with nothing to sell and nothing to gain. He asked no wage; his reward was with the One who created him. A warner who wants nothing from you can only want good for you. And his offer was mercy dressed as simplicity: ask forgiveness and repent, and the sky would open with rain, and strength would be added to their strength. Forgiveness first, then rain, then more power: even their beloved strength would grow, if only it bowed. He told them plainly that he was a trustworthy messenger and a trustworthy adviser, and he asked only that they fear Allah and obey him.",
+          "html": "Into that pride came Hud (AS), with nothing to sell and nothing to gain. He asked no wage for his counsel; his reward was only with the One who created him. A warner who wants nothing from a people can only want good for them. What he offered was mercy in its simplest form: ask forgiveness of your Lord and turn to Him in repentance, and rain would descend upon you in showers, and strength would be added to your strength. Forgiveness first, then rain, then power still greater, if only their strength would bow. He told them plainly that he was a trustworthy messenger, a trustworthy adviser, and he asked only that they fear Allah and obey him.",
           "cls": "dropcap"
         },
         {
@@ -170,7 +170,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The chiefs answered with the oldest weapons in the world: ridicule and slander. They called him foolish and a liar. When he pressed them, they diagnosed him as mad, claiming their gods had seized him with evil for insulting them. And their philosophy is preserved word for word, the creed of every comfortable age: this is only the custom of former peoples, and &ldquo;we are not to be punished.&rdquo; A prophet is a madman, history is a wheel, punishment is a myth. They had an answer for everything, everything except the truth.",
+          "html": "The chiefs who disbelieved answered with ridicule and slander, the oldest weapons of all. They called him foolish, and a liar. When he pressed them further, they said he was mad, claiming their gods had touched him with evil for speaking against them. Their creed was plain, and it is preserved in their own words: this is only the custom of former peoples, and &ldquo;we are not to be punished.&rdquo; A prophet must be mad, history must be nothing new, and punishment must be a fiction. They had an answer for everything, except for the truth.",
           "cls": "dropcap"
         },
         {
@@ -211,7 +211,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then came the challenge, the dare every doomed people throws at its warner. Had he come to turn them from their gods? Then let him bring what he promised, if he was truthful. Bring it, they said. Show us. They imagined the threat was empty because the sky was clear. They were about to learn what a clear sky can hide.",
+          "html": "Then came their challenge, the dare a doomed people cast at its warner. Had he come only to turn them away from their gods? Then let him bring what he had promised, if he was truthful. Bring it, they said. Show us. The sky above them was clear, and so they took the threat to be empty. They had yet to learn what a clear sky could conceal.",
           "cls": "dropcap"
         },
         {
@@ -245,7 +245,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Hud (AS) did not flinch. His answer is one of the boldest speeches in the Quran. He called Allah to witness that he was free of their idols, and then he dared them all at once: plot against him, all together, and give him no respite. One man against a mighty nation, asking for no delay and granting none. His confidence had a source, and he named it: his trust was in Allah, his Lord and theirs, who holds every creature by its forelock. &ldquo;There is no creature but that He holds its forelock.&rdquo; Every tyrant&rsquo;s forehead is in Allah&rsquo;s grip. What is there to fear?",
+          "html": "Hud (AS) did not flinch. Standing alone before a mighty nation, he called Allah to witness that he was free of everything they associated with Him, and he threw down his challenge to them all at once: plot against me, all of you together, and give me no respite. He asked for no delay, and he granted none. His confidence was not in himself; he named its source openly. He had placed his trust in Allah, his Lord and their Lord, who holds every creature by its forelock. &ldquo;There is no creature but that He holds its forelock.&rdquo; If every tyrant is held fast in that grip, what was left for him to fear?",
           "cls": "dropcap"
         },
         {
@@ -279,7 +279,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The punishment came wearing the clothes of mercy. After drought, they saw something rising over the ridges, a cloud approaching their valleys, and they celebrated: &ldquo;This is a cloud bringing us rain!&rdquo; The sky had answered, they thought. But it was the very thing they had been impatient for: a wind carrying a painful punishment. The thing they had demanded arrived looking like the answer to their prayers. Not every relief is a relief.",
+          "html": "The punishment came wearing the clothes of mercy. After drought, they saw a cloud rising over the ridges and moving toward their valleys, and they cried out: &ldquo;This is a cloud bringing us rain!&rdquo; The sky, they thought, had answered them. In truth, it was the thing they had demanded in their impatience: a wind carrying a painful punishment, destroying everything by the command of its Lord. What they had asked for arrived looking like the answer to their prayers. Not every relief is a relief.",
           "cls": "dropcap"
         },
         {
@@ -306,7 +306,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Centuries later, the Prophet Muhammad (ﷺ) himself would remember ‘Ad when the sky darkened. Aisha (RA) narrates that whenever the wind blew stormy, he would pray: O Allah, I ask You for its good and the good within it and the good it was sent with, and I seek refuge in You from its evil and the evil within it and the evil it was sent with. When thunder and lightning filled the sky, his face changed color; he went out and came back in, restless, until the rain fell and relief showed on his face. Aisha asked him why, and he said: it may be, O Aisha, as the people of &lsquo;Ad said when they saw the cloud coming toward their valley: this is a cloud bringing us rain. The Prophet (ﷺ) feared the sky because he knew what it had once hidden.",
+          "html": "Centuries later, the Prophet Muhammad (ﷺ) would remember ‘Ad whenever the wind rose and the sky grew dark. Aisha (RA) relates that when the wind blew stormy, he would pray, asking Allah for its good, the good within it, and the good it was sent with, and seek refuge in Him from its evil, the evil within it, and the evil it was sent with. When the sky filled with thunder and lightning, his color changed. He would go out and come back in, restless, until rain fell and relief appeared on his face. Aisha (RA) asked him about this, and he answered: it may be, O Aisha, as the people of ‘Ad said when they saw the cloud approaching their valleys, &ldquo;This is a cloud bringing us rain.&rdquo; The Prophet (ﷺ) feared the sky because he knew what it had once concealed.",
           "cls": "dropcap"
         },
         {
@@ -333,7 +333,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The wind that destroyed ‘Ad has a name in the Prophet&rsquo;s (ﷺ) teaching, and so does the wind that helped him. Ibn Abbas (RA) narrates that the Prophet (ﷺ) said he was helped by the east wind, and &lsquo;Ad were destroyed by the west wind. Two winds, two histories: one carrying victory to the believers, the other carrying ruin to those who asked who was greater than them in strength. The same sky, the same air; what differs is what it is sent with.",
+          "html": "The wind that destroyed ‘Ad has a name in the Prophet&rsquo;s (ﷺ) teaching, and so does the wind that helped him. Ibn Abbas (RA) relates that the Prophet (ﷺ) said he was helped by the east wind, and &lsquo;Ad were destroyed by the west wind. Two winds, two histories: one carrying victory to the believers, the other carrying ruin to those who asked who was greater than them in strength. The same sky, the same air. What differs is what each is sent with.",
           "cls": "dropcap"
         },
         {
@@ -360,7 +360,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Quran describes that wind from four angles, and each is more terrifying than the last. A screaming wind. The barren wind, leaving nothing alive behind it, reducing everything it touched to disintegrated ruins. It raged seven nights and eight days in succession, tearing people up like uprooted trunks of palm trees and leaving them fallen like &ldquo;hollow trunks of palm trees.&rdquo; The people who had asked who was greater than them in strength lay like hollow palm trunks in the dust.",
+          "html": "That wind is described from four sides, and each description deepens the terror. It was a screaming wind, violent in its force. It was the barren wind, leaving nothing it came upon except disintegrated ruins. For seven nights and eight days in succession it was imposed upon them, tearing people away as though they were trunks of palm trees uprooted, leaving them fallen like hollow palm trunks. The people who had asked who was greater than them in strength now lay like hollow palm trunks in the dust.",
           "cls": "dropcap"
         },
         {
@@ -401,7 +401,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "When the command came, Allah saved Hud (AS) and those who believed with him, by mercy, from a harsh punishment. The believers, unnamed and uncounted, were carried through the very wind that erased the mighty. As for &lsquo;Ad: they denied the signs of their Lord, disobeyed His messengers, and followed the order of every obstinate tyrant. They were followed in this world with a curse, and on the Day of Resurrection. Unquestionably, &lsquo;Ad denied their Lord; then away with &lsquo;Ad, the people of Hud (AS). Of all their pillars and fortresses, only this remained: nothing could be seen except their dwellings.",
+          "html": "When the command arrived, Allah saved Hud (AS) and those who believed with him, by His mercy, and saved them from a harsh punishment. Unnamed and uncounted in the telling, those believers passed through the very wind that erased the mighty. As for &lsquo;Ad, they denied the signs of their Lord, disobeyed His messengers, and followed the command of every obstinate tyrant. They were followed in this world by a curse, and on the Day of Resurrection as well. Unquestionably, &lsquo;Ad denied their Lord. Away with &lsquo;Ad, the people of Hud (AS). Of all their pillars and fortresses, this alone endured: nothing could be seen except their dwellings.",
           "cls": "dropcap"
         },
         {
@@ -437,14 +437,14 @@ export const chapter = {
   ],
   "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Hud (11:50-60), Surah Al-A’raf (7:65-72), Surah Ash-Shu’ara (26:123-140) and Surah Al-Ahqaf (46:21-26), with narrations from Sahih al-Bukhari (1035) and Sahih Muslim (899b, 900a), and one labeled panel from Tafsir Ibn Kathir (on 89:7-8), clearly marked as commentary, not revelation.</p>\n      ",
   "lessons": [
-    "<strong>Strength without guidance is a liability.</strong> &lsquo;Ad asked &ldquo;who is greater than us in strength?&rdquo;, and the wind answered. (Quran 41:15)",
-    "<strong>The sincere caller wants nothing back.</strong> &ldquo;I do not ask you for it any reward&rdquo;: da’wah that seeks no wage cannot be bought and cannot be silenced. (Quran 11:51)",
-    "<strong>Forgiveness brings rain.</strong> Hud (AS) tied istighfar to provision: repent, and the sky opens. (Quran 11:52)",
-    "<strong>Fear no coalition.</strong> &ldquo;Plot against me all together, then do not give me respite&rdquo;: one man relying on Allah outmatches a nation. (Quran 11:55)",
-    "<strong>Punishment can arrive disguised as mercy.</strong> They cheered a cloud that was their destruction, not every relief is a relief. (Quran 46:24)",
-    "<strong>Arrogance ends in erasure.</strong> &ldquo;Nothing could be seen except their dwellings&rdquo;: the mighty &lsquo;Ad became a moral in stone. (Quran 46:25)",
-    "<strong>The Prophet (ﷺ) feared the wind.</strong> When the sky darkened he prayed for its good and sought refuge from its evil, remembering what the wind once carried to &lsquo;Ad. The believer sees a sign where others see weather.",
-    "<strong>Strength is a trust, not a creed.</strong> &lsquo;Ad&rsquo;s might was real, but they worshipped it. Ibn Kathir notes Hud (AS) called them to spend their strength in obedience to the One who gave it."
+    "<strong>Strength without guidance is a liability.</strong> &lsquo;Ad asked &ldquo;who is greater than us in strength?&rdquo; and the wind gave them their answer. (Quran 41:15)",
+    "<strong>The sincere caller wants nothing back.</strong> &ldquo;I do not ask you for it any reward&rdquo;: a call that seeks no wage cannot be bought, and cannot be silenced. (Quran 11:51)",
+    "<strong>Forgiveness brings rain.</strong> Hud (AS) tied istighfar to provision: seek forgiveness and repent, and the sky will open with rain. (Quran 11:52)",
+    "<strong>Fear no coalition.</strong> &ldquo;Plot against me all together, then do not give me respite&rdquo;: a single man who relies on Allah outmatches a nation. (Quran 11:55)",
+    "<strong>Punishment can arrive disguised as mercy.</strong> They welcomed a cloud that brought their destruction; not every relief is a relief. (Quran 46:24)",
+    "<strong>Arrogance ends in erasure.</strong> &ldquo;Nothing could be seen except their dwellings&rdquo;: all that remained visible of the mighty &lsquo;Ad was those dwellings. (Quran 46:25)",
+    "<strong>The Prophet (ﷺ) feared the wind.</strong> When the sky darkened, he prayed for the good within it and sought refuge from the evil within it, remembering what the wind had once carried to &lsquo;Ad. Where others see weather, the believer sees a sign.",
+    "<strong>Strength is a trust, not a creed.</strong> &lsquo;Ad&rsquo;s strength was real, yet they worshipped it. Ibn Kathir notes Hud (AS) called them to spend that strength in obedience to the One who gave it."
   ],
   "quiz": [
     {

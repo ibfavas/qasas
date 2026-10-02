@@ -7,7 +7,7 @@ export const chapter = {
   "hero": {
     "plaque": "Chapter III",
     "title": "Nuh (AS): The Ark and the Flood",
-    "sub": "Nine hundred and fifty years of calling, one ship built under Allah’s observation, and the flood that answered.",
+    "sub": "After nine hundred and fifty years of calling came a ship built under Allah’s observation, and then a flood that answered.",
     "img": "../assets/nuh-ark.webp",
     "imgAlt": "A great wooden ark floating on endless floodwaters beneath a stormy dawn sky",
     "caption": "The ark: “We carried him on planks and nails, sailing under Our observation.” (Quran 54:13-14)"
@@ -40,7 +40,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Before the flood, before the ship, before the mockery: there was a command. &ldquo;Indeed, We sent Nuh to his people,&rdquo; Allah says, &ldquo;warn your people before there comes to them a painful punishment.&rdquo; Nuh (AS) stands among the greatest of the messengers, one of those firmly resolved. His call was simple: worship Allah alone, fear Him, and obey His messenger. The promise attached was mercy: forgiveness of sins, and more time, &ldquo;for a specified term.&rdquo; And the time he was given with his people was longer than any other prophet&rsquo;s: nine hundred and fifty years.",
+          "html": "Before the flood, before the ship, before the mockery, there was a command. Allah sent Nuh (AS) to his people with a warning to deliver before punishment fell: &ldquo;warn your people before there comes to them a painful punishment.&rdquo; He stands among the greatest of the messengers, one of those firmly resolved. His call was plain: worship Allah alone, fear Him, and obey His messenger. Held out with it was mercy, forgiveness of sins and more time granted for a specified term. The time he then spent among his people was longer than any other prophet was given: nine hundred and fifty years.",
           "cls": "dropcap"
         },
         {
@@ -81,7 +81,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Nine and a half centuries, and he did not stop. &ldquo;My Lord, indeed I invited my people night and day,&rdquo; he said, but every invitation only increased them in flight. Each time he called them so that Allah might forgive them, they put their fingers in their ears, pulled their garments over themselves, persisted, and grew arrogant with great arrogance. So he tried every door: he invited them publicly, then he announced to them and confided to them secretly. And his message never changed: ask your Lord&rsquo;s forgiveness: He is the Perpetual Forgiver. Turn back, and He will send the sky down in showers, increase you in wealth and children, and give you gardens and rivers.",
+          "html": "Nine and a half centuries passed, and still he called. &ldquo;My Lord, indeed I invited my people night and day,&rdquo; he said, and every invitation only drove them further into flight. Whenever he called them so that Allah might forgive them, they pressed their fingers into their ears, drew their garments over themselves, persisted, and grew arrogant with great arrogance. So he tried every way open to him: he called them aloud in public, he announced the message openly, and he confided it to them in secret. The invitation itself never changed. Turn back, ask forgiveness of your Lord, for He is the Perpetual Forgiver, and He will send the sky upon you in continuing showers, increase you in wealth and children, and grant you gardens and rivers.",
           "cls": "dropcap"
         },
         {
@@ -129,7 +129,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "They answered nine centuries of mercy with conspiracy. &ldquo;They have disobeyed me,&rdquo; Nuh (AS) complained to his Lord, &ldquo;and followed him whose wealth and children will not increase him except in loss. And they conspired an immense conspiracy.&rdquo; Their command to one another is preserved in the Quran: never leave your gods: never leave Wadd, nor Suwa&lsquo;, nor Yaghuth, nor Ya&lsquo;uq, nor Nasr. The chiefs among them jeered: he is only a man like yourselves, they said, followed by the lowest of us: we see no merit in him over us; we think he is a liar. &ldquo;We see you in clear error.&rdquo; He only wants precedence over you, they claimed, had Allah willed, He would have sent angels. He is a madman, they said, and he was repelled. They threatened him with stoning if he did not stop. And then the challenge, thrown in his face: &ldquo;O Nuh, you have disputed with us long enough, so bring us what you threaten us with, if you are truthful.&rdquo;",
+          "html": "Nine centuries of mercy were answered with a plot. Nuh (AS) told his Lord that his people had disobeyed him and had followed a man whose wealth and children would only increase him in loss, and that together they had conspired an immense conspiracy. They commanded one another never to leave their gods, never to leave Wadd, nor Suwa&lsquo;, nor Yaghuth, nor Ya&lsquo;uq, nor Nasr. The chiefs dismissed him as a man no different from themselves, followed only by the lowest among them at first suggestion, a man with no merit over them whom they took for a liar. &ldquo;We see you in clear error,&rdquo; they said, and claimed he sought only precedence over them, for had Allah willed otherwise, He would have sent angels. They called him a madman, repelled him, and warned that if he did not stop he would be stoned. At last they threw the challenge back at him: &ldquo;O Nuh, you have disputed with us long enough, so bring us what you threaten us with, if you are truthful.&rdquo;",
           "cls": "dropcap"
         },
         {
@@ -184,7 +184,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Nuh (AS) answered every charge without raising his voice. &ldquo;O my people, there is not error in me,&rdquo; he said, &ldquo;but I am a messenger from the Lord of the worlds. I convey to you the messages of my Lord and advise you, and I know from Allah what you do not know.&rdquo; To their scorn of his poor followers he replied: &ldquo;I ask you no wealth for it; my reward is only from Allah. And I will not drive away those who have believed.&rdquo; He claimed nothing beyond his mission: &ldquo;I do not tell you that I have Allah&rsquo;s treasuries, or that I know the unseen, nor do I tell you that I am an angel.&rdquo; His claim was one thing only: &ldquo;Indeed, I am to you a trustworthy messenger, so fear Allah and obey me. And I do not ask you for it any payment; my payment is only from the Lord of the worlds.&rdquo;",
+          "html": "Nuh (AS) answered every charge directly. &ldquo;O my people, there is not error in me,&rdquo; he said, but he was a messenger from the Lord of the worlds, conveying the messages of his Lord, advising his people, and knowing from Allah what they did not know. To their scorn for the poor who had believed with him he replied that he asked no wealth from them for his call, that his reward was with Allah alone, and that he would not drive away those who had believed. He claimed no more than he had been given: he did not claim Allah&rsquo;s treasuries, knowledge of the unseen, or that he was an angel. His claim, stated plainly, was this: &ldquo;Indeed, I am to you a trustworthy messenger, so fear Allah and obey me.&rdquo; For that trust he sought no payment from them; his payment was from the Lord of the worlds alone.",
           "cls": "dropcap"
         },
         {
@@ -232,7 +232,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then the revelation came that closed the door: no one more of his people would believe, only those who already had. &ldquo;So do not be distressed by what they have been doing,&rdquo; Allah told him. And then the command that must have sounded strange on dry land: &ldquo;Construct the ship under Our observation and Our inspiration and do not address Me concerning those who have wronged; indeed, they are to be drowned.&rdquo; So he built. And whenever the chiefs of his people passed by him at his work, they ridiculed him. His reply is recorded: &ldquo;If you ridicule us, then we will ridicule you just as you ridicule. And you are going to know who will get a punishment that disgraces him, and upon whom will descend an enduring punishment.&rdquo;",
+          "html": "Then revelation settled what remained. Nuh (AS) was told that no one else from his people would believe beyond those who had already believed, and that what they had been doing should distress him no further. Then came the command to build on dry land: &ldquo;Construct the ship under Our observation and Our inspiration.&rdquo; He was not to plead for those who had wronged; they were to be drowned. So he built. Whenever the chiefs of his people passed him at his work, they ridiculed him. He answered them plainly: &ldquo;If you ridicule us, then we will ridicule you just as you ridicule.&rdquo; The rest he left to the coming judgement, when they would learn who would meet a punishment that disgraces him and upon whom an enduring punishment would descend.",
           "cls": "dropcap"
         },
         {
@@ -266,7 +266,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "At last, Nuh (AS) cried out: &ldquo;Indeed, I am overpowered, so help.&rdquo; And: &ldquo;My Lord, my people have denied me, so judge between me and them with decisive judgement, and save me and those with me of the believers.&rdquo; Then came the sign Allah had promised: &ldquo;when Our command came and the oven overflowed.&rdquo; Then came the command to load the ship: two mates of every creature, and your family, except those about whom the decree has preceded, and whoever has believed. &ldquo;But none had believed with him, except a few.&rdquo; Nine hundred and fifty years of calling, and the believers could be counted as few. And even his own household was not exempt from the decree: Allah presents the wife of Nuh (AS) as an example for the disbelievers: she was under one of Allah&rsquo;s righteous servants, yet she betrayed him, and it was said: &ldquo;Enter the Fire with those who enter.&rdquo;",
+          "html": "At last Nuh (AS) called out: &ldquo;Indeed, I am overpowered, so help.&rdquo; Denied by his people, he asked his Lord to judge between him and them with a decisive judgement and to save him together with those who had believed with him. Then the promised sign appeared, the moment when the command came and the oven overflowed. The order that followed was to load the ship with two mates of every creature, with his family except those against whom the decree had already gone forth, and with whoever had believed. After nine hundred and fifty years of calling, those believers were still only a few. Allah presents the wife of Nuh (AS) as an example for the disbelievers: she had been under a righteous servant of Allah, yet she betrayed him, and to her it was said: &ldquo;Enter the Fire with those who enter.&rdquo;",
           "cls": "dropcap"
         },
         {
@@ -307,7 +307,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "What followed, the Quran describes in words of overwhelming power. &ldquo;We opened the gates of heaven with rain pouring down, and caused the earth to burst with springs, and the waters met for a matter already predestined.&rdquo; And Nuh (AS): &ldquo;We carried him on a construction of planks and nails, sailing under Our observation, as reward for him who had been denied.&rdquo; As he boarded, Nuh (AS) said: &ldquo;Embark therein; in the name of Allah are its course and its anchorage. Indeed, my Lord is Forgiving and Merciful.&rdquo; Of that day Allah says: &ldquo;When the water overflowed, We carried you in the sailing ship, that We might make it for you a reminder, and that a conscious ear would be conscious of it.&rdquo;",
+          "html": "Then the waters came from above and below. The gates of heaven were opened with rain pouring down and the earth burst with springs, until the waters met for a matter already decreed. Of Nuh (AS), Allah says: &ldquo;We carried him on a construction of planks and nails, sailing under Our observation,&rdquo; a reward for the one who had been denied. As he boarded, Nuh (AS) said: &ldquo;Embark therein; in the name of Allah are its course and its anchorage. Indeed, my Lord is Forgiving and Merciful.&rdquo; That overflowing water and that sailing ship were left as a reminder, so that a conscious ear might remain conscious of it.",
           "cls": "dropcap"
         },
         {
@@ -355,7 +355,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The ship sailed through waves like mountains. In the midst of it came the most heartbreaking scene of the story. Nuh (AS) saw his son, apart from the believers, and called to him: &ldquo;O my son, come aboard with us and be not with the disbelievers.&rdquo; The son answered: &ldquo;I will take refuge on a mountain to protect me from the water.&rdquo; Nuh (AS) cried: &ldquo;There is no protector today from the decree of Allah, except for whom He gives mercy.&rdquo; And the waves came between them, and he was among the drowned. Afterwards, Nuh (AS) pleaded with his Lord: &ldquo;My Lord, indeed my son is of my family; and indeed, Your promise is true; and You are the most just of judges.&rdquo; The answer came, firm and final: &ldquo;O Nuh, indeed he is not of your family; indeed, his work was other than righteous. So ask Me not for that about which you have no knowledge. Indeed, I advise you, lest you be among the ignorant.&rdquo; And Nuh (AS), prophet though he was, humbled himself at once: &ldquo;My Lord, I seek refuge in You from asking that of which I have no knowledge. And unless You forgive me and have mercy upon me, I will be among the losers.&rdquo;",
+          "html": "The ship moved with them through waves like mountains, and in that crossing came the hardest moment of the story. Nuh (AS) saw his son, apart from the believers, and called to him: &ldquo;O my son, come aboard with us and be not with the disbelievers.&rdquo; His son refused the ship and chose the mountain instead, certain that it would protect him from the water. Nuh (AS) called back that no one could be protected that day from what Allah had decreed, except the one to whom He gave mercy. Then the waves came between them, and he was among the drowned. Afterwards Nuh (AS) turned to his Lord and pleaded that his son was of his family, that the promise of his Lord was true, and that his Lord was the most just of judges. The answer came, firm and final. His son was not of his family, for his work had been other than righteous, and Nuh (AS) was told not to ask for what he had no knowledge of, with a warning lest he be among the ignorant. Nuh (AS), prophet though he was, humbled himself at once: &ldquo;My Lord, I seek refuge in You from asking that of which I have no knowledge. And unless You forgive me and have mercy upon me, I will be among the losers.&rdquo;",
           "cls": "dropcap"
         },
         {
@@ -396,7 +396,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then the command that ended it: &ldquo;O earth, swallow your water, and O sky, withhold your rain.&rdquo; And the water subsided, and the matter was accomplished, and the ship came to rest on the mountain of Al-Judi. And it was said: &ldquo;Away with the wrongdoing people.&rdquo; As he boarded, Nuh (AS) had been taught to say: &ldquo;Praise to Allah who has saved us from the wrongdoing people. My Lord, let me land at a blessed landing place, and You are the best to accommodate us.&rdquo; And the landing was blessed indeed: &ldquo;O Nuh, disembark in security from Us and blessings upon you and upon nations descending from those with you.&rdquo; Of the rescue Allah says: &ldquo;We saved him and his family from the great affliction, and We made his descendants those remaining on the earth.&rdquo;",
+          "html": "Then came the command that ended it: &ldquo;O earth, swallow your water, and O sky, withhold your rain.&rdquo; The water subsided, the matter was accomplished, and the ship came to rest on the mountain of Al-Judi. And it was said: &ldquo;Away with the wrongdoing people.&rdquo; Long before that rest, as he boarded, Nuh (AS) had been taught what to say, praise to Allah who had saved them from the wrongdoing people and a prayer to land at a blessed landing place, for Allah is the best to accommodate them. The landing answered that prayer. He was told to disembark in security and blessing, he and the nations who would descend from those with him, after a rescue in which Allah had saved him and his family from the great affliction and made his descendants those who would remain on the earth.",
           "cls": "dropcap"
         },
         {
@@ -444,7 +444,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "What remains of Nuh (AS), after the waters went down? First, honour that will never fade: &ldquo;We left for him favorable mention among later generations: Peace upon Nuh among the worlds.&rdquo; Second, his character, summed in three words: &ldquo;Indeed, he was a grateful servant.&rdquo; Third, the ship itself: &ldquo;We saved him and the companions of the ship, and We made it a sign for the worlds.&rdquo; &ldquo;And We left it as a sign, so is there any who will remember?&rdquo; Fourth, his rank: Allah &ldquo;ordained for you of religion what He enjoined upon Nuh,&rdquo; and upon Muhammad (ﷺ), Ibrahim (AS), Musa (AS), and Isa (AS), &ldquo;to establish the religion and not be divided therein.&rdquo; He is of those firmly resolved. And the Quran closes his story the way it closes every prophet&rsquo;s: &ldquo;That is from the news of the unseen which We reveal to you. You knew it not, neither you nor your people, before this. So be patient; indeed, the best outcome is for the righteous.&rdquo;",
+          "html": "What remains of Nuh (AS) once the waters have gone down? First, honour that will never fade: &ldquo;We left for him favorable mention among later generations: Peace upon Nuh among the worlds.&rdquo; Second, character summed in three words: &ldquo;Indeed, he was a grateful servant.&rdquo; Third, the ship itself, saved with its companions, made a sign for the worlds and left as a sign: is there any who will remember? Fourth, rank: the religion Allah ordained is what He enjoined upon Nuh (AS), what He revealed to Muhammad (ﷺ), and what He enjoined upon Ibrahim (AS), Musa (AS), and Isa (AS), to establish the religion and not be divided in it. He stands among those firmly resolved. His story closes the way every prophet&rsquo;s story closes, as news of the unseen revealed to Muhammad (ﷺ), who had not known it before, neither he nor his people, with a call to patience, for the best outcome is for the righteous.",
           "cls": "dropcap"
         },
         {
@@ -501,12 +501,12 @@ export const chapter = {
   ],
   "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this chapter is from the Quran, chiefly Surah Nuh (71), Surah Hud (11:25-49), Surah Al-Mu’minun (23:23-30) and Surah Al-Qamar (54:9-17), with two narrations from Sahih al-Bukhari.</p>\n      ",
   "lessons": [
-    "<strong>Call for centuries; despair for none.</strong> Nuh (AS) invited his people night and day for nine hundred and fifty years. Da’wah is measured in sincerity, not in speed of results. (Quran 29:14)",
-    "<strong>Truth is not a numbers game.</strong> After nine centuries, &ldquo;none had believed with him, except a few,&rdquo; and the few were the saved. (Quran 11:40)",
-    "<strong>Mockery is the bankrupt argument.</strong> They laughed at a ship on dry land; the ship outlived them all. (Quran 11:38)",
-    "<strong>Blood does not save; faith does.</strong> His son drowned before his eyes, and his wife is named among the disbelievers: kinship with a prophet avails nothing without belief. (Quran 11:46, 66:10)",
-    "<strong>When the command comes, move.</strong> The oven overflowed, and the loading began at once, in Allah’s name. (Quran 11:40-41)",
-    "<strong>Gratitude outlasts the storm.</strong> After everything, Allah sums Nuh (AS) up in three words: &ldquo;he was a grateful servant.&rdquo; (Quran 17:3)"
+    "<strong>Call for centuries; despair for none.</strong> For nine hundred and fifty years, Nuh (AS) called his people night and day. Da’wah is measured by sincerity, not by the speed of results. (Quran 29:14)",
+    "<strong>Truth is not a numbers game.</strong> After nine centuries of calling, &ldquo;none had believed with him, except a few,&rdquo; and those few were the saved. (Quran 11:40)",
+    "<strong>Mockery is the bankrupt argument.</strong> They laughed at a ship being built on dry land; in the end, the ship remained and they did not. (Quran 11:38)",
+    "<strong>Blood does not save; faith does.</strong> His son was drowned before his eyes, and his wife is counted among the disbelievers: kinship with a prophet avails nothing without belief. (Quran 11:46, 66:10)",
+    "<strong>When the command comes, move.</strong> When the oven overflowed, the ship was loaded without delay, in Allah’s name. (Quran 11:40-41)",
+    "<strong>Gratitude outlasts the storm.</strong> After all of it, Allah sums up Nuh (AS) in three words: &ldquo;he was a grateful servant.&rdquo; (Quran 17:3)"
   ],
   "quiz": [
     {

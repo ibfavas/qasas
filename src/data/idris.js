@@ -8,7 +8,7 @@ export const chapter = {
   "hero": {
     "plaque": "Chapter II",
     "title": "Idris (AS): Raised to a High Station",
-    "sub": "The prophet the Quran mentions in two passages: a man of truth, raised high, and met in the fourth heaven.",
+    "sub": "The prophet the Quran names in two passages: a man of truth, raised to a high station, and met in the fourth heaven.",
     "img": "../assets/idris-ascension.webp",
     "imgAlt": "A column of radiant light ascending through layered starry heavens",
     "caption": "Raised to a high station, as Allah says in Surah Maryam."
@@ -37,7 +37,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "dropcap",
-          "html": "Before we are told anything about Idris (AS), who he was, where he lived, what his days held, we are told his honour: Allah Himself commands that he be mentioned. &ldquo;Mention in the Book, Idris.&rdquo; His name is placed in the Quran, the Book recited by millions until the Last Day. Some prophets are given long stories; Idris (AS) is given something else: a short, luminous mention, and that is enough."
+          "html": "Before anything is told of Idris (AS), of who he was, where he lived, or what his days held, an honour is placed upon his name: Allah Himself commands that he be mentioned. &ldquo;Mention in the Book, Idris.&rdquo; His name now stands in the Quran, the Book recited by millions until the Last Day. Some prophets receive long stories. Idris (AS) receives something different: a brief, luminous mention. And it is enough."
         },
         {
           "t": "verse",
@@ -64,7 +64,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "Two descriptions, placed side by side: <em>siddiq</em>, a man of truth, one whose truthfulness is complete and confirmed; and <em>nabiyya</em>, a prophet. In the Quran, truthfulness walks hand in hand with prophethood. A prophet is not only someone who receives revelation; he is someone whose very character is truth, so that when he speaks, his people know he does not lie."
+          "html": "Two descriptions stand side by side: <em>siddiq</em>, a man of truth, one whose truthfulness is complete and confirmed; and <em>nabiyya</em>, a prophet. Truthfulness and prophethood belong together. A prophet is not only one who receives revelation; his very character is truth, so that when he speaks, his people know he does not lie."
         }
       ]
     },
@@ -84,7 +84,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "Then the verse that has echoed through fourteen centuries: &ldquo;And We raised him to a high station.&rdquo; High station is not taken; it is given. Allah elevated Idris (AS) in rank and honour, in the way He alone knows, just as He raises all who are truthful and righteous."
+          "html": "Then comes the sentence that has echoed through fourteen centuries: &ldquo;And We raised him to a high station.&rdquo; A high station is never taken; it is given. Allah raised Idris (AS) in rank and in honour, in the manner that He alone knows, as He raises all who are truthful and righteous."
         },
         {
           "t": "verse",
@@ -111,7 +111,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "The second passage names Idris (AS) alongside Ismail (AS) and Dhul-Kifl (AS): &ldquo;all were of the patient.&rdquo; Then comes the reward of patience: &ldquo;We admitted them into Our mercy. Indeed, they were of the righteous.&rdquo; Patience is not passive waiting; it is standing firm. And its end, as always in the Quran, is mercy."
+          "html": "The second passage sets Idris (AS) beside Ismail (AS) and Dhul-Kifl (AS): &ldquo;all were of the patient.&rdquo; Then comes the reward of that patience: &ldquo;We admitted them into Our mercy. Indeed, they were of the righteous.&rdquo; Patience is no mere waiting. It is standing firm. And its end, always, is mercy."
         },
         {
           "t": "verse",
@@ -145,7 +145,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "On the Night Journey, the Prophet &#xFDFA; ascended through the seven heavens, meeting a prophet in each. In the fourth heaven, he met Idris (AS), and the two prophets of Allah greeted one another as brothers."
+          "html": "On the Night Journey, the Prophet &#xFDFA; ascended through the seven heavens, meeting a prophet in every heaven. In the fourth he met Idris (AS), and there two prophets of Allah greeted one another as brothers."
         },
         {
           "t": "hadith",
@@ -159,9 +159,9 @@ export const chapter = {
   ],
   "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>The Quran mentions Idris (AS) in only two passages: Surah Maryam 19:56-57 and Surah Al-Anbiya 21:85-86.</p>\n      ",
   "lessons": [
-    "<strong>Truthfulness is the prophets&rsquo; mark.</strong> Before anything else is said of Idris (AS), Allah calls him a man of truth, and then a prophet. (Quran 19:56)",
-    "<strong>Allah raises the righteous.</strong> High station is not taken; it is given: &ldquo;We raised him to a high station.&rdquo; (Quran 19:57)",
-    "<strong>Patience ends in mercy.</strong> Idris (AS) is named among the patient, and the patient are admitted into Allah&rsquo;s mercy. (Quran 21:85-86)",
+    "<strong>Truthfulness is the prophets&rsquo; mark.</strong> Before anything else is said of Idris (AS), Allah names him a man of truth, and then a prophet. (Quran 19:56)",
+    "<strong>Allah raises the righteous.</strong> A high station is never seized; it is granted: &ldquo;We raised him to a high station.&rdquo; (Quran 19:57)",
+    "<strong>Patience ends in mercy.</strong> Idris (AS) stands named among the patient, and the patient are admitted into Allah&rsquo;s mercy. (Quran 21:85-86)",
     "<strong>The prophets honour one another.</strong> In the fourth heaven, Idris (AS) greeted the Prophet &#xFDFA;: &ldquo;You are welcomed, O brother and Prophet.&rdquo; (Sahih al-Bukhari 3207)"
   ],
   "quiz": [
