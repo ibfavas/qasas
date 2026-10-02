@@ -13,7 +13,7 @@ export const chapter = {
     "caption": "The long wait: “So patience is most fitting.” (Quran 12:18)"
   },
   "railLabels": [
-    "After Isaac, Jacob",
+    "After Ishaq, Yaqub",
     "The Honorable, Son of the Honorable",
     "The Dream",
     "The Wolves and the Shirt",
@@ -27,8 +27,8 @@ export const chapter = {
   "scenes": [
     {
       "id": "scene-1",
-      "ariaLabel": "Scene 1: After Isaac, Jacob",
-      "title": "After Isaac, Jacob",
+      "ariaLabel": "Scene 1: After Ishaq, Yaqub",
+      "title": "After Ishaq, Yaqub",
       "blocks": [
         {
           "t": "kicker",
@@ -36,11 +36,11 @@ export const chapter = {
         },
         {
           "t": "h2",
-          "html": "After Isaac, Jacob"
+          "html": "After Ishaq, Yaqub"
         },
         {
           "t": "p",
-          "html": "The angels who visited Ibrahim brought two tidings: Isaac, and after Isaac, Jacob. And when Ibrahim left his people&rsquo;s idols, Allah gave him a household of prophets: Isaac and Jacob, each made a prophet. Yaqub, the son of Ishaq, the grandson of the Friend of Allah.",
+          "html": "The angels who visited Ibrahim brought two tidings: Ishaq, and after Ishaq, Yaqub. And when Ibrahim left his people&rsquo;s idols, Allah gave him a household of prophets: Ishaq and Yaqub, each made a prophet. Yaqub, the son of Ishaq, the grandson of the Friend of Allah.",
           "cls": "dropcap"
         },
         {
@@ -189,7 +189,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then the second blow: Binyamin was held in Egypt. &ldquo;So patience is most fitting. Perhaps Allah will bring them to me all together.&rdquo; And he turned away and said: &ldquo;Oh, my sorrow over Joseph.&rdquo; His eyes became white from grief. They mocked him: you will not cease remembering Joseph until you perish. His answer is the charter of the grieving believer: &ldquo;I only complain of my suffering and my grief to Allah.&rdquo; And: &ldquo;Despair not of relief from Allah. Indeed, no one despairs of relief from Allah except the disbelieving people.&rdquo; The Prophet (ﷺ) said that patience counts at the first stroke of calamity; Yaqub had shown it at the first stroke, and he showed it still.",
+          "html": "Then the second blow: Binyamin was held in Egypt. &ldquo;So patience is most fitting. Perhaps Allah will bring them to me all together.&rdquo; And he turned away, crying out his sorrow over Yusuf. His eyes became white from grief. They mocked him: you will not cease remembering Yusuf until you perish. His answer is the charter of the grieving believer: &ldquo;I only complain of my suffering and my grief to Allah.&rdquo; And: &ldquo;Despair not of relief from Allah. Indeed, no one despairs of relief from Allah except the disbelieving people.&rdquo; The Prophet (ﷺ) said that patience counts at the first stroke of calamity; Yaqub had shown it at the first stroke, and he showed it still.",
           "cls": "dropcap"
         },
         {
@@ -283,7 +283,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "At the end of his life, his concern was the same as his forefathers’: the religion of his children. &ldquo;O my sons, indeed Allah has chosen for you this religion, so do not die except while you are Muslims.&rdquo; And when death approached, he asked: &ldquo;What will you worship after me?&rdquo; They answered: your God and the God of your fathers, Abraham and Ishmael and Isaac, one God.",
+          "html": "At the end of his life, his concern was the same as his forefathers’: the religion of his children. &ldquo;O my sons, indeed Allah has chosen for you this religion, so do not die except while you are Muslims.&rdquo; And when death approached, he asked: &ldquo;What will you worship after me?&rdquo; They answered: your God and the God of your fathers, Ibrahim and Ismail and Ishaq, one God.",
           "cls": "dropcap"
         },
         {
@@ -402,7 +402,7 @@ export const chapter = {
     {
       "q": "How did the Prophet (ﷺ) describe Yusuf&rsquo;s lineage?",
       "options": [
-        "The honorable, son of the honorable, son of the honorable: Joseph son of Jacob son of Isaac son of Abraham",
+        "The honorable, son of the honorable, son of the honorable: Yusuf son of Yaqub son of Ishaq son of Ibrahim",
         "A king descended from kings",
         "A shepherd descended from shepherds"
       ],

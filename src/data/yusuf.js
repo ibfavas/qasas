@@ -104,13 +104,13 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "His father Yaqub understood that this dream was a sign of great things to come. He told his son: your Lord will choose you. He will teach you the interpretation of dreams and events, and He will complete His favour upon you and upon the family of Jacob, just as He completed it upon your forefathers, Abraham and Isaac, before you."
+          "html": "His father Yaqub understood that this dream was a sign of great things to come. He told his son: your Lord will choose you. He will teach you the interpretation of dreams and events, and He will complete His favour upon you and upon the family of Yaqub, just as He completed it upon your forefathers, Ibrahim and Ishaq, before you."
         },
         {
           "t": "verse",
           "ref": "Quran 12:6",
           "arabic": "وَكَذَٰلِكَ يَجْتَبِيكَ رَبُّكَ وَيُعَلِّمُكَ مِن تَأْوِيلِ ٱلْأَحَادِيثِ وَيُتِمُّ نِعْمَتَهُۥ عَلَيْكَ وَعَلَىٰٓ ءَالِ يَعْقُوبَ كَمَآ أَتَمَّهَا عَلَىٰٓ أَبَوَيْكَ مِن قَبْلُ إِبْرَٰهِيمَ وَإِسْحَـٰقَ ۚ إِنَّ رَبَّكَ عَلِيمٌ حَكِيمٌ",
-          "translation": "And thus will your Lord choose you and teach you the interpretation of narratives [i.e., events or dreams] and complete His favor upon you and upon the family of Jacob, as He completed it upon your fathers before, Abraham and Isaac. Indeed, your Lord is Knowing and Wise.",
+          "translation": "And thus will your Lord choose you and teach you the interpretation of narratives [i.e., events or dreams] and complete His favor upon you and upon the family of Yaqub, as He completed it upon your fathers before, Abraham and Isaac. Indeed, your Lord is Knowing and Wise.",
           "citation": "Surah 12 &middot; Verse 6 &middot; Saheeh International"
         }
       ]

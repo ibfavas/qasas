@@ -40,7 +40,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Ibrahim was old when Allah gave him sons, and his own words remember it: &ldquo;Praise to Allah, who has granted to me in old age Ishmael and Isaac.&rdquo; Of Ismail the Quran first says: Allah gave him good tidings of a forbearing boy.",
+          "html": "Ibrahim was old when Allah gave him sons, and his own words remember it: praise to Allah, who had granted him Ismail and Ishaq in his old age. Of Ismail the Quran first says: Allah gave him good tidings of a forbearing boy.",
           "cls": "dropcap"
         },
         {
@@ -276,7 +276,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Ishmael and Idris and Dhul-Kifl: all were of the patient, and Allah admitted them into His mercy, for they were of the righteous. And remember Ishmael, Elisha and Dhul-Kifl: all are among the outstanding.",
+          "html": "Ismail and Idris and Dhul-Kifl: all were of the patient, and Allah admitted them into His mercy, for they were of the righteous. And remember Ismail, Al-Yasa, and Dhul-Kifl: all are among the outstanding.",
           "cls": "dropcap"
         },
         {

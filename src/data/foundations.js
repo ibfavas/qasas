@@ -72,7 +72,7 @@ export const foundations = {
         "blocks": [
               {"t": "kicker", "html": "Article 4 of 6"},
               {"t": "h2", "html": "Belief in His Messengers"},
-              {"t": "p", "html": "Belief in the messengers means affirming all of them, Abraham (AS), Ishmael (AS), Isaac (AS), Jacob (AS), Moses (AS), Jesus (AS), and the prophets, making no distinction between any of them, and submitting to Allah as they taught."},
+              {"t": "p", "html": "Belief in the messengers means affirming all of them, Ibrahim (AS), Ismail (AS), Ishaq (AS), Yaqub (AS), Musa (AS), Isa (AS), and the prophets, making no distinction between any of them, and submitting to Allah as they taught."},
               {"t": "verse",
                 "ref": "Quran 2:136",
                 "arabic": "قُولُوٓا۟ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْنَا وَمَآ أُنزِلَ إِلَىٰٓ إِبْرَٰهِـۧمَ وَإِسْمَـٰعِيلَ وَإِسْحَـٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطِ وَمَآ أُوتِىَ مُوسَىٰ وَعِيسَىٰ وَمَآ أُوتِىَ ٱلنَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّنْهُمْ وَنَحْنُ لَهُۥ مُسْلِمُونَ",
@@ -199,11 +199,11 @@ export const foundations = {
         "blocks": [
               {"t": "kicker", "html": "Pillar 5 of 5"},
               {"t": "h2", "html": "The Pilgrimage: Hajj"},
-              {"t": "p", "html": "The pilgrimage to the Sacred House in Makkah is due to Allah from whoever is able to find a way, the journey to where Abraham (AS) once stood, and safety for whoever enters it."},
+              {"t": "p", "html": "The pilgrimage to the Sacred House in Makkah is due to Allah from whoever is able to find a way, the journey to where Ibrahim (AS) once stood, and safety for whoever enters it."},
               {"t": "verse",
                 "ref": "Quran 3:97",
                 "arabic": "فِيهِ ءَايَـٰتٌۢ بَيِّنَـٰتٌ مَّقَامُ إِبْرَٰهِيمَ ۖ وَمَن دَخَلَهُۥ كَانَ ءَامِنًا ۗ وَلِلَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًا ۚ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنِ ٱلْعَـٰلَمِينَ",
-                "translation": "In it are clear signs [such as] the standing place of Abraham. And whoever enters it [i.e., the Ḥaram] shall be safe. And [due] to Allāh from the people is a pilgrimage to the House - for whoever is able to find thereto a way. But whoever disbelieves [i.e., refuses] - then indeed, Allāh is free from need of the worlds.",
+                "translation": "In it are clear signs [such as] the standing place of Ibrahim. And whoever enters it [i.e., the Ḥaram] shall be safe. And [due] to Allāh from the people is a pilgrimage to the House - for whoever is able to find thereto a way. But whoever disbelieves [i.e., refuses] - then indeed, Allāh is free from need of the worlds.",
                 "citation": "Surah 3 &middot; Verse 97 &middot; Saheeh International"}
         ]
       }

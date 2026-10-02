@@ -111,7 +111,7 @@ export const chapter = {
         {
           "t": "p",
           "cls": "",
-          "html": "The second passage names Idris alongside Ishmael and Dhul-Kifl: &ldquo;all were of the patient.&rdquo; Then comes the reward of patience: &ldquo;We admitted them into Our mercy. Indeed, they were of the righteous.&rdquo; Patience is not passive waiting; it is standing firm. And its end, as always in the Quran, is mercy."
+          "html": "The second passage names Idris alongside Ismail and Dhul-Kifl: &ldquo;all were of the patient.&rdquo; Then comes the reward of patience: &ldquo;We admitted them into Our mercy. Indeed, they were of the righteous.&rdquo; Patience is not passive waiting; it is standing firm. And its end, as always in the Quran, is mercy."
         },
         {
           "t": "verse",
@@ -188,9 +188,9 @@ export const chapter = {
     {
       "q": "Who is named alongside Idris among &ldquo;the patient&rdquo;?",
       "options": [
-        "Ishmael and Dhul-Kifl",
+        "Ismail and Dhul-Kifl",
         "Hud and Salih",
-        "David and Solomon"
+        "Dawud and Sulayman"
       ],
       "answer": 0,
       "ref": "Quran 21:85"

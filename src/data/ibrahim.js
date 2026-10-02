@@ -158,7 +158,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "They returned to wreckage. Who has done this to our gods? Suspicion fell on the young man who had argued against them, and they dragged him before the crowd: &ldquo;Have you done this to our gods, O Abraham?&rdquo; His answer turned their own logic into a blade: &ldquo;Rather, this, the largest of them, did it, so ask them, if they should [be able to] speak.&rdquo; They knew the idols could not speak. Then do you worship, instead of Allah, what can neither benefit nor harm you? They had no answer left but force.",
+          "html": "They returned to wreckage. Who has done this to our gods? Suspicion fell on the young man who had argued against them, and they dragged him before the crowd, demanding to know whether Ibrahim had done this to their gods. His answer turned their own logic into a blade: &ldquo;Rather, this, the largest of them, did it, so ask them, if they should [be able to] speak.&rdquo; They knew the idols could not speak. Then do you worship, instead of Allah, what can neither benefit nor harm you? They had no answer left but force.",
           "cls": "dropcap"
         },
         {
@@ -199,7 +199,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Burn him, they said, and support your gods. Elsewhere the Quran gives their verdict in fewer words: kill him or burn him. They built the fire, a furnace, and threw him in. And then the words that undo every tyrant&rsquo;s arithmetic: &ldquo;O fire, be coolness and safety upon Abraham.&rdquo; The fire meant to consume him became his shelter, and they became the greatest losers. Allah saved him from the fire, and in that are signs for a people who believe.",
+          "html": "Burn him, they said, and support your gods. Elsewhere the Quran gives their verdict in fewer words: kill him or burn him. They built the fire, a furnace, and threw him in. And then the command that undoes every tyrant&rsquo;s arithmetic: Allah told the fire to be coolness and safety upon Ibrahim. The fire meant to consume him became his shelter, and they became the greatest losers. Allah saved him from the fire, and in that are signs for a people who believe.",
           "cls": "dropcap"
         },
         {
@@ -355,7 +355,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "In his new land, honored guests came to his door. Angels, though he did not know it yet, and he hurried to bring them a roasted calf. But their hands did not reach for the food, and fear entered his heart, until they said: fear not, we have been sent to the people of Lut. Then the tidings his household had waited a lifetime for: his wife was standing, and she smiled. Allah gave them good tidings of Isaac, and after Isaac, Jacob. She cried out in disbelief: &ldquo;Woe to me! Shall I give birth while I am an old woman and this, my husband, is an old man?&rdquo; Are you amazed at the decree of Allah, they said. The mercy of Allah and His blessings upon you, people of the house.",
+          "html": "In his new land, honored guests came to his door. Angels, though he did not know it yet, and he hurried to bring them a roasted calf. But their hands did not reach for the food, and fear entered his heart, until they said: fear not, we have been sent to the people of Lut. Then the tidings his household had waited a lifetime for: his wife was standing, and she smiled. Allah gave them good tidings of Ishaq, and after Ishaq, Yaqub. She cried out in disbelief: &ldquo;Woe to me! Shall I give birth while I am an old woman and this, my husband, is an old man?&rdquo; Are you amazed at the decree of Allah, they said. The mercy of Allah and His blessings upon you, people of the house.",
           "cls": "dropcap"
         },
         {
@@ -532,7 +532,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then came the hardest command of all. He had prayed for a righteous child, and Allah gave him good tidings of a forbearing boy. When the boy reached the age of exertion, Ibrahim told him plainly of the dream: I must sacrifice you, so see what you think. The boy answered with his father&rsquo;s own submission: &ldquo;O my father, do as you are commanded. You will find me, if Allah wills, of the steadfast.&rdquo; And when they had both submitted, the call came: O Abraham, you have fulfilled the vision. This was the clear trial, and Allah ransomed him with a great sacrifice. And the Quran seals his name with peace forever: &ldquo;Peace upon Abraham.&rdquo;",
+          "html": "Then came the hardest command of all. He had prayed for a righteous child, and Allah gave him good tidings of a forbearing boy. When the boy reached the age of exertion, Ibrahim told him plainly of the dream: I must sacrifice you, so see what you think. The boy answered with his father&rsquo;s own submission: &ldquo;O my father, do as you are commanded. You will find me, if Allah wills, of the steadfast.&rdquo; And when they had both submitted, the call came: O Ibrahim, you have fulfilled the vision. This was the clear trial, and Allah ransomed him with a great sacrifice. And the Quran bids him peace forever.",
           "cls": "dropcap"
         },
         {
@@ -627,7 +627,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The honors of Ibrahim do not end with his life. The Prophet (ﷺ) said that on the Day of Resurrection, when mankind is gathered barefooted, naked, and uncircumcised, the first to be dressed will be Abraham. The Friend of Allah, honored first among all the gathered.",
+          "html": "The honors of Ibrahim do not end with his life. The Prophet (ﷺ) said that on the Day of Resurrection, when mankind is gathered barefooted, naked, and uncircumcised, the first to be dressed will be Ibrahim. The Friend of Allah, honored first among all the gathered.",
           "cls": "dropcap"
         },
         {
