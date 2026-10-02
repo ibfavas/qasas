@@ -115,20 +115,20 @@ export const prophets = [
     "pname": "Yusuf (AS)"
   },
   {
-    "tag": "span",
-    "soon": true,
-    "href": null,
-    "aria": null,
+    "tag": "a",
+    "soon": false,
+    "href": "stories/?p=ayyub",
+    "aria": "Read the story of Ayyub",
     "svgAttrs": " fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"",
     "svgInner": "<path d=\"M24 8s10 12 10 20a10 10 0 0 1-20 0c0-8 10-20 10-20z\"/>",
     "pnum": "XII",
     "pname": "Ayyub (AS)"
   },
   {
-    "tag": "span",
-    "soon": true,
-    "href": null,
-    "aria": null,
+    "tag": "a",
+    "soon": false,
+    "href": "stories/?p=shuayb",
+    "aria": "Read the story of Shuayb",
     "svgAttrs": " fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\"",
     "svgInner": "<path d=\"M24 8v28\"/><path d=\"M12 12h24\"/><path d=\"M12 12l-5 12h10zM36 12l-5 12h10z\"/><path d=\"M16 40h16\"/>",
     "pnum": "XIII",

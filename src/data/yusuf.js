@@ -528,9 +528,9 @@ export const chapter = {
       "arrow": "back"
     },
     {
-      "href": "../index.html#timeline",
-      "label": "Continue",
-      "title": "The Timeline: All 25 Prophets",
+      "href": "?p=ayyub",
+      "label": "Next chapter: XII",
+      "title": "Ayyub (AS): The Patient Servant",
       "arrow": "next"
     }
   ]
