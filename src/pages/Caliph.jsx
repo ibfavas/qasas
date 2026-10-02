@@ -1,5 +1,5 @@
 /* A single caliph's page. Shell only for now; stories to come. */
-import { StoryNav, Footer } from '../components/chrome.jsx';
+import { CaliphNav, Footer } from '../components/chrome.jsx';
 import { caliphs } from '../data/caliphs.js';
 
 function slugFromPath() {
@@ -13,7 +13,7 @@ export function CaliphPage() {
   const caliph = caliphs.find((c) => c.slug === slug) || caliphs[0];
   return (
     <>
-      <StoryNav />
+      <CaliphNav />
       <main className="caliph-page">
         <div className="wrap caliph-head">
           <p className="kicker">The Four Caliphs</p>

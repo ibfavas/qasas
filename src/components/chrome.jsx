@@ -63,6 +63,31 @@ export function StoryNav() {
   );
 }
 
+/* Two levels deep: /caliphs/<slug>/ — needs ../../ paths. */
+export function CaliphNav() {
+  const [open, setOpen] = useState(false);
+  const close = () => setOpen(false);
+  return (
+    <nav className="nav nav-pill" aria-label="Main navigation">
+      <div className="nav-pill-inner">
+        <a className="brand brand-pill" href="../../index.html" aria-label="Qasas ul-Huda home">
+          <img src="../../assets/brand/logo.png" alt="" width="30" height="30" />
+        </a>
+        <NavToggle open={open} onToggle={() => setOpen(!open)} />
+        <ul className={'nav-links nav-links-pill' + (open ? ' open' : '')}>
+          <li><a href="../../index.html" onClick={close}>Home</a></li>
+          <li><a href="../../asma-ul-husna/" onClick={close}>Asma ul Husna</a></li>
+          <li><a href="../../index.html#timeline" onClick={close}>Stories of Prophets</a></li>
+          <li><a href="../../index.html#foundations" onClick={close}>Foundations</a></li>
+          <li><a href="../../index.html#caliphs" onClick={close}>The Four Caliphs</a></li>
+          <li><a href="../../index.html#resources" onClick={close}>Sources</a></li>
+          <li><a href="../../index.html#about" onClick={close}>About</a></li>
+        </ul>
+      </div>
+    </nav>
+  );
+}
+
 export function Footer() {
   return (
     <footer>
