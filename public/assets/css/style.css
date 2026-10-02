@@ -1229,3 +1229,15 @@ body::after {
 @media (prefers-reduced-motion: reduce) {
   .hero-night-scroll i { animation: none; }
 }
+
+/* Prophetic lineage tree */
+.lineage-wrap { overflow-x: hidden; margin: 0 -8px; padding: 8px; }
+.lineage-wrap svg { max-width: 100%; }
+.lt-name { font-family: Georgia, 'Times New Roman', serif; font-size: 15px; fill: var(--ink); }
+.lt-honor { font-family: Georgia, 'Times New Roman', serif; font-size: 11.5px; letter-spacing: 0.06em; fill: var(--gold-deep); }
+.lt-seal-name { fill: #fffdf4; font-weight: bold; }
+.lt-seal-honor { fill: #f3e6c3; }
+.lt-link { stroke: var(--gold); stroke-width: 2; fill: none; opacity: 0.85; }
+@media (max-width: 700px) {
+  .lt-name { font-size: 14px; }
+}

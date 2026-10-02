@@ -373,8 +373,29 @@ export const foundations = {
       }
     ],
     "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>Everything in this article is from the Quran, Surah Al-Hijr (15:9), and from Sahih al-Bukhari: 4986 (the gathering under Abu Bakr (RA), narrated by Zayd ibn Thabit (RA)), 4987 (the standardization under Uthman (RA), narrated by Anas ibn Malik (RA)), 4992 (the seven ahruf) and 4998 (the final review with Jibreel (AS)). The reasons given for the burning of personal copies follow the explanation of the classical scholars.</p>\n      ",
-    "prevNext": [{"label": "Previous article", "title": "The Five Pillars of Islam", "href": "?p=pillars", "arrow": "back"}]
+    "prevNext": [{"label": "Previous article", "title": "The Five Pillars of Islam", "href": "?p=pillars", "arrow": "back"}, {"label": "Next article", "title": "The Prophetic Lineage", "href": "?p=lineage", "arrow": "next"}]
+  },
+  lineage: {
+    "hero": {
+      "plaque": "Foundations",
+      "title": "The Prophetic Lineage",
+      "sub": "Every transmitted name from Adam (AS) to Muhammad ﷺ, drawn as one family tree."
+    },
+    "introHtml": "From the first prophet to the Seal of the prophets ﷺ, one unbroken line. The tree below names every link the genealogies transmit, with the prophets who branch from it.",
+    "railLabels": ["The Family Tree"],
+    "sections": [
+      {
+        "id": "lineage-tree",
+        "ariaLabel": "The family tree",
+        "title": "The Family Tree",
+        "blocks": [
+          {"t": "lineage"}
+        ]
+      }
+    ],
+    "note": "\n        <p class=\"note-kicker\">A note on sources</p>\n        <p>The line follows the transmitted genealogies of Ibn Hisham and Ibn Kathir.</p>\n      ",
+    "prevNext": [{"label": "Previous article", "title": "The Standardization of the Quran", "href": "?p=quran", "arrow": "back"}]
   },
 };
 
-export const foundationOrder = ["iman", "pillars", "quran"];
+export const foundationOrder = ["iman", "pillars", "quran", "lineage"];

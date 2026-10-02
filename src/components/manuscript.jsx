@@ -1,6 +1,7 @@
 /* Manuscript components: the storybook building blocks. */
 import { useState, useRef, useEffect, Fragment } from 'react';
 import { SceneDivider } from './chrome.jsx';
+import { LineageTree } from './lineage.jsx';
 
 export const html = (s) => ({ __html: s });
 
@@ -130,6 +131,8 @@ function Block({ b }) {
       return <Tafsir t={b} />;
     case 'vignette':
       return <Vignette v={b} />;
+    case 'lineage':
+      return <LineageTree />;
     default:
       return null;
   }

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lineage mockup — Qasas ul-Huda</title>
+<style>
+  :root { --parchment:#f6f0dd; --ink:#3b2f1f; --gold:#a87f2a; --gold-deep:#8a6420; }
+  * { box-sizing:border-box; margin:0; padding:0; }
+  body { background:var(--parchment); color:var(--ink);
+    font-family:Georgia,'Times New Roman',serif; }
+  .wrap { overflow-x:auto; padding:56px 0 40px; }
+  .head { padding:0 60px 8px; }
+  .head h1 { font-size:34px; font-weight:normal; letter-spacing:.04em; }
+  .head p.sub { font-style:italic; color:#6d5c3f; margin-top:6px; font-size:16px; }
+  svg text { font-family:Georgia,'Times New Roman',serif; }
+  .node-name { font-size:17px; fill:#3b2f1f; }
+  .node-honor { font-size:12.5px; fill:#8a6420; }
+  .card-prophet { fill:#fffdf4; stroke:#a87f2a; }
+  .card-man { fill:#fbf7ea; stroke:#c9b98f; }
+  .card-seal { fill:#a87f2a; stroke:#8a6420; }
+  .card-seal + g .node-name, .seal-name { fill:#fffdf4 !important; }
+  .seal-honor { fill:#f3e6c3 !important; }
+  .link { stroke:#a87f2a; stroke-width:2; fill:none; }
+  .foot { padding:26px 60px 0; font-size:13px; font-style:italic; color:#8a7a5c; }
+  .scrollhint { position:fixed; right:18px; top:50%; color:#a87f2a; font-size:14px;
+    font-style:italic; background:#f6f0ddcc; padding:6px 10px; border:1px solid #d9c793;
+    border-radius:20px; }
+</style>
+</head>
+<body>
+<div class="head">
+  <h1>The Prophetic Lineage</h1>
+  <p class="sub">From Adam (AS) to Muhammad &#65018;</p>
+</div>
+<div class="wrap"><svg id="tree" role="img" aria-label="Family tree of the prophets from Adam to Muhammad"></svg></div>
+<div class="scrollhint">scroll &rarr;</div>
+<p class="foot">Lineage as transmitted in the Seerah and the histories (Ibn Hisham, Ibn Kathir).</p>
+<script>
+const P = [
+  // [name, honorific, isProphet]
+  ["Adam","(AS)",1],["Shith","",0],["Anush","",0],["Qaynan","",0],["Mahlayil","",0],
+  ["Yarid","",0],["Idris","(AS)",1],["Matushalakh","",0],["Lamak","",0],["Nuh","(AS)",1],
+  ["Sam","",0],["Arfakhshad","",0],["Shalikh","",0],
+  ["Abir","",0],["Faligh","",0],["Ra'u","",0],["Sarugh","",0],["Nahur","",0],
+  ["Azar (Tarih)","",0],["Ibrahim","(AS)",1],
+  ["Ismail","(AS)",1],["Nabit","",0],["Yashjub","",0],["Ya'rub","",0],["Tayrah","",0],
+  ["Nahur","",0],["Muqawwim","",0],["Udad","",0],["Adnan","",0],
+  ["Ma'add","",0],["Nizar","",0],["Mudar","",0],["Ilyas","",0],["Mudrikah","",0],
+  ["Khuzaymah","",0],["Kinana","",0],["An-Nadr","",0],["Malik","",0],["Fihr (Quraysh)","",0],
+  ["Ghalib","",0],["Lu'ayy","",0],["Ka'b","",0],["Murrah","",0],["Kilab","",0],
+  ["Qusayy","",0],["Abd Manaf","",0],["Hashim","",0],["Abdul Muttalib","",0],
+  ["Abdullah","",0]
+];
+const SEAL = ["Muhammad","\uFDFA",2];
+const NW=138, NH=60, PX=176, X0=70;
+const SPINE_Y=340, UP_Y=140, DOWN_Y=540;
+const H=680, W = X0*2 + (P.length+1)*PX;
+
+const svg = document.getElementById('tree');
+svg.setAttribute('width', W); svg.setAttribute('height', H);
+svg.setAttribute('viewBox', `0 0 ${W} ${H}`);
+const NS='http://www.w3.org/2000/svg';
+const el=(t,a)=>{const e=document.createElementNS(NS,t);for(const k in a)e.setAttribute(k,a[k]);return e;};
+
+function card(x,y,name,hon,kind){
+  const g=el('g',{});
+  const cls = kind===2?'card-seal':(kind===1?'card-prophet':'card-man');
+  g.appendChild(el('rect',{x,y,width:NW,height:NH,rx:10,class:cls,'stroke-width':kind===2?0:1.6}));
+  const t1=el('text',{x:x+NW/2,y:y+(hon?26:36),'text-anchor':'middle',class:'node-name'+(kind===2?' seal-name':'')});
+  t1.textContent=name; g.appendChild(t1);
+  if(hon){const t2=el('text',{x:x+NW/2,y:y+45,'text-anchor':'middle',class:'node-honor'+(kind===2?' seal-honor':'')});
+    t2.textContent=hon; g.appendChild(t2);}
+  svg.appendChild(g);
+  return {cx:x+NW/2, top:y, bottom:y+NH, left:x, right:x+NW, cy:y+NH/2};
+}
+function hline(x1,x2,y){ svg.appendChild(el('line',{x1,y1:y,x2,y2:y,class:'link'})); }
+function vline(x,y1,y2){ svg.appendChild(el('line',{x1:x,y1,x2:x,y2:y2,class:'link'})); }
+
+// spine
+const pos=[];
+P.forEach((p,i)=>{
+  const x=X0+i*PX;
+  pos.push(card(x,SPINE_Y,p[0],p[1],p[2]));
+  if(i>0) hline(pos[i-1].right, pos[i].left, SPINE_Y+NH/2);
+});
+// seal: Muhammad
+const sx=X0+P.length*PX;
+const seal=card(sx,SPINE_Y,SEAL[0],SEAL[1],2);
+hline(pos[pos.length-1].right, seal.left, SPINE_Y+NH/2);
+
+// branch: Hud from Shalikh (index 12)
+const sh=pos[12];
+const hud=card(sh.cx-NW/2, UP_Y, "Hud","(AS)",1);
+vline(sh.cx, sh.top, hud.bottom);
+// branch: Ishaq -> Yaqub -> Yusuf from Ibrahim (index 19)
+const ib=pos[19];
+const ishaq=card(ib.cx-NW/2, DOWN_Y, "Ishaq","(AS)",1);
+vline(ib.cx, ib.bottom, ishaq.top);
+const yaq=card(ib.cx-NW/2+PX, DOWN_Y, "Yaqub","(AS)",1);
+hline(ishaq.right, yaq.left, DOWN_Y+NH/2);
+const yus=card(ib.cx-NW/2+2*PX, DOWN_Y, "Yusuf","(AS)",1);
+hline(yaq.right, yus.left, DOWN_Y+NH/2);
+</script>
+</body>
+</html>
