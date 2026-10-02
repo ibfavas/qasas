@@ -348,7 +348,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "In his new land, honored guests came to his door. Angels, though he did not know it yet, and he hurried to bring them a roasted calf. But their hands did not reach for the food, and fear entered his heart, until they said: fear not, we have been sent to the people of Lot. Then the tidings his household had waited a lifetime for: his wife was standing, and she smiled. Allah gave them good tidings of Isaac, and after Isaac, Jacob. She cried out in disbelief: &ldquo;Woe to me! Shall I give birth while I am an old woman and this, my husband, is an old man?&rdquo; Are you amazed at the decree of Allah, they said. The mercy of Allah and His blessings upon you, people of the house.",
+          "html": "In his new land, honored guests came to his door. Angels, though he did not know it yet, and he hurried to bring them a roasted calf. But their hands did not reach for the food, and fear entered his heart, until they said: fear not, we have been sent to the people of Lut. Then the tidings his household had waited a lifetime for: his wife was standing, and she smiled. Allah gave them good tidings of Isaac, and after Isaac, Jacob. She cried out in disbelief: &ldquo;Woe to me! Shall I give birth while I am an old woman and this, my husband, is an old man?&rdquo; Are you amazed at the decree of Allah, they said. The mercy of Allah and His blessings upon you, people of the house.",
           "cls": "dropcap"
         },
         {

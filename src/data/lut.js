@@ -214,7 +214,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The visitors who distressed Lut were angels, though he did not know it. They came in the form of handsome young men, and that was the test: Lut&rsquo;s anguish was not fear for himself but fear for them. He was afraid that if he did not take them in, someone else of his people would, and they would harm them, and he knew he would have to defend them alone. &ldquo;This is a trying day,&rdquo; he said, and Ibn Abbas explained the words: a severe test for him. The Prophet (ﷺ) remembered his cry for a strong support and said: &ldquo;May Allah forgive Lot: he wanted to have a powerful support.&rdquo;",
+          "html": "The visitors who distressed Lut were angels, though he did not know it. They came in the form of handsome young men, and that was the test: Lut&rsquo;s anguish was not fear for himself but fear for them. He was afraid that if he did not take them in, someone else of his people would, and they would harm them, and he knew he would have to defend them alone. &ldquo;This is a trying day,&rdquo; he said, and Ibn Abbas explained the words: a severe test for him. The Prophet (ﷺ) remembered his cry for a strong support , asking Allah to forgive Lut, for he had wished for a powerful support.",
           "cls": "dropcap"
         },
         {
@@ -241,7 +241,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Then the guests revealed themselves: we are messengers of your Lord; they will never reach you. Set out with your family in a portion of the night, and let none of you look back, except your wife. Their appointment is the morning; is not the morning near? The Prophet (ﷺ) remembered Lut&rsquo;s cry for a strong support and said: may Allah send His mercy on Lot, for he wished to have a powerful support.",
+          "html": "Then the guests revealed themselves: we are messengers of your Lord; they will never reach you. Set out with your family in a portion of the night, and let none of you look back, except your wife. Their appointment is the morning; is not the morning near? The Prophet (ﷺ) remembered Lut&rsquo;s cry for a strong support and said: may Allah send His mercy on Lut, for he wished to have a powerful support.",
           "cls": "dropcap"
         },
         {
@@ -275,7 +275,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "Morning came as promised. The highest part of the city became its lowest, and stones of layered hard clay rained down, marked from his Lord. Allah saved Lut and his family, except his wife, who remained with the evildoers. And He rained upon them a rain of stones. Then see how was the end of the criminals. The family of Lot was saved before dawn; the rest were destroyed, and evil was the rain of those who were warned.",
+          "html": "Morning came as promised. The highest part of the city became its lowest, and stones of layered hard clay rained down, marked from his Lord. Allah saved Lut and his family, except his wife, who remained with the evildoers. And He rained upon them a rain of stones. Then see how was the end of the criminals. The family of Lut was saved before dawn; the rest were destroyed, and evil was the rain of those who were warned.",
           "cls": "dropcap"
         },
         {
@@ -323,7 +323,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "The Quran names no one exempt from the Fire by marriage. Allah presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, and the prophets did not avail them from Allah at all. &ldquo;Enter the Fire with those who enter.&rdquo; The wife of a prophet, lost. Kinship with righteousness never saved anyone; only righteousness itself saves.",
+          "html": "The Quran names no one exempt from the Fire by marriage. Allah presents an example of those who disbelieved: the wife of Nuh and the wife of Lut. They were under two of Our righteous servants but betrayed them, and the prophets did not avail them from Allah at all. &ldquo;Enter the Fire with those who enter.&rdquo; The wife of a prophet, lost. Kinship with righteousness never saved anyone; only righteousness itself saves.",
           "cls": "dropcap"
         },
         {
@@ -427,9 +427,9 @@ export const chapter = {
     {
       "q": "What did the Prophet (ﷺ) say about Lut wanting a strong support?",
       "options": [
-        "May Allah forgive Lot: he wanted to have a powerful support",
-        "Lot was wrong to wish for support",
-        "Lot should have fought the mob alone"
+        "May Allah forgive Lut: he wanted to have a powerful support",
+        "Lut was wrong to wish for support",
+        "Lut should have fought the mob alone"
       ],
       "answer": 0,
       "ref": "Sahih al-Bukhari 3375"
