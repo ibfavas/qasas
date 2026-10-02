@@ -522,9 +522,9 @@ export const chapter = {
   ],
   "prevNext": [
     {
-      "href": "?p=salih",
-      "label": "Previous chapter: V",
-      "title": "Salih (AS): The She-Camel of Allah",
+      "href": "?p=ibrahim",
+      "label": "Previous chapter: VI",
+      "title": "Ibrahim (AS): The Friend of Allah",
       "arrow": "back"
     },
     {

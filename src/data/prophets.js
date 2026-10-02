@@ -51,10 +51,10 @@ export const prophets = [
     "pname": "Salih (AS)"
   },
   {
-    "tag": "span",
-    "soon": true,
-    "href": null,
-    "aria": null,
+    "tag": "a",
+    "soon": false,
+    "href": "stories/?p=ibrahim",
+    "aria": "Read the story of Ibrahim",
     "svgAttrs": " fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"",
     "svgInner": "<path d=\"M24 8l13 7v15l-13 7-13-7V15z\"/><path d=\"M24 8v13M11 15l13 6 13-6\"/><path d=\"M24 21v16\"/>",
     "pnum": "VI",

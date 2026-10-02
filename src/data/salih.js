@@ -456,9 +456,9 @@ export const chapter = {
       "arrow": "back"
     },
     {
-      "href": "?p=yusuf",
-      "label": "Next chapter: XI",
-      "title": "Yusuf (AS): The Dream Fulfilled",
+      "href": "?p=ibrahim",
+      "label": "Next chapter: VI",
+      "title": "Ibrahim (AS): The Friend of Allah",
       "arrow": "next"
     }
   ]
