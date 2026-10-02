@@ -7,7 +7,7 @@ export const chapter = {
   "hero": {
     "plaque": "Chapter XIV",
     "title": "Musa (AS): The Parted Sea",
-    "sub": "The child of the river who stood before Pharaoh with a staff in his hand, and watched the sea stand like mountains: the story of Musa (AS), as the Quran tells it.",
+    "sub": "Placed in the river as a baby and raised in Pharaoh's house, he returned to stand before Pharaoh with a staff in his hand, and watched the sea stand like mountains: the story of Musa (AS), as the Quran tells it.",
     "img": "../assets/musa-sea.webp",
     "imgAlt": "Towering walls of water standing apart above a dry path through the sea",
     "caption": "“Strike with your staff the sea.” (Quran 26:63)"
@@ -701,7 +701,7 @@ export const chapter = {
         },
         {
           "t": "p",
-          "html": "So ends the account of Musa (AS): the child of the river, the fugitive of Madyan, the shepherd addressed by fire, the prophet who struck the sea and watched it stand in mountains, and who asked, at the last, for nothing but nearness to the land he had led his people toward. Peace be upon Musa (AS), the one Allah spoke to directly, and upon all the prophets."
+          "html": "So ends the account of Musa (AS): the baby his mother placed in the river, who fled to Madyan and herded sheep there, who was addressed by Allah at the fire, struck the sea and watched it stand in mountains, and who asked, at the last, for nothing but nearness to the land he had led his people toward. Peace be upon Musa (AS), the one Allah spoke to directly, and upon all the prophets."
         }
       ]
     }

@@ -7,7 +7,7 @@ export const chapter = {
   "hero": {
     "plaque": "Chapter VIII",
     "title": "Ismail (AS): True to His Promise",
-    "sub": "The son of the dream, the helper in raising the House, the forefather of the Arabs: true to his promise, constant in prayer.",
+    "sub": "The son of Ibrahim (AS) who submitted to the dream and helped raise the House, the forefather of the Arabs: true to his promise, constant in prayer.",
     "img": "../assets/ismail-well.webp",
     "imgAlt": "An ancient stone well in a barren desert valley at dawn",
     "caption": "The valley of the well: “Indeed, he was true to his promise.” (Quran 19:54)"
