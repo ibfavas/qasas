@@ -12,6 +12,9 @@ export function HomeNav() {
           <li><a href="asma-ul-husna/">Asma ul Husna</a></li>
           <li><a href="#timeline">Prophets</a></li>
           <li><a href="#foundations">Foundations</a></li>
+          <li><a href="#" aria-label="Caliphs (coming later)">Caliphs</a></li>
+          <li><a href="#resources">Sources</a></li>
+          <li><a href="#about">About</a></li>
         </ul>
       </div>
     </nav>
@@ -29,6 +32,9 @@ export function StoryNav() {
           <li><a href="../asma-ul-husna/">Asma ul Husna</a></li>
           <li><a href="../index.html#timeline">Prophets</a></li>
           <li><a href="../index.html#foundations">Foundations</a></li>
+          <li><a href="#" aria-label="Caliphs (coming later)">Caliphs</a></li>
+          <li><a href="../index.html#resources">Sources</a></li>
+          <li><a href="../index.html#about">About</a></li>
         </ul>
       </div>
     </nav>

@@ -1265,11 +1265,11 @@ body::after {
 
 /* Floating pill top bar */
 .nav-pill { background: transparent; border-bottom: none; padding: 14px 16px 0; }
-.nav-pill-inner { max-width: 860px; margin: 0 auto; background: #fffdf4; border: 1px solid #e5d9b8; border-radius: 999px; box-shadow: 0 4px 18px rgba(74, 58, 32, 0.16); display: flex; align-items: center; gap: 6px; padding: 7px 24px 7px 14px; }
+.nav-pill-inner { max-width: 990px; margin: 0 auto; background: #fffdf4; border: 1px solid #e5d9b8; border-radius: 999px; box-shadow: 0 4px 18px rgba(74, 58, 32, 0.16); display: flex; align-items: center; gap: 6px; padding: 7px 24px 7px 14px; }
 .brand-pill { min-height: 0; }
 .brand-pill img { width: 30px; height: 30px; border-radius: 50%; display: block; }
 .nav-links-pill { gap: 2px; margin-left: 8px; }
-.nav-links-pill a { font-family: Georgia, 'Times New Roman', serif; font-size: 0.95rem; letter-spacing: 0.02em; color: var(--ink-soft); padding: 8px 12px; min-height: 0; border-bottom: none; border-radius: 999px; }
+.nav-links-pill a { font-family: Georgia, 'Times New Roman', serif; font-size: 0.95rem; letter-spacing: 0.02em; color: var(--ink-soft); text-decoration: none; padding: 8px 12px; min-height: 0; border-bottom: none; border-radius: 999px; }
 .nav-links-pill a:hover { color: var(--gold-deep); background: rgba(168, 132, 47, 0.1); }
 @media (max-width: 700px) {
   .nav-pill { padding: 10px 10px 0; }
