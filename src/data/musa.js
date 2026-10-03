@@ -795,9 +795,9 @@ export const chapter = {
       "arrow": "back"
     },
     {
-      "href": "../index.html#timeline",
-      "label": "Continue",
-      "title": "The Timeline: All 25 Prophets",
+      "href": "?p=harun",
+      "label": "Next chapter: XV",
+      "title": "Harun (AS): The Brother Given as a Mercy",
       "arrow": "next"
     }
   ]
