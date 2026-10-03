@@ -9,7 +9,7 @@ export const chapter = {
     "title": "Harun (AS): The Brother Given as a Mercy",
     "sub": "Asked for by his brother at the fire, given by Allah from His mercy, and standing beside Musa (AS) before Pharaoh and before a rebellious people: the story of Harun (AS), as the Quran tells it.",
     "img": "../assets/harun-court.webp",
-    "imgAlt": "Two brothers standing before the court of Pharaoh",
+    "imgAlt": "Two brothers seen from behind crossing the palace courtyard of Pharaoh, one carrying a staff",
     "caption": "“And We gave him out of Our mercy his brother Aaron as a prophet.” (Quran 19:53)"
   },
   "railLabels": [

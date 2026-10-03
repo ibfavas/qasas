@@ -10,7 +10,7 @@ export const chapter = {
     "title": "Dhul-Kifl (AS): Among the Patient",
     "sub": "Named only twice in the Quran, and counted both times among the patient and the righteous: what revelation says of Dhul-Kifl (AS), told as the Quran tells it.",
     "img": "../assets/dhul-kifl-road.webp",
-    "imgAlt": "A lone traveler on an ancient desert road",
+    "imgAlt": "A winding road at dawn past a stone well and a tree, leading to a walled town in a green valley",
     "caption": "“all were of the patient.” (Quran 21:85)"
   },
   "railLabels": [
